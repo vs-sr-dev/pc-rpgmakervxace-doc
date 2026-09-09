@@ -333,30 +333,42 @@ python tools/rule0hook.py --report                        (notes/rule0.txt)
 
 shell calls seen by the hook : 172
   allowed                    : 170
-  REFUSED as rule-0          : 2
-      inline program         1        in-place edit script   1
+  REFUSED as rule-0          : 3
+      inline program 1     in-place edit script 1     heredoc 1
 
   2026-09-09T23:12:28  inline program        python -c "print('this must be refused')"
   2026-09-09T23:45:31  in-place edit script  cd "<path>" && sed -i.bak 's/…/…/' /de
+  2026-09-10T00:52:48  heredoc               cd "<path>" && … && cat >> /dev/null << 'X'
 ```
 
-**The denominator is a running count and the numerator is not.** Every shell
-call after this file was written adds one to `allowed`; **the two refusals are
-complete.**
+**The denominator is a running count and the numerator is not, and this
+paragraph is the demonstration.** When `notes/rule0.txt` was written the hook
+had seen **172** calls; by the time the repository was pushed it had seen
+**226**. **The refusals did not move.** Every shell call this chapter's own
+publication makes adds one to `allowed`, so the 172 is true at a moment and the
+3 is true full stop — which is the hazard [15](15-prediction-scoring.md) turns
+into P17 and P20, met here in the one place where it cannot be avoided.
 
-**One was the probe. One was a reflex, and it was `sed -i`** — reached for to
-change a single identifier in one line, in a command that also piped its output
-to `/dev/null` and would have changed nothing. The rule's own wording has never
-mentioned `sed -i`; the *program* catches it because it was written against the
-hazard — content passing through a shell — rather than against the three shapes
-the hazard had happened to take.
+**One of the three was the probe that proved the hook was live. Two were
+reflexes.**
 
-**Last session the habit fired four times and none reached the shell. This
-session it fired once.** Four to one is not a trend over two sessions and is
-not reported as one. What is reportable is that the count exists, in a file,
-written as it happened, and that no reconstruction was needed to produce it.
+* **`sed -i`**, reached for to change a single identifier on one line, in a
+  command that also piped its output to `/dev/null` and would have changed
+  nothing. **The rule's own wording has never mentioned `sed -i`**; the
+  *program* catches it because it was written against the hazard — content
+  passing through a shell — rather than against the three shapes the hazard had
+  happened to take.
+* **a heredoc**, reached for to append prose to a file, four hours after the
+  `sed -i` was refused. The permitted route — write the file with an editor,
+  then run it — is one the session had already taken a dozen times that hour.
 
-*And `pathcheck.py` was run over all 625 tracked files with the rule-0 log
+**Last session the habit fired four times and none reached the shell; this
+session it fired twice and none reached the shell.** Four to two over two
+sessions is not a trend and is not reported as one. What is reportable is that
+both counts exist, in files, written as they happened, and that neither needed
+reconstructing afterwards.
+
+*And `pathcheck.py` was run over all 657 tracked files with the rule-0 log
 present, because that log is a record of commands beginning `cd "<the project
 root>"` and it caught two rule-7 violations in exactly that place last session.
 **0 violations, positive control firing, negative control quiet.** The hook
