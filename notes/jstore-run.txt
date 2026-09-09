@@ -1,0 +1,93 @@
+files                          : 117
+bytes                          : 2248383
+closing at residue 0           : 117 of 117
+claiming ZERO GUIDs            : 112 of 117
+claiming at least one          : 5
+total lists claimed            : 8
+TOTAL GUIDs claimed            : 7
+
+0xFF bytes over all 117        : 32
+0xFF per 1,000 bytes           : 0.0142
+files containing NO 0xFF at all: 105
+
+  file                        bytes   0xFF  lists   GUIDs  residue
+  Map026.rvdata2               9673      3      3       3        0
+  Map072.rvdata2              15286      1      1       1        0
+  Map102.rvdata2              24677      2      1       1        0
+  Map103.rvdata2              22981      1      1       1        0
+  Map114.rvdata2               5527      1      1       1        0
+  Map017.rvdata2              17779      3      0       0        0
+  Map019.rvdata2              19324      2      0       0        0
+  Map067.rvdata2               5124      5      0       0        0
+  Map070.rvdata2               8420      4      0       0        0
+  Map086.rvdata2              25124      2      0       0        0
+  Map104.rvdata2              30260      4      1       0        0
+  Map116.rvdata2               9247      4      0       0        0
+
+  the ten largest files, whatever they claimed:
+  Map001.rvdata2             157316      0      0       0        0
+  Map003.rvdata2             115714      0      0       0        0
+  Map004.rvdata2              97314      0      0       0        0
+  Map005.rvdata2              80491      0      0       0        0
+  Map002.rvdata2              80478      0      0       0        0
+  Map110.rvdata2              51728      0      0       0        0
+  Map099.rvdata2              44660      0      0       0        0
+  Map034.rvdata2              39704      0      0       0        0
+  Map100.rvdata2              31505      0      0       0        0
+  Map101.rvdata2              31505      0      0       0        0
+
+  mean GUIDs claimed, 20 largest files  : 0.1000
+  mean GUIDs claimed, 20 smallest files : 0.0000
+  mean 0xFF per 1,000, 20 largest       : 0.0092
+  mean 0xFF per 1,000, 20 smallest      : 0.0638
+files                                  : 117
+files containing at least one 0xFF     : 12
+0xFF bytes in total                    : 32
+  inside the Table payload             : 32
+  outside it, in the Marshal envelope  : 0
+  residue                              : 0
+
+PREDICTION 4 said the 0xFF are in the envelope and not in the Table.
+  the Table's share : 32 of 32
+
+and the reason the Table cannot hold them:
+  cells over all 117 maps              : 1085288
+  cells that are NEGATIVE              : 0
+  cells >= 0x2000 (high byte >= 0x20)  : 0
+  so the high byte of every cell is    : 0x00 .. 0x1F
+
+  file                       0xFF in Table in envelope
+  Map067.rvdata2                5        5          0
+  Map070.rvdata2                4        4          0
+  Map104.rvdata2                4        4          0
+  Map116.rvdata2                4        4          0
+  Map017.rvdata2                3        3          0
+  Map026.rvdata2                3        3          0
+  Map019.rvdata2                2        2          0
+  Map086.rvdata2                2        2          0
+  Map102.rvdata2                2        2          0
+  Map072.rvdata2                1        1          0
+  Map103.rvdata2                1        1          0
+  Map114.rvdata2                1        1          0
+0xFF bytes inside the 117 Table payloads : 32
+
+cells whose LOW byte is 0xFF             : 32
+cells whose HIGH byte is 0xFF            : 0
+low + high                               : 32
+RESIDUE against the 0xFF byte count      : 0
+
+  the ids responsible, with id mod 256:
+       255   mod 256 = 255   x 19
+       511   mod 256 = 255   x 7
+      3327   mod 256 = 255   x 5
+      6143   mod 256 = 255   x 1
+
+  PREDICTION 4 was right that a tile id's HIGH byte cannot be 0xFF
+  (0 of 1,085,288 cells) and wrong that this keeps 0xFF out of the
+  Table, because little-endian writes the LOW byte first. The
+  previous session's diagnosis -- the false-positive rate tracks the
+  DENSITY OF THE MARKER BYTE -- survives and is sharpened: the
+  density is governed by the low byte's distribution, which for a
+  non-negative id is very nearly uniform over 256 values, and for a
+  NEGATIVE one is not, which is why the previous object's animation
+  frames produced 4,508 of them and these 117 maps produce 32.

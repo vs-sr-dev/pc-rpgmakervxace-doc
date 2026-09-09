@@ -1,0 +1,118 @@
+THE TWO SIDES OF THE JOIN
+
+  maps read                         : 117
+  distinct non-zero tile ids used   : 3133
+  tile-id occurrences               : 328630
+
+  tileset name tables               : 22
+  tileset images                    : 22
+  stems in both                     : 22
+  stems only in the tables          : none
+  stems only in the images          : none
+  rows published by the tables      : 2544
+
+  the maps' @tileset_id, by frequency:
+    tileset 4    used by  40 maps
+    tileset 3    used by  39 maps
+    tileset 2    used by  32 maps
+    tileset 1    used by   6 maps
+
+  the 22 tables, by row count:
+    Dungeon_A1                    16 rows
+    Dungeon_A2                    32 rows
+    Dungeon_A4                    48 rows
+    Dungeon_A5                   128 rows
+    Dungeon_B                    256 rows
+    Dungeon_C                    256 rows
+    Inside_A1                     16 rows
+    Inside_A2                     32 rows
+    Inside_A4                     48 rows
+    Inside_A5                    128 rows
+    Inside_B                     256 rows
+    Inside_C                     256 rows
+    Outside_A1                    16 rows
+    Outside_A2                    32 rows
+    Outside_A3                    32 rows
+    Outside_A4                    48 rows
+    Outside_A5                   128 rows
+    Outside_B                    256 rows
+    Outside_C                    256 rows
+    World_A1                      16 rows
+    World_A2                      32 rows
+    World_B                      256 rows
+
+THE RESIDUE, BOTH WAYS
+
+  the ids the maps use run 1 .. 8156
+  the tables publish 2544 rows over 22 files
+
+  A ROW COUNT IS NOT AN ID RANGE, and this tool refuses to
+  pretend otherwise. The tables are indexed by POSITION within one
+  tileset image; a map cell holds a GLOBAL id. Joining them
+  requires the id->(image, position) mapping, and that mapping is
+  not in this object: no file in the tree states it, and the help
+  file's own tileset pages describe the editor's UI and not the
+  encoding. So the honest join is by TILESET and not by TILE:
+
+  images that have a name table     : 22 of 22
+  images that do not                : 0
+  RESIDUE on the stem join          : 0
+
+THE DERIVATION
+
+  every page kind has ONE row count across all four families:
+    B    rows [256]              families 1   one value : True
+    C    rows [256]              families 1   one value : True
+    D    not shipped by this object
+    E    not shipped by this object
+    A5   rows [128]              families 1   one value : True
+    A1   rows [16]               families 1   one value : True
+    A2   rows [32]               families 1   one value : True
+    A3   rows [32]               families 1   one value : True
+    A4   rows [48]               families 1   one value : True
+  every page kind has a single row count : True
+
+  THE OBSERVED CLUSTERS, from the ids alone and before any
+  layout is proposed. A gap wider than 64 ids:
+
+    ...    511   then nothing until     1536   (gap of 1024)
+    ...   1663   then nothing until     2048   (gap of 384)
+    ...   4604   then nothing until     4688   (gap of 83)
+    ...   4990   then nothing until     5074   (gap of 83)
+
+    cluster starts observed : [1, 1536, 2048, 4688, 5074]
+
+  The page SPANS below are DERIVED from the tables' row counts.
+  The two page BASES -- A5 and A1 -- are NOT: they are FITTED to
+  the observed cluster starts above. Saying so is the difference
+  between a derivation and a fit, and only the spans are the
+  former. The test that follows is what makes the fit falsifiable.
+
+  laying the pages end to end, rows x ids-per-row:
+
+    page   rows  ids/row   id range
+    B       256        1        0 ..    255   (256 ids)
+    C       256        1      256 ..    511   (256 ids)
+    A5      128        1     1536 ..   1663   (128 ids)
+    A1       16       48     2048 ..   2815   (768 ids)
+    A2       32       48     2816 ..   4351   (1536 ids)
+    A3       32       48     4352 ..   5887   (1536 ids)
+    A4       48       48     5888 ..   8191   (2304 ids)
+
+  THE TEST: every id the 117 maps use must fall inside a derived
+  band, and this is the half of the join that can fail.
+
+    distinct ids used                : 3133
+    ids inside a derived band        : 3133
+    ids OUTSIDE every derived band   : 0
+    RESIDUE                          : 0
+
+  and the other half, which cannot close and is reported as not
+  closing: the ids a band covers that no map uses.
+
+    ids covered by the derived bands : 6784
+    of those, used by some map       : 3133
+    published and never used         : 3651
+
+  A tile nobody placed is not an error. The residue that MATTERS
+  is the first one, and it is 0.

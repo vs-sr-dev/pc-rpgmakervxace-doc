@@ -1,0 +1,25 @@
+  file                       bytes title                /#SYSTEM code 10           /#SYSTEM code 4 (FILETIME)
+  RPGVXAce.chm             6633819 RPG MAKER VX Ace     2012-03-12 17:20:34        2012-03-12 00:20:26.108187
+  RPGXP.chm                 347218 RPG Maker XP         2005-08-30 22:44:00        2005-08-30 06:43:56.046875
+  rpg2003.chm              6268124 RPG Maker 2003       2017-09-16 19:54:13        2017-09-16 19:53:55.521294
+  rpg2000.chm              5503242 RPG Maker 2000       2017-09-13 12:06:26        2017-09-13 12:06:17.556084
+  SLPEI.chm                2521916 StudioLine Photo Edi 2005-08-29 05:58:56        2005-08-29 05:58:47.842442
+
+  file                   header LCID    code-4 LCID     hdr-vs-c4 code10-code4  remainder
+  RPGVXAce.chm           0x0411         0x0409          0.062428 61207.891813 17h + 7.891813
+  RPGXP.chm              0x0411         0x0409          0.031257 57603.953125 16h + 3.953125
+  rpg2003.chm            0x0C07         0x0409          0.007550    17.478706  17.478706
+  rpg2000.chm            0x0C07         0x0409          0.007551     8.443916   8.443916
+  SLPEI.chm              0x0407         0x0407          0.187466     8.157558   8.157558
+
+  hdr-vs-c4    : the ITSF header's truncated u32 at +0x10, joined
+                 to the code-4 FILETIME's high half, minus that
+                 FILETIME. Two structures written by one pass.
+  code10-code4 : the gap three earlier specimens read as the
+                 compile duration. Where it is a whole number of
+                 hours plus a few seconds it is DECOMPOSED, because
+                 a constant and a duration are not one quantity.
+
+  No time zone in the Windows or IANA databases lies outside
+  -12:00 .. +14:00, so a whole-hour term larger than fourteen
+  cannot be one field being local while the other is UTC.

@@ -1,0 +1,607 @@
+===== coverage =====
+  every extension falls in exactly one bucket                                        ok     
+  an unknown extension is not counted as published                                   ok     ('neither', 'not identified in this session')
+  INS is derived at the member layer and neither at the product layer                ok     
+  a name with a path separator takes the last component                              ok     
+  a dotfile is not given an extension                                                ok     (none)
+  a name with no dot is not given an extension                                       ok     
+  HLP is NOT counted as published                                                    ok     
+  the Z archive is derived and not published                                         ok     
+  a PE is SPECIFIED                                                                  ok     
+  an MZP stub is SPECIFIED too, because MZ is the signature                          ok     
+  a PNG is SPECIFIED                                                                 ok     
+  a RIFF that is not WAVE is not counted as WAVE                                     ok     
+  a RIFF WAVE is SPECIFIED                                                           ok     
+  an ITSF container is DECODED, not specified                                        ok     
+  an LCF database is DECODED, not specified                                          ok     
+  a file merely CONTAINING LcfDataBase is not one                                    ok     
+  an LcfMapUnit is DECODED                                                           ok     
+  an LcfMapTree is DECODED                                                           ok     
+  the two map variants are told apart                                                ok     
+  a wrong length prefix on LcfMapUnit is not one                                     ok     
+  a PSD is SPECIFIED, because Adobe published the format                             ok     
+  a PSD is named as Adobe's                                                          ok     
+  an Ogg page is SPECIFIED                                                           ok     
+  an Ogg is named as the IETF's and Xiph.Org's                                       ok     
+  a file merely CONTAINING OggS is not an Ogg                                        ok     
+  OggS with a non-zero version byte is not an Ogg                                    ok     
+  a JPEG is SPECIFIED                                                                ok     
+  a JPEG is named as ITU-T T.81 / ISO 10918                                          ok     
+  FF D8 without the third byte is not a JPEG                                         ok     
+  a Ruby Marshal 4.8 array is SPECIFIED                                              ok     
+  a Ruby Marshal 4.8 object and hash are the same format                             ok     
+  Marshal is named as Ruby's own                                                     ok     
+  04 08 followed by a byte the grammar cannot start with is NOT Marshal              ok     
+  a two-byte file of 04 08 is not Marshal either                                     ok     
+  a Marshal minor other than 8 is not claimed as 4.8                                 ok     
+  plain text is SPECIFIED                                                            ok     
+  Shift-JIS text is SPECIFIED, not opaque                                            ok     
+  and it is named as Shift-JIS rather than as ASCII                                  ok     
+  a byte string cp932 REFUSES is not called text                                     ok     
+  a head cut mid-sequence is still recognised as text                                ok     
+  but a bad sequence in the MIDDLE is not forgiven                                   ok     
+  pure ASCII does not reach the Shift-JIS probe                                      ok     
+  THE ORDERING RULE: every binary signature is tested before every text codec        ok     
+  and the rule is falsifiable -- a binary probe moved below a text codec is REFUSED  ok     
+  THE MISFILING: a PDF header is a PDF and not Shift-JIS text                        ok     
+  and the cp932 probe WOULD have taken it, which is why the order matters            ok     
+  an sfnt font is SPECIFIED                                                          ok     
+  THE ONE-BYTE HAZARD: 00 01 00 00 is a font                                         ok     
+  THE ONE-BYTE HAZARD: 00 00 01 00 is an icon and is NOT called a font               ok     
+  an OpenType CFF font is SPECIFIED too                                              ok     
+  a BMP is SPECIFIED                                                                 ok     
+  'BMW' followed by text is NOT claimed as a BMP                                     ok     
+  a BMP whose reserved u32 is not zero is REFUSED                                    ok     
+  a ZIP local header is SPECIFIED                                                    ok     
+  an empty ZIP end-of-central-directory is one too                                   ok     
+  'PKZIP is a program' is NOT claimed as a ZIP                                       ok     
+  an ID3v2.3 tag is MPEG audio                                                       ok     
+  an ID3 tag whose size bytes are not syncsafe is REFUSED                            ok     
+  a bare MPEG frame sync is MPEG audio                                               ok     
+  eleven set bits with an ILLEGAL layer are REFUSED                                  ok     
+  eleven set bits with bitrate index 1111 are REFUSED                                ok     
+  UTF-8 text with a multi-byte character is SPECIFIED                                ok     
+  and it is named UTF-8 rather than Shift-JIS                                        ok     
+  EUC-JP text is SPECIFIED and named EUC-JP                                          ok     
+  a byte string UTF-8 refuses is not called UTF-8                                    ok     
+  pure ASCII does not reach the UTF-8 probe                                          ok     
+  a random binary is OPAQUE                                                          ok     
+  an empty file is OPAQUE and does not crash                                         ok     
+  the classifier emits only bucket names the report knows                            ok     
+
+69 checks, 0 failures
+  exit=0
+===== marshal48 =====
+  a long byte 0x0e is 9 and not 14                                                                                        ok     
+  a long byte 0x6a is 101                                                                                                 ok     
+  a long byte 0x5f is 90                                                                                                  ok     
+  a long byte 0x06 is 1                                                                                                   ok     
+  a long byte 0x00 is 0                                                                                                   ok     
+  a long byte 0x05 is 0                                                                                                   ok     
+  a long byte 0xfa is -1                                                                                                  ok     
+  a long byte 0x01 introduces one more byte                                                                               ok     
+  a long byte 0x02 introduces two more, little-endian                                                                     ok     
+  a long byte 0xff introduces one negative byte                                                                           ok     
+  nil parses                                                                                                              ok     
+  true parses                                                                                                             ok     
+  false parses                                                                                                            ok     
+  a fixnum parses                                                                                                         ok     
+  a string parses and closes                                                                                              ok     
+  an Array of 3 has three elements                                                                                        ok     [1, 2, 3]
+  a Hash of 1 has one pair                                                                                                ok     [('a', 6)]
+  a symbol link resolves to the same symbol                                                                               ok     ['a', 'a']
+  an object carries its class name                                                                                        ok     #<RPG::Actor 1 ivars>
+  an object carries its ivar names                                                                                        ok     [('@name', 7)]
+  an object walk closes on the last byte                                                                                  ok     25
+  the class census counted one RPG::Actor                                                                                 ok     
+  the ivar census counted @name under RPG::Actor                                                                          ok     
+  an object link points at the object already read                                                                        ok     ['a', 'a']
+  a _dump payload is taken by its declared length                                                                         ok     #<Table _dump 6 bytes>
+  a _dump walk closes                                                                                                     ok     
+  an I-decorated string keeps its inner value                                                                             ok     <__main__.RWithIvars object at 0x0000024D723FD150>
+  an I-decorated string walk closes                                                                                       ok     
+  a file with no version bytes is refused                                                                                 ok     
+  Marshal 4.7 is refused                                                                                                  ok     
+  an unknown type byte is refused                                                                                         ok     
+  a truncated string is refused                                                                                           ok     
+  a truncated array is refused                                                                                            ok     
+  a symbol link out of range is refused                                                                                   ok     
+  an object link out of range is refused                                                                                  ok     
+  an empty file is refused                                                                                                ok     
+  a two-byte file is refused                                                                                              ok     
+  trailing bytes parse but do not close                                                                                   ok     consumed 4 of 6
+  THE REPAIR: a .rvdata2 is selected, and the extension the previous object used is not what selects it                   ok     
+  and the previous object's .rxdata is STILL selected, by the same rule                                                   ok     
+  a text file in the same directory is REFUSED                                                                            ok     
+  04 08 followed by a byte the grammar cannot start with is REFUSED even though the extension matches                     ok     
+  a two-byte file of 04 08 is REFUSED                                                                                     ok     
+  a directory yields exactly the two Marshal documents, in name order, and neither of the three decoys                    ok     Actors.rxdata Map001.rvdata2
+  a directory with NO Marshal document is refused rather than reported as a clean empty table                             ok     
+  BLIND SPOT: closure and value are separate assertions -- a fully consumed document still has to yield the RIGHT number  ok     root=122
+  and a two-element array is two elements and not one                                                                     ok     root=[1, 2]
+
+47 checks, 0 failures
+  exit=0
+===== rgssdb =====
+  a 3-D Table reads its four sizes                    ok     (3, 20, 15, 3, 900)
+  20 + 900 x 2 = 1820 closes at residue 0             ok     0
+  the cell count is the product of the three sizes    ok     
+  a 1-D Table of 17 is 20 + 34 = 54 bytes             ok     0 54
+  a Table one byte short does NOT close               ok     1
+  a Table payload shorter than its header is refused  ok     
+  a Color is four float64                             ok     (255.0, 128.0, 0.0, 255.0)
+  a Color is 32 bytes                                 ok     
+  a Color of the wrong length is refused              ok     
+  7829367 is 0x777777                                 ok     0x777777
+
+10 checks, 0 failures
+  exit=0
+===== rgssjoin =====
+  a class page is recognised by its Superclass heading                                              ok     ['RPG::Fixture']
+  a superclass of Object is read as no superclass, because Object carries no serialised attributes  ok     None
+  a child inherits its parent's attributes                                                          ok     
+  and a chain of three resolves all the way up                                                      ok     
+  a cycle in the superclass chain terminates instead of hanging                                     ok     
+  a class with no parent yields only its own                                                        ok     
+  an index page carrying an h1 is NOT taken for a class page                                        ok     
+  the Attributes list is read                                                                       ok     ['id', 'name']
+  a Methods list is NOT read as fields                                                              ok     
+  the tag stripper removes markup                                                                   ok     
+  stripping @ is what makes the two vocabularies comparable                                         ok     
+
+11 checks, 0 failures
+  exit=0
+===== depotsplit =====
+  a top-level directory groups its files                                                               ok     [2, 30]
+  a root file is grouped under '.'                                                                     ok     [2, 6]
+  nothing is orphaned when the groups cover the tree                                                   ok     
+  an unclaimed subtree is reported and not folded in                                                   ok     ['b/z', 'top.txt']
+  a file at the root has top-level '.'                                                                 ok     
+  a nested file takes its first component                                                              ok     
+  the two depots of this object sum to the tree                                                        ok     26915383
+  PATH: one top-level name can span two groups -- dlc/Pack is its own and dlc/Bonus falls to the rest  ok     {'RTP': [1, 7], 'PACK': [1, 5], 'BASE': [5, 333]}
+  PATH: --rest takes everything unclaimed and nothing is orphaned                                      ok     []
+  PATH: a single FILE is a group of one, and its sibling is not in it                                  ok     [1, 100]
+  PATH: the LONGEST prefix wins, so a file inside a claimed directory can belong to a different group  ok     {'INNER': [1, 10], 'BASE': [4, 310], 'OUTER': [2, 25]}
+  PATH: a trailing slash on a prefix does not change what it claims                                    ok     [1, 7]
+  PATH: a prefix must end on a path separator -- 'rt' does NOT claim 'rtp/d.ogg'                       ok     [0, 0]
+  PATH: without --rest an unclaimed file is an ORPHAN and is not silently folded in                    ok     6
+  PATH: the walked groups of this object sum to SizeOnDisk plus the owner's two files                  ok     342722404
+  and their file counts do too                                                                         ok     
+
+16 checks, 0 failures
+  exit=0
+===== nameguard =====
+  this source file is pure ASCII                                                        ok     
+  the bait name is not Latin-1                                                          ok     
+  the bait name cannot be encoded as cp1252                                             ok     
+  guard() reports success on a normal stdout                                            ok     
+  guard() is idempotent                                                                 ok     
+  safe() returns something printable in ASCII                                           ok     
+  the bait file exists on disk                                                          ok     
+  the bait file is a PNG by magic                                                       ok     
+  listing the directory returns the name back                                           ok     
+  a tool that raises UnicodeEncodeError is classified `raised`                          ok     
+  a tool that PRINTS the name is classified `printed`                                   ok     
+  A TOOL THAT PRINTS NOTHING IS `no output` AND NOT `printed` -- silence is not a pass  ok     
+  and a tool that raises while also printing the name is still `raised`                 ok     
+
+13 checks, 0 failures
+  exit=0
+===== rvmap =====
+  a Table payload closes at residue 0                                                                               ok     
+  and its declared cell count equals x*y*z                                                                          ok     
+  and the cells come back in order                                                                                  ok     
+  a Table two bytes short does NOT close                                                                            ok     
+  a Table two bytes long does NOT close either                                                                      ok     
+  a payload under the 20-byte header is refused                                                                     ok     
+  negative cells survive as signed int16                                                                            ok     
+  BLIND SPOT: a count-only join reports the same number over SHUFFLED names, so a count is not evidence of a match  ok     
+  and only comparing the VALUES tells the two apart                                                                 ok     
+  a residue of zero on both sides is what a closure means, and one side alone is not                                ok     
+
+10 checks, 0 failures
+  exit=0
+===== tiletable =====
+  ASCII is ascii                                                      ok     
+  accented Latin is latin                                             ok     
+  a Latin-1 accent is latin                                           ok     
+  hiragana is japanese                                                ok     
+  kanji is japanese                                                   ok     
+  katakana is japanese                                                ok     
+  an empty field is empty and not ascii                               ok     
+  Japanese with an ASCII digit is still japanese                      ok     
+  Cyrillic is neither latin nor japanese                              ok     
+  BLIND SPOT: 'Grassland' is classified as script and NOT as English  ok     
+  BLIND SPOT: 'Prairie' is classified as script and NOT as French     ok     
+  BLIND SPOT: 'Wiese' is classified as script and NOT as German       ok     
+  BLIND SPOT: 'Prado' is classified as script and NOT as Spanish      ok     
+  and a Latin-script result is never a language name                  ok     
+  a five-field row splits into five                                   ok     
+  and column 2 of it is the Japanese one                              ok     
+  and no other column of it is                                        ok     
+  an untranslated row has one distinct string                         ok     
+  and a translated row has more                                       ok     
+
+19 checks, 0 failures
+  exit=0
+===== mp3frames =====
+  an MPEG-1 Layer III header parses                                                                            ok     
+  and its version and layer are read                                                                           ok     
+  and its bitrate is 128000                                                                                    ok     128000
+  and its sample rate is 44100                                                                                 ok     
+  and its frame length is 144*128000//44100 = 417                                                              ok     417
+  and it carries 1152 samples                                                                                  ok     
+  a padded frame is one byte longer                                                                            ok     418
+  eleven set bits with the RESERVED version are REFUSED                                                        ok     
+  eleven set bits with the RESERVED layer are REFUSED                                                          ok     
+  layer 00 is REFUSED                                                                                          ok     
+  bitrate index 1111 is REFUSED                                                                                ok     
+  bitrate index 0000 (free format) is REFUSED                                                                  ok     
+  sampling index 11 is REFUSED                                                                                 ok     
+  a byte string with no sync is REFUSED                                                                        ok     
+  three bytes are REFUSED rather than indexed out of range                                                     ok     
+  MPEG-2 Layer III carries 576 samples                                                                         ok     
+  and its frame length uses the 72 coefficient                                                                 ok     261 bytes at 80000 bit/s
+  an ID3v2 header of declared size 0x1f76 syncsafe is read                                                     ok     4096
+  a non-syncsafe size byte REFUSES the tag                                                                     ok     
+  a file with no tag reports 0                                                                                 ok     
+  a footer flag adds ten more bytes                                                                            ok     21
+  the Vorbis sample rate is at +12 and not +11                                                                 ok     44100
+  and reading it at +11 gives a number 256 times too large, which is what the first run did                    ok     
+  the channels byte is at +11                                                                                  ok     
+  BLIND SPOT: two streams with identical headers and DIFFERENT payload bytes have identical derived durations  ok     
+  so this tool can support 'the same length' and never 'the same music', and does not print the word           ok     
+
+26 checks, 0 failures
+  exit=0
+===== hashall =====
+usage: hashall.py [-h] [--algo ALGO] [--exclude-name EXCLUDE_NAME] root
+hashall.py: error: the following arguments are required: root
+  exit=2
+===== mtimes =====
+usage: mtimes.py [-h] [--list] [--distinct] [--waves] [--dirs] [--gap GAP] dir
+mtimes.py: error: the following arguments are required: dir
+  exit=2
+===== unityfs =====
+Read Unity SerializedFiles with no Unity and no third-party package.
+
+*Tales of Luminaria* ships its content as Unity serialized files rather than as
+an engine container of its own: `globalgamemanagers`, seven `levelN` scenes,
+seven `sharedassetsN.assets` (one of them split across nine parts), and 447
+individually serialised assets named after their GUID.  None of them is
+encrypted -- which is worth saying plainly, because the native code beside them
+is -- so the whole object graph is readable from the outside.
+
+What the format is, at the version this build writes (21, Unity 2019.4.16f1):
+
+    +0x00  u32 BE  metadataSize
+    +0x04  u32 BE  fileSize          -- the file's own length, so a free
+    +0x08  u32 BE  version              positive control on every read
+    +0x0C  u32 BE  dataOffset
+    +0x10  u8      endianness (0 = little), then three reserved bytes
+           cstr    unity version, e.g. "2019.4.16f1"
+           i32     target platform (13 = Android)
+           u8      type tree present
+           i32     type count, then that many SerializedType
+           i32     object count, then that many ObjectInfo:
+                     align 4; i64 pathID; u32 byteStart; u32 byteSize; i32 type
+           i32     script type count, then (i32 fileIndex, align, i64 id)
+           i32     external count, then (cstr, guid[16], i32, cstr path)
+           i32     reference type count (version >= 20)
+           cstr    user information
+
+The `fileSize` field is the check this repository asks every container to
+supply and almost none does: the header states the length of the thing it
+describes, written by Unity and by nothing of ours, so a reader that has the
+layout wrong is caught by the file rather than by an assumption.  `verify`
+reports it, and reports every object whose byteStart+byteSize runs past the
+end, which is the same check one level down.
+
+Names are read where the class puts them.  Most NamedObject subclasses begin
+with `m_Name` as an aligned length-prefixed string; MonoBehaviour puts it at
++28, after m_GameObject, m_Enabled and m_Script; GameObject puts it after the
+component array and m_Layer.  Anything else is reported as unnamed rather than
+guessed at, and the count of unnamed objects is printed, because a name census
+that silently drops what it cannot parse is the failure mode section 7 of
+tales-blockcodec-doc keeps recording.
+
+    python unityfs.py info    FILE
+    python unityfs.py objects FILE [--class N] [--limit N]
+    python unityfs.py verify  PATH...        -- fileSize and object bounds
+    python unityfs.py census  DIR            -- every object of every file, by class
+    python unityfs.py names   DIR [--class N] [--out FILE]
+    python unityfs.py text    DIR            -- every TextAsset, with its content
+    python unityfs.py scripts DIR [--list]   -- MonoScript class/namespace/assembly
+    python unityfs.py paths   FILE           -- the ResourceManager path table
+    python unityfs.py textures DIR           -- every Texture2D, with a size check
+    python unityfs.py shaders FILE           -- the ScriptMapper's shader-name table
+    python unityfs.py externals DIR          -- the reference graph between files
+    python unityfs.py classes                -- the class-ID table this tool knows
+
+Standard library only.
+
+  exit=1
+===== unityarc =====
+Read UnityFS archives -- the layer `unityfs.py` did not have.
+
+`unityfs.py` reads a Unity **SerializedFile**, which is what *Tales of
+Luminaria* shipped and what this object's base APK ships in
+`assets/bin/Data/`.  The other half of this object -- 729 files and 98.88 % of
+its bytes -- is wrapped in a **UnityFS archive** first, and there are three
+levels to get through before a SerializedFile appears:
+
+    archive header -> block table -> concatenated blocks -> node directory
+                   -> a SerializedFile inside one node
+
+This module does the first three and hands the fourth to `unityfs.py`, which
+it imports rather than reimplements.  A reader that stops at level one and
+finds nothing does not report zero, it reports `ok` -- so every level here is
+checked against a quantity the file states twice, and `validate` prints the
+checks one per line whether they pass or fail.
+
+THE FORMAT, as measured on this object (729 of 729 at format version 8):
+
+    char[8]  "UnityFS\0"
+    u32 BE   format version                     8
+    cstr     unity version                      "5.x.x"   (a placeholder)
+    cstr     player version                     "0.0.0"   (a placeholder)
+    u64 BE   size            == the file's own length, on 729 of 729
+    u32 BE   compressedBlocksInfoSize
+    u32 BE   uncompressedBlocksInfoSize
+    u32 BE   flags
+
+    flags & 0x3F   compression of the blocks-info block
+                   0 none, 1 LZMA, 2 LZ4, 3 LZ4HC
+    flags & 0x40   blocksAndDirectoryInfoCombined
+    flags & 0x80   blockInfoAtEnd -- seek to size - compressedBlocksInfoSize
+    flags & 0x100  oldWebPluginCompatibility
+    flags & 0x200  blockInfoNeedPaddingAtStart -- the block data is aligned to
+                   16 bytes after the blocks-info, not butted against it
+    flags & 0x400  usesAssetBundleEncryption
+
+    REPAIRED on pc-themurderofsonicthehedgehog-doc, and both halves of the
+    repair are one bit apart.  This reader had 0x200 as the encryption flag and
+    had no padding at all before the block data.  On a bundle whose flags read
+    0x243 that produced two failures at once: check 3 came up 6 bytes short,
+    and `usesAssetBundleEncryption clear` failed on an archive that is not
+    encrypted.  Aligning the block data to 16 bytes closes check 3 to residue
+    0 on all four bundles of that object AND makes the first block decode,
+    which it did not before -- so the correction is not a citation, it is two
+    numbers the file states about itself.  0x400 is the encryption bit.
+
+    blocks-info block, once located and decompressed:
+      byte[16]  hash of the uncompressed data
+      i32 BE    block count, then per block:
+                  u32 BE uncompressedSize, u32 BE compressedSize, u16 BE flags
+      i32 BE    node count, then per node:
+                  i64 BE offset, i64 BE size, u32 BE flags, cstr path
+
+THE CHECKS, and each one is a quantity the file states twice:
+
+  1. the header `size` field equals the file's own length;
+  2. every block's decoded length equals its declared uncompressedSize --
+     this fires once per block and cannot be satisfied by a wrong layout;
+  3. the sum of compressed block sizes plus the header and block table equals
+     the file length exactly, residue 0;
+  4. the node extents tile the concatenated decompressed blocks: each node
+     lies inside it, and the last node's end is covered;
+  5. the SerializedFile inside each node states its own `fileSize`, which must
+     equal the node's size.
+
+Nothing here decompresses more than it is asked to: blocks are decoded on
+demand for the byte range a node needs, so a 344 MB archive can be described
+without 344 MB of memory.
+
+    python unityarc.py header   PATH...            -- one line per archive
+    python unityarc.py validate PATH...            -- the five checks, per file
+    python unityarc.py nodes    PATH               -- the node directory
+    python unityarc.py blocks   PATH [--limit N]   -- the block table
+    python unityarc.py extract  PATH OUTDIR        -- write every node out
+    python unityarc.py census   DIR  [--out FILE]  -- every object of every
+                                                      bundle, by class
+    python unityarc.py flags    DIR                -- per-block compression
+                                                      across a whole tree
+
+Standard library only.  LZ4 block decoding is implemented here because Python
+has no LZ4 and a forty-line decoder that checks its own output length against
+a declared one is cheaper and more honest than a dependency.
+
+  exit=2
+===== refusals =====
+85 readers, pointed at an object none of them was written
+for. The column that matters is the last one.
+
+agp.py           REFUSED  agp.py: error: the following arguments are required: cmd
+                          for: the .agp archive of Heretic Kingdoms
+kultaccount.py   REFUSED  kultaccount.py: error: the following arguments are required: root
+                          for: the accounting of Kult
+kultdat.py       REFUSED  kultdat.py: error: the following arguments are required: cmd
+                          for: Kult's .dat
+kultdia.py       REFUSED  kultdia.py: error: the following arguments are required: cmd
+                          for: Kult's dialogue
+kultexe.py       REFUSED  kultexe.py: error: the following arguments are required: cmd
+                          for: Kult's executable
+kultidx.py       REFUSED  kultidx.py: error: the following arguments are required: cmd
+                          for: Kult's .idx
+kultlang.py      REFUSED  kultlang.py: error: the following arguments are required: cmd
+                          for: Kult's language tables
+kultnames.py     REFUSED  kultnames.py: error: the following arguments are required: cmd
+                          for: Kult's internal names
+maska.py         REFUSED  maska.py: error: the following arguments are required: cmd
+                          for: Kult's mask grids
+oggmeta.py       REFUSED  oggmeta.py: error: the following arguments are required: cmd
+                          for: Ogg Vorbis session metadata
+sdb.py           REFUSED  sdb.py: error: the following arguments are required: cmd
+                          for: Kult's .sdb
+bkf.py           REFUSED  bkf.py: error: the following arguments are required: cmd
+                          for: Delphine's .BKF archive -- DANGEROUS: a u32 count then fixed-width records
+lez.py           REFUSED  lez.py: error: the following arguments are required: cmd
+                          for: Delphine's LEZ1 compression
+buildorder.py    REFUSED  buildorder.py: error: the following arguments are required: root
+                          for: the build order of Moto Racer's binaries
+mraccount.py     REFUSED  mraccount.py: error: the following arguments are required: root, members
+                          for: Moto Racer's accounting -- DANGEROUS: a hard-coded bucket list
+peimpexp.py      REFUSED  peimpexp.py: error: the following arguments are required: path
+                          for: PE import and export directories (taught PE32+ this session)
+utf16sift.py     REFUSED  utf16sift.py: error: the following arguments are required: root
+                          for: UTF-16LE personal-data patterns
+tpsave.py        REFUSED  (no output)
+                          for: Theme Park's save files
+tptab.py         REFUSED  unknown command '--selftest'
+                          for: Theme Park's tables
+gogmanifest.py   REFUSED  gogmanifest.py: error: argument --root: expected one argument
+                          for: GOG's galaxy file list
+hashdb.py        REFUSED  hashdb.py: error: the following arguments are required: path
+                          for: GOG's .hashdb checksum table
+authenticode.py  REFUSED  authenticode.py: error: the following arguments are required: path
+                          for: the PKCS#7 blob of a signed PE
+lzo1x.py         exit 0   8 of 8 specimens behaved as required
+                          for: LZO1X decompression for UE3 packages
+kfpkg.py         exit 0   9 of 9 specimens behaved as required
+                          for: the Unreal package of Karmaflow -- DANGEROUS: it also looks for a length-prefixed table
+tfc.py           exit 0   8 of 8 specimens behaved as required
+                          for: a UE3 texture file cache
+tfcref.py        exit 0   5 of 5 specimens behaved as required
+                          for: the mip offsets that reference a .tfc
+wwise.py         exit 0   7 of 7 specimens behaved as required
+                          for: Wwise .bnk soundbanks
+steamacf.py      REFUSED  steamacf.py: error: argument --root: expected one argument
+                          for: a Steam appmanifest .acf
+kfaudio.py       exit 0   9 of 9 behaved as required
+                          for: Karmaflow's .wem and .wav
+kftext.py        exit 0   8 of 8 behaved as required
+                          for: Karmaflow's localisation tables
+kfopera.py       exit 0   8 of 8 behaved as required
+                          for: Karmaflow's map names against a tracklist
+kfaccount.py     REFUSED  kfaccount.py: error: argument --root: expected one argument
+                          for: Karmaflow's accounting -- DANGEROUS: a bucket list that assumes extensions
+pdbpaths.py      REFUSED  pdbpaths.py: error: argument --root: expected one argument
+                          for: CodeView RSDS build paths
+buildroot.py     REFUSED  buildroot.py: error: argument --root: expected one argument
+                          for: the studio build root of a native binary
+nrbf.py          exit 0   selftest: 8 of 8 specimens behaved as required (6 of the 8 must be refused)
+                          for: an MS-NRBF .NET remoting stream
+jstore.py        exit 0   selftest: 7 of 7 specimens behaved as required (5 of the 7 must be refused as an index)
+                          for: Academagia's Storage index -- DANGEROUS: it looks for a marker, a u32 count and fixed-width records, which is the shape of @UTF and of AFS2
+clrmeta.py       exit 0   selftest: 6 of 6 specimens behaved as required (5 of the 6 must be refused)
+                          for: CLR metadata heaps -- expected NOT to refuse
+jsdata.py        exit 0   selftest: 8 of 8 specimens behaved as required (5 of the 8 must yield nothing)
+                          for: Academagia's data.bin record stream
+acaccount.py     exit 0   selftest: 9 of 9 specimens classified as required (4 of the 9 must land in a bucket that
+                          for: Academagia's accounting -- DANGEROUS: its bucket rules name that object's directories
+unityfs.py       exit 0   0 files in the tree are not serialized files:
+                          for: Unity SerializedFile v21 -- DANGEROUS: it runs on v15 and reports nineteen terabytes
+unityarc.py      exit 0   0 archives: 0 pass, 0 fail, 0 refused
+                          for: UnityFS archives; this object has UnityWeb
+unityasset.py    exit 0   most common dimensions:
+                          for: type-tree deserialisation of UnityFS nodes
+bundlebudget.py  exit 0     as LZMA here                             0  ratio 0.0000
+                          for: UnityFS block compression flags
+sfv15.py         REFUSED  sfv15.py: error: unrecognized arguments: --selftest
+                          for: Unity SerializedFile v15
+unityweb.py      REFUSED  unityweb.py: error: unrecognized arguments: --selftest
+                          for: UnityWeb LZMA bundles
+criutf.py        REFUSED  criutf.py: error: unrecognized arguments: --selftest
+                          for: CRIWARE @UTF tables
+crihca.py        REFUSED  crihca.py: error: unrecognized arguments: --selftest
+                          for: CRI HCA audio frames
+luac52.py        REFUSED  luac52.py: error: unrecognized arguments: --selftest
+                          for: compiled Lua 5.2
+placement.py     REFUSED  placement.py: error: the following arguments are required: mode
+                          for: Unity scene placement records
+unitytex.py      REFUSED  unitytex.py: error: unrecognized arguments: --selftest
+                          for: Unity Texture2D decoding
+isaccount.py     REFUSED  isaccount.py: error: unrecognized arguments: --selftest
+                          for: I am Setsuna's accounting -- DANGEROUS: its bucket rules name that object's directories
+verres.py        REFUSED  verres.py: error: the following arguments are required: root
+                          for: PE version resources -- expected NOT to refuse, and it does not, but it counts NE files as PE
+sigcount.py      REFUSED  sigcount.py: error: the following arguments are required: root
+                          for: a byte signature given on the command line -- expected NOT to refuse
+isz.py           REFUSED  isz.py list: error: the following arguments are required: path
+                          for: an InstallShield 3 Z archive -- must refuse on magic in 4 bytes
+ispkg.py         REFUSED  ispkg.py: error: the following arguments are required: cmd
+                          for: an InstallShield .PKG manifest
+is32.py          REFUSED  is32.py list: error: the following arguments are required: path
+                          for: an InstallShield _INST32I container
+cptext.py        REFUSED  cptext.py census: error: the following arguments are required: path
+                          for: a codepage census of a text file -- expected NOT to refuse
+runexpect.py     REFUSED  runexpect: no such file: --selftest/(no .chm in this tree)
+                          for: printable runs against chance -- expected NOT to refuse
+redact.py        exit 0   21 checks, 0 failures
+                          for: address redaction -- expected NOT to refuse
+zaccount.py      REFUSED  zaccount.py: error: unrecognized arguments: --selftest
+                          for: a ZIP walked structurally; there is no ZIP in this object
+coverage.py      REFUSED  coverage.py: error: argument --root: expected one argument
+                          for: the four-bucket coverage table -- written here, must NOT refuse
+itsf.py          REFUSED  FileNotFoundError: [Errno 2] No such file or directory: '--selftest/(no .chm in this tre
+                          for: a Microsoft ITSF container -- written here, must NOT refuse
+lcf.py           REFUSED  FileNotFoundError: [Errno 2] No such file or directory: '--selftest/(no .ldb in this tre
+                          for: an LCF database -- written here, must NOT refuse
+pngcensus.py     REFUSED  pngcensus.py: error: the following arguments are required: root
+                          for: a PNG census -- written here, must NOT refuse
+smfcensus.py     REFUSED  smfcensus.py: error: the following arguments are required: root
+                          for: a Standard MIDI census -- written here, must NOT refuse
+peembed.py       REFUSED  peembed.py: error: the following arguments are required: path
+                          for: a PE closed on its own sections -- written here, must NOT refuse
+lcfmap.py        REFUSED  FileNotFoundError: [Errno 2] No such file or directory: '--selftest/(no .lmu in this tre
+                          for: an LCF map unit -- written here, must NOT refuse
+lcfdiff.py       REFUSED  FileNotFoundError: [Errno 2] No such file or directory: '--selftest/(no .ldb in this tre
+                          for: two LCF databases compared -- written here, must NOT refuse
+psd.py           REFUSED  FileNotFoundError: [Errno 2] No such file or directory: '--selftest/(no .psd in this tre
+                          for: an Adobe Photoshop file -- written here, must NOT refuse
+pngchunk.py      exit 0   checks : 10   failures : 0
+                          for: a named PNG chunk -- written here, must NOT refuse
+stampcheck.py    exit 0   checks : 19   failures : 0
+                          for: three tests on a COFF timestamp -- written here, must NOT refuse
+uuidscan.py      exit 0   checks : 14   failures : 0
+                          for: version-1 UUIDs -- written here, must NOT refuse
+vendorhash.py    exit 0   checks : 26   failures : 0
+                          for: third-party components -- written here, must NOT refuse
+projdiff.py      REFUSED  projdiff.py: error: argument --against: expected one argument
+                          for: a project against a resource library -- written here
+toolsdiff.py     exit 0   checks : 9   failures : 0
+                          for: two tool boxes compared; a tree of data is not one, so it must refuse ON READING and not on its command line
+marshal48.py     REFUSED  marshal48: no such file or directory: --selftest/(no file of that magic in this tree)
+                          for: a Ruby Marshal 4.8 document -- written here, must NOT refuse
+rxscripts.py     REFUSED  rxscripts: no such file: --selftest/(no scripts.rxdata in this tree)
+                          for: RPG Maker XP's Scripts.rxdata -- written here; this object ships NO scripts file of any name, so its refusal is the harness working
+rgssdb.py        REFUSED  rgssdb: --selftest/(no file of that magic in this tree) is not a directory of Marshal do
+                          for: the Table and Color payloads Marshal cannot see -- written here
+chmx.py          REFUSED  chmx: no such file: --selftest/(no .chm in this tree)
+                          for: an ITSF container's LZX content -- written here, must NOT refuse
+lzx.py           exit 0   20 checks, 0 failures
+                          for: Microsoft LZX -- a library; its selftest must NOT refuse
+depotsplit.py    REFUSED  depotsplit.py: error: argument --root: expected one argument
+                          for: a shop's depot boundary against a directory boundary -- written here
+namescan.py      exit 0   15 checks, 0 failures
+                          for: a literal name in both encodings -- written here, must NOT refuse
+rgssjoin.py      exit 0   11 checks, 0 failures
+                          for: the data-against-help join -- needs two roots, so its selftest is what the harness can point at
+rule0hook.py     exit 0   ALLOW : python tools/x.py
+                          for: rule 0 as a program -- an ALLOWED command must exit 0
+refusals.py      exit 0   refusals.py: harness check, and this child does not recurse
+                          for: itself; pointed here to prove the harness runs
+
+readers pointed        : 85
+refused with a non-zero exit : 57
+exited 0 anyway              : 28
+absent from the box          : 0
+
+An `exit 0` here is not a success. It means the tool found
+something it was willing to print a table about, and each one has
+to be looked at by hand -- which is what docs/13 does.
+  exit=0
+===== predbands =====
+  four clauses parse                         ok
+  no errors on a good document               ok
+  two open content clauses                   ok
+  lands total                                ok
+  constructs total                           ok
+  below 0.60 count                           ok
+  a missing band tag is fatal                ok
+  a band tag outside open content is fatal   ok
+  two band tags are fatal                    ok
+  an empty document yields no rows           ok
+checks : 10   failures : 0
+  exit=0

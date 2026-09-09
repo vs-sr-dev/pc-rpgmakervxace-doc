@@ -1,0 +1,29 @@
+RPG::Map documents : 117
+distinct ivar names: 24
+every document carries every name : True
+
+  ivar                    count  value types observed
+  @parallax_name            117  RString x102, RWithIvars x15
+  @height                   117  int x117
+  @events                   117  list x117
+  @parallax_sx              117  int x117
+  @bgm                      117  RObject x117
+  @tileset_id               117  int x117
+  @encounter_step           117  int x117
+  @width                    117  int x117
+  @data                     117  RUserDef x117
+  @bgs                      117  RObject x117
+  @parallax_loop_y          117  bool x117
+  @autoplay_bgm             117  bool x117
+  @encounter_list           117  list x117
+  @autoplay_bgs             117  bool x117
+  @parallax_show            117  bool x117
+  @scroll_type              117  int x117
+  @parallax_loop_x          117  bool x117
+  @disable_dashing          117  bool x117
+  @parallax_sy              117  int x117
+  @display_name             117  RString x105, RWithIvars x12
+  @specify_battleback       117  bool x117
+  @note                     117  RString x103, RWithIvars x14
+  @battleback1_name         117  RWithIvars x114, RString x3
+  @battleback2_name         117  RWithIvars x114, RString x3

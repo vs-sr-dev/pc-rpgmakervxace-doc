@@ -1,0 +1,37 @@
+rpgvxace-steam/RGSS301.dll : PE32, image base 0x10000000, 8 sections
+              VA 0x00001000  vsize  1708032  raw 0x00000400  rsize   652288
+              VA 0x001A2000  vsize   753664  raw 0x0009F800  rsize   223744
+              VA 0x0025A000  vsize   344064  raw 0x000D6200  rsize     5632
+   .rsrc      VA 0x002AE000  vsize     8192  raw 0x000D7800  rsize     2560
+              VA 0x002B0000  vsize    86016  raw 0x000D8200  rsize    43520
+              VA 0x002C5000  vsize     4096  raw 0x000E2C00  rsize     4096
+   .vxdata    VA 0x002C6000  vsize   380928  raw 0x000E3C00  rsize   153088
+   .adata     VA 0x00323000  vsize     4096  raw 0x00109200  rsize        0
+
+IMPORTS : 12 DLLs, 14 names
+   kernel32.dll         3
+      GetProcAddress
+      GetModuleHandleA
+      LoadLibraryA
+   user32.dll           1
+      GetAsyncKeyState
+   gdi32.dll            1
+      GetGlyphOutlineW
+   advapi32.dll         1
+      GetUserNameW
+   shell32.dll          1
+      SHGetPathFromIDListW
+   winmm.dll            1
+      timeBeginPeriod
+   comctl32.dll         1
+      PropertySheetW
+   ws2_32.dll           1
+      #116
+   msacm32.dll          1
+      acmStreamConvert
+   ole32.dll            1
+      CoUninitialize
+   oleaut32.dll         1
+      VariantChangeTypeEx
+   kernel32.dll         1
+      RaiseException

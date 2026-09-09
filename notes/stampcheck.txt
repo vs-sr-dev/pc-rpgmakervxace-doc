@@ -1,0 +1,24 @@
+binaries with a COFF TimeDateStamp : 8
+
+  file                                                bytes      stamp as a time (UTC)      T1 T2 T3
+  RPGVXAce.exe                                      6944256 1394000278 2014-03-05 06:17:58  .  .  .
+  RPGVXAceITA.dll                                   2945024 1394069537 2014-03-06 01:32:17  .  .  .
+  RPGVXAceENU.dll                                   2917888 1394069667 2014-03-06 01:34:27  .  .  .
+  RGSS301.dll                                       1085952 1329869653 2012-02-22 00:14:13  .  .  .
+  SciLexer.dll                                       545280 1294022006 2011-01-03 02:33:26  .  .  .
+  Projects/Game.exe                                  140800 1317876034 2011-10-06 04:40:34  .  .  .
+  steam_api64.dll                                    121256 1385076410 2013-11-21 23:26:50  .  .  .
+  steam_api.dll                                      106920 1385076475 2013-11-21 23:27:55  .  .  .
+
+  T1 IMPOSSIBLE (mtime precedes link time)      : 0 of 8
+  T2 COLLIDING  (a stamp shared across sizes)   : 0 of 8
+  T3 ROUND      (a round binary quantity)       : 0 of 8
+  FALSE by at least one test                    : 0 of 8
+  the same, counted by DISTINCT BINARY not by file : 0 of 8
+
+
+-- and what the tests do NOT say ------------------------------
+  A stamp that passes all three is not thereby true. These tests
+  catch three ways of being obviously false and no way of being
+  quietly false, and a linker that writes a plausible wrong date
+  defeats all of them.

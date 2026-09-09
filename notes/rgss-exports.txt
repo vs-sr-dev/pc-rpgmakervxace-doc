@@ -1,0 +1,39 @@
+rpgvxace-steam/RGSS301.dll : PE32, image base 0x10000000, 8 sections
+              VA 0x00001000  vsize  1708032  raw 0x00000400  rsize   652288
+              VA 0x001A2000  vsize   753664  raw 0x0009F800  rsize   223744
+              VA 0x0025A000  vsize   344064  raw 0x000D6200  rsize     5632
+   .rsrc      VA 0x002AE000  vsize     8192  raw 0x000D7800  rsize     2560
+              VA 0x002B0000  vsize    86016  raw 0x000D8200  rsize    43520
+              VA 0x002C5000  vsize     4096  raw 0x000E2C00  rsize     4096
+   .vxdata    VA 0x002C6000  vsize   380928  raw 0x000E3C00  rsize   153088
+   .adata     VA 0x00323000  vsize     4096  raw 0x00109200  rsize        0
+
+EXPORTS : module name 'RGSS301.dll', 27 functions, 27 by name
+   forwarded to another DLL : 0 of 27 named
+   RGSSAddRTPPath           @1       RVA 0x000046D0
+   RGSSAudioFinalize        @2       RVA 0x000036B0
+   RGSSAudioInitialize      @3       RVA 0x00003610
+   RGSSClearRTPPath         @4       RVA 0x000046F0
+   RGSSErrorMessage         @5       RVA 0x000040F0
+   RGSSErrorType            @6       RVA 0x000040D0
+   RGSSEval                 @7       RVA 0x00003760
+   RGSSFinalize             @8       RVA 0x00003600
+   RGSSGC                   @9       RVA 0x00004720
+   RGSSGameMain             @10      RVA 0x00003700
+   RGSSGetBool              @11      RVA 0x00003790
+   RGSSGetDouble            @12      RVA 0x00003840
+   RGSSGetInt               @13      RVA 0x000037C0
+   RGSSGetPathWithRTP       @14      RVA 0x00004120
+   RGSSGetRTPPath           @15      RVA 0x000046B0
+   RGSSGetStringACP         @16      RVA 0x00003A00
+   RGSSGetStringUTF16       @17      RVA 0x00003B70
+   RGSSGetStringUTF8        @18      RVA 0x000039B0
+   RGSSGetSymbol            @19      RVA 0x00003950
+   RGSSGetTable             @20      RVA 0x000038B0
+   RGSSInitialize3          @21      RVA 0x000035E0
+   RGSSSetString            @22      RVA 0x00003C90
+   RGSSSetStringACP         @23      RVA 0x00003DF0
+   RGSSSetStringUTF16       @24      RVA 0x00003F90
+   RGSSSetStringUTF8        @25      RVA 0x00003D40
+   RGSSSetupFonts           @26      RVA 0x00004700
+   RGSSSetupRTP             @27      RVA 0x00004250

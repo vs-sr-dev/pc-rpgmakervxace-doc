@@ -1,0 +1,36 @@
+files searched : 2026   bytes : 342722404
+the search is case-insensitive and is run twice per file: once over
+the bytes as they are, and once for the same text interleaved with
+zeros, which is how a linker writes a version resource.
+
+  name                8-bit    files   UTF-16    files
+  Kadokawa                0        0        0        0
+  Enterbrain             24        5       17        5
+  Degica                  4        4        0        0
+  Yoji Ojima              0        0        9        5
+  Yukihiro Matsumoto        0        0        1        1
+  Neil Hodgson            0        0        3        2
+  Tyler Warren            8        1        0        0
+  Ruby Version            0        0        1        1
+  Scintilla Version        0        0        1        1
+  Lunarea                 0        0        0        0
+  Ruby Game Scripting System        0        0        4        4
+
+  Kadokawa : 0 file(s) carry it in one form or the other
+  Enterbrain : 10 file(s) carry it in one form or the other
+     of which 5 only a UTF-16 pass can see : Projects/Game.exe, RGSS301.dll, RPGVXAce.exe, RPGVXAceENU.dll, RPGVXAceITA.dll
+  Degica : 4 file(s) carry it in one form or the other
+  Yoji Ojima : 5 file(s) carry it in one form or the other
+     of which 5 only a UTF-16 pass can see : Projects/Game.exe, RGSS301.dll, RPGVXAce.exe, RPGVXAceENU.dll, RPGVXAceITA.dll
+  Yukihiro Matsumoto : 1 file(s) carry it in one form or the other
+     of which 1 only a UTF-16 pass can see : RPGVXAce.exe
+  Neil Hodgson : 2 file(s) carry it in one form or the other
+     of which 2 only a UTF-16 pass can see : RPGVXAce.exe, SciLexer.dll
+  Tyler Warren : 1 file(s) carry it in one form or the other
+  Ruby Version : 1 file(s) carry it in one form or the other
+     of which 1 only a UTF-16 pass can see : RPGVXAce.exe
+  Scintilla Version : 1 file(s) carry it in one form or the other
+     of which 1 only a UTF-16 pass can see : RPGVXAce.exe
+  Lunarea : 0 file(s) carry it in one form or the other
+  Ruby Game Scripting System : 4 file(s) carry it in one form or the other
+     of which 4 only a UTF-16 pass can see : Projects/Game.exe, RGSS301.dll, RPGVXAceENU.dll, RPGVXAceITA.dll

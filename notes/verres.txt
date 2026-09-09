@@ -1,0 +1,67 @@
+RGSS301.dll
+    FileDescription    RGSS3 Core
+    FileVersion        3, 0, 1, 1
+    LegalCopyright     Copyright (C) 2011 Enterbrain, Inc. / Yoji Ojima
+    ProductName        Ruby Game Scripting System
+    ProductVersion     3, 0, 1, 1
+
+RPGVXAce.exe
+    FileDescription    RPGVXAce Editor
+    FileVersion        1, 0, 2, 2
+    InternalName       RPGVXAce
+    LegalCopyright     Copyright (C) 2011 Enterbrain, Inc. / Yoji Ojima
+    ProductName        RPG Maker VX Ace
+    ProductVersion     1, 0, 2, 2
+
+RPGVXAceENU.dll
+    FileDescription    RPGVXAce Language DLL
+    FileVersion        1, 0, 3, 0s
+    InternalName       LangENU
+    LegalCopyright     Copyright (C) 2011 Enterbrain, Inc. / Yoji Ojima
+    ProductName        RPG Maker VX Ace
+    ProductVersion     1, 0, 3, 0s
+
+RPGVXAceITA.dll
+    FileDescription    RPGVXAce Language DLL
+    FileVersion        1, 0, 2, 2
+    InternalName       LangENU
+    ProductName        RPG Maker VX Ace
+    ProductVersion     1, 0, 2, 2
+
+SciLexer.dll
+    CompanyName        Neil Hodgson [e-mail redacted: see docs on the personal data]
+    FileDescription    Scintilla.DLL - a Source Editing Component
+    FileVersion        2.22
+    InternalName       Scintilla
+    LegalCopyright     Copyright 1998-2010 by Neil Hodgson
+    OriginalFilename   Scintilla.DLL
+    ProductName        Scintilla
+    ProductVersion     2.22
+
+steam_api.dll
+    LegalCopyright     Copyright (C) 2007
+    InternalName       Steam Client API
+    FileVersion        02.01.77.37
+    CompanyName        Valve Corporation
+    ProductVersion     01.00.00.01
+    FileDescription    Steam Client API (buildbot_winslave04_steam_steam_rel_client_win32@winslave04)
+    OriginalFilename   steam_api.dll
+    ProductName        Steam Client API
+
+steam_api64.dll
+    LegalCopyright     Copyright (C) 2007
+    InternalName       Steam Client API
+    FileVersion        02.01.77.37
+    CompanyName        Valve Corporation
+    ProductVersion     01.00.00.01
+    FileDescription    Steam Client API (buildbot_winslave05_steam_steam_rel_client_win64@winslave05)
+    OriginalFilename   steam_api.dll
+    ProductName        Steam Client API
+
+Projects/Game.exe
+    FileDescription    RGSS3 Player
+    FileVersion        3, 0, 0, 1
+    LegalCopyright     Copyright (C) 2011 Enterbrain, Inc. / Yoji Ojima
+    ProductName        Ruby Game Scripting System
+    ProductVersion     3, 0, 0, 1
+

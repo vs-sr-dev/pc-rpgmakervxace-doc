@@ -1,0 +1,39 @@
+tileset tables (.txt) : 22
+tileset images (.png) : 22
+stems in both         : 22
+only .txt             : none
+only .png             : none
+RESIDUE on the stem join : 0
+
+encodings, by the first codec that takes the whole file : {'utf-8': 22}
+
+total rows            : 2544
+blank lines           : 0
+fields per row        : {5: 2544}
+rows with exactly 5   : 2544 of 2544
+strings in total      : 12720   (2544 rows x 5 fields)
+empty fields          : 0
+
+  per file:
+    Dungeon_A1.txt                  16 rows
+    Dungeon_A2.txt                  32 rows
+    Dungeon_A4.txt                  48 rows
+    Dungeon_A5.txt                 128 rows
+    Dungeon_B.txt                  256 rows
+    Dungeon_C.txt                  256 rows
+    Inside_A1.txt                   16 rows
+    Inside_A2.txt                   32 rows
+    Inside_A4.txt                   48 rows
+    Inside_A5.txt                  128 rows
+    Inside_B.txt                   256 rows
+    Inside_C.txt                   256 rows
+    Outside_A1.txt                  16 rows
+    Outside_A2.txt                  32 rows
+    Outside_A3.txt                  32 rows
+    Outside_A4.txt                  48 rows
+    Outside_A5.txt                 128 rows
+    Outside_B.txt                  256 rows
+    Outside_C.txt                  256 rows
+    World_A1.txt                    16 rows
+    World_A2.txt                    32 rows
+    World_B.txt                    256 rows

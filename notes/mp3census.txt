@@ -1,0 +1,31 @@
+  file                                          bytes   frames  residue    seconds
+  Angel's Breath.mp3                           615490     1472        0     38.452
+  Broken.mp3                                  1057266     2529        0     66.064
+  Calming Dungeons.mp3                        1665407     3984        0    104.072
+  Chillcave.mp3                               1281295     3065        0     80.065
+  Crying River.mp3                             999594     2391        0     62.459
+  Darkened Winds.mp3                          1537090     3677        0     96.052
+  Forrent.mp3                                 1345240     3218        0     84.062
+  Gearworks.mp3                                878800     2102        0     54.909
+  Giant's Hill.mp3                            1110771     2657        0     69.407
+  Grassland Adventure.mp3                     1498644     3585        0     93.649
+  Grassland Minor.mp3                          769301     1840        0     48.065
+  Night on the Sand.mp3                        961146     2299        0     60.056
+  Pacing Mind.mp3                              961141     2299        0     60.056
+  River Petals.mp3                            1537088     3677        0     96.052
+  Shadows All Around.mp3                      1537094     3677        0     96.052
+  Shimmerlight Skies.mp3                       659381     1577        0     41.195
+  Silver Sunrise.mp3                           961143     2299        0     60.056
+  Sleepless Stars.mp3                          769301     1840        0     48.065
+  Sorrowake.mp3                               1816701     4346        0    113.528
+  Swaysea Coast.mp3                            878805     2102        0     54.909
+  Twinklerock Cave.mp3                         878807     2102        0     54.909
+  Ursulian March.mp3                           865431     2070        0     54.073
+  Warring Swords.mp3                           769300     1840        0     48.065
+
+files                          : 23
+walks landing on the last byte : 23 of 23
+frames walked                  : 60648
+constant-bitrate streams       : 23 of 23
+declared shapes                : {('MPEG-1', 'III', 44100): 23}
+total playing time             : 1584.274 s (26.40 min)

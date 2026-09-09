@@ -1,0 +1,31 @@
+RPG::Map documents                     : 117
+Table payloads closing at residue 0    : 117 of 117
+Tables whose x,y equal @width,@height  : 117 of 117
+declared shapes (dimensionality, z)    : {(3, 4): 117}
+cells over every map                   : 1085288
+
+  layer   cells      non-empty      share of that layer
+      0      271322      267255      98.5010 %
+      1      271322       32985      12.1571 %
+      2      271322       15719       5.7935 %
+      3      271322       12671       4.6701 %
+
+  distinct tile ids used (0 included)  : 3134
+  distinct tile ids used (0 excluded)  : 3133
+  the empty cell, id 0                 : 756658 of 1085288 cells
+  lowest non-zero id                   : 1
+  highest id                           : 8156
+
+  the twelve commonest non-zero ids:
+      1536  x 47452
+      2048  x 28870
+      2816  x 13989
+         5  x 12588
+      2720  x 7769
+      1574  x 6148
+      2096  x 5525
+      3200  x 4457
+      1585  x 3854
+      7664  x 3847
+      4064  x 2493
+      1575  x 2413

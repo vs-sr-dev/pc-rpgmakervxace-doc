@@ -1,0 +1,33 @@
+file    : Projects/cd32.ini
+bytes   : 153
+
+sections           : ['[Game]']
+key=value lines    : 7
+lines of neither   : 0
+keys, which are the vendor's format:
+    RTP
+    Library
+    Scripts
+    Title
+    Description
+    CreationDate
+    CloudDate
+
+  key        equals the vendor default    note
+  RTP        True                         
+  Library    True                         
+  Scripts    True                         
+  Title      n/a                          the owner's, and cited
+
+the three documented keys whose values are the vendor's defaults : 3
+keys present that are NOT in the four the format documents       : 3
+
+the Title, which the owner permitted citing : 'CD32'
+
+No other value from this file is printed by this script or appears
+anywhere in this repository.
+
+  .ini files in Projects/ : 1   ['cd32.ini']
+  so the ONLY Game.ini in this tree is the owner's, and the vendor
+  ships none -- which is why the help file's description of the
+  format is the only other witness to it.

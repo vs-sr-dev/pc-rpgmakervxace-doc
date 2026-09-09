@@ -1,0 +1,42 @@
+THE SERIES AS INHERITED, re-derived by summing:
+  terms    : 36
+  sum      : -31.2700
+  mean     : -0.8686
+  negative : 24   positive : 11   zero : 1
+  last10   : -43.4300   mean -4.3430
+  tail run of consecutive negatives : 5
+  the last term -5.86 ranks 11 of 36 by absolute value
+
+  the series, in order:
+     10.50    7.50    5.00    2.00  -14.00   -2.00    9.00    0.00   19.75
+      5.25   -4.10   -3.40    9.30    1.05   -2.50   -3.57   -2.50   -0.35
+     -3.85   -4.95   -4.70    0.70   -2.40   -2.12   -3.57   -3.88   -3.87
+     -2.92   -8.89   -5.93    0.51   -7.57   -0.42   -1.79   -6.69   -5.86
+
+  the brief's eight claims about the series, one at a time:
+    terms        brief 36        counted 36        ok
+    sum          brief -31.27    counted -31.27    ok
+    mean         brief -0.8686   counted -0.8686   ok
+    negative     brief 24        counted 24        ok
+    zero         brief 1         counted 1         ok
+    last10 sum   brief -43.43    counted -43.43    ok
+    last10 mean  brief -4.3430   counted -4.3430   ok
+    tail run     brief 5         counted 5         ok
+    claims wrong : 0 of 8
+
+WITH THIS SESSION'S TERM APPENDED:
+  terms    : 37
+  sum      : -36.4300
+  mean     : -0.9846
+  negative : 25   positive : 11   zero : 1
+  last10   : -44.7200   mean -4.4720
+  tail run of consecutive negatives : 6
+  the last term -5.16 ranks 13 of 37 by absolute value
+
+  the series, in order:
+     10.50    7.50    5.00    2.00  -14.00   -2.00    9.00    0.00   19.75
+      5.25   -4.10   -3.40    9.30    1.05   -2.50   -3.57   -2.50   -0.35
+     -3.85   -4.95   -4.70    0.70   -2.40   -2.12   -3.57   -3.88   -3.87
+     -2.92   -8.89   -5.93    0.51   -7.57   -0.42   -1.79   -6.69   -5.86
+     -5.16
+

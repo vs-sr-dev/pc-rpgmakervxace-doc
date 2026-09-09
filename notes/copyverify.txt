@@ -1,0 +1,32 @@
+source files       : 2026
+source directories : 45, of which empty 0
+  copied 200 of 2026
+  copied 400 of 2026
+  copied 600 of 2026
+  copied 800 of 2026
+  copied 1000 of 2026
+  copied 1200 of 2026
+  copied 1400 of 2026
+  copied 1600 of 2026
+  copied 1800 of 2026
+  copied 2000 of 2026
+files copied       : 2026
+  verified 200 of 2026
+  verified 400 of 2026
+  verified 600 of 2026
+  verified 800 of 2026
+  verified 1000 of 2026
+  verified 1200 of 2026
+  verified 1400 of 2026
+  verified 1600 of 2026
+  verified 1800 of 2026
+  verified 2000 of 2026
+
+bytes                   : 342722404
+size agrees             : 2026 of 2026
+mtime agrees to 100 ns  : 2026 of 2026
+sha1 agrees             : 2026 of 2026
+directories, source     : 45   copy : 45   agree : True
+empty directories       : 0   copy : 0   agree : True
+size, mtime, sha1 and the directory tree all agree : True
+the original was opened read-only and nothing was written to it

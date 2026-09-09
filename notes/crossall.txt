@@ -1,0 +1,163 @@
+my distinct sha1            : 1935
+  (identical files inside one object collapse into one key here;
+   the file count is the tree census's, not this tool's)
+empty-file sha1 among mine  : no
+collection root             : ..
+skipping                    : pc-rpgmakervxace-doc
+
+repositories swept          : 106
+list files swept            : 473
+hash tokens read            : 159482
+distinct sha1 in those lists: (counted below)
+
+========================================================================
+EMPTY-FILE SHA1 (the trap): 57 occurrences in 16 repositories
+   dc-dinocrisis-doc                        x4
+   pc-allodsonline-doc                      x2
+   pc-bloodandlace-doc                      x1
+   pc-brokensword4-doc                      x1
+   pc-canediterracotta-doc                  x1
+   pc-capcombeatemupbundle-doc              x1
+   pc-clic11-doc                            x9
+   pc-deadlypremonitiondc-doc               x3
+   pc-hugoshouseofhorrors-doc               x1
+   pc-ilmiocomputer0206                     x6
+   pc-karmaflow-doc                         x17
+   pc-kingsofthebeach-doc                   x4
+   pc-residentevil-doc                      x2
+   pc-wizardry-doc                          x3
+   pc-zerocomico-doc                        x1
+   vis-racetheclock-doc                     x1
+   -> excluded from the crossings below.
+
+========================================================================
+THE RATE AS A FUNCTION OF MINIMUM FILE LENGTH
+
+A crossing is a claim that two objects share a file. On a tree whose
+files are short, it is also a claim that two short byte strings
+happened to be equal, and those are not the same claim. This table is
+printed BEFORE any figure is quoted, and the figure quoted anywhere
+else has to name the threshold it was taken at.
+
+   min bytes    my hashes    crossings         rate
+           0         1935           26      1.3437 %
+           1         1935           26      1.3437 %
+           4         1935           26      1.3437 %
+           8         1934           26      1.3444 %
+          16         1934           26      1.3444 %
+          32         1934           26      1.3444 %
+          64         1934           26      1.3444 %
+         128         1934           26      1.3444 %
+         256         1933           26      1.3451 %
+        1024         1929           26      1.3478 %
+        4096         1866           26      1.3934 %
+       65536          717            6      0.8368 %
+
+========================================================================
+CROSSINGS at a minimum length of 0 bytes: 26 of my 1935 distinct hashes appear in another repository
+   (threshold 0 -- every hash, including files too short to be anybody's)
+
+sha1 4f98131474e8d96b1b8d05965f1038da2a3cbea7   282185 bytes
+   mine : rtp/Audio/BGS/Drips.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 591c952ac190ccfb4773252dd9e118232c7aa8d1   264167 bytes
+   mine : rtp/Audio/BGS/Fire.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 d2a50b3d90507572f0f90a964c485d9b6346a9d7   151347 bytes
+   mine : rtp/Audio/BGS/Darkness.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 2b04d02e956c82af3160a8efeac7453b81f2d2f0   126995 bytes
+   mine : rtp/Audio/BGS/River.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 64d135fc915a8fad0689a80700bce7a2a49617e6   71471 bytes
+   mine : rtp/Audio/SE/Teleport.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 f1665618db0a7421b07dda07adb5dadfb5b6bd69   66946 bytes
+   mine : rtp/Audio/SE/Applause1.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 29b747cca7a06c67a9984733a2b2f17bc36fa23a   35581 bytes
+   mine : rtp/Audio/SE/Dive.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 69c67f773715b5198ec499f40a4a93e5c6eb665e   28175 bytes
+   mine : rtp/Audio/SE/Collapse1.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 72b8d94558b8e053f5321e95bf63d7a9bf552c7d   23649 bytes
+   mine : rtp/Audio/SE/Monster4.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 86460b059a5a75bfd6a6ff575efd3159742c2682   23427 bytes
+   mine : rtp/Audio/SE/Collapse2.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 0dc62f9f19d04e425f24bb1c70572497822a6e71   21388 bytes
+   mine : rtp/Audio/SE/Monster3.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 93118cd5bb0b916d2ca45c73a08da4fc651fff9c   16416 bytes
+   mine : rtp/Audio/SE/Crow.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 c28dd9006351d93bbd42bc9573f1a15b2ff191f6   15382 bytes
+   mine : rtp/Audio/SE/Chest.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 d1ef3f7db0bb2f87709715b1f0f24cc4d818adb2   15269 bytes
+   mine : rtp/Audio/SE/Magic1.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 b2a1469ea1a943476a5240bac153c0c71c7e69ea   14679 bytes
+   mine : rtp/Audio/SE/Skill1.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 d7881a7b7b76f97e8a5e356a69c117cd72e65f46   14537 bytes
+   mine : rtp/Audio/SE/Push.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 006d08f460e750f8bb628becebdacd2317125afa   14041 bytes
+   mine : rtp/Audio/SE/Close3.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 ffbdb2c1c4e108a2772b409e9603828865a1b977   13839 bytes
+   mine : rtp/Audio/SE/Open3.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 1c71ee12f2af3876c18bac0e608950c46bf1667a   13821 bytes
+   mine : rtp/Audio/SE/Fall.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 c943180e2e71565908ced44511c9efedebd4602f   11126 bytes
+   mine : rtp/Audio/SE/Shop.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 40e02183250f6570411fa6c35c6ba2300ce499a5   10377 bytes
+   mine : rtp/Audio/SE/Book1.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 c9a927dbe84509577dc85483f365a4cee75c91e4   9597 bytes
+   mine : rtp/Audio/SE/Equip1.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 bbfe368b539085db924fc0ef05a34dac2a346548   9356 bytes
+   mine : rtp/Audio/SE/Switch2.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 adfeace03a404065b14bcb17dd3ea97baa7deada   9005 bytes
+   mine : rtp/Audio/SE/Switch3.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 54d6d9afcfe479ecb4fd3d21165c78ce49f07342   8718 bytes
+   mine : rtp/Audio/SE/Save.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+
+sha1 d3857eb6296ce0dabcad4539fe8b791c59bbf3b1   7179 bytes
+   mine : rtp/Audio/SE/Load.ogg
+   also : pc-rpgmakerxp-doc                  notes/sha1-all.txt
+

@@ -1,0 +1,18 @@
+mine   : tools
+theirs : ../pc-rpgmakerxp-doc/tools
+
+mine   : 562 .py     theirs : 558 .py
+only mine   : mp3frames.py, nameguard.py, rvmap.py, tiletable.py
+only theirs : none
+common      : 558    differing   : 11
+   DIFFERS  coverage.py              mine 644e1c2b183b  theirs 6b2bcfb62d94
+   DIFFERS  depotsplit.py            mine 991eb8daabe6  theirs 66149c732483
+   DIFFERS  hashall.py               mine 3666272dc44c  theirs 324ee6c4b217
+   DIFFERS  marshal48.py             mine cb5392a3e8b3  theirs ddb542eb2a43
+   DIFFERS  mtimes.py                mine b2972d40c40a  theirs 2c3a4acbc3bc
+   DIFFERS  pathcheck.py             mine ac118bd6d4a7  theirs 34983a1623e8
+   DIFFERS  refusals.py              mine e8d383d12899  theirs 707e47e958f0
+   DIFFERS  rgssdb.py                mine 09e1b8efecbb  theirs 4786f71a1104
+   DIFFERS  rgssjoin.py              mine aa55330c9b12  theirs 9ad4f74b4863
+   DIFFERS  unityarc.py              mine 8eac257e5d43  theirs d3f34067a0bf
+   DIFFERS  unityfs.py               mine 68e026c92fec  theirs 90d8c2024be7

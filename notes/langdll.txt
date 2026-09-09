@@ -1,0 +1,37 @@
+RPGVXAceITA.dll  2945024 bytes, 1 sections
+  section           VA      vsize        raw      rsize
+  .rsrc     0x00001000    2944040 0x00000200    2944512
+
+RPGVXAceENU.dll  2917888 bytes, 2 sections
+  section           VA      vsize        raw      rsize
+  .rdata    0x00001000        123 0x00000200        512
+  .rsrc     0x00002000    2916752 0x00000400    2916864
+
+THE DIFFERENCE, ACCOUNTED FOR
+
+  ITA 2945024  -  ENU 2917888  =  27136 bytes
+
+  section      ITA rsize    ENU rsize        delta
+  .rdata               0          512         -512
+  .rsrc          2944512      2916864        27648
+  SUM                                        27136
+  RESIDUE against the file-size difference : 0
+
+  bytes equal at the same offset : 542642 of 2917888 (18.5971 %)
+  first differing byte           : 190
+
+THE RESOURCE TREE, COUNTED
+
+  file                  types    names    leaves  .rsrc bytes
+  RPGVXAceITA.dll          16      716       716      2944512
+  RPGVXAceENU.dll          16      716       716      2916864
+
+  the two resource trees have the same shape : True
+  leaves, ITA - ENU : 0
+  .rsrc bytes, ITA - ENU : 27648
+  bytes per leaf, ITA 4112.4   ENU 4073.8
+
+  Two localisations of one program are not expected to align byte for
+  byte past their headers, because a longer string moves everything
+  after it. The figure above is printed so that 'they are the same
+  program' is a measurement with a number rather than an assumption.

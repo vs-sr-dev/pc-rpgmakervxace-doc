@@ -1,0 +1,10 @@
+root      : rpgvxace-steam
+signature : 4d 5a 50 00  (4 bytes)
+
+files searched                       : 2026
+files BEGINNING with the signature   : 0 of 2026
+occurrences ANYWHERE                 : 0, in 0 files
+
+A signature that begins no file and appears inside many is not a
+near miss.  It is a coincidence, and the two counts are printed
+apart so that neither can be quoted as the other.

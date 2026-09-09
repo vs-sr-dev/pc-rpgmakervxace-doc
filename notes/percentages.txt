@@ -1,0 +1,56 @@
+BY DIRECTORY AND BY SUBTREE, against a denominator of 342722404
+
+  row                                         bytes      brief      exact 
+  rtp/Audio/BGM                            80659139    23.5348    23.5348 
+  rtp/Graphics/Animations                  47000979    13.7140    13.7140 
+  dlc/AdventurersJourney_SND/OGG           32132374     9.3756     9.3756 
+  dlc/AdventurersJourney_SND/MP3           25354236     7.3979     7.3979 
+  the root                                 21302442     6.2157     6.2157 
+  rtp/Graphics/Battlebacks1                16512764     4.8181     4.8181 
+  rtp/Graphics/Battlebacks2                13947384     4.0696     4.0696 
+  dlc/Bonus/Portraits                       9354791     2.7296     2.7296 
+  rtp/Graphics/Tilesets                     8421130     2.4571     2.4571 
+  VLGothic                                  7940282     2.3168     2.3168 
+  rtp/                                    202842120    59.1855    59.1855 
+  dlc/                                     83751594    24.4373    24.4372 WRONG
+  Generator/                               17016940     4.9652     4.9652 
+  SampleMap/                                7119608     2.0774     2.0774 
+  Projects/                                 2749418     0.8022     0.8022 
+
+BY MAGIC FAMILY AND BY BUCKET
+
+  specified, before the magics            291974845    85.1928    85.1928 
+  decoded                                   6633819     1.9356     1.9356 
+  opaque, before                           44113740    12.8716    12.8716 
+  specified, after                        336088585    98.0644    98.0644 
+  PNG                                     155470460    45.3634    45.3634 
+  Ogg                                     119011030    34.7252    34.7252 
+  MPEG audio                               25354236     7.3979     7.3979 
+  sfnt                                     15795408     4.6088     4.6088 
+  PE                                       14807376     4.3205     4.3205 
+  BMP                                       2400280     0.7004     0.7004 
+  Marshal 4.8                               2248383     0.6560     0.6560 
+  PDF                                        402773     0.1175     0.1175 
+  ZIP, the owner's                           208185     0.0607     0.0607 
+  Windows icon                                82555     0.0241     0.0241 
+
+published percentages checked : 29
+WRONG at the fourth place     : 1
+
+OTHER FIGURES, exact
+  the owner's share of the tree     : 0.0608 %
+  rtp's share                       : 59.1855 %
+  files, this object / previous     : 221.91 %
+  bytes, this object / previous     : 1273.33 %
+  mean file, this object            : 169162 bytes
+  mean file, previous object        : 29480 bytes
+  BytesToStage/BytesToDownload, the SHOP's own figures
+    342514066 / 321169744           : 1.0665
+  the same with the counted tree instead (what compratio prints)
+    342722404 / 321169744           : 1.0671
+  crossings 26 of 1935              : 1.3437 %
+  interlaced PNG 310 of 1456        : 21.2912 %
+  layer 0 non-empty 267255/271322   : 98.5010 %
+  empty cells 756658 of 1085288     : 69.7196 %
+  tools run, 26 of 558              : 4.6595 %
+  tools that die on the name, 7 of 9: 77.7778 %

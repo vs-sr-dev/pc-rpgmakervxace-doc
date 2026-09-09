@@ -1,0 +1,58 @@
+MP3 files            : 23
+Ogg files            : 23
+stems in both        : 23
+only MP3             : none
+only Ogg             : none
+RESIDUE on the stem join : 0
+
+  stem                                    mp3 s      ogg s     delta within 0.08 s
+  Angel's Breath                         38.452     38.396    +0.057 yes
+  Broken                                 66.064     65.997    +0.067 yes
+  Calming Dungeons                      104.072    104.000    +0.072 yes
+  Chillcave                              80.065     79.998    +0.067 yes
+  Crying River                           62.459     62.397    +0.062 yes
+  Darkened Winds                         96.052     95.996    +0.056 yes
+  Forrent                                84.062     83.994    +0.068 yes
+  Gearworks                              54.909     54.854    +0.056 yes
+  Giant's Hill                           69.407     69.333    +0.074 yes
+  Grassland Adventure                    93.649     93.596    +0.053 yes
+  Grassland Minor                        48.065     47.996    +0.070 yes
+  Night on the Sand                      60.056     60.000    +0.056 yes
+  Pacing Mind                            60.056     59.997    +0.059 yes
+  River Petals                           96.052     95.996    +0.056 yes
+  Shadows All Around                     96.052     95.996    +0.056 yes
+  Shimmerlight Skies                     41.195     41.140    +0.055 yes
+  Silver Sunrise                         60.056     59.997    +0.058 yes
+  Sleepless Stars                        48.065     47.998    +0.067 yes
+  Sorrowake                             113.528    113.458    +0.070 yes
+  Swaysea Coast                          54.909     54.855    +0.055 yes
+  Twinklerock Cave                       54.909     54.854    +0.055 yes
+  Ursulian March                         54.073     53.996    +0.078 yes
+  Warring Swords                         48.065     47.997    +0.069 yes
+
+pairs agreeing within 0.078 s : 23 of 23
+largest disagreement         : 0.078 s
+mean absolute difference     : 0.0624 s
+
+  THE SIGN, WHICH IS NOT NOISE
+  the MP3 is LONGER  : 23 of 23
+  the MP3 is SHORTER : 0 of 23
+  exactly equal      : 0 of 23
+
+  one MPEG-1 Layer III frame at 44,100 Hz : 0.026122 s
+  the differences, in frame-times:
+    smallest : 2.0330   largest : 2.9705   mean : 2.3887
+
+  An MPEG audio stream is a whole number of fixed-length frames,
+  so its derived duration can only ever OVERSHOOT the material it
+  encodes -- by up to one frame of padding, plus whatever encoder
+  delay the last frame carries. A Vorbis stream declares its
+  sample count exactly. So a positive difference of two to three
+  frame-times in every pair is what two encodings of one piece of
+  audio look like, and a NEGATIVE one would falsify that.
+  23 of 23 are positive.
+
+  WHAT THIS DOES AND DOES NOT SAY. Two streams of equal duration
+  are two streams of equal DURATION. This tool decodes not one
+  audio sample, so it cannot say the two files hold the same
+  music, and the word does not appear in its output.

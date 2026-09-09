@@ -1,0 +1,127 @@
+  reset at block 0   compressed +0        output 65536
+  reset at block 2   compressed +4728     output 131072
+  reset at block 4   compressed +18872    output 196608
+  reset at block 6   compressed +34024    output 262144
+  reset at block 8   compressed +49928    output 327680
+  reset at block 10  compressed +61452    output 393216
+  reset at block 12  compressed +75880    output 458752
+  reset at block 14  compressed +92162    output 524288
+  reset at block 16  compressed +106396   output 589824
+  reset at block 18  compressed +119734   output 655360
+  reset at block 20  compressed +130994   output 720896
+  reset at block 22  compressed +141260   output 786432
+  reset at block 24  compressed +187760   output 851968
+  reset at block 26  compressed +252074   output 917504
+  reset at block 28  compressed +317626   output 983040
+  reset at block 30  compressed +383178   output 1048576
+  reset at block 32  compressed +448730   output 1114112
+  reset at block 34  compressed +514282   output 1179648
+  reset at block 36  compressed +579834   output 1245184
+  reset at block 38  compressed +645054   output 1310720
+  reset at block 40  compressed +709218   output 1376256
+  reset at block 42  compressed +772836   output 1441792
+  reset at block 44  compressed +836950   output 1507328
+  reset at block 46  compressed +902236   output 1572864
+  reset at block 48  compressed +967788   output 1638400
+  reset at block 50  compressed +1032788  output 1703936
+  reset at block 52  compressed +1097422  output 1769472
+  reset at block 54  compressed +1162144  output 1835008
+  reset at block 56  compressed +1227696  output 1900544
+  reset at block 58  compressed +1293248  output 1966080
+  reset at block 60  compressed +1358800  output 2031616
+  reset at block 62  compressed +1423334  output 2097152
+  reset at block 64  compressed +1488886  output 2162688
+  reset at block 66  compressed +1554438  output 2228224
+  reset at block 68  compressed +1619990  output 2293760
+  reset at block 70  compressed +1685542  output 2359296
+  reset at block 72  compressed +1750240  output 2424832
+  reset at block 74  compressed +1815028  output 2490368
+  reset at block 76  compressed +1880580  output 2555904
+  reset at block 78  compressed +1945320  output 2621440
+  reset at block 80  compressed +2010872  output 2686976
+  reset at block 82  compressed +2076424  output 2752512
+  reset at block 84  compressed +2141358  output 2818048
+  reset at block 86  compressed +2205496  output 2883584
+  reset at block 88  compressed +2269850  output 2949120
+  reset at block 90  compressed +2335306  output 3014656
+  reset at block 92  compressed +2399028  output 3080192
+  reset at block 94  compressed +2463222  output 3145728
+  reset at block 96  compressed +2525780  output 3211264
+  reset at block 98  compressed +2589286  output 3276800
+  reset at block 100 compressed +2653450  output 3342336
+  reset at block 102 compressed +2718706  output 3407872
+  reset at block 104 compressed +2782506  output 3473408
+  reset at block 106 compressed +2846882  output 3538944
+  reset at block 108 compressed +2911356  output 3604480
+  reset at block 110 compressed +2975784  output 3670016
+  reset at block 112 compressed +3041058  output 3735552
+  reset at block 114 compressed +3106390  output 3801088
+  reset at block 116 compressed +3171586  output 3866624
+  reset at block 118 compressed +3233308  output 3932160
+  reset at block 120 compressed +3298860  output 3997696
+  reset at block 122 compressed +3364330  output 4063232
+  reset at block 124 compressed +3429710  output 4128768
+  reset at block 126 compressed +3495076  output 4194304
+  reset at block 128 compressed +3560454  output 4259840
+  reset at block 130 compressed +3623014  output 4325376
+  reset at block 132 compressed +3687076  output 4390912
+  reset at block 134 compressed +3751126  output 4456448
+  reset at block 136 compressed +3815174  output 4521984
+  reset at block 138 compressed +3879222  output 4587520
+  reset at block 140 compressed +3943502  output 4653056
+  reset at block 142 compressed +4005326  output 4718592
+  reset at block 144 compressed +4068854  output 4784128
+  reset at block 146 compressed +4132064  output 4849664
+  reset at block 148 compressed +4195326  output 4915200
+  reset at block 150 compressed +4258370  output 4980736
+  reset at block 152 compressed +4320930  output 5046272
+  reset at block 154 compressed +4384082  output 5111808
+  reset at block 156 compressed +4447234  output 5177344
+  reset at block 158 compressed +4507434  output 5242880
+  reset at block 160 compressed +4570292  output 5308416
+  reset at block 162 compressed +4634460  output 5373952
+  reset at block 164 compressed +4697356  output 5439488
+  reset at block 166 compressed +4761400  output 5505024
+  reset at block 168 compressed +4825700  output 5570560
+  reset at block 170 compressed +4889890  output 5636096
+  reset at block 172 compressed +4954016  output 5701632
+  reset at block 174 compressed +5018104  output 5767168
+  reset at block 176 compressed +5081060  output 5832704
+  reset at block 178 compressed +5143770  output 5898240
+  reset at block 180 compressed +5206340  output 5963776
+  reset at block 182 compressed +5269200  output 6029312
+  reset at block 184 compressed +5333028  output 6094848
+  reset at block 186 compressed +5396060  output 6160384
+  reset at block 188 compressed +5457768  output 6225920
+  reset at block 190 compressed +5519536  output 6291456
+  reset at block 192 compressed +5583352  output 6356992
+  reset at block 194 compressed +5646932  output 6422528
+  reset at block 196 compressed +5712232  output 6488064
+  reset at block 198 compressed +5777440  output 6553600
+  reset at block 200 compressed +5840808  output 6619136
+  reset at block 202 compressed +5904694  output 6684672
+  reset at block 204 compressed +5967608  output 6750208
+  reset at block 206 compressed +6031138  output 6815744
+  reset at block 208 compressed +6096630  output 6881280
+  reset at block 210 compressed +6159404  output 6946816
+  reset at block 212 compressed +6224956  output 7012352
+  reset at block 214 compressed +6290508  output 7077888
+  reset at block 216 compressed +6356060  output 7143424
+  reset at block 218 compressed +6420994  output 7208960
+  reset at block 220 compressed +6472262  output 7274496
+  reset at block 222 compressed +6523834  output 7340032
+  reset at block 224 compressed +6576300  output 7398317
+
+  LZX window            : 65536 bytes (16 bits)
+  LZX reset interval    : 65536 bytes = 2 blocks of 32768
+  reset table blocks    : 226
+  compressed declared   : 6610974
+  uncompressed declared : 7398317
+  BYTES PRODUCED        : 7398317
+  residue               : 0
+
+  section-1 entries              : 339
+  entries lying inside the output: 339 of 339
+  furthest reach                 : 7398317 against 7398317   residue 0
+  entries with a non-zero length : 339
+  .html entries whose first 400 bytes contain '<' : 172 of 172

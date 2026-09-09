@@ -1,0 +1,41 @@
+  file                                         bytes   chunks
+  Big Crab.png                                 28262        6
+  Big Crab.png                                 28262        6
+
+  A : IHDR pHYs iCCP cHRM IDAT IEND
+  B : IHDR pHYs iCCP cHRM IDAT IEND
+
+  chunk  A payload      B payload      verdict
+  IDAT   8d8c5ea2c2a4   8d8c5ea2c2a4   IDENTICAL
+  IEND   da39a3ee5e6b   da39a3ee5e6b   IDENTICAL
+  IHDR   b9e980f11906   b9e980f11906   IDENTICAL
+  cHRM   c209db339de1   c209db339de1   IDENTICAL
+  iCCP   8f4c6ce42a9e   8f4c6ce42a9e   IDENTICAL
+  pHYs   bea0b813a987   bea0b813a987   IDENTICAL
+
+  same pixel stream (IDAT identical)       : True
+  same geometry and colour type (IHDR)     : True
+  same palette (PLTE)                      : None
+  => the same pixels, and neither file carries a palette.
+
+  chunks only in A : 0 bytes with their 12-byte headers
+  chunks only in B : 0 bytes with their 12-byte headers
+  shared chunks, payload length difference : 0
+  0 - 0 + 0 = 0 against a file-size difference of 0
+  RESIDUE : 0
+  IEND   da39a3ee5e6b   da39a3ee5e6b   IDENTICAL
+  IHDR   ec77a2950490   ec77a2950490   IDENTICAL
+  cHRM   c209db339de1   c209db339de1   IDENTICAL
+  iCCP   8f4c6ce42a9e   8f4c6ce42a9e   IDENTICAL
+  pHYs   bea0b813a987   bea0b813a987   IDENTICAL
+
+  same pixel stream (IDAT identical)       : True
+  same geometry and colour type (IHDR)     : True
+  same palette (PLTE)                      : None
+  => the same pixels, and neither file carries a palette.
+
+  chunks only in A : 0 bytes with their 12-byte headers
+  chunks only in B : 0 bytes with their 12-byte headers
+  shared chunks, payload length difference : 0
+  0 - 0 + 0 = 0 against a file-size difference of 0
+  RESIDUE : 0

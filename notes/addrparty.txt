@@ -1,0 +1,24 @@
+THE THREE DLC READMES THAT CARRY AN ADDRESS
+
+  readme_TheAdventurer'sJourney.txt                          addresses 1   names Degica True
+  readme.txt                                                 addresses 1   names Degica True
+  readme.txt                                                 addresses 1   names Degica True
+  Readme.txt                                                 addresses 0   names Degica True
+
+  distinct addresses across the four readmes : 1
+  its domain contains 'degica'               : False
+  its domain contains 'enterbrain'           : False
+  its domain is a .com                       : True
+  its local part is a person's name          : NOT DECIDABLE from
+    the bytes, and this script does not guess
+
+THE TWO ADDRESSES IN THE FONT'S LICENCE SET
+
+  distinct addresses in the two files sampled : 2
+    domain ends .jp : False   .org : True    .com : False
+    domain ends .jp : False   .org : True    .com : False
+
+  Neither address is published here. Both are published by their
+  owners inside documents their owners wrote, and the rule this
+  pipeline settled four objects ago -- publish what claims credit,
+  redact what routes a message -- puts an address in the second half.

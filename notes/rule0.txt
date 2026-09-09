@@ -1,0 +1,15 @@
+shell calls seen by the hook : 217
+  allowed                    : 214
+  REFUSED as rule-0          : 3
+      inline program         1
+      in-place edit script   1
+      heredoc                1
+
+the refusals, in order:
+  2026-09-09T23:12:28  inline program python -c "print('this must be refused')"
+  2026-09-09T23:45:31  in-place edit script cd "<path>" && sed -i.bak 's/hcls, hfields, _p = from_docs(docs_root)/hcls, hfields, _p, _s = from_docs(docs_root)/' /de
+  2026-09-10T00:52:48  heredoc        cd "<path>" && python tools/vendorhash.py rpgvxace-steam > notes/vendorhash.txt 2>&1 && cat >> /dev/null << 'X'\nX\npyth
+
+A rule 0 violation that reaches the shell is a hook failure.
+A rule 0 violation that is REFUSED is the hook working, and the
+count of refusals is how many times the habit still fired.

@@ -1,0 +1,100 @@
+# third-party components, THIS object and the one before it
+#
+# Produced by _work/vendorjoin.py, which runs tools/vendorhash.py on
+# both trees. Every row's vendor is named IN THE FILE at the offset
+# given. The VERSION column is the repair pc-rpgmakerxp-doc made after
+# pc-rpgmaker2003-doc/docs/16 was scored a half for its absence, and
+# this is the first object on which it can be joined across two.
+#
+
+====================================================================
+== pc-rpgmakervxace-doc   (rpgvxace-steam)
+====================================================================
+# third-party components in this object
+#
+# Format: sha1, bytes, path, vendor, component, VERSION, evidence
+#         offset. The version is taken from the same file the
+#         vendor was found in, in either encoding, or reads '-'.
+# Every row's vendor is named IN THE FILE at the offset given.
+#
+# object : rpgvxace-steam
+
+## whole files that ARE a third party's
+
+250450334148a63796251369d74b77389799a31e    6944256  RPGVXAce.exe                    Microsoft                                Microsoft HTML Help runtime        -        @5286928  'hhctrl.ocx'
+95c9415d313d1e6a73cd7fa3654b2fa4ba3c9fa3     545280  SciLexer.dll                    Neil Hodgson                             Scintilla source-editing component 2.22     @485160  'Scintilla'
+
+## files naming the publisher 'KADOKAWA' as well, which CARRY a third
+## party's code rather than being one
+
+
+components : 2    carriers : 0    total files : 2
+
+## what this list does NOT establish
+#
+# A marker in a file says the file contains that string. It does
+# not say the component is unmodified, and two products carrying
+# one vendor's marker at different sha1 are carrying two builds,
+# not one library. That is exactly why the vendor column exists:
+# the hashes will not cross and the vendor will.
+
+====================================================================
+== pc-rpgmakerxp-doc   (../pc-rpgmakerxp-doc/rpgmakerxp-steam)
+====================================================================
+# third-party components in this object
+#
+# Format: sha1, bytes, path, vendor, component, VERSION, evidence
+#         offset. The version is taken from the same file the
+#         vendor was found in, in either encoding, or reads '-'.
+# Every row's vendor is named IN THE FILE at the offset given.
+#
+# object : rpgmakerxp-steam
+
+## whole files that ARE a third party's
+
+014537d102d9aee6ab76b0da31470afe38dcc040    3190784  RPGXP.exe                       Microsoft                                Microsoft HTML Help runtime        -        @1784124  'hhctrl.ocx'
+073e9f1db6c1be847f186553e985e35e4de03c70     758272  RGSS104E.dll                    Yukihiro Matsumoto and the Ruby project  Ruby interpreter                   -        @595092  'ruby_re_adjust_startpos'
+01d57370ff4e022a57addb60498acb2130a68d26     356352  SciLexer.dll                    Neil Hodgson                             Scintilla source-editing component 1.58     @314504  'Scintilla'
+
+## files naming the publisher 'KADOKAWA' as well, which CARRY a third
+## party's code rather than being one
+
+
+components : 3    carriers : 0    total files : 3
+
+## what this list does NOT establish
+#
+# A marker in a file says the file contains that string. It does
+# not say the component is unmodified, and two products carrying
+# one vendor's marker at different sha1 are carrying two builds,
+# not one library. That is exactly why the vendor column exists:
+# the hashes will not cross and the vendor will.
+
+====================================================================
+== THE JOIN
+====================================================================
+
+One vendor appears in both objects at two builds:
+
+  Neil Hodgson / Scintilla source-editing component
+    pc-rpgmakerxp-doc     1.58   356,352 bytes  linker 7.10  Copyright 1998-2003
+      sha1 01d57370ff4e022a57addb60498acb2130a68d26   evidence @314504
+    pc-rpgmakervxace-doc  2.22   545,280 bytes  linker 9.00  Copyright 1998-2010
+      sha1 95c9415d313d1e6a73cd7fa3654b2fa4ba3c9fa3   evidence @485160
+
+  The two hashes cannot cross and do not appear in crossall.py's 26.
+  The VENDOR crosses, and only a column that carries the version can
+  say so without the reader having to open both binaries.
+
+A vendor present in the PREVIOUS object and absent here:
+
+  Yukihiro Matsumoto and the Ruby project / Ruby interpreter
+    pc-rpgmakerxp-doc  RGSS104E.dll  758,272 bytes  evidence @595092
+      the marker was 'ruby_re_adjust_startpos'
+
+  RGSS301.dll carries a Ruby interpreter too -- the editor's About
+  block reads 'Ruby Version 1.9.2' -- and does NOT appear in this
+  list, because RGSS3 exports none of the 43 regular-expression
+  names its predecessor exported, and that export table was the
+  evidence. THE COMPONENT IS STILL THERE AND THE MARKER IS GONE,
+  which is a limit of a marker-based list and is recorded as one.

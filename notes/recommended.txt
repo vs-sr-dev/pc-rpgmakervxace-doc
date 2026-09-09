@@ -1,0 +1,71 @@
+  directory                  files
+  50 Mini                 50
+  80 Tiny                 50
+  140 Small               50
+  200 Mid                 50
+  280 Large               50
+  Recommended Sizes       50
+
+THE FIFTY 'RECOMMENDED' FILES, MATCHED BY SHA1 AGAINST THE FIVE SIZES
+
+  identical to 80 Tiny                           24 of 50
+  identical to 140 Small                         13 of 50
+  identical to 200 Mid                            6 of 50
+  identical to 280 Large                          5 of 50
+  identical to 50 Mini                            1 of 50
+  matching NONE of the five          1
+  RESIDUE : 0
+
+  the ones that match no size directory:
+    King Slime.png
+
+  so 'Recommended Sizes' is NOT one size copied. It is a per-battler
+  choice, and the count above says which sizes were chosen and how
+  often.
+
+  the dimensions of the fifty recommended files:
+      54 x 80    x 4
+      59 x 80    x 2
+      46 x 80    x 2
+     251 x 200   x 1
+     144 x 140   x 1
+      74 x 50    x 1
+      69 x 80    x 1
+     372 x 280   x 1
+      90 x 80    x 1
+      85 x 80    x 1
+     161 x 200   x 1
+     196 x 140   x 1
+      58 x 80    x 1
+     220 x 280   x 1
+     174 x 140   x 1
+      57 x 80    x 1
+      63 x 80    x 1
+      81 x 80    x 1
+     217 x 280   x 1
+     118 x 140   x 1
+     341 x 280   x 1
+     292 x 280   x 1
+     221 x 140   x 1
+      53 x 80    x 1
+     164 x 200   x 1
+     194 x 140   x 1
+     106 x 140   x 1
+     184 x 140   x 1
+      78 x 140   x 1
+      76 x 140   x 1
+     141 x 140   x 1
+     101 x 140   x 1
+      65 x 140   x 1
+      82 x 80    x 1
+      76 x 80    x 1
+     184 x 200   x 1
+      43 x 80    x 1
+     198 x 200   x 1
+     154 x 200   x 1
+      98 x 80    x 1
+      83 x 80    x 1
+      50 x 80    x 1
+      51 x 80    x 1
+     157 x 200   x 1
+      97 x 80    x 1

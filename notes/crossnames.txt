@@ -1,0 +1,70 @@
+mine   : notes/sha1-all.txt   2026 rows, 1935 distinct sha1
+theirs : ../pc-rpgmakerxp-doc/notes/sha1-all.txt   913 rows, 913 distinct sha1
+
+crossing     : 26 of 1935
+NOT crossing : 1909 of 1935
+the two sum to my distinct hashes : True
+
+-- CROSSING, by extension (one row per distinct hash) ----
+   .ogg        26 files      1278673 bytes
+   TOTAL       26             1278673
+
+-- NOT CROSSING, by extension (one row per distinct hash) ----
+   .png      1376 files    151455061 bytes
+   .ogg       337 files    117732357 bytes
+   .rvdata2   117 files      2248383 bytes
+   .txt        27 files       220549 bytes
+   .mp3        23 files     25354236 bytes
+   .dll         6 files      7722320 bytes
+   .bmp         4 files      1920224 bytes
+   (none)       3 files        27741 bytes
+   .mplus       3 files         4816 bytes
+   .exe         2 files      7085056 bytes
+   .pdf         2 files       402773 bytes
+   .ttf         2 files      7897704 bytes
+   .ini         1 files          153 bytes
+   .chm         1 files      6633819 bytes
+   .sazanami     1 files         7374 bytes
+   .ico         1 files        82555 bytes
+   .en          1 files         2647 bytes
+   .vdf         1 files         2041 bytes
+   .zip         1 files       208185 bytes
+   TOTAL     1909           329007994
+
+-- the crossing hashes, by name -------------------------------
+   same base name in both objects : 0
+   renamed                        : 26
+      spaced            0
+      prefixed          0
+      retranslated     26
+   the three classes sum to the renamed total : True  (0 + 0 + 26 = 26)
+   same + renamed = crossing : True
+
+   -- retranslated
+      005-System05             -> Equip1
+      006-System06             -> Shop
+      007-System07             -> Save
+      008-System08             -> Load
+      010-River01              -> River
+      011-System11             -> Collapse2
+      012-System12             -> Collapse1
+      013-Fire01               -> Fire
+      014-Move02               -> Fall
+      016-Drips01              -> Drips
+      018-Darkness01           -> Darkness
+      018-Teleport01           -> Teleport
+      022-Dive02               -> Dive
+      026-Door03               -> Open3
+      027-Door04               -> Close3
+      033-Switch02             -> Switch2
+      034-Switch03             -> Switch3
+      044-Chest01              -> Chest
+      045-Push01               -> Push
+      046-Book01               -> Book1
+      059-Applause01           -> Applause1
+      078-Small05              -> Crow
+      084-Monster06            -> Monster3
+      085-Monster07            -> Monster4
+      086-Action01             -> Skill1
+      087-Action02             -> Magic1
+

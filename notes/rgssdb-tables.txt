@@ -1,0 +1,15 @@
+  Table payloads       : 117
+    closing at residue 0 and cell count = x*y*z : 117 of 117
+    by declared dimensionality : 3D x 117
+  Color payloads       : 0
+    32 bytes read as four float64 : 0 of 0
+
+  the eight commonest Table shapes (dims, x, y, z):
+    (3, 51, 53, 4)         x 8
+    (3, 51, 50, 4)         x 4
+    (3, 50, 50, 4)         x 3
+    (3, 21, 23, 4)         x 3
+    (3, 47, 53, 4)         x 3
+    (3, 100, 100, 4)       x 2
+    (3, 47, 48, 4)         x 2
+    (3, 41, 39, 4)         x 2

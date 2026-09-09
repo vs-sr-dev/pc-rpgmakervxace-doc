@@ -1,0 +1,40 @@
+files                       : 2026
+distinct sha1               : 1935
+hashes appearing more than once : 84
+files sharing a repeated hash   : 175
+EXTRA copies (instances minus one per hash) : 91
+
+  distinct + extra = files : 1935 + 91 = 2026   residue 0
+
+  A REPEATED HASH is a picture that appears more than once. An EXTRA
+  COPY is one appearance beyond the first. The two are different
+  numbers and the arithmetic closes on the second, not the first.
+
+  copies per repeated hash : {2: 80, 3: 2, 4: 1, 5: 1}
+
+  group                         hashes   wasted bytes
+  inside dlc/                       49        2072629
+  inside Generator/                 24        1942770
+  VLGothic shipped twice            10        7940282
+  inside Projects/                   1         480056
+  TOTAL                             84       12435737
+  the groups sum to the repeated-hash count : True
+
+  inside Generator/
+    e663f552e255     71685  Generator/Face/Acc2_02.png | Generator/Face/Acc2_03.png | Generator/Face/Acc2_04.png
+    87a630170ad6     25927  Generator/Face/Acc2_08.png | Generator/Face/Acc2_09.png | Generator/Face/Acc2_10.png
+    b83e8e903802      9999  Generator/Face/Glasses04.png | Generator/Face/Glasses05.png
+
+  inside Projects/
+    9ed59885413d    480056  Projects/RMworkshop_01.bmp | Projects/game.bmp
+
+  VLGothic shipped twice
+    35e388df677d     21854  VLGothic/Changelog | rtp/Fonts/VLGothic/Changelog
+    922b8f22b0f1      2886  VLGothic/LICENSE | rtp/Fonts/VLGothic/LICENSE
+    a5f7ea4602e9      2647  VLGothic/LICENSE.en | rtp/Fonts/VLGothic/LICENSE.en
+
+  inside dlc/
+    fcbe8d3ad0a8     28262  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Big Crab.png | dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Big Crab.png
+    5d8f5a30e26c     51942  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Clay Slime.png | dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Clay Slime.png
+    a7a6482e1fba     59164  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Coward.png | dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Coward.png
+

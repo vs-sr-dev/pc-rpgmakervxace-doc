@@ -1,0 +1,79 @@
+PNG in the tree              : 1456
+interlaced (IHDR byte 28 = 1): 310
+not interlaced               : 1146
+bytes, interlaced            : 14860659
+bytes, not interlaced        : 140609801
+
+  directory                                                   png  inter    share
+  Generator/Face                                               52      0    0.00 %
+  Generator/Face/Female                                       152      0    0.00 %
+  Generator/Face/Male                                         145      0    0.00 %
+  Generator/Mini                                               49      0    0.00 %
+  Generator/Mini/Female                                        53      0    0.00 %
+  Generator/Mini/Male                                          57      0    0.00 %
+  SampleMap                                                   117      0    0.00 %
+  dlc/Bonus/Portraits                                          96      0    0.00 %
+  dlc/RoyalTileset_GFX                                         11      0    0.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/140 Small               50     49   98.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid                 50     49   98.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/280 Large               50     49   98.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini                 50     49   98.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny                 50     49   98.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes       50     49   98.00 %
+  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors     17     16   94.12 %
+  rtp/Graphics/Animations                                      93      0    0.00 %
+  rtp/Graphics/Battlebacks1                                    54      0    0.00 %
+  rtp/Graphics/Battlebacks2                                    54      0    0.00 %
+  rtp/Graphics/Battlers                                        74      0    0.00 %
+  rtp/Graphics/Characters                                      48      0    0.00 %
+  rtp/Graphics/Faces                                           12      0    0.00 %
+  rtp/Graphics/Parallaxes                                      15      0    0.00 %
+  rtp/Graphics/System                                           6      0    0.00 %
+  rtp/Graphics/Tilesets                                        22      0    0.00 %
+  rtp/Graphics/Titles1                                         20      0    0.00 %
+  rtp/Graphics/Titles2                                          9      0    0.00 %
+
+  directories where EVERY png is interlaced:
+
+  directories where NONE is:
+    20 directories, 1139 files
+
+  the interlaced files' colour types : {(8, 6): 310}
+  the interlaced files' dimensions, commonest first:
+       54 x 80     x 8
+       39 x 50     x 5
+       59 x 80     x 5
+       63 x 80     x 5
+       95 x 140    x 4
+      157 x 200    x 4
+      220 x 280    x 4
+       34 x 50     x 4
+       46 x 80     x 4
+       81 x 80     x 4
+
+  and the SAME dimensions among the non-interlaced files:
+       54 x 80     interlaced    8   not    0
+       39 x 50     interlaced    5   not    0
+       59 x 80     interlaced    5   not    0
+       63 x 80     interlaced    5   not    0
+       95 x 140    interlaced    4   not    0
+      157 x 200    interlaced    4   not    0
+      220 x 280    interlaced    4   not    0
+       34 x 50     interlaced    4   not    0
+       46 x 80     interlaced    4   not    0
+       81 x 80     interlaced    4   not    0
+PNG in the pack        : 317
+interlaced             : 310
+NOT interlaced         : 7
+
+  140 Small/Gold Slime.png                                        144 x 140      32264
+  200 Mid/Gold Slime.png                                          206 x 200      59490
+  280 Large/Gold Slime.png                                        288 x 280     109257
+  50 Mini/Gold Slime.png                                           51 x 50        7720
+  80 Tiny/Gold Slime.png                                           82 x 80       13784
+  Recommended Sizes/Gold Slime.png                                 82 x 80       13784
+  Recommended Sizes/Example Alternate Colors/Gold Slime.png        82 x 80       11025
+
+  directories represented : 7
+  one per directory       : True
+  distinct base names     : 1   ['Gold Slime.png']

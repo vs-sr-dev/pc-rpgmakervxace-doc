@@ -1,0 +1,22 @@
+eight-bit e-mail-shaped hits : 19
+files carrying at least one  : 11
+
+DISTINCT addresses           : 3
+occurrences                  : 19
+residue                      : 0
+
+  address     times  files it appears in
+  A05c5ad         8  VLGothic/Changelog, VLGothic/LICENSE, VLGothic/LICENSE.en, VLGothic/README, rtp/Fonts/VLGothic/Changelog, rtp/Fonts/VLGothic/LICENSE, rtp/Fonts/VLGothic/LICENSE.en, rtp/Fonts/VLGothic/README
+  Ac2a902         8  VLGothic/Changelog, VLGothic/LICENSE, VLGothic/LICENSE.en, VLGothic/README, rtp/Fonts/VLGothic/Changelog, rtp/Fonts/VLGothic/LICENSE, rtp/Fonts/VLGothic/LICENSE.en, rtp/Fonts/VLGothic/README
+  Ad8c1bb         3  dlc/AdventurersJourney_SND/readme_TheAdventurer'sJourney.txt, dlc/RoyalTileset_GFX/readme.txt, dlc/Tyler Warren RPG Battlers 1st 50/readme.txt
+
+  addresses appearing in exactly two files : 0
+
+  the two VLGothic trees hold the same ten files twice, so an
+  address in that font's licence set is counted twice by a sweep
+  and is ONE address. That is the whole difference between the
+  nineteen the pre-briefing published and the number below it.
+
+  distinct domains : 2
+    A6abf2c x 16
+    A69a867 x 3

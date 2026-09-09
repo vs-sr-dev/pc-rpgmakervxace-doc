@@ -1,0 +1,88 @@
+root                 : rpgvxace-steam
+files matching .png  : 1456
+parsed as PNG        : 1456
+refused              : 0
+bytes in parsed files: 155470460
+
+-- closure: signature + every declared chunk length + CRC ------
+   files closing at residue 0        : 1456 of 1456
+   chunks walked                     : 14035
+   chunks whose CRC-32 verifies      : 14035 of 14035
+   files with a failing CRC          : 0
+
+-- what IHDR declares ------------------------------------------
+   depth  colour type            interlace  files
+       8  2 truecolour                0       37
+       8  3 palettised                0      194
+       8  4 greyscale+alpha           0        1
+       8  6 truecolour+alpha          0      914
+       8  6 truecolour+alpha          1      310
+
+-- the palettes ------------------------------------------------
+   files carrying a PLTE chunk       : 194 of 1456
+   DISTINCT palettes by sha1 of PLTE : 9
+   palette entry counts              : {256: 194}
+   9092daf3d63df5a7  shared by 167 files
+   021dd5c5823d2be5  shared by 7 files
+   d1ed8b97f8982f0c  shared by 6 files
+   2dad0cd2892dea87  shared by 5 files
+   cab42ed9b4a6af9b  shared by 3 files
+
+-- geometry ----------------------------------------------------
+   distinct (width, height) pairs    : 385
+     512 x 256    287 files
+     580 x 444    108 files
+     272 x 288    96 files
+     768 x 256    90 files
+     768 x 128    67 files
+     512 x 128    63 files
+     384 x 256    39 files
+     544 x 416    31 files
+
+-- chunk types seen --------------------------------------------
+   IDAT 7711  IHDR 1456  IEND 1456  cHRM 983  pHYs 976  iCCP 911  PLTE 194  tRNS 194  gAMA 116  tEXt 35  sRGB 2  tIME 1
+
+-- is any two the same image? ----------------------------------
+   The tree has one sha1 per file, so no two files are
+   byte-identical. This asks the weaker and more useful question:
+   do two files carry the SAME COMPRESSED PIXEL STREAM, which
+   would make them the same image in different wrapping?
+   distinct IDAT streams by sha1      : 1376 over 1456 files
+   files sharing an IDAT stream       : 153
+      7e969157828b x5  Generator/Face/Kemono01.png, Generator/Face/Kemono02.png, Generator/Face/Kemono03.png, Generator/Face/Kemono04.png
+      18d4ee3da8d4 x4  Generator/Face/Acc2_02.png, Generator/Face/Acc2_03.png, Generator/Face/Acc2_04.png, Generator/Face/Acc2_05.png
+      338556544646 x3  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/DragonFighter.png, dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/DragonFighter.png, dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/DragonFighter.png
+      5243cd2516bb x3  Generator/Face/Acc2_08.png, Generator/Face/Acc2_09.png, Generator/Face/Acc2_10.png
+      8d8c5ea2c2a4 x2  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Big Crab.png, dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Big Crab.png
+   files sharing (w, h, depth, colour, palette) with another
+   file but NOT its pixels            : 1027
+
+-- by directory ------------------------------------------------
+   dir              files        bytes palettes
+   Generator/Face      52      1235800 1
+   Generator/Face/Female   152      7581938 1
+   Generator/Face/Male   145      6940752 1
+   Generator/Mini      49       238775 1
+   Generator/Mini/Female    53       526061 1
+   Generator/Mini/Male    57       493614 1
+   SampleMap          117      4871225 1
+   dlc/Bonus/Portraits    96      9354791 1
+   dlc/RoyalTileset_GFX    11      1381373 1
+   dlc/Tyler Warren RPG Battlers 1st 50/140 Small    50      1844189 1
+   dlc/Tyler Warren RPG Battlers 1st 50/200 Mid    50      3320283 1
+   dlc/Tyler Warren RPG Battlers 1st 50/280 Large    50      5911642 1
+   dlc/Tyler Warren RPG Battlers 1st 50/50 Mini    50       444933 1
+   dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny    50       797352 1
+   dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes    50      2047946 1
+   dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors    17       741638 1
+   rtp/Graphics/Animations    93     47000979 1
+   rtp/Graphics/Battlebacks1    54     16512764 1
+   rtp/Graphics/Battlebacks2    54     13947384 1
+   rtp/Graphics/Battlers    74      4963082 1
+   rtp/Graphics/Characters    48      2101998 9
+   rtp/Graphics/Faces    12      2026479 1
+   rtp/Graphics/Parallaxes    15      3708107 1
+   rtp/Graphics/System     6       244645 2
+   rtp/Graphics/Tilesets    22      8218651 1
+   rtp/Graphics/Titles1    20      7119163 1
+   rtp/Graphics/Titles2     9      1894896 1

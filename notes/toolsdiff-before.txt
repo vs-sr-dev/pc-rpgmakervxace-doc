@@ -1,0 +1,7 @@
+mine   : tools
+theirs : ../pc-rpgmakerxp-doc/tools
+
+mine   : 558 .py     theirs : 558 .py
+only mine   : none
+only theirs : none
+common      : 558    differing   : 0

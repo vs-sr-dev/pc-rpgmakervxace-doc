@@ -1,0 +1,2027 @@
+0ffa23a4d0b81438a329258f5c8d3b3403f4aa94       1085952  RGSS301.dll
+38835f5a44defc33c05c8a890df946090a970b0d       6633819  RPGVXAce.chm
+250450334148a63796251369d74b77389799a31e       6944256  RPGVXAce.exe
+2d19fb676b5e9d978edd40f9e670d5c53e2aae90       2917888  RPGVXAceENU.dll
+32696cd57c49e3728b1123eff66a95eb1d0a22c3       2945024  RPGVXAceITA.dll
+95c9415d313d1e6a73cd7fa3654b2fa4ba3c9fa3        545280  SciLexer.dll
+bc1fa316ff49018d6c4c922184722b1decea3056          2041  VXAce_install.vdf
+f7c2cb2ca170dfed1d6fd455ade17585a2cfe10f        106920  steam_api.dll
+bd014660f7978a07ba2f99b6cf0621d678602663        121256  steam_api64.dll
+0a13d25b39bfda1673be2315fe130722afe41e0d             6  steam_appid.txt
+942570b2ea4662d3ea452e67ff2c0a2f3a1eb182         13148  Generator/Face/Acc1_01.png
+bb1c09a75b3ece120198677b38d2a69b28371ae2         21277  Generator/Face/Acc1_02.png
+0067ad133f8e56080c964e7bcaffe45132929034         18921  Generator/Face/Acc1_03.png
+aea0c0bc77ccd3725859c452c799ee7c707be670         12417  Generator/Face/Acc1_04.png
+7f1324463a0553b5805a142ed4180721dcc5d852          6714  Generator/Face/Acc1_05.png
+efc2594c6f699cd60655e310ff583e557922abee         19540  Generator/Face/Acc2_01.png
+e663f552e255b005a81aa5568625950d780ff004         71685  Generator/Face/Acc2_02.png
+e663f552e255b005a81aa5568625950d780ff004         71685  Generator/Face/Acc2_03.png
+e663f552e255b005a81aa5568625950d780ff004         71685  Generator/Face/Acc2_04.png
+e663f552e255b005a81aa5568625950d780ff004         71685  Generator/Face/Acc2_05.png
+867abb7bf5f5ccbe9ccc295ff492c9a8bde3ca1e         53226  Generator/Face/Acc2_06.png
+5ad528fc0432cd0f81fb016fe8d0452f8f57d22a         15843  Generator/Face/Acc2_07.png
+87a630170ad67e874bc2aa00e15d36d7e04376af         25927  Generator/Face/Acc2_08.png
+87a630170ad67e874bc2aa00e15d36d7e04376af         25927  Generator/Face/Acc2_09.png
+87a630170ad67e874bc2aa00e15d36d7e04376af         25927  Generator/Face/Acc2_10.png
+89d3ff55e66208e822cf9a6482d703f800e9ba8b         11249  Generator/Face/Ears01.png
+b4f1fc9eeb5e1462f69b671f29145d9c8900932d         17123  Generator/Face/Ears02.png
+538e3f9f825534d8894ac9ac45edf7217dba6c47         20539  Generator/Face/Ears03.png
+dc5ed1b597bbb7d943330c2cfc5e0acbca2ae77c          8272  Generator/Face/Eyebrows01.png
+5eab85eca7fa4b6b5c0c29949c505a880de0edf8          6329  Generator/Face/Eyebrows01s.png
+d4e30ffd5548da97414d2781b5a2c6a71bc26088         11241  Generator/Face/Eyebrows02.png
+24611fdc4f13752168574298c434ef9010547de2          5914  Generator/Face/Eyebrows02s.png
+f360e86f5403c2199a68471a9e1b6eed11f0a141         11459  Generator/Face/Eyebrows03.png
+a8a3e6f97606326920234cbc6c7c0e4b98a8eb12          7284  Generator/Face/Eyebrows03s.png
+6e76980057e0700c4f33feda6e061c70b515ff2f         12676  Generator/Face/Eyebrows04.png
+4f7e5b0cf0d78f38e0ec190e30a980a464fcc220          6604  Generator/Face/Eyebrows04s.png
+0b3cf89c9fa3245fdc2d8b42dcbe12d1dca5a0f5          9166  Generator/Face/Eyebrows05.png
+7791d4468fe46ec872850d57e25cbce557ccb92c          5238  Generator/Face/Eyebrows05s.png
+7c457a29eca072017a620d43d62282b010b08c0b          8211  Generator/Face/Eyebrows06.png
+393c90574ce224a6b3ee9fc027f3536dcf9767ca          5300  Generator/Face/Eyebrows06s.png
+0d87e3c7176dbd13370e77186217ddf3ca7fee6b          7956  Generator/Face/Eyebrows07.png
+6a29e8896f4a13c553b31f85460ae8aab0648171          5695  Generator/Face/Eyebrows07s.png
+2e33356a796034bb8c3471ac4c99d505cf457eba          9216  Generator/Face/Eyebrows08.png
+908ffd926a3bff3c47c59999d76521ae389a765e          5899  Generator/Face/Eyebrows08s.png
+d4099c72c57c4db51389430de613176ae4a3b66d          7781  Generator/Face/Eyebrows09.png
+b567a91acb6a2be636c5acbb13bc9fe2081ebfc8          5169  Generator/Face/Eyebrows09s.png
+95b80a8321fda1e3252248b37bc7c36cde9fb36f         20674  Generator/Face/Glasses01.png
+5b2e6b927f9ea4860e2ba74b001560422e9beed8         23537  Generator/Face/Glasses02.png
+7d12519d3d1b5eb88f713718822bcbffd4c65dca         16365  Generator/Face/Glasses03.png
+b83e8e9038023dfc1b8444debcca7b2627c42d6f          9999  Generator/Face/Glasses04.png
+b83e8e9038023dfc1b8444debcca7b2627c42d6f          9999  Generator/Face/Glasses05.png
+6ee4d387718546c163c40055a1fe26eb2a62311b         26109  Generator/Face/Glasses06.png
+0521ee566f8af821552a15f707a1f4fc8b25f95c         61082  Generator/Face/Kemono01.png
+0521ee566f8af821552a15f707a1f4fc8b25f95c         61082  Generator/Face/Kemono02.png
+0521ee566f8af821552a15f707a1f4fc8b25f95c         61082  Generator/Face/Kemono03.png
+0521ee566f8af821552a15f707a1f4fc8b25f95c         61082  Generator/Face/Kemono04.png
+0521ee566f8af821552a15f707a1f4fc8b25f95c         61082  Generator/Face/Kemono05.png
+ce93afa5b4492a42feeefc063f6c91f2b73060eb         41898  Generator/Face/Tattoo01.png
+f2749bad22b5c9cc4d31126c5ffc43a2ba168b33          7922  Generator/Face/Tattoo02.png
+0ff37f3acc0c93ee57da601e01edbc4e6c2e7282         21843  Generator/Face/Tattoo03.png
+58482722548d0134584986d9661001b6c2c5587d         12094  Generator/Face/Tattoo04.png
+b7f73007eed8b8cb9ad66e58b7fc64ae240ba045         26022  Generator/Face/Tattoo05.png
+4af41134f6a6a6f798c4fa90e6ac17fe91b69cb2         16173  Generator/Face/Female/Eyes01.png
+e998f1e7a2a5230ab4b546353ab7d77a487258c4          6823  Generator/Face/Female/Eyes01s.png
+24f783624ff0591b940836f313bd9b83147f5a27         14788  Generator/Face/Female/Eyes02.png
+cf90e67d1a1c39519e2b8e42ed350b28c7aca7a1          8541  Generator/Face/Female/Eyes02s.png
+19d693e75621005fd6798b621a1cd158b5783fe7         14394  Generator/Face/Female/Eyes03.png
+68ebf340d94933f529c75fa6fa8040cd3fb32886          6934  Generator/Face/Female/Eyes03s.png
+63a309bbee384eb2c03bc493b603ab2d7c1207e9         13101  Generator/Face/Female/Eyes04.png
+b08ac5fe6bd4fb04b82f330b1b6b4c2940e323e5          5924  Generator/Face/Female/Eyes04s.png
+ac74f0247a22521b45e5e0502a9c9a39f36c5743          9357  Generator/Face/Female/Eyes05.png
+5763c7e6e35f5dc566757b3096defba5be36ef12          6946  Generator/Face/Female/Eyes05s.png
+c44fb8f06f2846ec75465f1a6ea0b4110e31d126         10037  Generator/Face/Female/Eyes06.png
+5763c7e6e35f5dc566757b3096defba5be36ef12          6946  Generator/Face/Female/Eyes06s.png
+864059a9e0224de2f514b0a9b7d67f1bfb48b3c1         14270  Generator/Face/Female/Eyes07.png
+d5b1c8e0f91ceb0f9315778a6359823d85610382          7529  Generator/Face/Female/Eyes07s.png
+cb2036b0951cd8218fc1ff80149f5dd9e93ee57f          8717  Generator/Face/Female/Eyes08.png
+b04b8e03370f9a0357ad1c607730588605511650          5271  Generator/Face/Female/Eyes08s.png
+8ecc269cea0b15c484f6ff4c95a7ae53a436b1d5          5333  Generator/Face/Female/Eyes09.png
+ff924e6a019a233f18ef3416ffc644bbb3132771          5343  Generator/Face/Female/Eyes09s.png
+1ca8376c99f1a239d81006b6fdfdd293dcc52578         10660  Generator/Face/Female/Eyes10.png
+3f7c647d781afb39983ee75ce47ae63ea480d746          6206  Generator/Face/Female/Eyes10s.png
+5993f533a738ea7885c793c0b10e5deea1bc821d          8440  Generator/Face/Female/Eyes11.png
+c547fa583fe293be7804dd77a5f052909ecf5230          5659  Generator/Face/Female/Eyes11s.png
+a2a1e15e3ea82010e781b927d1461e60cc2e8d4a         36718  Generator/Face/Female/Face01.png
+73169482676d56e7e04ec7fd23048382fb97cdda         40055  Generator/Face/Female/Face02.png
+48551f8953993b7cc4a6b67e665985fb9cb93e99         44188  Generator/Face/Female/Face03.png
+8590b503a2f34d712cefb93a26829492a4ae31b5         46362  Generator/Face/Female/Face04.png
+989ad2473dda33f0948eaade2cbaab27122c6ed8         44709  Generator/Face/Female/Face05.png
+d73c7be9f02155b0c6b1504d3a3957e5783d3b3f         42707  Generator/Face/Female/Face06.png
+0f53c7b2d57582eef210a5928a4c9642b439f9dc         47478  Generator/Face/Female/Face07.png
+dc9be188b7a5ac9d8c8b0abdb2ff173427dafc5e         47437  Generator/Face/Female/Face08.png
+0a0e9fc4e8003db184d5ecd61b5ddfce882c6daf         40504  Generator/Face/Female/Face09.png
+07ebf265b07026e4880276baf23f9b4868adf7c6         43628  Generator/Face/Female/Face10.png
+92b89dee8788e615ae8efb80ffd434ea5a1dabd5         38600  Generator/Face/Female/Face11.png
+882f717dc82814d212e76f1bb699440e2d776a59         42733  Generator/Face/Female/Face12.png
+504e91174875a60828ab820f83c842f9827c6b5e         47363  Generator/Face/Female/Face13.png
+87ade3b1272e60644da7a7fe737e43c81525a74c         52651  Generator/Face/Female/FrontHair01.png
+f742409dea2ca9ef32976ca7eba84ca876547b98         10433  Generator/Face/Female/FrontHair01s.png
+7e2dd9e76fc707b92251464abaf3a0b60cd25c11         56794  Generator/Face/Female/FrontHair02.png
+e9d1cfef3e0f910c30f385374bf223d7967a1380         10046  Generator/Face/Female/FrontHair02s.png
+6a27dc55eef940a2efd12af3a9d212aca9003c52        101678  Generator/Face/Female/FrontHair03.png
+95e2224005a454ced3980d7de46fa6cb2d8a3898         15956  Generator/Face/Female/FrontHair03s.png
+db3292cc7c808138ebae3e5471f720cc5ef2cf85         60740  Generator/Face/Female/FrontHair04.png
+2ee1bb7dd127ded6ce3bb8d02adf5694db241252         10694  Generator/Face/Female/FrontHair04s.png
+29f4a3448ae5d8fc0c06e68346617d72d33a5a62         80701  Generator/Face/Female/FrontHair05.png
+6ebf06be09bb0f684e9723f7a994517e43388366         13209  Generator/Face/Female/FrontHair05s.png
+565c12e1adf5e34c6d113daf4b218691516221d5         84396  Generator/Face/Female/FrontHair06.png
+af262d11107fdcda7c12dfa3447b33d808cf1c0c         13596  Generator/Face/Female/FrontHair06s.png
+2ffe4ac38710831dba637f1a664e09747936b6c0         72618  Generator/Face/Female/FrontHair07.png
+bea8458613f3770580c0e82720532c21e5aff590         12874  Generator/Face/Female/FrontHair07s.png
+8c7a96db78ba41731549d72382caaa7d2f1f1743         60378  Generator/Face/Female/FrontHair08.png
+e6f79f4aa9bf0075114d72dfadf820b57b5406cb         12252  Generator/Face/Female/FrontHair08s.png
+e8f5bbf8c86a88c24001c7c4b4a4613194cdc43e         78430  Generator/Face/Female/FrontHair09.png
+5ff49e9445d23038244250b6f07897b2a76322e8         13530  Generator/Face/Female/FrontHair09s.png
+d28da2833dfb58e5975ce1aee8b12d05cb9d12cf         79967  Generator/Face/Female/FrontHair10.png
+1c888a3bcf62eb9d728b0d1f81c1fa16f1d71d99         12075  Generator/Face/Female/FrontHair10s.png
+8eec8e1710e82a64d9cf58d86e8bcd999565c29d        111678  Generator/Face/Female/FrontHair11.png
+b4667d02f516b773ccad1f449d465a88645b4865         18187  Generator/Face/Female/FrontHair11s.png
+78a345e5f13b78a11b35a2667fa55bc23bb4191a         66171  Generator/Face/Female/FrontHair12.png
+1a809ff9ddd4ca9544e2ee0fc6256875958bc739         12324  Generator/Face/Female/FrontHair12s.png
+aa1915d33a843b720806e8cc5e0ec86921a370d2        103753  Generator/Face/Female/FrontHair13.png
+893f6afc1cff524bd5a75321c4596b5ae55a32cd         16941  Generator/Face/Female/FrontHair13s.png
+dbf40841f74c16d55a4a9b6d8d7739a41f6be4ab         66489  Generator/Face/Female/FrontHair14.png
+50701533b1173b47fd3daac66a804ccedef30f19         12670  Generator/Face/Female/FrontHair14s.png
+48b2b04cc891c0a72ba9b841e55e626597a93783         88987  Generator/Face/Female/FrontHair15.png
+e5cb3f347aab226b37edbda8b53baec7c810faea         13826  Generator/Face/Female/FrontHair15s.png
+9fbdd0eee0ce3f6327a675780b3fbd4ad1708998        109176  Generator/Face/Female/FrontHair16.png
+84460264901c6ebbe8bdbdee73f3f711ae8cc26f         17190  Generator/Face/Female/FrontHair16s.png
+6d3e1c442b6fb1c35ba798f371756694bf10529e          6506  Generator/Face/Female/Mouth01.png
+575124969156b73f9f478444012c4d39891f1f16          5977  Generator/Face/Female/Mouth02.png
+563be6600680b948534d5f822bf4a07d77562c2a          6260  Generator/Face/Female/Mouth03.png
+1c3f1a7040f2d57e61967af783051f3ecd588e67          6226  Generator/Face/Female/Mouth04.png
+7feeafc8a4659b5b77df4331ade80a84dcb96396          6017  Generator/Face/Female/Mouth05.png
+c9417455014b3f3b7a26cd5fde9b322064d11316          6250  Generator/Face/Female/Mouth06.png
+245588efd7d4279b37c0b03762d7e3558aee2c31          6832  Generator/Face/Female/Mouth07.png
+214688a84363d95d2085d29686f4258330e316fc          8314  Generator/Face/Female/Mouth08.png
+c9b5572b9b087eef10582a7297b9487a083b27ac          8748  Generator/Face/Female/Mouth09.png
+299540fd0dd622779528c8eaa99ef3b15e15d5d8          7892  Generator/Face/Female/Mouth10.png
+8c5001fad520edd3d73b330916b5508d1f64c705         57165  Generator/Face/Female/Neck01.png
+b28864c2441ddbaf62830f9ca6899807048b63ff         62839  Generator/Face/Female/Neck01a.png
+76db9263274b0795fca17626961a262a03f82677         57531  Generator/Face/Female/Neck02.png
+b6de970705e05bae0eb912482d7b9cd17e2ce1bc         68520  Generator/Face/Female/Neck02a.png
+cc9574094fc99f5b5bc7098c4f8a14f94806f528         56549  Generator/Face/Female/Neck03.png
+a4f9fa66feb3e1292f37e3b69dfdb18cde51581a         57032  Generator/Face/Female/Neck03a.png
+55a7b970681f947cd63d31f20d1f162f17581811         42181  Generator/Face/Female/Neck04.png
+39b467d8073db054031aa9049c39c823d7ac5c2d         43384  Generator/Face/Female/Neck04a.png
+d5489d863f443792309e674a0cdbeac29e0fad88         48255  Generator/Face/Female/Neck05.png
+a866149ba9c9fda4af5a580bd2a66ce5b116a2c8         52789  Generator/Face/Female/Neck05a.png
+2b0fa4eb878667511cd9762313b8620e2a87f3e6         86114  Generator/Face/Female/Neck06.png
+f7407891486581480d3af2716b0095fd6b75911c         88523  Generator/Face/Female/Neck06a.png
+255588aefcfa1c9377e98523ebd3b9e7b13ddd87         85961  Generator/Face/Female/Neck07.png
+a4a3ae047e8896af2c8298ab53ca9687e50ae160         90815  Generator/Face/Female/Neck07a.png
+1d4d00419ffb09c8d2efb2f53cd4aa80efb64fbe         81244  Generator/Face/Female/Neck08.png
+77b01e313f5f1377d66e9f9054c46c0619b4b03d         77115  Generator/Face/Female/Neck08a.png
+b9b80152ce8dabe94082f5190529b0c59636dded         65381  Generator/Face/Female/Neck09.png
+d95484852792b08563627045ab3b1e686b3296ee         72634  Generator/Face/Female/Neck09a.png
+c8bceaadc66e2a0b863ba77c1230b7939f6785bf         83213  Generator/Face/Female/Neck10.png
+0d17522a21058495cbcdcb1f5d4ab1aa8d57dbf6         88944  Generator/Face/Female/Neck10a.png
+bf70c46d79c848977ed8299036afde95f644d597         72878  Generator/Face/Female/Neck11.png
+c11bb6556c11a89857d286e2ddf1cb34240ebb06         76609  Generator/Face/Female/Neck11a.png
+bdd213421172204ecad376095ea6fe7f8e2e37ec         85045  Generator/Face/Female/Neck12.png
+1189f86d01d4fef7c14703f5830d3ca4fba46fc8         87805  Generator/Face/Female/Neck12a.png
+cf73f4d2e8b3dd07827f5555fbf7ac3f4a499d16         56946  Generator/Face/Female/Neck13.png
+d28aa714f718c01730e656547c813b6863103d9f         59459  Generator/Face/Female/Neck13a.png
+3dce6def7f8c7fa2bee612ffd61839b88ccb1949         88024  Generator/Face/Female/Neck14.png
+9aa635a8e105e47a7a6bc65379c3ae992cd30ce7         90387  Generator/Face/Female/Neck14a.png
+2113639c5c21c28f6e4f53ebb066431d42925a17         75210  Generator/Face/Female/Neck15.png
+bb2e7ad18c53c9a5af3bf91f0d1149af83c88a15         79456  Generator/Face/Female/Neck15a.png
+ce3a45772ae2788436af12ee37a6aa187b032316        123005  Generator/Face/Female/Neck16.png
+55849d7f9980f523ed48b0a8da1a1d74e37d954a        148588  Generator/Face/Female/Neck16a.png
+79dd0d16f1e33022032b81a3da6e1edb8ed5d997          4400  Generator/Face/Female/Nose01.png
+b740cec90171d837432ca5ff5a20afe35514756e          5977  Generator/Face/Female/Nose02.png
+aab865f96e09308fd7016f618aed4024c999aa05          4787  Generator/Face/Female/Nose03.png
+99d7b1958f2528ef4f26ff334d6d278e29390006          6388  Generator/Face/Female/Nose04.png
+2fb83bf8372a14d12983d70b4b2501b4a83cd28c          4422  Generator/Face/Female/Nose05.png
+5b107a521df900ecf00542313fe1ebbae57daaa7          4318  Generator/Face/Female/Nose06.png
+ae89963e41672df782c76c19114faf71a28a53fc          5876  Generator/Face/Female/Nose07.png
+03934ad520e8342fb6ad2df40adaae175867c9ac          5895  Generator/Face/Female/Nose08.png
+61aba9c051294e0a636a4455fce3414e4bfa7e7d          5335  Generator/Face/Female/Nose09.png
+656bdf57622e9fc6f726601c1a96c4f2c518d086          5852  Generator/Face/Female/Nose10.png
+8134cc7e9fd9621fc33ed12ad6e0d4ceb6c38c89          5635  Generator/Face/Female/Nose11.png
+948f07626d2cbe1a711e305a92efc66a46a1b37f        135540  Generator/Face/Female/RearHair01.png
+6fd86ddac33a048fdae094001a593288e0e46801         48265  Generator/Face/Female/RearHair01a.png
+eb9c6685ab3faa7208d182930eec5336dba3f426         98109  Generator/Face/Female/RearHair02.png
+c705bb2c55b29cd4c74d941cbe2d3b4918d8aecf         44217  Generator/Face/Female/RearHair02a.png
+352f98cb3ba404aa4edd5b77ccafadc5e0f035a9         87154  Generator/Face/Female/RearHair03.png
+f7923d5e9d0e10d0e776ff330a69625d00463eb1         52066  Generator/Face/Female/RearHair03a.png
+b63f62b14d51b2eaa9dfc2b2773047119c3e3666        144115  Generator/Face/Female/RearHair04.png
+799db4b1e4d983ff8b227a56f5f46595fb915c4a         47572  Generator/Face/Female/RearHair04a.png
+62ca2de580fa6c2fa79fa2962382626678c4f4f1        108413  Generator/Face/Female/RearHair05.png
+f75050d1fd96589257dbe98450a6b117d4d97d63         54686  Generator/Face/Female/RearHair05a.png
+b0d055d394fa4d065592d894d6c4850595079ac1        119252  Generator/Face/Female/RearHair06.png
+240da2b7cb6923f21bafd03cc87ee76e1c1165ce         48638  Generator/Face/Female/RearHair06a.png
+e9dafde209a6195329dfc2e2bb89db27bf30ee3e        172740  Generator/Face/Female/RearHair07.png
+cec39efd53ae54bf897ce17f240a454443fc3011         51030  Generator/Face/Female/RearHair07a.png
+18f6b092ebc4f066a0b2624e3b7d155ff8037e0d         82986  Generator/Face/Female/RearHair08.png
+5e79cfa703dff4e6fd18ad12e45ea02a7cc0b09b         49781  Generator/Face/Female/RearHair08a.png
+495216ba0f1c535dca95b80b92ce3c607e7f65df        117219  Generator/Face/Female/RearHair09.png
+9a17821f109ef04810e7715333289008ae94dfac         49104  Generator/Face/Female/RearHair09a.png
+6dc2a779ccc3c98ccf7fcdb03a6a7f4594e2fd5d        107558  Generator/Face/Female/RearHair10.png
+142ca86dc31a6c849a110734f9d2a5658c6b4dbf         49434  Generator/Face/Female/RearHair10a.png
+bb1adf39ea4a0364263f8148e9988dbf1c07b5c8        111248  Generator/Face/Female/RearHair11.png
+14add12bfb208b2ac54eec088063da932df1ad01         51254  Generator/Face/Female/RearHair11a.png
+7e83d5b18f5f7cfe406e243aac08dd7b6c4e3eda        102709  Generator/Face/Female/RearHair12.png
+b13e875091213f55a53a129fe00cfb70eb0d2cb4         54522  Generator/Face/Female/RearHair12a.png
+c88f902b84bdfc97ab9626ca914a9f8cbcf06e3a        150371  Generator/Face/Female/RearHair13.png
+4be2e5a4c618384fe330dbeee8faa231cb6caac2         50533  Generator/Face/Female/RearHair13a.png
+50b82cb042915970d049e174d89c2f93a85bd768        160054  Generator/Face/Female/RearHair14.png
+3c0e9b86605da609be78d9150a57fa6f760495bc         47765  Generator/Face/Female/RearHair14a.png
+c2e665d1802c8f3a0998c8a9412dcf0f356776fb        182630  Generator/Face/Female/RearHair15.png
+922414e25cfd9fc664ae7162b062765a1eda021c         49236  Generator/Face/Female/RearHair15a.png
+96be2e1b0054b72da2ab1c2565a3a77e085f591d        107436  Generator/Face/Female/RearHair16.png
+b4883ce79fc693587ce10692d3f9db2534f77195         58509  Generator/Face/Female/RearHair16a.png
+d42f0d42d73eec37afddc6d2418e7e919be15f48         11381  Generator/Face/Male/Beard01.png
+ae5d91283b53b14b3b4afc37708aa8804e3962ff         14422  Generator/Face/Male/Beard02.png
+55e4077af94ea02a5ce47a5f449cfaad6e4439b9         35966  Generator/Face/Male/Beard03.png
+895ebc7808eafaa8d892ce0619fbf85384d51914         15256  Generator/Face/Male/Eyes01.png
+891f3e6e638db3a278668349708bb4f0caa246ed          6721  Generator/Face/Male/Eyes01s.png
+533d7fa29abfe0399a3b323d6eb3369edceaef50         13587  Generator/Face/Male/Eyes02.png
+572a4a5fd8ec9a1125381fb2dd4617e439df2368          6346  Generator/Face/Male/Eyes02s.png
+408af92065f2f912cb015f202100cd66d2e8e19d         17127  Generator/Face/Male/Eyes03.png
+3cc5e9191c4ea5b25bcd1c8422757b8029dbf63c          6873  Generator/Face/Male/Eyes03s.png
+e01ebf87ab789c15e1104a99cbde552a67037d34         11436  Generator/Face/Male/Eyes04.png
+fb6bf1c146aed3fbedf8930117acf52d42dd067c          6768  Generator/Face/Male/Eyes04s.png
+a00e1add7377f123e28ffeec23a1059c8fd038f8         15197  Generator/Face/Male/Eyes05.png
+b7c94857b715c659582b9831a1c5a0d1979e4c9e          7461  Generator/Face/Male/Eyes05s.png
+08e88081e77414e2c9972fd6c2b977b0de16aaa6         13181  Generator/Face/Male/Eyes06.png
+e962843f8fa268b3dd3eb7feedeeb4edee0cf570          7545  Generator/Face/Male/Eyes06s.png
+b2b5d4ed9eec61976187e422c3c161ed67797c19         12497  Generator/Face/Male/Eyes07.png
+ab1041be57a823bc82cad07c051b2f25a790d61d          6524  Generator/Face/Male/Eyes07s.png
+bd7cf374cfd9c37bacdf3f1e2325a41139edd794          9050  Generator/Face/Male/Eyes08.png
+4b827d1f7e825e9491643d920cfd58e61066d3fc          6529  Generator/Face/Male/Eyes08s.png
+e3d2bb7624eaea464efeb98cc732119ab554e438         15357  Generator/Face/Male/Eyes09.png
+ed52ee995672598582f39f73901272cb285ee743          7240  Generator/Face/Male/Eyes09s.png
+4a122cdabd5216680bfad036369e01f3ac6d2be1         13474  Generator/Face/Male/Eyes10.png
+358350058fc5d5f850352ca6a2367666727ae491          7627  Generator/Face/Male/Eyes10s.png
+ebcaccc7ed1c4ccd7370b9227e9fda2cbd96340e         46994  Generator/Face/Male/Face01.png
+b55b41fc844fecc6bb0d37965635e5099d77f0e8         45281  Generator/Face/Male/Face02.png
+c7398ea4e141e3146a1f5710d7f579c42149b879         42384  Generator/Face/Male/Face03.png
+d5577e8cc442a055283f251417b61520b4e288c5         46515  Generator/Face/Male/Face04.png
+adaf1e8aa33f34e0401d29e183947ff42b6e2668         45807  Generator/Face/Male/Face05.png
+3e0ec70744fd6e20b99bd834b165ce9f43bf450b         43553  Generator/Face/Male/Face06.png
+83b63f94e66a21ed71533c4fdd93fdcb81a5d903         43258  Generator/Face/Male/Face07.png
+64959101e6822cfccd56d0988e4c3df09760e377         44137  Generator/Face/Male/Face08.png
+254ff414b1ef745dc8c1969b5cfa66e58bf3f7bc        119589  Generator/Face/Male/FrontHair01.png
+a05acf2695f40646438e49d8c6b17509132bd35d         16330  Generator/Face/Male/FrontHair01s.png
+35d485db84c50f2633ea8956100eda5f0ab49606         56480  Generator/Face/Male/FrontHair02.png
+59fee1e9790acfb1090da8ccff2b49fa1ef9ef68         10272  Generator/Face/Male/FrontHair02s.png
+65f429eaaebd7af0cc4b7935a1d8981e843ccf3a         54050  Generator/Face/Male/FrontHair03.png
+a9ecf84f8955f8c447d9cfd92f5b0638aaf17616          8814  Generator/Face/Male/FrontHair03s.png
+be7302cc641aa8ce9e1eea9bba01036e1711a186         57600  Generator/Face/Male/FrontHair04.png
+d4e2a0a1ebb4f04cb779fe6c7bda28a61477a0a3         11321  Generator/Face/Male/FrontHair04s.png
+89e04c38d9b4d0b11e84a656ef2bca9bef7ad342         31580  Generator/Face/Male/FrontHair05.png
+d2cff5518fafbc6a66413f30d7de5da55b9fd11c          7897  Generator/Face/Male/FrontHair05s.png
+e9af9bb5515c079e0360009187dc1ca6672a1a49         62449  Generator/Face/Male/FrontHair06.png
+6c584f8c6a3ab76e96660121337eb7fba44223ab         11143  Generator/Face/Male/FrontHair06s.png
+9809ece6796da3bc07f0f0ef1a43384a34f19227         65253  Generator/Face/Male/FrontHair07.png
+cd113404c8bf702c57a919568f2ebd606921470b         12692  Generator/Face/Male/FrontHair07s.png
+ad88fcec1cb4bd373918030138b7500cd1539d43         42892  Generator/Face/Male/FrontHair08.png
+fb8592e8630d609f056c29940ea08488d08dbe18          7687  Generator/Face/Male/FrontHair08s.png
+56d95ce0931dafc3489eef5c531566c31b93826e        112122  Generator/Face/Male/FrontHair09.png
+e806a3192b9ed1499b1c3da952eda7fee5508a1f         21016  Generator/Face/Male/FrontHair09s.png
+4430ee4fd033a30014c125034dedebeb46bef96a         78201  Generator/Face/Male/FrontHair10.png
+1576e06b6d05d31fc7c992e6f81d510b71693d32         13067  Generator/Face/Male/FrontHair10s.png
+d4b5a717ed231483a0a75453b8c8cae33a4f3bba         62197  Generator/Face/Male/FrontHair11.png
+8f2e275512ca84c4e998cd4daa79056cd54d3779         11318  Generator/Face/Male/FrontHair11s.png
+aeb903667a553e8e23af0d22c7e14699f4a34c34         10707  Generator/Face/Male/FrontHair12.png
+90b66a3e56aa1ef18e81fb4b185f668372f603d2          4889  Generator/Face/Male/FrontHair12s.png
+e8d090ff42ce2721128d889ea02f9b9cf900a053         21866  Generator/Face/Male/FrontHair13.png
+f999e29c317412b283083f2c1cda25f22eab4795          6519  Generator/Face/Male/FrontHair13s.png
+7cb9984855c3da9d2ed6a891ac4412fa4c97d082         54454  Generator/Face/Male/FrontHair14.png
+9379cfa47ee1c1f7e4d5be0740afb1932d597aed         11215  Generator/Face/Male/FrontHair14s.png
+743024b92bd30a8f11a541495f60dec6702f4087         98094  Generator/Face/Male/FrontHair15.png
+76a5c6a0c06e5c4107e7d2c02e8b98ff55770b24         17726  Generator/Face/Male/FrontHair15s.png
+d344a24b06b2113d5be45a60eea803ba4ae69553         94123  Generator/Face/Male/FrontHair16.png
+981c71548b0343fe61ca917575e3711bff6f6ab5         10620  Generator/Face/Male/FrontHair16s.png
+1c99488a225047eddd5fb6aa57c42aa18f8041eb          6588  Generator/Face/Male/Mouth01.png
+82d1fa735697202afd40065176063b74f68cce6b          6153  Generator/Face/Male/Mouth02.png
+757d60d17d5ba4343ace871ae446a6e5ad2273f7          5946  Generator/Face/Male/Mouth03.png
+216f28164c93a76b045c602ded30898a62acc116          6700  Generator/Face/Male/Mouth04.png
+e003b0586914f314f1dab2230d811d4fdf4e6bd7          7548  Generator/Face/Male/Mouth05.png
+0d17cdc16514d0c4105450c26f95603e2409d541          9173  Generator/Face/Male/Mouth06.png
+31e7e6f6378d5cc55406bde724c916fd081f197b          7315  Generator/Face/Male/Mouth07.png
+a822e69156a65075d482c2bc73fb14352a422f90          7922  Generator/Face/Male/Mouth08.png
+f4998963542f24085b094c8cdcb048a4faf2b843         67091  Generator/Face/Male/Neck01.png
+6db62f5bbffbe32725d60c11df5ab8697fd5723c         67806  Generator/Face/Male/Neck01a.png
+1e6d733d4b3961a4b8adddb744132da0b76e6889         52508  Generator/Face/Male/Neck02.png
+487fb112324504e88f5453c2a3463ca67ab16cf7         61813  Generator/Face/Male/Neck02a.png
+f68c217e8e64dc4d33fe2caa79b69ea76c7ac21c         64374  Generator/Face/Male/Neck03.png
+4d154667ee30c8ca9d87ebff1d534b33be2c8bc0         71433  Generator/Face/Male/Neck03a.png
+37eda1963bc9ef3a1b59045c649edb7e8c18ff15         43290  Generator/Face/Male/Neck04.png
+4a4ad0a4eb5e7f75ad179f294ed500b30a7b1cf0         41703  Generator/Face/Male/Neck04a.png
+1782cd355176e01fe2c21f2c098b5ec70423b8d9         42808  Generator/Face/Male/Neck05.png
+9313552d9f166d99554244ebddedfaa388ccf211         46770  Generator/Face/Male/Neck05a.png
+627744aee8ac1f4a083180adfbf9f1ed32fc762d         68781  Generator/Face/Male/Neck06.png
+4cc8f2c3f1163768cc76557812c9762ed1d6bd16         78642  Generator/Face/Male/Neck06a.png
+724c6a9aae2907969abe918d6e61e4b51b31909b         64361  Generator/Face/Male/Neck07.png
+0a20548802d5c44d72499cae0d050d52f909a8a6         70141  Generator/Face/Male/Neck07a.png
+9dc3498be0c541a9db0c4d8e8d5c442e6192db53         71826  Generator/Face/Male/Neck08.png
+4246d42084703445bdbfa769576529f6d5b0f379         78925  Generator/Face/Male/Neck08a.png
+b9b80152ce8dabe94082f5190529b0c59636dded         65381  Generator/Face/Male/Neck09.png
+d95484852792b08563627045ab3b1e686b3296ee         72634  Generator/Face/Male/Neck09a.png
+c8bceaadc66e2a0b863ba77c1230b7939f6785bf         83213  Generator/Face/Male/Neck10.png
+0d17522a21058495cbcdcb1f5d4ab1aa8d57dbf6         88944  Generator/Face/Male/Neck10a.png
+bf70c46d79c848977ed8299036afde95f644d597         72878  Generator/Face/Male/Neck11.png
+c11bb6556c11a89857d286e2ddf1cb34240ebb06         76609  Generator/Face/Male/Neck11a.png
+bdd213421172204ecad376095ea6fe7f8e2e37ec         85045  Generator/Face/Male/Neck12.png
+1189f86d01d4fef7c14703f5830d3ca4fba46fc8         87805  Generator/Face/Male/Neck12a.png
+cf73f4d2e8b3dd07827f5555fbf7ac3f4a499d16         56946  Generator/Face/Male/Neck13.png
+d28aa714f718c01730e656547c813b6863103d9f         59459  Generator/Face/Male/Neck13a.png
+3dce6def7f8c7fa2bee612ffd61839b88ccb1949         88024  Generator/Face/Male/Neck14.png
+9aa635a8e105e47a7a6bc65379c3ae992cd30ce7         90387  Generator/Face/Male/Neck14a.png
+2113639c5c21c28f6e4f53ebb066431d42925a17         75210  Generator/Face/Male/Neck15.png
+bb2e7ad18c53c9a5af3bf91f0d1149af83c88a15         79456  Generator/Face/Male/Neck15a.png
+ce3a45772ae2788436af12ee37a6aa187b032316        123005  Generator/Face/Male/Neck16.png
+55849d7f9980f523ed48b0a8da1a1d74e37d954a        148588  Generator/Face/Male/Neck16a.png
+ad42e58f573ed873ab65f8c92ca46cdb67dc7c36          4369  Generator/Face/Male/Nose01.png
+1b36f52da67b14020ba6b43244b52b08cfc316bc          5481  Generator/Face/Male/Nose02.png
+aadad571645e2c8f09ecf4436aa9357858d1f4b5          6034  Generator/Face/Male/Nose03.png
+c6aa7efeadab51babc9ca6f172b22abc55b199ac          6515  Generator/Face/Male/Nose04.png
+3aca385a32f6b5720df3db705bcca8ee99f88f7c          7850  Generator/Face/Male/Nose05.png
+8be3aaf6a2c4146094201ef940050c707ef0907c          8873  Generator/Face/Male/Nose06.png
+ae0006ba19a6a7bb1492329562bb30b9ab984b41          5932  Generator/Face/Male/Nose07.png
+d1450d4ce40807f6de49da7c63a3579179d3d4eb          7381  Generator/Face/Male/Nose08.png
+0607cf67b8ceb85b4f795ba1b4c11c464a911cca          6080  Generator/Face/Male/Nose09.png
+3998efc3c583660af0c2e2fd25aedf3ded739ee4          8928  Generator/Face/Male/Nose10.png
+2750fc9c31570a85e4bc61d0ed108626d255977b         92716  Generator/Face/Male/RearHair01.png
+cebc1b08fe01ed9365d53166f4c4598168d14fde         56167  Generator/Face/Male/RearHair01a.png
+94eaad2840718173626e000e4e8df75078063293         73989  Generator/Face/Male/RearHair02.png
+bd1310da9ba9e3cfc8a126095db386c4ddd1857c         51106  Generator/Face/Male/RearHair02a.png
+c9b506a4c3690fbff1321f83e6d261823f2c0d86        139039  Generator/Face/Male/RearHair03.png
+95031d3c4b70bcf574149290383de8734a64b58e         69103  Generator/Face/Male/RearHair03a.png
+321d4fefe7d5bbb9151cc3f9b0188593e3d59171        120786  Generator/Face/Male/RearHair04.png
+0ef8018d39321c69d8ac0e970e056bdfeedc0e73         60282  Generator/Face/Male/RearHair04a.png
+c53d444c8061db0a477c2e5420343dba3713fbfb         45347  Generator/Face/Male/RearHair05.png
+c53d444c8061db0a477c2e5420343dba3713fbfb         45347  Generator/Face/Male/RearHair05a.png
+62ea9b5ed8ffd5e08bdfb69187c21db2b4230cc1        177475  Generator/Face/Male/RearHair06.png
+fb9e2a78d265c2fb449762a432990c79a2315df8         65285  Generator/Face/Male/RearHair06a.png
+fa8116eaeae7ec619a7afb3802d7bafd1f4661f3         99176  Generator/Face/Male/RearHair07.png
+0e2ad89d40e29d650b4479e327066c8072e0644b         59782  Generator/Face/Male/RearHair07a.png
+8e3bfe67b853078128e02364cb5d0a268d409747         98585  Generator/Face/Male/RearHair08.png
+5f2d0a4b0345683e6ec1c994ab649e21e333c460         53785  Generator/Face/Male/RearHair08a.png
+1b5f0b117c521903f94603e7e4116d493b0215d9        143412  Generator/Face/Male/RearHair09.png
+a01c489deb5035a002b822c5ea11a89f7aceb1cb         77961  Generator/Face/Male/RearHair09a.png
+c57c7b4a7397e9064c146b1cfa39b4d09d14fcfe        128189  Generator/Face/Male/RearHair10.png
+d4793cecec4fb1c137d6051423ba5ab16c8660c0         52342  Generator/Face/Male/RearHair10a.png
+8ef673d30e08f58403dc0fdfa641e3ebda1ff57a         99732  Generator/Face/Male/RearHair11.png
+77bcdf866eae2a76bbf8e6057f79217e06c259f6         60229  Generator/Face/Male/RearHair11a.png
+067e5de6da561e065e94cf4844a325c3067e7f66         80190  Generator/Face/Male/RearHair12.png
+78bf31cae07490ed3c080cab03ae502afacb9422         51061  Generator/Face/Male/RearHair12a.png
+465e2ae2dcf4119eaa6c3029d9c566f952c3c877         74055  Generator/Face/Male/RearHair13.png
+bd22da337ba36f22d9c4e0a4a8aff393c935e27a         50416  Generator/Face/Male/RearHair13a.png
+8e5fa35458782293c27695bdb334549e00731856         83791  Generator/Face/Male/RearHair14.png
+668cb4e95d47e3dcd509459ecbc6f1017ae1d133         55407  Generator/Face/Male/RearHair14a.png
+8faae8648a9d0287cdc21ed38f55e1d072e6485c        171626  Generator/Face/Male/RearHair15.png
+ef7f514dce53f8873d5a8763ec2f31832fc35eb7         53673  Generator/Face/Male/RearHair15a.png
+b159ffdf9cad70c71f17da6120d872a77b0d4731        100131  Generator/Face/Male/RearHair16.png
+3ed992a88b5c76141a4deb6c6444f462955f92a1         50246  Generator/Face/Male/RearHair16a.png
+6958e7cc75475488f93f1b51a624daa116d10f85          1907  Generator/Mini/Acc1_01.png
+8c98988476843b299cc7629f43e45153017cddf1          1924  Generator/Mini/Acc1_02.png
+d099723b21092220cb5ac4966fa106c7b8174272          1499  Generator/Mini/Acc1_03.png
+db3451fc0b2b99d7ef7bf006193754d74a222627          1382  Generator/Mini/Acc1_04.png
+49bc66b18f97d0a58cfa4ff4b53727aeaaba2501          2102  Generator/Mini/Acc2_01.png
+ecd4eca3fe4fe9d8e0b228a84703f51c28d59b3d          4386  Generator/Mini/Acc2_02.png
+4e13ea453d49e7706b312b85a74a597c87f6d545          5079  Generator/Mini/Acc2_03.png
+3df08dbaa8808e1b2c331ae64a2e38eda7221330          4833  Generator/Mini/Acc2_04.png
+e15171c3a34ccaa8d63439289a78d1a37eeefc2a          5524  Generator/Mini/Acc2_05.png
+b2fb69f468e53102a2a27b063ed549897ee5a86d          3210  Generator/Mini/Acc2_06.png
+ef5c50d263f5df70923b17f0f567c3c805752fd1          4388  Generator/Mini/Acc2_07.png
+29190e3218c707daf1bc14d348e5f2875c8389ca          3547  Generator/Mini/Acc2_08.png
+a6eacfcc46d321270a90c25cc70af1ee603bbcd3          4095  Generator/Mini/Acc2_09.png
+6941305318e2616a03fa123c57a4050d47a0353a          5336  Generator/Mini/Acc2_10.png
+74f24b204adb1e2f1911ca7de934e01c7f5b7e40          3836  Generator/Mini/Acc2_11.png
+915c35aad95c6180dd21a5c1077221db575b9915          4774  Generator/Mini/Acc2_12.png
+fffd1703bd457e115377b427df7a8eb67e9015a1          3241  Generator/Mini/Acc2_13.png
+a94fc40ff23de774e2dd2162514b3a37f80ec675          2510  Generator/Mini/Acc2_14.png
+703dcc31f543215f26735aa2a9734786f438ccd4          6692  Generator/Mini/Acc2_15.png
+e20d56b017aefe2577d6ee482b1e23c25bb0f8da          9192  Generator/Mini/Cloak01.png
+6cf5afa5aeae4a47a00433149b53931fab8cbf3d         11006  Generator/Mini/Cloak02.png
+ff61bc7d4b96ca2db2e2fa67788c68663a57c9ac         11290  Generator/Mini/Cloak03.png
+3e9e61a106a2fe7a728f54c82f97131987a1c9cd         11789  Generator/Mini/Cloak04.png
+debd084e795ef73a1f7dcfdb8ea09cfe2752fdc4         10316  Generator/Mini/Cloak05.png
+023662f46127474dbf05bbcb4dc04f12d3029a5b         10878  Generator/Mini/Cloak06.png
+812c1670514da218bae6addfab3200b466792add         10170  Generator/Mini/Cloak07.png
+f6e1d5458aebc15533cf6490aa8d863bb56ecc82         11544  Generator/Mini/Cloak08.png
+0ab2a05eea7d93fa9cc93556ac6154138bcaf15b          1700  Generator/Mini/Ears03.png
+355c1eb026fc63bd81bebdb6a956687850e7fd0a          1445  Generator/Mini/Eyes.png
+b0f3f18b2d8318cb82b4fe940aa73a331ffd4068          2654  Generator/Mini/Glasses01.png
+a71d7505b72519a607cd2f0d7e08d022658f2b6d          1294  Generator/Mini/Glasses02.png
+a9c252223f8f0bb4a08c5b0e99da106df7179684          1394  Generator/Mini/Glasses03.png
+91f56824911afc6c8597f013eac59319d5beb15e          1193  Generator/Mini/Glasses04.png
+918d1c2f648f2152a1d90bf91c465fbe5cd35c85          2664  Generator/Mini/Glasses05.png
+2378dad061741ff8c1052baf82265b1d8265a391          1864  Generator/Mini/Glasses06.png
+2d629ffe603bfc4cc383afb150b86f8ec8c66363          3622  Generator/Mini/Head.png
+2b69f5eb778280e60216c80df9301d08e1d89fde          3958  Generator/Mini/Kemono01.png
+a6fe3eb6978f89ae83a385c214359603319ddfc9          5788  Generator/Mini/Kemono02.png
+f4447535683acadb46a56f90d867e195bd88e0e1          4041  Generator/Mini/Kemono03.png
+c028232719d8ca407d7137db86b77564e98626f2          3685  Generator/Mini/Kemono04.png
+7cfa23684fb5dc3a04d583c058c1aaf19c7e7242          4197  Generator/Mini/Kemono05.png
+448b631a4ed5c1f168314d6efd735e278f9b4ceb          2687  Generator/Mini/Tail01.png
+16d0b12dc5ee65ea0dd711ead26fcfc353e31624          1870  Generator/Mini/Tail02.png
+e7970e4a7e8e9bfddada04c48f8082c9ba4dbfe3          2853  Generator/Mini/Tail03.png
+c8dbf87df268893dc402848f64263b2c8b2c4918          2913  Generator/Mini/Tail04.png
+d89907fb8cb4c05f61029be4e1311a4e3665808f          2257  Generator/Mini/Tail05.png
+a20d41d7b367fdf8ec3ccc15c2c2e84a5d6ca02f         13024  Generator/Mini/Wing01.png
+d122bf280d8858dc9bb3ab132285f1997f10aeaf         11447  Generator/Mini/Wing02.png
+52150f9eb378485aad3e8fd209b0d772f0f7451f          5775  Generator/Mini/Wing03.png
+e205e72fdbed474956ee89ac4a40312cdadbbdfa         10985  Generator/Mini/Female/Cloth00.png
+210232ff65dd84eeda09ec9586ffcc6a51422be4         14870  Generator/Mini/Female/Cloth01.png
+fe03ec8c1cc16d5fc865d19f5e5a0aad44d6211b         10980  Generator/Mini/Female/Cloth02.png
+3737c115e6fa55c72505e1be5c4494e20ea23bab         12410  Generator/Mini/Female/Cloth03.png
+292255cedcebf770186da2247f8467da51bafbab         13663  Generator/Mini/Female/Cloth04.png
+ab5902b37190bbd48bf42bbee5e3b4eaf168b8a4         12439  Generator/Mini/Female/Cloth05.png
+727e2c81969bdb79b5c02f433699223eebe57b08         12802  Generator/Mini/Female/Cloth06.png
+17d57cc983b36876a7d63c96f4ed960ea410dd01         12246  Generator/Mini/Female/Cloth07.png
+5e43192942cff63e629f4b8e971c320eea73f4ec         12188  Generator/Mini/Female/Cloth08.png
+eda832371ad00c830fe9e26ddf79d00148084df1          8483  Generator/Mini/Female/Cloth09.png
+d0362fb745b1b3918c990585e8aab4eea8cad488         13775  Generator/Mini/Female/Cloth10.png
+92e567b64a4e42fea1d24edc7fc4cbaf071f0483          8816  Generator/Mini/Female/Cloth11.png
+871eb90ed40cbfd4d66cc1c6dcdf62f22bea41c4         12795  Generator/Mini/Female/Cloth12.png
+efb9a409660ebf32d3f3215e8624553b40173cc1          9953  Generator/Mini/Female/Cloth13.png
+61aed546ed1f4acdb2916a7acc33c49b62607850         12825  Generator/Mini/Female/Cloth14.png
+cdda0dffd84a8b0e0962cc14d244de37302dd01f         10067  Generator/Mini/Female/Cloth15.png
+241879079642f7796949c4fe161faea642c14b92         10480  Generator/Mini/Female/Cloth16.png
+e41518d010ae43c3811a7b16ea4ed3be733f41de         10035  Generator/Mini/Female/Cloth17.png
+1db08e637911af308dade5b5b5f57925f6398c60          9034  Generator/Mini/Female/Cloth18.png
+c6b775a6531c416e3f8a2fd5137025add2da11a6          7134  Generator/Mini/Female/Cloth19.png
+b4f69bb16a718af1ecf8be7dfd63ce752792e3ff         11582  Generator/Mini/Female/Cloth20.png
+deeca1f065ff59c1ce310239aa37cc8161628f40          5549  Generator/Mini/Female/FrontHair01.png
+e85aae8915b987886c3d9a4321e8e5a19381302f          3811  Generator/Mini/Female/FrontHair02.png
+a5ae0d72ad085760f7ceb2eabe8758b2aea4371a          6391  Generator/Mini/Female/FrontHair03.png
+3402b20051828d3a759adc9eebadff5e97e4e150          4576  Generator/Mini/Female/FrontHair04.png
+f7e98acf4512955a462f7c43453036daeded759b          5899  Generator/Mini/Female/FrontHair05.png
+812665905a2562afeb52cf29c4f0a92495d80040          5652  Generator/Mini/Female/FrontHair06.png
+710a0ebeb68f321b50db44a9f2b5943152128301          5376  Generator/Mini/Female/FrontHair07.png
+43bce4050379311ce6e806424eb9565b0c189376          4746  Generator/Mini/Female/FrontHair08.png
+1e223255aeb4ec0663b9ffb5b1a6dd1cffbe2072          5479  Generator/Mini/Female/FrontHair09.png
+eafc2ccafef32bda9245e2fa2a6dab0d5b9d4f72          7376  Generator/Mini/Female/FrontHair10.png
+2e6cb52fc1e08117bdb82212eccd1ea3cf9aae05          6651  Generator/Mini/Female/FrontHair11.png
+3267f193ecda5d0387f59edddc3aa99bc1441d61          5500  Generator/Mini/Female/FrontHair12.png
+6ae4e0745bb4c25ee4d92e868cd57f2f67af4a04          5994  Generator/Mini/Female/FrontHair13.png
+e9cc057631853ae8c0e9455ff1323816b789c40e          5001  Generator/Mini/Female/FrontHair14.png
+a37fe03378556d1c5cc492fba501f545321a2780          5879  Generator/Mini/Female/FrontHair15.png
+2edce92cd2d6000fa17a5c7af7d594a193860e54          6805  Generator/Mini/Female/FrontHair16.png
+3e9f609e6f50acd7a4b9b41fc5ce0e527a3b605f         11040  Generator/Mini/Female/RearHair01.png
+dd68d104b631558cfb4522eb3f813a8f36e57b3a         15818  Generator/Mini/Female/RearHair02.png
+479fdcaee828bc8bb7a3eb06525531297cc959df          8943  Generator/Mini/Female/RearHair03.png
+33fb78100e087cbea32c4270c07f80dd68393ee9          9117  Generator/Mini/Female/RearHair04.png
+081b562391e9a55c5b956c358e5c5dbd55c61aad          9379  Generator/Mini/Female/RearHair05.png
+a76314e2ddd935609822694e56b325a0714aa15f         10441  Generator/Mini/Female/RearHair06.png
+651f3e8fe9bfdb2aa02e3485ba28f5376360a2e0         20370  Generator/Mini/Female/RearHair07.png
+3413315a917d05fc382daedda0d1532298587251         11963  Generator/Mini/Female/RearHair08.png
+8d531a79f54c1dba21d67bffb88e3e138225068a          9288  Generator/Mini/Female/RearHair09.png
+768c6329022bc4d20a5578dd1ca27035173e4c7e          8258  Generator/Mini/Female/RearHair10.png
+24668db0faf2cffa430aa094ada7cc648e3e9e9d          8626  Generator/Mini/Female/RearHair11.png
+456372a8ec19dc3b4783789f3dbec82618cd4ace         12086  Generator/Mini/Female/RearHair12.png
+5bd69bef12eb0255ebcd1a54bc354ccf9b0fe1c3         20407  Generator/Mini/Female/RearHair13.png
+b1cf56a30f9a28d53610a61c27d629c46970539a         12027  Generator/Mini/Female/RearHair14.png
+2b456981eda9e91f27149bb6f41df962d6810d93         20568  Generator/Mini/Female/RearHair15.png
+12e30e36e4aacbb79d62a1242ac83a74b2aae805          9483  Generator/Mini/Female/RearHair16.png
+84d15013c529c0231c81e6cba1f0aebf85483bec          2862  Generator/Mini/Male/Beard01.png
+84d15013c529c0231c81e6cba1f0aebf85483bec          2862  Generator/Mini/Male/Beard02.png
+7f69cf01233441ab02e86449f6fe372d2e4fda6f          2676  Generator/Mini/Male/Beard03.png
+b8f1ae9d4d879afba65ee7bf19b0790336dcb459          3811  Generator/Mini/Male/Beard04.png
+49ae5e3e9dd6de9330ead59a38956f1306ce80b2          8479  Generator/Mini/Male/Cloth00.png
+4fd13e3dc6d26a3637e0eb3494b0d6cccfca4de6         12934  Generator/Mini/Male/Cloth01.png
+740a156470c2576414c62ffacc600a224e8a2583         11125  Generator/Mini/Male/Cloth02.png
+9fc2dd0fc19d718df75f53b0000aa92ea88cf676         10510  Generator/Mini/Male/Cloth03.png
+e964a52bd14cc3496468df0b5fc92ec9b678c687         13482  Generator/Mini/Male/Cloth04.png
+1b388142df44d48158a28528ef282a9214685ab1         14113  Generator/Mini/Male/Cloth05.png
+6a841e66670a5b745866b2def8a3b74c9bea9638         10165  Generator/Mini/Male/Cloth06.png
+f68cd067b565cfbe26c5c05a0b7730808f371c40         13603  Generator/Mini/Male/Cloth07.png
+d567cae0f4f61e8e3b46fc58856bbb75637433be         13287  Generator/Mini/Male/Cloth08.png
+b19c0432d31395463c20b36c81d448c7d80e39a8         12416  Generator/Mini/Male/Cloth09.png
+ee6440c0bdb24acf4c21867466b4aaa9ea6a6f58         10698  Generator/Mini/Male/Cloth10.png
+791ce3f6d28861d871187417986bed3fd18a7e71          9203  Generator/Mini/Male/Cloth11.png
+871eb90ed40cbfd4d66cc1c6dcdf62f22bea41c4         12795  Generator/Mini/Male/Cloth12.png
+5f1c0a1c8a2bdf63d1463dea622a38c177338e49         12089  Generator/Mini/Male/Cloth13.png
+6b69d894ddba74fc41046bd3f657f70b5e7a7fbf          9764  Generator/Mini/Male/Cloth14.png
+077ebb1b04f6a52af4a80105a8a24e305a4cf386         10129  Generator/Mini/Male/Cloth15.png
+1d8892b3dbd5d0365ec22daf57d7d5ed2219c995         10991  Generator/Mini/Male/Cloth16.png
+3773cfdbfb4e633986b2f2d9b4b31f68618a5cf8          9606  Generator/Mini/Male/Cloth17.png
+ba42a554d6c9e5a72ac9a3e3493f00355def682e         11342  Generator/Mini/Male/Cloth18.png
+1f3c4312e13424139e03ae7a2b522d998929c419          7160  Generator/Mini/Male/Cloth19.png
+d0f0bbc96c72e2cb480ada4b6f12c53afb690766         11158  Generator/Mini/Male/Cloth20.png
+7998ff476c3e15c9901a99b959213a2462627e23          6575  Generator/Mini/Male/FrontHair01.png
+6aad0b786c0783fecb153e92b4655fcdf9f19b58          4105  Generator/Mini/Male/FrontHair02.png
+ab6bf2665dab4ba4d948741724c9726b489ee0dc          3987  Generator/Mini/Male/FrontHair03.png
+04f0bf681e435c485606115e1e6d09da23bcc299          4705  Generator/Mini/Male/FrontHair04.png
+593a355c579dcdca652fe594655c5936259a94fa          4789  Generator/Mini/Male/FrontHair05.png
+5c72f061d056540f2aca92b181ab5763f2e8d9b7          5632  Generator/Mini/Male/FrontHair06.png
+0ab7d4dd5dee3a35d785db9f2b736a0359f3f1d5          5221  Generator/Mini/Male/FrontHair07.png
+d172e487953c1ffebad0cddd730687696cc67482          3596  Generator/Mini/Male/FrontHair08.png
+ef6370e7ba09785c14dbb80a1991bc3136301162          6951  Generator/Mini/Male/FrontHair09.png
+f335543b2c244a30e9858fa41e6601453bd152f9          5485  Generator/Mini/Male/FrontHair10.png
+ce1cb11ef170aeae324b824f559bc6c8b6fa4bfa          5054  Generator/Mini/Male/FrontHair11.png
+04202943b5bb90824c274bf25938613abec7b620          2332  Generator/Mini/Male/FrontHair12.png
+fc37a53391887528a1eea7585aa648d4073183dd          2554  Generator/Mini/Male/FrontHair13.png
+8b0fcaf9cfe2874b32afa333b3d54129e454d9c7          4151  Generator/Mini/Male/FrontHair14.png
+3f89d436d55f31f971692ee8320fdeb6ee24dd03          7478  Generator/Mini/Male/FrontHair15.png
+de6812fd31310cfa4fc8765cec4c427737a3c3a8          5703  Generator/Mini/Male/FrontHair16.png
+e8ce9db33d7f22679031c7fb4d84d2e57a539819          8583  Generator/Mini/Male/RearHair01.png
+8987e1e244083ba6c86d26a7dba8ffcdf4c61c97          7406  Generator/Mini/Male/RearHair02.png
+d1de550508d217605d46700496a3e7af673484b2          9311  Generator/Mini/Male/RearHair03.png
+9c8827dae36bdf0c183331df8525ee9375db34a6          8811  Generator/Mini/Male/RearHair04.png
+e96922b4623656e0460fbfa9a437908d5936e6d0          7533  Generator/Mini/Male/RearHair05.png
+1e6fd0d4df66a418286d892d33a55865cfc5959d         18249  Generator/Mini/Male/RearHair06.png
+9e8d6731cb0db4c698a0c3dc3191f5a40e2e4838          8360  Generator/Mini/Male/RearHair07.png
+7eb32f87b124946804e15490b887b5a1f81e5a8c          8353  Generator/Mini/Male/RearHair08.png
+1e2937f5673bfb378c29795c74f65a233318d384         18338  Generator/Mini/Male/RearHair09.png
+30ad2e285c698faac8a590bd5f27eeb19776c3dc         12847  Generator/Mini/Male/RearHair10.png
+f8b3622158fa8b5a20c5404b8988f337aa9a4b1f          8745  Generator/Mini/Male/RearHair11.png
+3188fb03e0b731324abc399446e723fc2ae889a4          8244  Generator/Mini/Male/RearHair12.png
+3842c312b3f580a7d5e68267202453fd2f431d5a          7858  Generator/Mini/Male/RearHair13.png
+509cb0f1ed8e16e417247f64a94514fa5f67837c          7633  Generator/Mini/Male/RearHair14.png
+aebc18af2130b3bc32392011c328272d32b0bfd4         19989  Generator/Mini/Male/RearHair15.png
+1c8fa446a9feb878f907c916e250000f628b7c03          7776  Generator/Mini/Male/RearHair16.png
+28c753124d845f61373be87d392ab839914ebdc5        140800  Projects/Game.exe
+9ed59885413da76f44026fe0cd8a59b2d7ed8d0d        480056  Projects/RMworkshop_01.bmp
+c18b0c3169b366d7e96beaec1eca76498308c95d        480056  Projects/RMworkshop_02.bmp
+d3f0280d217bae6c603605242a3e7e436757b03f        480056  Projects/RMworkshop_03.bmp
+62f10ebfca969c5c23cb0af7c6b964ef73a16422        480056  Projects/RMworkshop_04.bmp
+0cae855e06f3f32ba340c6f13701b05d36a1902b           153  Projects/cd32.ini
+bd9e6032a3eff7f6e188ff8c23642e4f2129f523        208185  Projects/cd32.zip
+9ed59885413da76f44026fe0cd8a59b2d7ed8d0d        480056  Projects/game.bmp
+3523b3fe4d58ac8ff2e42b9b04e7b257b303f724        111729  SampleMap/Map001.png
+366cd0fa878185e8aa0ac35e7104e07f021cb8a9        157316  SampleMap/Map001.rvdata2
+2326cc7d74b5617f2d8c011cb487ad9bd193b504         57540  SampleMap/Map002.png
+d325bb54fb6615092fee366525264cd86abe4e11         80478  SampleMap/Map002.rvdata2
+bdf7ca408f1c98c1c6981e656145a8677ec6f4dd         66847  SampleMap/Map003.png
+9210f4d3e165f3c8c5c4007ce1862b3aa99eedac        115714  SampleMap/Map003.rvdata2
+07da0eaa7ba92cd5e01f6be84c35d847779abbcb         68926  SampleMap/Map004.png
+6607f1a3e625cc2309a49d73b33b4e2053bef017         97314  SampleMap/Map004.rvdata2
+2cc921307506e66c32d6607a1d2951b10ca4c2c7         85484  SampleMap/Map005.png
+feec91d4d2a7c5fd31e13a352068283911bee630         80491  SampleMap/Map005.rvdata2
+231e5358f8693d3cb808e1193ee7fd3a22775a20         84089  SampleMap/Map006.png
+7a9273de4763a823e641e19aaaf4a02748282ab8         15320  SampleMap/Map006.rvdata2
+0e85ee29d11a8efbf61ed712f32da923b8d8bb5f         76844  SampleMap/Map007.png
+9f896b59398cf2ee99caecef1bc12b017ac19810         16982  SampleMap/Map007.rvdata2
+88356ac68485b722d402d9a62addb1bd37805293         77501  SampleMap/Map008.png
+6f4662cedfbb41502caa8c2f9dc29ac20d366393         21708  SampleMap/Map008.rvdata2
+06fce8e08c25149fa3af5fc6ae938c8132e76da7         60554  SampleMap/Map009.png
+07bfcfa98cfb1e38f9591f0653a458ac5ecc6597         16347  SampleMap/Map009.rvdata2
+95d23e8cbd0cef11287fd4543600ae9239a1419a         73877  SampleMap/Map010.png
+789bb17435e24fd4bb0362bb515b901cee054e89         17800  SampleMap/Map010.rvdata2
+907ea69273465eee1d9adaf7db4e11ddc7e12b82         72503  SampleMap/Map011.png
+4387b2f2f7d847ab27637a8fb808769998db3100         17746  SampleMap/Map011.rvdata2
+feff8560cf7631a1f9f1928c5c6757db38aed208         60277  SampleMap/Map012.png
+1bb8a57ab147fc9a65e9aa3a8b5c1c59c8549637         20925  SampleMap/Map012.rvdata2
+24a11c9d3a103484ab983fcec478c9ee96d464f3         43325  SampleMap/Map013.png
+0a54e3e81ef077b76cf515adc5e8de69850488ac         18547  SampleMap/Map013.rvdata2
+71262675256696a8308fc33e3c3aafb3d665a4e3         51902  SampleMap/Map014.png
+c0fb9fe9ac14440e48e71cd865fb240486780993         15225  SampleMap/Map014.rvdata2
+9cff221f1b15d373771233c1453b793d1823a9dd         41018  SampleMap/Map015.png
+d2fe1caf43704596df15af288463ab098fd249bd         15481  SampleMap/Map015.rvdata2
+bc939522d686beae027f83fda13838f6701dc5ef         69562  SampleMap/Map016.png
+be132b181e955a508cf38f7dac2ee6567284ddf2         16698  SampleMap/Map016.rvdata2
+3bbe1306c88032f7b4cd007117aab1a4d4a07690         96527  SampleMap/Map017.png
+fa3ab2f4224eca1605aabc9ec778273a728dad94         17779  SampleMap/Map017.rvdata2
+94ed712b0564a49f1fed84a7514f64353b9483d5        102382  SampleMap/Map018.png
+7d12336905425f973b04f68d13fb0e951d0406c9         19145  SampleMap/Map018.rvdata2
+3b9d29f0afb3a4abbf84ad4556c342e6618d6e45         98200  SampleMap/Map019.png
+cbc24378d96c682f168741bffb7eea9539622d79         19324  SampleMap/Map019.rvdata2
+6a27d754d6faeeae36a88e653cce5719af441921         61414  SampleMap/Map020.png
+49c6db8491df5a991ed9ba4ab1ba9443cfa1557e         11335  SampleMap/Map020.rvdata2
+8b6e7d48511cb00f327e6c2152ce5ab40d9fed26         66595  SampleMap/Map021.png
+e6f84e5e66548852d2ee557df29f10a787c13276         20506  SampleMap/Map021.rvdata2
+7afc29b7a7226feb1ff82c2e8e9bd752565245b7         38184  SampleMap/Map022.png
+14dc012d7d1dfa1c2167f9e6d315eefee4cc3f10         14125  SampleMap/Map022.rvdata2
+8c67010387d90af6e8ec28196249a3bebd61d39c         33194  SampleMap/Map023.png
+68877d630715475c34d489afc194229593e01925         13364  SampleMap/Map023.rvdata2
+2a19a30605b3a0b371e0db47e7b2c52c67969010         66017  SampleMap/Map024.png
+5d3141669e8a249f46f12592f98214901d45a788         22036  SampleMap/Map024.rvdata2
+cee0dd75291f9526385169d7675bb570477d1c6d         32489  SampleMap/Map025.png
+27ebfa705ce6984312738485c63351f6c600ab38          9674  SampleMap/Map025.rvdata2
+c45caa518de88d0572f8f7cec2a9c120b62a56aa         28769  SampleMap/Map026.png
+a7e06d1ef3d784d2811d051b6838d51eb6cb7d28          9673  SampleMap/Map026.rvdata2
+634d71dcd1bd1fe5004c92d4de2d32776b4e0918         43550  SampleMap/Map027.png
+546302aed48b0e01d3afa7dd01ca513ea87b67d4          9240  SampleMap/Map027.rvdata2
+44f73de2140b8d32e1738d4c0be4ccd867cfad50         29536  SampleMap/Map028.png
+559565bc29386bcbb8a184b51aeb7eabeb73a2b3          6498  SampleMap/Map028.rvdata2
+8c4ed3630e145e8290131dd14c533db288c26ba4         39488  SampleMap/Map029.png
+0693d84a049baaed66ad5d76f5b8150e052b4e79          8900  SampleMap/Map029.rvdata2
+1f31b0139f6d3099e9cc0f2615f82eef26cd2999         41423  SampleMap/Map030.png
+945d9269bd2060054fabbefd3273b3f29788a841          6500  SampleMap/Map030.rvdata2
+50cfe265f6757fec705d529e330883333a1c24b3         13578  SampleMap/Map031.png
+a8ca93e19fa3a488a42fe062b336ba37d8c07d1f          7675  SampleMap/Map031.rvdata2
+6225597cc66055c8528d63923a2f4fea781eb24c         18618  SampleMap/Map032.png
+f123f3130eeb7fd842a659ab1e1245b49d814b91          7931  SampleMap/Map032.rvdata2
+a803dd91e3fb36d4d3041d64ca57a2e8a46755e8         11031  SampleMap/Map033.png
+f13a8bebcd668e9bae2cf69508e4f517b2f5e07c         15797  SampleMap/Map033.rvdata2
+10be8855dd04a79b2adae4fd52227360b0c5ea7c        116140  SampleMap/Map034.png
+8b51dcb190abe9670a20267573de486ae962dd2c         39704  SampleMap/Map034.rvdata2
+7df9e4b363d62c1ad7d08289c31cf68026e03327         50061  SampleMap/Map035.png
+484b1818003d93f97ae5bd37b4753694cf4b4792         20535  SampleMap/Map035.rvdata2
+620cdaf79f131cffb2c9d81777885a88f76f9a05         39359  SampleMap/Map036.png
+7117d68885749d7cfa4b04b47de93a9746d2d84b         20500  SampleMap/Map036.rvdata2
+31fca2b350d94525ad1dc6cbbddfe1c18b336b6c         24130  SampleMap/Map037.png
+dd7ca787fe577ddc9157a8198534bbe9632b6869          7224  SampleMap/Map037.rvdata2
+f5c062842f0a56a1362f66c22c743d4386b4757e         73711  SampleMap/Map038.png
+6f3a84be3d70bca31a9031e4e6915436db0b6689         20109  SampleMap/Map038.rvdata2
+5c4b7705ca1b935e4f5433c3866517297483b8cc          7194  SampleMap/Map039.png
+8a72beb236641596ea96b65f7bf32f98689b91d5          3378  SampleMap/Map039.rvdata2
+b8d4f1e98e813864e0b62a0878572a3c265da232          6083  SampleMap/Map040.png
+5cad9ec87dfd8a662ce9268c5e330fdade9e6410          3082  SampleMap/Map040.rvdata2
+72116e583fceb89f0d8fd1a75037658a4704fa7b         10040  SampleMap/Map041.png
+332bbcd948e9c4ea5b58b3a4205bc0223bbe4d9d          4546  SampleMap/Map041.rvdata2
+b2cebe6f42dec5b5a1b5145ea911ff9c7c25f925         11869  SampleMap/Map042.png
+1263be7b383c5d996c845c7bf830cc4c41ac9ddf          4546  SampleMap/Map042.rvdata2
+0c2c9732f99c59432f7ee4974829c785716f84cd         15814  SampleMap/Map043.png
+f7c4883d3285c94232b2f78a92bbe878f209a532          5898  SampleMap/Map043.rvdata2
+a5456e24915152434e63f4eb683fa42a38e8e563         15650  SampleMap/Map044.png
+423c683aa8eea755a1e1458e4e7fcfa9ac3cbccf          5898  SampleMap/Map044.rvdata2
+8cf3ee68c940eafff73fc4b32b3a12be4dde2941         19971  SampleMap/Map045.png
+7f311e4f61561bccb34c4e406a475f0c92cd27ef          9459  SampleMap/Map045.rvdata2
+6e21c6912d398e63880c6f202c95a9f44bcdc713         19759  SampleMap/Map046.png
+bb78408fb351c2f522debefdbf8daa2a31a07707          9459  SampleMap/Map046.rvdata2
+a1e5c006162e90b991b006820f13c5c09af38081          6750  SampleMap/Map047.png
+7b27d26b4067f951159293a209fe84bd5760d279          3378  SampleMap/Map047.rvdata2
+11420070f94b928ce0ba80511c6405dac479f4d9          6643  SampleMap/Map048.png
+76f898fb04524bae536f2619fcfa42e079e4ea4c          3234  SampleMap/Map048.rvdata2
+0067689737e5724105a263104baaddba67bfd538          9541  SampleMap/Map049.png
+adacc3f5f0f07ebaa81d27309a1535f4b3f1572f          4362  SampleMap/Map049.rvdata2
+cec8f094fd0e51333c7ee03cae526f5f557184de          8006  SampleMap/Map050.png
+7af1f447ded9c67892a8a97fd8fa040ab7c81745          4362  SampleMap/Map050.rvdata2
+49a736a557cf922fc60209b17d9f2ea4ffffc1ae          9498  SampleMap/Map051.png
+55d21ab643e48ff3cab28cdf8a4adbf4217e5e7f          4363  SampleMap/Map051.rvdata2
+523e1e8eb30ce7dfa1ee970db116d6805564362f         11068  SampleMap/Map052.png
+80601b540613dc8e75f309886738022d53da57c6          4361  SampleMap/Map052.rvdata2
+81e456e8e007444b6be920499c03ae208b5cc5c9         12548  SampleMap/Map053.png
+27861c11a82f5effc8d9e4841a78e2f1807bcce7          7698  SampleMap/Map053.rvdata2
+30ab1d45d1c773f954f382f38d5e944eac384d02         12813  SampleMap/Map054.png
+6cdb2ac599c73297d5a3955852bc6e980ff57354          3859  SampleMap/Map054.rvdata2
+4360bc1cb570cfe2dc2e3d57562c4e4c8ed8a69a          7308  SampleMap/Map055.png
+42ac1dc9e7282f1ae330745b4915523caccd7c55          3688  SampleMap/Map055.rvdata2
+2de566204a835ed1b885d74626cc0560ad9a5191          8492  SampleMap/Map056.png
+13d4602938c99107ef043413febdc06a074b6932          3691  SampleMap/Map056.rvdata2
+35ef15afc07591058a0877f0ca53aed329741083          8173  SampleMap/Map057.png
+602c39f15b98551e7547671200089c09c18626c9          3691  SampleMap/Map057.rvdata2
+fc256b6a3cc74dc9afc796fb7c777504cb279a1b          5444  SampleMap/Map058.png
+fb3b4a5491c81880b46fa6a9939dd34cede50cc8          3218  SampleMap/Map058.rvdata2
+1f21154a7bc0a0a5aa082fe9119b2c9f0541960f          7504  SampleMap/Map059.png
+bb3b76f03dd751ec3c36f1cd1780abc3b838e2d7          3218  SampleMap/Map059.rvdata2
+bd2be5b69b720e22a7795e6a409686138e4b32a6          7135  SampleMap/Map060.png
+0beec544e41288a08ff3931f67bac110ebffd04f          4450  SampleMap/Map060.rvdata2
+b08cc7fe4e56f29b4f5ba4f024403949e2bf4f42          6382  SampleMap/Map061.png
+6696f38f3a973678eeddc5866b12ed0855161a0a          4450  SampleMap/Map061.rvdata2
+ca41a3db3ca27ad183d50ce36f593b7eb90b25e4          8474  SampleMap/Map062.png
+58ead49fc4b001f0bcbc74facd900caa25b7e28e          5250  SampleMap/Map062.rvdata2
+30d137e343f44f597f07e89dba051fe7614874ad         12235  SampleMap/Map063.png
+048f6dc62cfaee5904699906bbb0055c0da773cd          6099  SampleMap/Map063.rvdata2
+dc8322b4609c34aa56a2290fca3c235e3bff58e1         12421  SampleMap/Map064.png
+44569939ea5c290ea351eee117799564c3226f5b          5908  SampleMap/Map064.rvdata2
+f053223c6c0dd330c44f489de59556a3f7202f61         25064  SampleMap/Map065.png
+48d6421e6db6bc7b905cb64bf39af2cbce25d4b2         13835  SampleMap/Map065.rvdata2
+5252a2f530f99ddeeaef9d3ab6af9acc6997a788         19238  SampleMap/Map066.png
+e1c56c76609315c57e150aeadb6537d2479c0034          8786  SampleMap/Map066.rvdata2
+fcea77da2589e36a0d7d1ab2a69cdf3ed3b0f8a6          9487  SampleMap/Map067.png
+9ce839bdc09d786e5952d294542018b471d3350a          5124  SampleMap/Map067.rvdata2
+046beb6b926dad8f121b792ab65369b4bc23f4ed         44329  SampleMap/Map068.png
+271d68696b5b3a36dffd0bc195a0fe2805b9fa74         22547  SampleMap/Map068.rvdata2
+6dacfbe97a1c7a578917e13fc899fd9c2ec73267         49113  SampleMap/Map069.png
+36ba779688b287142d09949436d35ffd87d77508         22148  SampleMap/Map069.rvdata2
+5f03c79ffad1cfabd1312a25b40d6636743582fe         16970  SampleMap/Map070.png
+20fad3a5c9d84e531687d7bbb69eae58f06f1b1a          8420  SampleMap/Map070.rvdata2
+8d3c194ddafbb15520abf71345faf881399ee1d2         36780  SampleMap/Map071.png
+78fb2de694f41ddc557defe595898c0d70dce991         15261  SampleMap/Map071.rvdata2
+283e49bba323011e89bebb4f74c80c2d1c9ef21e         44861  SampleMap/Map072.png
+51d2bec39f6934a58fe3c68980d0205141e78885         15286  SampleMap/Map072.rvdata2
+56cc1dc366855bdd3fba2da81f2aed14c3efeed5         29424  SampleMap/Map073.png
+25d964150593840bfd62591ee844c481c86d6c49         11449  SampleMap/Map073.rvdata2
+3ebf6a9546d174d58c36ba25e32e25b6af09bae9          9599  SampleMap/Map074.png
+3cb2d23fd7ebf2d99257d7beb4f5d3abd5be8fb1          3353  SampleMap/Map074.rvdata2
+f5d2afe01e245d844d499f5df527e25953df7b91         45200  SampleMap/Map075.png
+aedc968f02912bddb1e73f3ebd7ab7e3e6799ff1         18169  SampleMap/Map075.rvdata2
+7f5edafa48367889663d4fcbfac440abcb860dac         46489  SampleMap/Map076.png
+b36cf6408b0085dff2d5f607b9ea345314d29964         17433  SampleMap/Map076.rvdata2
+41fe148e9b7dded964b2448a46353debf276c225         74382  SampleMap/Map077.png
+b62da8617b054c5f0bdb01032efb64fcea668457         23396  SampleMap/Map077.rvdata2
+35847dd9d174459de669f86c8981d64df022e466         67872  SampleMap/Map078.png
+57535124e94791f1569d24bb3cd001da7ce97010         21700  SampleMap/Map078.rvdata2
+58472372efed950feecacba506803fb7e2b39ed6         48954  SampleMap/Map079.png
+987d980dbdc08a579bff52a4f9af146295d82d28         18548  SampleMap/Map079.rvdata2
+a1199636493d3732b0b3740125cd6741414dee3c         58511  SampleMap/Map080.png
+23bcc641222d93c8516d198c8c88e5520e792b2d         20901  SampleMap/Map080.rvdata2
+965c901c5297b96cd624dddf2f2f816b1cf19125         53347  SampleMap/Map081.png
+3bf15f21f22def08e4076f7fcc611de80c919c74         21312  SampleMap/Map081.rvdata2
+b4b400f63342e02beda1751dcefc26e1c5c8b7f9         26700  SampleMap/Map082.png
+872bf1d543f8bc06f063e838f2ea1907f1632b23         17134  SampleMap/Map082.rvdata2
+4d1ee47bd0ee05b9847af079a0d27e3c2666af68         48534  SampleMap/Map083.png
+38c4cbdfe2c50d449ceb446901251935e7dc2f3d         22130  SampleMap/Map083.rvdata2
+bf7bd6f042707d37144e872719cde6a832d7ea4f         51891  SampleMap/Map084.png
+e81f01c3424d41b54f079a1fa48d066d08c0bd32         22130  SampleMap/Map084.rvdata2
+90e6474c6436be5ba4a24bbd4645116eda53dc80         51677  SampleMap/Map085.png
+afe0692a35671382a30730d05341b4b315c8de1f         22130  SampleMap/Map085.rvdata2
+7b5d0adad3c976ea390ef0a2daf766e065352980         39108  SampleMap/Map086.png
+a225c239cec4a49836d7184650187f3f07e3d9fc         25124  SampleMap/Map086.rvdata2
+287f9ea4312a0adfb4926e79e0f4668e38824391         25868  SampleMap/Map087.png
+73d9069c55b2ef59b2763eff41355c50fb1e66ba         15004  SampleMap/Map087.rvdata2
+508b2e242ff8b43bcfe32e9f93163746a0796f63         47838  SampleMap/Map088.png
+5c809d5c5d27adcd976c1a052d616c634b523e72         21310  SampleMap/Map088.rvdata2
+cea5a7a4c7b4ddf4036259c955eeac18de29c5f9         59444  SampleMap/Map089.png
+c937ebb3c4b2acb08c5869ea5eda1f6f5b58c0e6         22502  SampleMap/Map089.rvdata2
+bc5411a0698d9e64f5619b83fdc1d63ce0d2b67b         39583  SampleMap/Map090.png
+44e0cef400a40f453e328437ae47716fdba6042a         19302  SampleMap/Map090.rvdata2
+bfa5fcd8eabafce1a8a51107973e9ef3c7e52933         35065  SampleMap/Map091.png
+1b3bbb29cfb15e46151ee6abc0ba12b931342e1b         27827  SampleMap/Map091.rvdata2
+588ff99ef22dd150b646a904be7eaf1de47ee97e         28036  SampleMap/Map092.png
+6f668e4d5e0dd95a39ae5bc74ddae7a2d4621272         19531  SampleMap/Map092.rvdata2
+01bb7dde7fbe73b0c7d98aa9f75da2fa7a9b93e5         67818  SampleMap/Map093.png
+13e024cb968b908c0a2fdf386635eea5491cb3ef         26492  SampleMap/Map093.rvdata2
+1ba13664cd92f0e83407bc4aabe9447f54750306         58183  SampleMap/Map094.png
+c29a64971943e62ae74a3151470994337c25f546         22972  SampleMap/Map094.rvdata2
+08e30fe5265658e0f49fee0f0804d53f2cd7a34f         41786  SampleMap/Map095.png
+29888d56506c6a859262d03a831a93f5899ad0d0         19708  SampleMap/Map095.rvdata2
+ff5c2ee2aabeb9dfc23318a109214b810d4adcef         95090  SampleMap/Map096.png
+121f754842bfbf0abebd07592b0dc4b9d562b6a9         20900  SampleMap/Map096.rvdata2
+fbd9bd61b32e09d8f9ac6d87c44a2cc85e6acd6e        104006  SampleMap/Map097.png
+62cfc49673e60d51f46dce26900cc8e22ec3b42a         20900  SampleMap/Map097.rvdata2
+e0bf78154c2e7b3778799da8d907ee9cbf8a7aab        110813  SampleMap/Map098.png
+eaa04ad31c9c1ffe97a13cbe03ba931026633939         20900  SampleMap/Map098.rvdata2
+563d06df5360b57b6d4f5ff5d3a43f871b45a364         23753  SampleMap/Map099.png
+d44235d95c4daca9d8ebdec272de2c73dfbd8d34         44660  SampleMap/Map099.rvdata2
+2dcb766c23d7ace43d47ba0a05c0f3debf7f2aff         56791  SampleMap/Map100.png
+a4f81f0c726bf602bdb8a463e7c1d42376029329         31505  SampleMap/Map100.rvdata2
+c2be8a96caab05ee7031f3c648a39db6f3e59696         47820  SampleMap/Map101.png
+b884149a1985982867ac6d71f84e1defed9c9207         31505  SampleMap/Map101.rvdata2
+379de895f18979b4eecb0fc1c061129784aa4cf3         46144  SampleMap/Map102.png
+b1940dff00d25818b22311edb106119dbf7a67be         24677  SampleMap/Map102.rvdata2
+402cc9d37bcbc97979a172885566cec5f5d7040f         37118  SampleMap/Map103.png
+d64b1bbe4fadf758371713e6a3badaf7ff138b26         22981  SampleMap/Map103.rvdata2
+f3b8c90640455a2d48369422f8e7a495ebfe2dda         72015  SampleMap/Map104.png
+6aaad9b5b9e3876df26257cde567f521c4cd539c         30260  SampleMap/Map104.rvdata2
+e06d03387fe158c68a81ad2a6ed68cee7d6c178c         38623  SampleMap/Map105.png
+df9bb9a4667f6776e8a7772be5c1faa4491701f9         22130  SampleMap/Map105.rvdata2
+5109b7a89fbaec668fae1bfeda43ffb4b4c0eb29         39058  SampleMap/Map106.png
+6a4072298605a354001420f056c3e39f32e42695         22130  SampleMap/Map106.rvdata2
+1c233139fe9cd426ca8eed8f60f3dc98ef167632         38043  SampleMap/Map107.png
+950e26d52f930b581f4c933655f0f575225bc20d         22130  SampleMap/Map107.rvdata2
+c5bb82a11b30ef18496a3c07c99dcbbcfaea207f         37875  SampleMap/Map108.png
+544dc116933f98f7a6281998f444b19e213457c0         22130  SampleMap/Map108.rvdata2
+8b4ea179c87efeb811b53d264eb1772adf412a0c         42898  SampleMap/Map109.png
+361d88c28d67604d29915f29121f18a799347e3c         22130  SampleMap/Map109.rvdata2
+a77acddadd302fac71361ac0728eb017914163ef        133525  SampleMap/Map110.png
+86409795ffaa60c8544fd1e441a2d4a899d0a79a         51728  SampleMap/Map110.rvdata2
+4226b3dbfd402355f1fc8a7da5d45968ecff0f8f         34642  SampleMap/Map111.png
+ebfb25d2258ab53237a5fa9105392d053bd6b094         20439  SampleMap/Map111.rvdata2
+95f1d7527b53a497527c1892b6f6da97fcc221e2         33402  SampleMap/Map112.png
+5918f3a0372a80c89095077a0ca201df4a4c4c4c         20439  SampleMap/Map112.rvdata2
+734fa3535fab392127d5dcaa7c95123d27e7d89a         30498  SampleMap/Map113.png
+2439b27b5fa49830f5d01ac4900382872c550146         20439  SampleMap/Map113.rvdata2
+c18da4d00bf2d139b32a00f315aa9ea0e9bc59ae         11632  SampleMap/Map114.png
+adc1736f337f9e1ec34409feeadb84351d10a240          5527  SampleMap/Map114.rvdata2
+8d32724f38ee5d54872bc959b05d83f9b4fa53b2         11842  SampleMap/Map115.png
+2ccf51ddc769da22fa4e6b2e298e83cdcb4ced5c          6743  SampleMap/Map115.rvdata2
+e07c03c410c20dfed7814b4225acfcbebbc78be1         13111  SampleMap/Map116.png
+60b42f51c398e320648f8abae0e76e792b19f860          9247  SampleMap/Map116.rvdata2
+fae8f08af9ba446ecff547e2089c870618e80367         18186  SampleMap/Map117.png
+be7de7d338e693284faab6704ea9598ba92b9ead          6707  SampleMap/Map117.rvdata2
+35e388df677d4948a207f64de154c6d85f110acb         21854  VLGothic/Changelog
+922b8f22b0f128d7bb052e58f5098afe33ef0c45          2886  VLGothic/LICENSE
+a5f7ea4602e90b17f5c9d557ffa9ae413d739f45          2647  VLGothic/LICENSE.en
+4fab4adb4a1e09fda4577670df7fe4f14cb55d18           375  VLGothic/LICENSE_E.mplus
+a01cc8493c04d3ccdefee32c3ac70a1fead18ef9           329  VLGothic/LICENSE_J.mplus
+71d332e4fc3979b3f1c3dabed9e325c6216d72b0          3001  VLGothic/README
+9ee7dd19e60cc705b238d98a48624aec2975be87          7374  VLGothic/README.sazanami
+370c30acfa0fbf65bbca114f378b78b9a5b90471          4112  VLGothic/README_J.mplus
+b8609cc9fe80b2cbcbc3fabdf059be4ca52108ef       3883852  VLGothic/VL-Gothic-Regular.ttf
+e6c107418367911c080b3e81e092dfc89edf2c8f       4013852  VLGothic/VL-PGothic-Regular.ttf
+c5f31c2572135d72ae7f0c6cd04eca1cee5351d9          5072  dlc/AdventurersJourney_SND/readme_TheAdventurer'sJourney.txt
+d9c05c11e59ac0eb63f1804f8f4f20ce12e98b33        615490  dlc/AdventurersJourney_SND/MP3/Angel's Breath.mp3
+2c4a4c166b29d52300bd1a5836efcdd47a1bd777       1057266  dlc/AdventurersJourney_SND/MP3/Broken.mp3
+334e9c19d5a8e1fdc0d0d0a0e598154027988ecf       1665407  dlc/AdventurersJourney_SND/MP3/Calming Dungeons.mp3
+ced315960d113e2c9d4195c4d9b7862e187712e5       1281295  dlc/AdventurersJourney_SND/MP3/Chillcave.mp3
+64483b68077140587762a5928d3ace15ba8aa3f8        999594  dlc/AdventurersJourney_SND/MP3/Crying River.mp3
+e38ede2dd6c1dd5ba570d2dfceefe11d405727bc       1537090  dlc/AdventurersJourney_SND/MP3/Darkened Winds.mp3
+3a98f02e7af3486841e96a68952687632feb1528       1345240  dlc/AdventurersJourney_SND/MP3/Forrent.mp3
+63723685872dc2593ed677a226cffc24c4bcdaf9        878800  dlc/AdventurersJourney_SND/MP3/Gearworks.mp3
+49f6e198b77586fa2e60708b3ebc578b5fb3c765       1110771  dlc/AdventurersJourney_SND/MP3/Giant's Hill.mp3
+a3cb18efea2bbce695773f57628f23c45c623164       1498644  dlc/AdventurersJourney_SND/MP3/Grassland Adventure.mp3
+f67b2fb3d76af1a283c55b2f0beede14435c116b        769301  dlc/AdventurersJourney_SND/MP3/Grassland Minor.mp3
+d08d816c1f8cf473984ce53af2868e7f3eb0a440        961146  dlc/AdventurersJourney_SND/MP3/Night on the Sand.mp3
+5fea0518a6a05f83072271363d0da1a6a85c907c        961141  dlc/AdventurersJourney_SND/MP3/Pacing Mind.mp3
+0c8849cf2649d3040963e50baf6b7183ba679a4a       1537088  dlc/AdventurersJourney_SND/MP3/River Petals.mp3
+a6fd0bde8579ea34911cdd164861b48c4263d4e5       1537094  dlc/AdventurersJourney_SND/MP3/Shadows All Around.mp3
+e099aed4ec8c4e9503186f7d25110c8424e9966e        659381  dlc/AdventurersJourney_SND/MP3/Shimmerlight Skies.mp3
+1140a3af6b2e7e87c6929c62e0d191e5361fe0e9        961143  dlc/AdventurersJourney_SND/MP3/Silver Sunrise.mp3
+480556ef19b1066937a5518890b69baebc16fea5        769301  dlc/AdventurersJourney_SND/MP3/Sleepless Stars.mp3
+1ee0466275d79dbb0c265862c648b440626d7c3d       1816701  dlc/AdventurersJourney_SND/MP3/Sorrowake.mp3
+76e34c72c344af8e1c2bc629b6170b9f1f14de87        878805  dlc/AdventurersJourney_SND/MP3/Swaysea Coast.mp3
+9974781a4b9f164ddaa1094d7142537dfae2e99c        878807  dlc/AdventurersJourney_SND/MP3/Twinklerock Cave.mp3
+a78f423266d265e5c9e05bf876c5a2026a9e3d3e        865431  dlc/AdventurersJourney_SND/MP3/Ursulian March.mp3
+05599815345ba54e230b8d7c2606db2aade62791        769300  dlc/AdventurersJourney_SND/MP3/Warring Swords.mp3
+59ef7c449c361be34fb088ccd037225c077508b6        853802  dlc/AdventurersJourney_SND/OGG/Angel's Breath.ogg
+8770c2c2d3c803899048a5c09c25154601a2da66       1381473  dlc/AdventurersJourney_SND/OGG/Broken.ogg
+80fb790c1d220caef19e64ee1d50af1a3971aaf5       1978859  dlc/AdventurersJourney_SND/OGG/Calming Dungeons.ogg
+1556aabdab8a56a72ab6fd7b05e159399be0a3ee       1555229  dlc/AdventurersJourney_SND/OGG/Chillcave.ogg
+7e2542cdbf7e1b1c180b1242ec7273f3ea9b4c89       1307861  dlc/AdventurersJourney_SND/OGG/Crying River.ogg
+834bc273075c1bc1e6b98514e71acfe31db6dafa       1795705  dlc/AdventurersJourney_SND/OGG/Darkened Winds.ogg
+a9bf1330b34c3ca6a7fd6ecc7e6fb1b572d1488e       1580961  dlc/AdventurersJourney_SND/OGG/Forrent.ogg
+b32625b3d6b213a468b685618f28f9f8cce5ccfd       1067628  dlc/AdventurersJourney_SND/OGG/Gearworks.ogg
+3875077f003ccee6901e0252682e4b9a30f7aa2a       1387435  dlc/AdventurersJourney_SND/OGG/Giant's Hill.ogg
+17286f198777fbe93b19a13d0552b0f4c30bae13       1818828  dlc/AdventurersJourney_SND/OGG/Grassland Adventure.ogg
+8a83897e7136c7d259eab76c1518fdec03d7d4b0       1033281  dlc/AdventurersJourney_SND/OGG/Grassland Minor.ogg
+35f680aa8e311f8a02be7add3318385f13977fee       1201952  dlc/AdventurersJourney_SND/OGG/Night on the Sand.ogg
+350b0f5df96863fbc2cfb7a1f7d37f86d30d288e       1289558  dlc/AdventurersJourney_SND/OGG/Pacing Mind.ogg
+a7f4fd1a694f85481111932f6910346ab14b3996       2104131  dlc/AdventurersJourney_SND/OGG/River Petals.ogg
+94c1728418af11a2215cf5d687ebd9f3c9a04645       1718137  dlc/AdventurersJourney_SND/OGG/Shadows All Around.ogg
+a0242f4c989686a6b6c481808b685eddd9ea0e62        992358  dlc/AdventurersJourney_SND/OGG/Shimmerlight Skies.ogg
+04b5bd1223c3fca10e800bb5f5d80b40210d89d9       1304348  dlc/AdventurersJourney_SND/OGG/Silver Sunrise.ogg
+aa9d72849794c5783c06b4ce33fd0a4df4da9ef2       1083375  dlc/AdventurersJourney_SND/OGG/Sleepless Stars.ogg
+f0a8a5252499d0431f8e5c9181ce00ce73c8323e       2401985  dlc/AdventurersJourney_SND/OGG/Sorrowake.ogg
+e42b54f5c2248d2ed3c485a5cb7d1b26266be528       1137932  dlc/AdventurersJourney_SND/OGG/Swaysea Coast.ogg
+8d2d411325abb3694646fa640aacb77c02d870d6       1187090  dlc/AdventurersJourney_SND/OGG/Twinklerock Cave.ogg
+fb798102288f211c02804565db592006bc42bb4f       1037479  dlc/AdventurersJourney_SND/OGG/Ursulian March.ogg
+d6919de80a8d4a82392fc42b301e00ee81be3b05        912967  dlc/AdventurersJourney_SND/OGG/Warring Swords.ogg
+3f93a2978d684f2f5d6398ead29239fd387ebea3          2498  dlc/Bonus/Readme.txt
+268eb789cbd1d22f0fa8e05014c4e87cae571af4        110367  dlc/Bonus/Portraits/Actor1-1.png
+3cee7269fec16578bc9bab61b146949c2036d538         89738  dlc/Bonus/Portraits/Actor1-2.png
+46577d71cefc3f1f6b6e94e2a1e3dfe908e6f429        102487  dlc/Bonus/Portraits/Actor1-3.png
+8a28d552d623a291cda68dc2a9f0c1e6c5fb1459         88290  dlc/Bonus/Portraits/Actor1-4.png
+b7ac2d4c2c43e6ff2a4280f7a62530471282a506        103857  dlc/Bonus/Portraits/Actor1-5.png
+f8de40cfc3dab96a2c5657f6a2624a449c95d808         79021  dlc/Bonus/Portraits/Actor1-6.png
+c128fde70085ab4a90e582ba6ecb24842cd6fe17         95164  dlc/Bonus/Portraits/Actor1-7.png
+8a9fc12d2849dc63a98415ba56f2bdd094b20fb3        105841  dlc/Bonus/Portraits/Actor1-8.png
+8bb803c10a7ef7fe435c6c6f40ee864512139cd8         99214  dlc/Bonus/Portraits/Actor2-1.png
+767dead00a334eb0b8c22e87e0508efddb92b6e3         84527  dlc/Bonus/Portraits/Actor2-2.png
+f914d775e918943d45d520f01dcdf0c68970122b         82790  dlc/Bonus/Portraits/Actor2-3.png
+9e23b2bfb601690c40bb9a4f45dd88d8c9ac79c8         71851  dlc/Bonus/Portraits/Actor2-4.png
+a63e3c502346685eb86e484e54e4f69d5b252ca4        110543  dlc/Bonus/Portraits/Actor2-5.png
+2eca1e18d5d49b5d795df467001b46b492fe225a         80460  dlc/Bonus/Portraits/Actor2-6.png
+e227d2da8ff7331eb396fe26b15eecf22ad2ac60         87924  dlc/Bonus/Portraits/Actor2-7.png
+b57855529be6038307d7901833a515a306474a05         90140  dlc/Bonus/Portraits/Actor2-8.png
+7baa47765c9cc35bfcfae2db156e09ed2545d8b8         85902  dlc/Bonus/Portraits/Actor3-1.png
+34e52832092ba7884cd227ab0a80c66217151d77         72709  dlc/Bonus/Portraits/Actor3-2.png
+6b71caa302bb2c20887d1f8abbce14084d04eddd         82425  dlc/Bonus/Portraits/Actor3-3.png
+dc99c61b2ca4330385f06126985bd33c254fa711         77761  dlc/Bonus/Portraits/Actor3-4.png
+74030a91f7f59d40b2252ee39fa8d24cc6db0a73         90934  dlc/Bonus/Portraits/Actor3-5.png
+540d55614ef6a368392a26ed6210f760a7802bb2        104296  dlc/Bonus/Portraits/Actor3-6.png
+cdd2b1db294633ccab449704425229b67528d87a         87380  dlc/Bonus/Portraits/Actor3-7.png
+061ef5048dfcda6be6c266643450c4bbc218570a         95939  dlc/Bonus/Portraits/Actor3-8.png
+e19e68755b836b2a6ba5ce241cf83fed0d2cca7e        105565  dlc/Bonus/Portraits/Actor4-1.png
+6c37cc908bafef8dde9dd88d695580330dc7131c        107898  dlc/Bonus/Portraits/Actor4-2.png
+b21490b226a6d30815b4d3a2201a9948e36c173a        116499  dlc/Bonus/Portraits/Actor4-3.png
+1ba92f91e5c0a1df0979a039314e4c0b90616f6d        113113  dlc/Bonus/Portraits/Actor4-4.png
+915411fb52b6a2bbd9098086934f31b3ae8f1ba9        103645  dlc/Bonus/Portraits/Actor4-5.png
+44071a6570704d57de962edb6b4f366994922009        107791  dlc/Bonus/Portraits/Actor4-6.png
+df0e063f69182433445e685ec05bdf0cb0bafae5        106226  dlc/Bonus/Portraits/Actor4-7.png
+de790f09bf7043f6b127835af1e80cf01eb0c6c9         98459  dlc/Bonus/Portraits/Actor4-8.png
+e5b4b75bda9c95341bc4ecb4be343809584e885c        108660  dlc/Bonus/Portraits/Actor5-1.png
+bcfa55f032eb8bb400caf1fa9ec82be4b6db3cde         86374  dlc/Bonus/Portraits/Actor5-2.png
+0d2c37afc1f92ee1ad782e3f12f347a3dd1e9f07         96890  dlc/Bonus/Portraits/Actor5-3.png
+c6eafc31d58c429c884038181c2665e427da0ee8        107747  dlc/Bonus/Portraits/Actor5-4.png
+9101a2d9aee4e89896f52eb3cbf233520c6cfea7         87044  dlc/Bonus/Portraits/Actor5-5.png
+c76b8e64147de61fa9dcad75de367bbf9ba99098         99724  dlc/Bonus/Portraits/Actor5-6.png
+bc027f79c8b4022144e86875b0cd4ae46de5ccb5        101106  dlc/Bonus/Portraits/Actor5-7.png
+a8840b161cf48f1f9a379b99a19fd8a00c9fa187        120419  dlc/Bonus/Portraits/Actor5-8.png
+ada2cb84d5b6f1d79abdcba7ffdabbe540518994        102780  dlc/Bonus/Portraits/Evil-1.png
+cf08d5f77f21499d27e181861835e9166ffa7d17         86452  dlc/Bonus/Portraits/Evil-2.png
+fd15aa465f2ed2c3da889f99d0b8f6db25a0eda7         94740  dlc/Bonus/Portraits/Evil-3.png
+61cd7d9f3ef5556f5118ec7236c23ca838752264         81478  dlc/Bonus/Portraits/Evil-4.png
+408412cd08d1ad0c318453aa15f1ff5f8f5f9242         98485  dlc/Bonus/Portraits/Evil-5.png
+0a426d0f1c3374d1af4adb7cdb41ea38d5b20c6d        101423  dlc/Bonus/Portraits/Evil-6.png
+1d8d8bdb4417f31e119a3901be47d0f20ae9505b         87624  dlc/Bonus/Portraits/Evil-7.png
+ce1d83f538cace6bb719ce9edbe8790a97cf5e33         97039  dlc/Bonus/Portraits/Evil-8.png
+09529f9b2c2d264fef87ce8fcfee403f9738e900        124008  dlc/Bonus/Portraits/Monster-1.png
+d31326338463c9c3979af7028b45da3a3b464057        121940  dlc/Bonus/Portraits/Monster-2.png
+e828a835649077b678c5d5d8b8adb8bcc0ec9503        113964  dlc/Bonus/Portraits/Monster-3.png
+297c5854bdf0db48075b109f91a8bb7646aec4cc         88359  dlc/Bonus/Portraits/Monster-4.png
+861b9fd2f68d6e51cac552cf9189aa49fec8e64c        101746  dlc/Bonus/Portraits/Monster-5.png
+13357551c069ed708d7a4596042d84d046364382        118645  dlc/Bonus/Portraits/Monster-6.png
+b6819c6470299204a910fe3db4b1b56b12ed2f42         91825  dlc/Bonus/Portraits/Monster-7.png
+5c3934707127582a4d65dc9ae28d207565951eac        127190  dlc/Bonus/Portraits/Monster-8.png
+ca77bb1b7aabff0c47d914fa8544763e794926ba         56142  dlc/Bonus/Portraits/People1-1.png
+69f32ff26e010821940e3b9664cd7ee9cbcb5297         69742  dlc/Bonus/Portraits/People1-2.png
+a01c9b11a0439a6b741724b3ac05557ab3e426d4         83104  dlc/Bonus/Portraits/People1-3.png
+58f6306829048986de3754d33b2b3e21e78cb289         82848  dlc/Bonus/Portraits/People1-4.png
+973fe1f6757566fcd10af139fec2f703bd1cb435         88205  dlc/Bonus/Portraits/People1-5.png
+48d4724215805def5cf86c4677460bf1220385c1         81069  dlc/Bonus/Portraits/People1-6.png
+4a500800842b19f236b2011888a7e1d819dcb5f5         77201  dlc/Bonus/Portraits/People1-7.png
+9eef774aa280aa99862378e41eb53f2340029d04         75135  dlc/Bonus/Portraits/People1-8.png
+7e5c669f9f616e5387433f51f505706cee6f897d         90924  dlc/Bonus/Portraits/People2-1.png
+2cee230bc668d4b5954b26aa9ae86c1f323316e9         86185  dlc/Bonus/Portraits/People2-2.png
+87ed511a031045cf82fe4a483bf9e60affbcae82         97186  dlc/Bonus/Portraits/People2-3.png
+7c259395e8500959c670168e233507a42f9e60af         91846  dlc/Bonus/Portraits/People2-4.png
+b5dec7ac13cf31fa8e843f7076fee7ea1d39e185         98556  dlc/Bonus/Portraits/People2-5.png
+439fec694362686c67c9f06abc943e642396bbff        113091  dlc/Bonus/Portraits/People2-6.png
+6c2d1eb0c03448fa24b37afbc10360125b411f07        112481  dlc/Bonus/Portraits/People2-7.png
+05a7b8f1585611146a03f01a83e0a51ae2eb70d0        121048  dlc/Bonus/Portraits/People2-8.png
+0deec76a1200b51eaabc2ef5093c75b36af4d2cf        113640  dlc/Bonus/Portraits/People3-1.png
+314b7b4fda912af1a5cc484c455de798cd18a5a8         93467  dlc/Bonus/Portraits/People3-2.png
+a7511b0e7360e69bfa42a1a6e1db0d440d8172a3         94875  dlc/Bonus/Portraits/People3-3.png
+d6da7fd9aeb0ab45730cd8d1351ea86e6a1db3f6        102592  dlc/Bonus/Portraits/People3-4.png
+b131832cbeaeff0a4affddf1a037d43fe825850c         86772  dlc/Bonus/Portraits/People3-5.png
+b71a36906496c0e3123a5e02e728b4a1f8768575         86788  dlc/Bonus/Portraits/People3-6.png
+b2170ac324e5935f8b6ef60a9509b8a529128611        112035  dlc/Bonus/Portraits/People3-7.png
+415d27a6356ab5669b37cd56211acd9b750ace4b        102394  dlc/Bonus/Portraits/People3-8.png
+e1a3dd36af95ab64908672c75849e838c696897c        100026  dlc/Bonus/Portraits/People4-1.png
+3b14359495d5ce7d8652dfe4d3927273b430f93f         91067  dlc/Bonus/Portraits/People4-2.png
+7357a654584e0ffef9eee136dc0194b802f1ef03         88403  dlc/Bonus/Portraits/People4-3.png
+eb8fa4ef3c8e2620476dac6eb973cf9259ebebf9        103626  dlc/Bonus/Portraits/People4-4.png
+def5e23307b6da7d411220cca4c87d879b277a5e         96444  dlc/Bonus/Portraits/People4-5.png
+60421da5ebea748239b07448e61c4e13e32ba328         85473  dlc/Bonus/Portraits/People4-6.png
+7c09f717c197e80d392fb89eeb9135af199fc979         89295  dlc/Bonus/Portraits/People4-7.png
+cb2fd0b8b56c6464a7f01508ece26833e5bbae54         86327  dlc/Bonus/Portraits/People4-8.png
+cf28df7ad1aa73211a8ef29f8581ad5a05b43215        138778  dlc/Bonus/Portraits/Spiritual-1.png
+bd967d9e8429b9452880aa97e28395b7639ce86a        129657  dlc/Bonus/Portraits/Spiritual-2.png
+934fe2e85e5878f89e6deedc3724ca5b755aa31b         95371  dlc/Bonus/Portraits/Spiritual-3.png
+ab3b615bf612fb6f0018a981c037dc074de739e5        105878  dlc/Bonus/Portraits/Spiritual-4.png
+03803d29fd8a84e25ebfebe4773cc0552256aa6f        103475  dlc/Bonus/Portraits/Spiritual-5.png
+dd977d05f31674ef32f1dbf25d3b01f92d693e97        139751  dlc/Bonus/Portraits/Spiritual-6.png
+cc6f3b12c9ae325062c2fbc2cbb70d107c4f93f6         96828  dlc/Bonus/Portraits/Spiritual-7.png
+3038a85e58664ce54c039c5f29bc051da01588f1        102648  dlc/Bonus/Portraits/Spiritual-8.png
+f4d7fde5e26fef0c79a6840f7571a144845ea8ff         12188  dlc/RoyalTileset_GFX/!$RoyalTileset-Door.png
+96bdb26759b98df251fc198c0b1caec00d297ede         10975  dlc/RoyalTileset_GFX/!$RoyalTileset-Fountain.png
+5426ad435e3c931fa2f6f8747d858a9d0029ede6         66680  dlc/RoyalTileset_GFX/!$RoyalTileset-Gate.png
+b1a597c7663a519183f0236a12ef70582b15188b         81865  dlc/RoyalTileset_GFX/RoyalTileset-OuterTileA5.png
+68fc8b88b008e09dd65df5ada120ba8c451aaf73        110541  dlc/RoyalTileset_GFX/RoyalTileset-TileA1.png
+60668a3b3cddbdcfe971e6935f603fe9fbb068c0        140261  dlc/RoyalTileset_GFX/RoyalTileset-TileA2.png
+30d59c1091d40785da1dde196260e999f03d9544         32457  dlc/RoyalTileset_GFX/RoyalTileset-TileA4.png
+89439c55e5968b508e6f71bd5134cf95b706d724        194665  dlc/RoyalTileset_GFX/RoyalTileset-TileA5.png
+bfc7e8eeccc225c424561ccea25b5057cc1553ae        366409  dlc/RoyalTileset_GFX/RoyalTileset-TileB.png
+dd40dbfc43cdfe25d225d3773896d977448ee0d4        214504  dlc/RoyalTileset_GFX/RoyalTileset-TileC.png
+eb7e70e77ba3fc00216a397633daf96fb09b7f5e        150828  dlc/RoyalTileset_GFX/RoyalTileset-TileD.png
+151e912432f9e47ce4e6624b970a5538b89d2c25          5232  dlc/RoyalTileset_GFX/readme.txt
+a3cd37f1151ccf972472eedb62306aecb38b5113         74040  dlc/Tyler Warren RPG Battlers 1st 50/Tyler Warren RPG Battlers 1st 50__EULA.pdf
+9d39d20204981ea6e9b0fa3e65ccfd2812d08679        328733  dlc/Tyler Warren RPG Battlers 1st 50/Tyler Warren RPG Battlers – 1st 50__はじめにお読みください.pdf
+be4ff6a1dcac3af952b34e5bcef29f23487fa497          5262  dlc/Tyler Warren RPG Battlers 1st 50/readme.txt
+720dbdd4c2ba8c9621207e4529c7077092232826         48981  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Behemoth.png
+fcbe8d3ad0a88dfc48efe56667092be4bdf8b6f9         28262  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Big Crab.png
+d1d0bc0e857f56522c45cda25fa1fd5d7e9c71eb         50641  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Bite Fish.png
+b367a1da19fca1e8c9f85b94452908b1bb3453f7         32770  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Black Candle.png
+f98f29a744b9dfb749349a2f0792112ee149b852         55203  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Boss Snow.png
+07a227302778c6aa7f52a2ed24e36d009fb27116         47346  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Brain Slime 2.png
+1f2d529cb59359ebeec09279d117dc6e412e3789         34064  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Brain Slime.png
+03c8b3c75953c5d4d2147855386c85f759bd9ead         35948  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/BucketCrab.png
+b76446736123ac95bd415c417a60353280eb5c48         33993  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Chomp Plant.png
+300ac66a9bfcdf53936aecd338009cbb2c41e0b3         32842  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Chomp Sprout 2.png
+c4f8b7949adbc5cbb54ddd584b14304a0b8e3733         30638  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Chomp Sprout.png
+5d8f5a30e26c45aa1933c8c5cacec1d6aabb4e4a         51942  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Clay Slime.png
+29b652aa5d98a9400089e7a1a5558b1a2739e2a1         31669  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Cliff.png
+5bae821053f108e528def2abd3515190a7dd78b3         33645  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Cliff2.png
+455e9d10d066cebeef3de32e155ebaea0de1157e         36636  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Club Troll.png
+a7a6482e1fba9c6c5a0916d6553aaf3201888987         59164  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Coward.png
+e0533a77289e5de40cfea74c0d07413acdcf2d3c         29808  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Creeper.png
+582a17f0d3b1cd9d559803eaab900f11abf59173         33367  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Creeper2.png
+bd912a835966a181c6751573affb537f5ea47d43         43274  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Creeper3.png
+68e831a723ce6dd8e10c2c1f89a41059ce5c084e         28389  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Doll1.png
+ab300df30984b69b2827ecf641a862ee2321f407         25985  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Doll2.png
+6f99dae6f5ccf3e22347e8cb98f3408e8a120743         30334  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/DragonFighter.png
+23c4180ac7e4a95ef9fd4c678be7fd778f1d6ad9         28310  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Earth Hand.png
+abfc4b9f231370cf8211d246f461bda028efa2ba         52360  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Earth King.png
+a8525617e7a6bbe0e2932aa3ce5c5aee819f9b34         36807  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/FallenHero.png
+33888f7df58d25e3868870d10a04ba311db04f60         53814  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Fire Flame.png
+7678622cd1420292bfdfa01380562cec1ad48ada         30295  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Flame.png
+78e45219ca6ac33fac02407b31626bc1cf86f3fd         37790  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Flaming Snowman.png
+994b8e100ab6643c78362d8f7911461682000995         56437  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Flippy.png
+9dccd2ff5ca51098fe2952571e84d72ccda296d6         35354  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Furr1.png
+19e54975ec3d1e6ea4eb9a43a76cf0afe7f7f02f         53043  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Furr3.png
+7e796b94abf670be52c75b674ddcfadfee2c4636         24904  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Ghost View1.png
+ccb0de1cb7dfb4c8dae57329865199d37d309dad         22092  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Ghost View2.png
+5e27ad0ee5b58b7d35ba5984c7b7b66a8235ecb0         32708  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Glare view1.png
+bf886d4c9f0c836790f90f62358cc2037f18fe16         25071  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Glare view2.png
+85881ce52bf8c55e2f93590da0ab5b9ed360c319         25985  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Goblin.png
+52273ebbd072bbfb942511761891152fc89e4905         32264  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Gold Slime.png
+3ed8365b6b6249ff6ca5b4eca84a050c1cb4834b         33221  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Grass Slime.png
+466ea823aa53ddf8e4d8090b73aefa1636596929         40025  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Ground.png
+4d28e65aa9b7eac30b1f5a46469a77f820670d70         29545  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Healer.png
+d85a3adb2158509648bc56b64596ec5a9401bf55         26201  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Healer2.png
+12606d6c7c4833b56161fd69be466188e453f542         45472  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Horned Dragon.png
+5ca2afff122be5fb74f56ec584ffabf3a553e38c         34720  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/HumpBack.png
+185f84ecfd2478c6b1ac29b6ea41638323e82e80         52462  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Jelly1.png
+fd869e7389315f00ec211bccffa718857b83f924         40622  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Jelly2.png
+48d769aa1bb2b15a090e801598b92d1b522bc8ee         26383  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Jelly3.png
+c8b95f6c7725963a7c96b114c08a2f4f73b36554         29522  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/JellyPlant.png
+2268d34a60cebfc45786430344b11661caea3277         26887  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/JellyPlant2.png
+707d8999b99a75f3f67d0001d42ef55dd550f2bd         35389  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/King Slime.png
+cf6b36b26f5a6035eb4884108382620244616399         41605  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/LavaSlime.png
+c4b6cb17096a91832abf3a7de61e2e26677f6420         88609  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Behemoth.png
+0f323ff5072e84d50c1f2558b11a1e3eea02dfbb         47328  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Big Crab.png
+ff456c0a6bf8d001ea8a7e2f11b9663dafaf79b6         93787  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Bite Fish.png
+2e835eaee5aa4fa524c584dac51b401ae3b22ce3         58392  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Black Candle.png
+1ceeba481f0a94d9d3529ef82519eb7a672ec41c        102536  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Boss Snow.png
+5445ea55e9fcd8cbfeaf36210aa30219b0277d62         86676  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Brain Slime 2.png
+da80c00357f763f7c8b84103c677af5ce1c7cf1b         62545  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Brain Slime.png
+aa441a32e0c2432f8eed6e385829c78b88bf2ed3         64332  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/BucketCrab.png
+c5ce61acc6eed4f26de794c51e5e629b6eaf372a         60006  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Chomp Plant.png
+14adc896af625d1831d14b9e697953ea3d5f86b5         59368  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Chomp Sprout 2.png
+82ca740b54d2f9a00983e884bbfda8eb2fb5f3c9         54332  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Chomp Sprout.png
+c995c2cef1cc4eb41d6efa4997cb8bafe163fd41         95229  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Clay Slime.png
+24b597357d9b4f542143030dadacce15f1892448         58207  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Cliff.png
+3ea43a1688927466ec9a99fc57dc2dea9cdc849f         61168  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Cliff2.png
+e0ded567ddd11b618220e78b5914b8bb60bcde02         65760  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Club Troll.png
+d1ca67ba8d5e6eed6ac17c0c94a431b18c302cde        112758  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Coward.png
+fb74a348d9d2a9fe2e226bd4e3a19f1dc95c6266         53869  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Creeper.png
+989e1212320485b9a202de4f87fc37b04ca12fe3         60990  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Creeper2.png
+004c5acf1efeb56cc3db91129a491db1a144520f         78673  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Creeper3.png
+752cb51f98bc75624a713ee90ae04e831b9dba93         50034  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Doll1.png
+690d4fec2c5c4671d8fb950b5b16dd4024b43c6e         45988  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Doll2.png
+e3a9be6d81cf54192b5af4204e1ea7dc4db4ce06         52387  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/DragonFighter.png
+a71f353d209f0df12f05eeabddbdce63857d49d7         49916  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Earth Hand.png
+ba49ab24ea2479c808153d3d371d6645a14e039d         96807  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Earth King.png
+7e6845e452feea5a283d50951eb08eba290e05e3         65563  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/FallenHero.png
+c4a42fadba8fb4c9037e4940bab7543b7a7bd6bf         96551  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Fire Flame.png
+b79431097c12f9454e66eca47c867cec10eaecf9         53360  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Flame.png
+f5b936bda3c93182d540bdbd72ef4d3bf1a540b1         66898  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Flaming Snowman.png
+06f843ed11d2f4555ce083f58a19635bf752d41b        103558  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Flippy.png
+15ebc23160b84b742e1a8527907f76f386dcde32         63444  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Furr1.png
+056672caa78deb94dc464121584d86074360d439         98451  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Furr3.png
+b0b9095dde1513c049d304275968829dd9b90803         42643  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Ghost View1.png
+d82fe560a0dd0df096a8c775bf0950a33b7f76c3         37600  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Ghost View2.png
+e68524ad1db449c0c37e257378e993842228437d         55999  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Glare view1.png
+433b55dd79789b27c12829ac70abcbb31587eea5         42781  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Glare view2.png
+3e6e5c9301ecd0094cd81b2e88f2f2647c9f5b25         45545  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Goblin.png
+600982f0956c92e5712dc2492e49f353e80787ed         59490  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Gold Slime.png
+fcc42c44b34086928341a1275524a5ecbbd5f60d         59445  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Grass Slime.png
+dd3ec3c94baae2ed9ce47de2eae1c6ea782bc8c7         72960  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Ground.png
+353613785f2a61a249b698d38e363b798bbd2cb0         53100  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Healer.png
+ae040e1a76d208b14657745fe00fa302a9c54e2d         47023  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Healer2.png
+219b39257dc6c240e3d7c9b8155147ff5bc36ee2         83372  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Horned Dragon.png
+63bba9c3d695d2173b1fcc2febd0235f5afe6ca9         61537  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/HumpBack.png
+12a56dcbdc34bcc5e28508062088eff720e37315         94513  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Jelly1.png
+aeb7993d7060d251e9a588b4df2de57141222465         70058  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Jelly2.png
+0679aa4e6a04a9744da140e73ca0652a3a6fe4fc         45502  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Jelly3.png
+c12df1188fd70234267b51e734c54da678c30d88         52880  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/JellyPlant.png
+79808bb53d43f1901ae4860bcff9fcb20ac9933d         47871  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/JellyPlant2.png
+9e7eb12dd19f0232d798ff7c67fb0247999d7757         64039  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/King Slime.png
+f889de62e96ab1d39ab338a5ef7b3e071722cdee         76403  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/LavaSlime.png
+1526e2507799a8c4690a93b67bb1450d16a40088        142055  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Behemoth.png
+9976e23b7e485494f2b5aba2e4119c0dd2cbd8fb         84742  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Big Crab.png
+1de4de02ce264350f32a827afc6116e13199df92        174140  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Bite Fish.png
+86a1904956fdf8da8a4c8efa9550d32409ce9308        106281  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Black Candle.png
+db0d626985dbf1fb0ece205b70f2c273dc7b810c        188407  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Boss Snow.png
+e44bb14eac8e98a76ad3d30dfb544b63858583d1        156791  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Brain Slime 2.png
+612addebf4094f6d0884abb799a24a473a02efaf        113806  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Brain Slime.png
+5162c439ff7f218a978fd082e9580e402b1ef4cf        115304  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/BucketCrab.png
+f1d98b8e31b69609e31c8a4f6e1dce2b3bd57be3        105328  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Chomp Plant.png
+0f4cce4a61d6815c6d09b3416dc021780a8f6ff2        106231  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Chomp Sprout 2.png
+4937a04d06b9a0fa77dbab159b38c3d44c3219dd         96760  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Chomp Sprout.png
+b42684dcbfb8917ec72a745266f3a9bab62c20fc        170074  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Clay Slime.png
+91da5263acb2411f04cb65212a8c5023b32b5f19        106283  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Cliff.png
+66634b8326ee2f09c88c6b1d02cb16c5f0a7e484        111580  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Cliff2.png
+004717717e32e0d0e7b1bbda1ff290acf1ec389d        117529  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Club Troll.png
+da2590927098b3e526a93f3cfa432831ef6372ba        208356  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Coward.png
+04b4394e15fe069a3c67ae226629199c605628df         97455  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Creeper.png
+7240ce57b9dfaa05ace0e00487845ec275d1fd71        109408  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Creeper2.png
+da484ad62ca061948ee5611325c38fac4a923d04        141533  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Creeper3.png
+45ff2421e3b2602fc51507c906554242ef872f1d         87896  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Doll1.png
+2c1503381315fcc440ac2f7071fa9ef5302f57ea         82262  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Doll2.png
+ddec959fc20be267197d941f2b192539e317fb5c         90265  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/DragonFighter.png
+98d7f692a60fb0f5758f69eeb1f7a71406d86b45         87467  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Earth Hand.png
+fbe7dc434ec0e5abd43c0f8f5488df7d987965f4        176947  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Earth King.png
+ae7b9bae911609332e2eda94430cc2f5406bdcf7        115730  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/FallenHero.png
+d87896d13c6613979ea3a2f1bf89f0fd1c7d4fcb        175898  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Fire Flame.png
+ce0b870143c0f0500406440fa5b1bdb261af6dfd         93053  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Flame.png
+b60d59a65e1500821094ecdaf7657dcc74c97747        118679  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Flaming Snowman.png
+765ed00a12d405b73fe84bc8ab03a25c2562ee12        185301  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Flippy.png
+6cd2313c406c62fc53164591a0ebb18aa43a4b16        113660  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Furr1.png
+6a1df0fd6f36b5e893e633f3472adc6e5eaad6d6        180215  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Furr3.png
+23791a31406ca164223cd4fa3458993367a0380f         73124  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Ghost View1.png
+4907909ea93b803cbf78757d8ac8c799ae1e81e2         64932  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Ghost View2.png
+d46632cf26d2cee5f2f0eaad2f2cb597244942f9         96127  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Glare view1.png
+0d55e561653342602866ed508623c0057d8c5bd1         56796  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Glare view2.png
+450307dc92ecdbd186a6def0af4db708c3f3665a         78996  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Goblin.png
+0ca341e0c0788ca5ff20ce6b786923d8ce097299        109257  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Gold Slime.png
+86f30762bf88cfe48a77163d22109593b2b29535        105975  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Grass Slime.png
+745933e8abc49e491cd12faf7ba59e365223a85c        132795  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Ground.png
+41f2ea8a8722d97515d84a0b8da0d8fd70494368         92586  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Healer.png
+050fbe130057d5b614abfb0e7ddc3ee9479ac4b6         83219  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Healer2.png
+2d1a1c883abd98a503a91eafda50e1580cb6e011        150549  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Horned Dragon.png
+f8d7ab41a1385807b3fda3661b56476d46433106        111895  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/HumpBack.png
+93756d0d5bb3d1591680b7c9322714aa59950470        166878  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Jelly1.png
+0e7efdf81898594639e84b4a9d21f131b78ede84        118010  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Jelly2.png
+9b4344b5dc3243ddb58f58d6c7925c1accd4448b         78204  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Jelly3.png
+2b4a7608bb42cc1a38668d2ad9b447a8599f8418         94117  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/JellyPlant.png
+940daafe53d2505809ae1d6f41a13b94e32f833f         84428  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/JellyPlant2.png
+202d2e8b062459fc9c0e87a5c17ed2965ca3f5c3        114790  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/King Slime.png
+60d6855ec97c96e3282c5c3a5a6b198131eb7276        139528  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/LavaSlime.png
+96e31978fdc910284219a7458d5462620e745667         11343  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Behemoth.png
+2885621e2014d96fc037de6fe56d1af1ae5cbbae          8820  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Big Crab.png
+30ce1a1463972a46094bd6f744d054c8d70102b3         11194  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Bite Fish.png
+4fb7b341ca37ee2dc1fbf334940c2b1b6e675599          8391  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Black Candle.png
+3152582ccd294f590fcad808c64505be3be8562b         11889  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Boss Snow.png
+2e9924224bdd868bd985e7a40df8a2ae20258fea         10162  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Brain Slime 2.png
+635da516564bb1c57e8b5c296101a37c01f7a9af          8121  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Brain Slime.png
+01ea3375b974831dc21fa951539649a06ed810e0          8930  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/BucketCrab.png
+ccc1fc9088da36da241cad92c817e35634b045a5          8650  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Chomp Plant.png
+afdacc6e856d9699c05135f1b5fe575a4eb9ed5a          8030  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Chomp Sprout 2.png
+ff49898cd3620664a5a796207562d58290a83986          7646  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Chomp Sprout.png
+43a4931fffb9ebe95e640c257387ef7de5178656         11164  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Clay Slime.png
+996b46523c83f124b3fd43a6f5e8d50b602a586b          7411  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Cliff.png
+3843672d38e7fafb3bbcf4c1440edcc04c57d091          7928  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Cliff2.png
+1d8d6db91ecb09652fcb79124b532a650d93bb65          8912  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Club Troll.png
+c79726ecb6f4d36c5d7ad2dcb997edd87f44ef7d         11266  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Coward.png
+33a3c8b58d34d8accc8969717c676d5b86c336f0          7587  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Creeper.png
+8802e12548f284378f6d551ebda1ae5b87210db6          8016  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Creeper2.png
+d6f0c9017cf544da9536f43df27ae07e653bf162          9855  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Creeper3.png
+64e7bc52060b2cd29f4102b89dda6f3dd8de3051          7629  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Doll1.png
+2395f7a60398a11b90e59431171f1da60a932cc0          7224  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Doll2.png
+30f1ae46c9b7d76d348a9fffc39e7cf5ee3bf797          8151  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/DragonFighter.png
+119888366430823a094c723554ec7458ad14e14f          7801  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Earth Hand.png
+637573fdba26bc01ef4367e902d7c0da8763a906         11022  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Earth King.png
+6c12e0b7053be864a65b0fd3ff6dc757dfa8a5ed          9098  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/FallenHero.png
+e67c5f1ebb712fee0495f8c862a86d8268f4eba5         12415  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Fire Flame.png
+b9a25a011356aa62f5a35a9722b9b19f33b73818          7657  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Flame.png
+d9e7eafa0e74c2e0e1e402b5504bb5ad09bb0feb          9137  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Flaming Snowman.png
+75482b1eca377fde7dfae3ec83cb3f02a1895e22         11914  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Flippy.png
+180950952ba2e3a7c39637260b8a9b96e841fcf3          8664  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Furr1.png
+6ce95c643ad4b065de61e9ba98fc05369b21bbbc         11621  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Furr3.png
+b0b4864037305a971f90f10aa50a23e69d6e8803          6853  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Ghost View1.png
+e4d45a6a513897db11dd95907b11663667ed0748          6478  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Ghost View2.png
+5d15ecb3b1b82df0a88e81de82a9f85ea871a410          9064  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Glare view1.png
+f50bbcf17b2b9f0e434861f2c88a29ebb41653c4          7072  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Glare view2.png
+d558ed25f6a54f8a5674b083b0d5a8146c7b5016          6859  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Goblin.png
+ae617a8e635f015ae198ddff061821f59d3516af          7720  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Gold Slime.png
+6c8809303df1425c598e5f6f7fb4c06cc96e6f5c          8182  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Grass Slime.png
+0a8b3520a43ce598f2d51f27f64945d7bcaaa3c7          9384  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Ground.png
+dc83c1975740b3f88132f42067968a71a9245896          7694  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Healer.png
+0a3e0eda4cb2ffbfb388e613729723cf8c3ea7b3          6970  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Healer2.png
+54ee849c4ed73b1b7f05119488bbb77d0e98846c          9946  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Horned Dragon.png
+331685715a803d9c9abd8e421df8a73e2ecb3bee          8796  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/HumpBack.png
+dcd8ccf595477d267b652dee87ac066cb916406a         12302  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Jelly1.png
+76d22be7ac0867cc1d047647c79936f817b01aaa          9885  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Jelly2.png
+f7a3911501406b4baef18adf50056fca9f9c0ae2          7283  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Jelly3.png
+50a732f5c154cf0e28bb7f18ebf9825e0b8d0aa0          7728  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/JellyPlant.png
+656a7b451c1c06ebfd31df26a35e747dda3c2a21          7237  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/JellyPlant2.png
+3bf67cb2781a960ba583a0761a6380121e509808          8456  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/King Slime.png
+4007920239f24a686e6ea472c5dae23b9a8722b1          9376  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/LavaSlime.png
+28d4ac81c5fa69e3a486b65d3d4f358c1af1b556         21294  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Behemoth.png
+ff21ced3c3bcb51498d872d3663ebeaa99920d2d         11734  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Big Crab.png
+c21b2abb00c0b5338857c5740fb7b47d2ccbd712         21138  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Bite Fish.png
+aab9d39d2662e3aaf017a43fe32e657667d9222f         14663  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Black Candle.png
+3f4a59bbcb8e6014fd9256f5af02025fe94dfc2c         23065  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Boss Snow.png
+1be06b411ea2802bcd2257a57f7e2f9abd4849e0         19341  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Brain Slime 2.png
+aa4e572c3474393e5b79cfa2eaae7196011c9461         14734  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Brain Slime.png
+45a2acc2e70fb119ce4240c04ed70d180eb5f362         15841  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/BucketCrab.png
+c26f3f1e85ef792c3d9eafbbbd84273d523043f9         15143  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Chomp Plant.png
+7892a7b03edcff1262aeb3582da7832609e6f2af         14208  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Chomp Sprout 2.png
+6c151e3a1c1248e44bfc2c9586335e50633d37bf         12498  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Chomp Sprout.png
+8c315b8889f48be42b67dbadd14a60ff09cc2140         21450  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Clay Slime.png
+8d21c060199ca33a66762e8ae911520a3f14a0ee         13216  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Cliff.png
+557e2822dcdde10326df141113f84790e4cf4207         14067  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Cliff2.png
+fd751159e4f38c387443dd364626ae2af8909dea         16255  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Club Troll.png
+272d35d64835f6f30255413386d6d55782b3d49b         22512  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Coward.png
+869bf2df740268db83ba94ae926ef17d4029b07c         13090  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Creeper.png
+841ba08967fa2b23b89488107585e339478dc09b         14331  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Creeper2.png
+80dea5abd90c242c2ef74d68ff9d990c4c30af85         18314  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Creeper3.png
+be823114cfc2751f5bdd189d804991dbf6e8c5b7         12928  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Doll1.png
+96defff785d48a9d361b22b7c56162f24dca8240         11920  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Doll2.png
+a02c91a727b43501d328a5ba8e64476392b14338         13984  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/DragonFighter.png
+bae213999046f92feb5314a6bc57a94c8bc7d6f8         13068  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Earth Hand.png
+5717fc6cb915e93223ac70723616b371fe629dc8         21206  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Earth King.png
+2e36389ce9fcb19c37301db6b00ec57d0b4db7f9         16229  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/FallenHero.png
+8b9ba37a8c9fb19b1d581ee00f56585f6411fd98         23013  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Fire Flame.png
+d787e88618be9a4cb2a67ec8c9ca8fd7e35ac7b0         13583  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Flame.png
+f5abe79aa5b37afc7931fabd3ba381ba06b888fb         16528  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Flaming Snowman.png
+fc60c49aa42fb21d4d5d94ea28c5262dd8a2ee86         23001  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Flippy.png
+8500b7e53a760898b6b160b0f2a8042a44f96635         15555  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Furr1.png
+9c72a695b9780b0a31a7fe8314226307415ce4b7         21899  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Furr3.png
+966d8fb9be1171610277c77ef8c001d2e596f4cf         11640  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Ghost View1.png
+363b3bf644c2e53d0b9333d89d6924225183bea4         10608  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Ghost View2.png
+1bba40f49de0dd7176bde9dcb14d4b7ec576cc40         15636  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Glare view1.png
+d74fbe0e41e4cecc6f3081631973404ffe05a613         12092  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Glare view2.png
+2108613e9078be38ad4c97f159b89cbe064ed189         11741  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Goblin.png
+b57ccfd6c840840fa40fbe47779d501108ecce8f         13784  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Gold Slime.png
+f7a5f0418d629342d9fd50df3a8f9943cfc5a564         14355  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Grass Slime.png
+ef13e960b1228c3558753f7869a5d9ab3bf2cd03         17095  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Ground.png
+d7851c2d7fad8d1d1455ee59457949cd43b6c926         13129  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Healer.png
+5fa74db7056e165dc85609f6d896fb9a99ac5e2f         11700  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Healer2.png
+1dd0d20c50124cb734637a8bf5e1292a6a253b9a         18837  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Horned Dragon.png
+8784deb9037f9633f7f032c5733808b39e6db50b         15553  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/HumpBack.png
+1d4171b1c46b8e556df69beae94362e32b5b995b         23064  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Jelly1.png
+c2aa818353aa55bc653c99dae22605307e56717d         18158  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Jelly2.png
+eb831cc964c5dbfcc341311db8b34294056da54c         12234  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Jelly3.png
+669edfa8ff4aa6b5ccd3ca12e2979700d97280ce         13279  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/JellyPlant.png
+7d352366ecc5d0fae0504a5cea24eee7aae7eaed         12139  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/JellyPlant2.png
+f47807c2ffef6763328c999d90b284a741d48c29         15252  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/King Slime.png
+e781d6236100a228750980efd5b5f43621507745         17248  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/LavaSlime.png
+c4b6cb17096a91832abf3a7de61e2e26677f6420         88609  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Behemoth.png
+fcbe8d3ad0a88dfc48efe56667092be4bdf8b6f9         28262  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Big Crab.png
+30ce1a1463972a46094bd6f744d054c8d70102b3         11194  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Bite Fish.png
+aab9d39d2662e3aaf017a43fe32e657667d9222f         14663  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Black Candle.png
+db0d626985dbf1fb0ece205b70f2c273dc7b810c        188407  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Boss Snow.png
+1be06b411ea2802bcd2257a57f7e2f9abd4849e0         19341  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Brain Slime 2.png
+aa4e572c3474393e5b79cfa2eaae7196011c9461         14734  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Brain Slime.png
+45a2acc2e70fb119ce4240c04ed70d180eb5f362         15841  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/BucketCrab.png
+c5ce61acc6eed4f26de794c51e5e629b6eaf372a         60006  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Chomp Plant.png
+7892a7b03edcff1262aeb3582da7832609e6f2af         14208  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Chomp Sprout 2.png
+6c151e3a1c1248e44bfc2c9586335e50633d37bf         12498  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Chomp Sprout.png
+5d8f5a30e26c45aa1933c8c5cacec1d6aabb4e4a         51942  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Clay Slime.png
+8d21c060199ca33a66762e8ae911520a3f14a0ee         13216  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Cliff.png
+557e2822dcdde10326df141113f84790e4cf4207         14067  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Cliff2.png
+004717717e32e0d0e7b1bbda1ff290acf1ec389d        117529  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Club Troll.png
+a7a6482e1fba9c6c5a0916d6553aaf3201888987         59164  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Coward.png
+869bf2df740268db83ba94ae926ef17d4029b07c         13090  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Creeper.png
+841ba08967fa2b23b89488107585e339478dc09b         14331  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Creeper2.png
+80dea5abd90c242c2ef74d68ff9d990c4c30af85         18314  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Creeper3.png
+be823114cfc2751f5bdd189d804991dbf6e8c5b7         12928  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Doll1.png
+96defff785d48a9d361b22b7c56162f24dca8240         11920  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Doll2.png
+ddec959fc20be267197d941f2b192539e317fb5c         90265  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/DragonFighter.png
+23c4180ac7e4a95ef9fd4c678be7fd778f1d6ad9         28310  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Earth Hand.png
+fbe7dc434ec0e5abd43c0f8f5488df7d987965f4        176947  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Earth King.png
+ae7b9bae911609332e2eda94430cc2f5406bdcf7        115730  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/FallenHero.png
+33888f7df58d25e3868870d10a04ba311db04f60         53814  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Fire Flame.png
+d787e88618be9a4cb2a67ec8c9ca8fd7e35ac7b0         13583  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Flame.png
+f5b936bda3c93182d540bdbd72ef4d3bf1a540b1         66898  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Flaming Snowman.png
+994b8e100ab6643c78362d8f7911461682000995         56437  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Flippy.png
+9dccd2ff5ca51098fe2952571e84d72ccda296d6         35354  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Furr1.png
+19e54975ec3d1e6ea4eb9a43a76cf0afe7f7f02f         53043  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Furr3.png
+7e796b94abf670be52c75b674ddcfadfee2c4636         24904  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Ghost View1.png
+ccb0de1cb7dfb4c8dae57329865199d37d309dad         22092  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Ghost View2.png
+5e27ad0ee5b58b7d35ba5984c7b7b66a8235ecb0         32708  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Glare view1.png
+bf886d4c9f0c836790f90f62358cc2037f18fe16         25071  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Glare view2.png
+85881ce52bf8c55e2f93590da0ab5b9ed360c319         25985  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Goblin.png
+b57ccfd6c840840fa40fbe47779d501108ecce8f         13784  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Gold Slime.png
+f7a5f0418d629342d9fd50df3a8f9943cfc5a564         14355  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Grass Slime.png
+dd3ec3c94baae2ed9ce47de2eae1c6ea782bc8c7         72960  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Ground.png
+d7851c2d7fad8d1d1455ee59457949cd43b6c926         13129  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Healer.png
+5fa74db7056e165dc85609f6d896fb9a99ac5e2f         11700  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Healer2.png
+219b39257dc6c240e3d7c9b8155147ff5bc36ee2         83372  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Horned Dragon.png
+63bba9c3d695d2173b1fcc2febd0235f5afe6ca9         61537  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/HumpBack.png
+1d4171b1c46b8e556df69beae94362e32b5b995b         23064  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Jelly1.png
+c2aa818353aa55bc653c99dae22605307e56717d         18158  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Jelly2.png
+eb831cc964c5dbfcc341311db8b34294056da54c         12234  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Jelly3.png
+669edfa8ff4aa6b5ccd3ca12e2979700d97280ce         13279  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/JellyPlant.png
+7d352366ecc5d0fae0504a5cea24eee7aae7eaed         12139  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/JellyPlant2.png
+30f90d6ba77eac981c2f35b38fe2f6a999927599         65582  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/King Slime.png
+e781d6236100a228750980efd5b5f43621507745         17248  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/LavaSlime.png
+98100bb0e92b4173feea9939aecccbdb4c74fadf         89833  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Behemoth.png
+b40a6607a74097ef626954b483605e1566ab55a3         11226  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Bite Fish.png
+ac2ad0f8f14aa3c746dad8179b662ba137409518         19547  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Brain Slime 2.png
+a0325077639a59c5d96689e09994e1a1820f2283         14933  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Brain Slime.png
+a60b1882ac9fc465ccace1f557cf28de8107ee19         60242  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Chomp Plant.png
+95c4404345c97edd6c9d8f83ef66ffbcbd73db50         51034  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Clay Slime.png
+f873e2d4fb79408ef7d2d6a93d9f424628243cf7        116757  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Club Troll.png
+9985503167ccfb45a9dd78540c25d7993131ecc9         12794  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Creeper.png
+fdd2220a2148beb87da1e50056332ab9ce5d9cc6         14005  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Creeper2.png
+b510843027ac95a004c55817ec1da73a03ba2d95         18009  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Creeper3.png
+ddec959fc20be267197d941f2b192539e317fb5c         90265  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/DragonFighter.png
+270b283fd24e4e654ce9a1a08c89d18ece62ba90         53254  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Fire Flame.png
+bda5f7d303b0766e8fe0fbcfddf97db25979a61f         13624  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Flame.png
+29d20ea3bdb6efac6d1a09ef81e337d482c546b9         11025  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Gold Slime.png
+b775c1e22cc5de3430905082817a7e26ff19ff8b         14544  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Grass Slime.png
+777f2373a1a614a780c23697781de9059edc711c         83537  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Horned Dragon.png
+6a6c29374463202192e642272ba3649ae10a3f1e         67009  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/King Slime.png
+a2f8fc3bab01fc11433437bae17d9e721824b8c4         82555  rtp/Game.ico
+6401fbc36900324d0ea8bf153feefabbc5a8913b       1588000  rtp/Audio/BGM/Airship.ogg
+9ce482413cc7235ef9853e62b53110719c322eca       1808002  rtp/Audio/BGM/Battle1.ogg
+ac3a634fa5c50c4d881b09a3676ba1a37a406346       1919529  rtp/Audio/BGM/Battle2.ogg
+2a2c6e6f4b034e8d70dd109cc55011c644763f9b       2057276  rtp/Audio/BGM/Battle3.ogg
+9814dac3f149d5dad310cee6b30d0da810315a1a       2053503  rtp/Audio/BGM/Battle4.ogg
+41ee66c2c29949a170b04cd95ec60605d05fc1da       1672113  rtp/Audio/BGM/Battle5.ogg
+123bf2151aa882b6e32d8a828a20df99e0a71e35       1721468  rtp/Audio/BGM/Battle6.ogg
+24738b1270318cffdb366e9e71d15e188faec73f       1565380  rtp/Audio/BGM/Battle7.ogg
+e8a98976b171b850a74d0c0499fac84237b9522e       1588304  rtp/Audio/BGM/Battle8.ogg
+4572756c3cff810b6f201b6c167c03b09cabb024       2052551  rtp/Audio/BGM/Battle9.ogg
+cfc58e9a7ab1a1935d2aed2f10b9f2a65550ce29       1956276  rtp/Audio/BGM/Dungeon1.ogg
+a44e61741c118f8aeea8c58f587008c43ff454de       2265558  rtp/Audio/BGM/Dungeon2.ogg
+3abed67a3f274f79df46714bc36be9c1d04cba3b       2251320  rtp/Audio/BGM/Dungeon3.ogg
+d032bab4503983310982030a4855101c006f2ebb       1960051  rtp/Audio/BGM/Dungeon4.ogg
+356ab52801d40f90452b6cc40aea37ce5d2ce379       1663693  rtp/Audio/BGM/Dungeon5.ogg
+d0cd1e04585daefbae4cd175ed63e83167d35c48       1720349  rtp/Audio/BGM/Dungeon6.ogg
+83470f655cc16346b6d94d17920d6050b8910421       1948625  rtp/Audio/BGM/Dungeon7.ogg
+d250693a20b2b6c3d46aab24b9d5cc01653e1221       1924480  rtp/Audio/BGM/Dungeon8.ogg
+e2317d98257b45bd0dd72636e9a5b3ff8b49caf7       2391590  rtp/Audio/BGM/Dungeon9.ogg
+2149e047a2853ef84135c8d9d9acdac14c4ecf2c       2080236  rtp/Audio/BGM/Field1.ogg
+853684b3dbe233ac85f6e2bc7ac051d4d5c000d0       2088899  rtp/Audio/BGM/Field2.ogg
+9b0ed7e5187746ebb88335521e743c572ea8afe9       1610359  rtp/Audio/BGM/Field3.ogg
+4eb3f33abfc233ec59e17188458f577fb476c035       1728532  rtp/Audio/BGM/Field4.ogg
+1c0da29b9a648fbc2d15b7d9ed10e87bc7286ea5       1643438  rtp/Audio/BGM/Scene1.ogg
+4a8d4d4086d70bc0e7056358bbf1541187e21d1a       2018926  rtp/Audio/BGM/Scene2.ogg
+e0abe153b6d31aabb09f7fdc17de3852dd371138       2055014  rtp/Audio/BGM/Scene3.ogg
+c4b5cb00428b0676b161bdf381dc293583cef095       1753820  rtp/Audio/BGM/Scene4.ogg
+df1d71416a45bd4523937f4cc8f38e8256610281       1864926  rtp/Audio/BGM/Scene5.ogg
+6848d60e16157b21a089d3cbbf2bcd7828a66c81       2694286  rtp/Audio/BGM/Scene6.ogg
+a40dc1aa17c0802b857802c9d3f6f5b4f02e93fa       1737522  rtp/Audio/BGM/Ship.ogg
+a52cab3f46cb2a1faf6dcf740ed26c7ec1d80972       2377125  rtp/Audio/BGM/Theme1.ogg
+fa42a132614589163304c97ae5e4b1bfa0f2c268       2027130  rtp/Audio/BGM/Theme2.ogg
+1d65966119bc235a640e4045c4c594c9e19f2380       2211508  rtp/Audio/BGM/Theme3.ogg
+d80c712e6c50e38d8113a3303aff761dec4757c6       2039847  rtp/Audio/BGM/Theme4.ogg
+de1e6b182cce1a8b7ca12a7284a6b12b3f3a3bf7       1723627  rtp/Audio/BGM/Theme5.ogg
+cf2a57f765f8765df85246ac2f93feecfdc57ae6       1722696  rtp/Audio/BGM/Town1.ogg
+f30b42f3fbcbe82031a9c622aafaf2814f707e8b       2145022  rtp/Audio/BGM/Town2.ogg
+aad4061f25c4f12a02e59b64673c5f9905305527       1810274  rtp/Audio/BGM/Town3.ogg
+0d89b3129e76de7f37fb39cf94a59519d78d0091       1854278  rtp/Audio/BGM/Town4.ogg
+8f4e85b6d1443a743d781f2b9c9707a7fc9419c4       1935799  rtp/Audio/BGM/Town5.ogg
+610d3f41a2b64023b976da8e1734c416f0c7c7b5       1680871  rtp/Audio/BGM/Town6.ogg
+395f2dd832bf2f4ee326f4641ea3cbb02d13d77e       1746936  rtp/Audio/BGM/Town7.ogg
+58809d03b40a89d3abe171a1a5589dd8eda81a79          4524  rtp/Audio/BGS/Clock.ogg
+d2a50b3d90507572f0f90a964c485d9b6346a9d7        151347  rtp/Audio/BGS/Darkness.ogg
+4f98131474e8d96b1b8d05965f1038da2a3cbea7        282185  rtp/Audio/BGS/Drips.ogg
+591c952ac190ccfb4773252dd9e118232c7aa8d1        264167  rtp/Audio/BGS/Fire.ogg
+0179b57388b7990b8dc6afe2e1b44704b564a35a         19202  rtp/Audio/BGS/Quake.ogg
+4bc029c77f5469a56fac49df47d5a6b8e403a264         13771  rtp/Audio/BGS/Rain.ogg
+2b04d02e956c82af3160a8efeac7453b81f2d2f0        126995  rtp/Audio/BGS/River.ogg
+abfc56bb56f1a24117ad1ee9268d9699b0a8b06b         32634  rtp/Audio/BGS/Sea.ogg
+325684f13c50c585f502fc3965e56e60b8bf0651         17682  rtp/Audio/BGS/Storm.ogg
+1355c6a330ccb9c2100ac4b46cb7e790373a37fb         52351  rtp/Audio/BGS/Wind.ogg
+cee2b3ec85dfd4b95072deae74d22f9a21bf7c7c        144197  rtp/Audio/ME/Fanfare1.ogg
+4af489e40bbb853baca91c678dd0fe63a3f1eae9        223944  rtp/Audio/ME/Fanfare2.ogg
+228687b96bb14f5d7248cc5456672889bc1429e7        187835  rtp/Audio/ME/Fanfare3.ogg
+8fada7c003254c7c999b2db7690c7a2d2877e44d         97959  rtp/Audio/ME/Gag.ogg
+c85dd53ef5bda7b94fcb76511b6ba0198c9f7bd0        192488  rtp/Audio/ME/Gameover1.ogg
+60cd3ae87155ba070679910d2228b1e8cf0d4808        288649  rtp/Audio/ME/Gameover2.ogg
+e45c2d69c0dab642e141b27f18ab96112003e2cd        140676  rtp/Audio/ME/Inn.ogg
+a830f24dba68d466eccee147c73acc4416cbbf50         73180  rtp/Audio/ME/Item.ogg
+6bde952f2b5fc6ce2c685d92d773fcd10781267c        107761  rtp/Audio/ME/Mystery.ogg
+2c1bd16198559871690764ce27613e55cb61511e        140875  rtp/Audio/ME/Organ.ogg
+d7d7bc6da47c0a900de3070f5e16de396fc256a4         55618  rtp/Audio/ME/Shock.ogg
+4974cc3552a05baebaebc89552c645461e3003c5        104024  rtp/Audio/ME/Victory1.ogg
+35c4ff94211c5ded2938fc7b3aa758a7cef7c540        194444  rtp/Audio/ME/Victory2.ogg
+90d87198849f7bdfdd4eacd611de3a2540925813         12238  rtp/Audio/SE/Absorb1.ogg
+a5e8ef5f9035c9505c19e7602a38abbd77a27070         10084  rtp/Audio/SE/Absorb2.ogg
+f1665618db0a7421b07dda07adb5dadfb5b6bd69         66946  rtp/Audio/SE/Applause1.ogg
+b31c3bbabf5c7f026e2e17446972fe374a498847         32230  rtp/Audio/SE/Applause2.ogg
+3168bb214dc5ed29bdbbe56162c61fdb7144d21e          6639  rtp/Audio/SE/Attack1.ogg
+8666e9b018024eae893a507f0663e050d0dbb44f          7794  rtp/Audio/SE/Attack2.ogg
+6a079d04543a1fbb91cec6ee65ad2f3d22d908a3         11054  rtp/Audio/SE/Attack3.ogg
+9b9400a9266e5245acb27b672126fd4d0be39087         20912  rtp/Audio/SE/Autodoor.ogg
+c26b09a679b5e450280bf947042c1a725789f65f         12368  rtp/Audio/SE/Barrier.ogg
+2bf8d30109dd0c8140e3dc59eafdbaca19e129db         15382  rtp/Audio/SE/Battle1.ogg
+6253549e1b7c12432f7662c37e7873eb94210cf3         11697  rtp/Audio/SE/Battle2.ogg
+9968fad7560115f91effafb4781bf260f12c888e         23165  rtp/Audio/SE/Battle3.ogg
+bc6c915e7ee96dbab9d29f67fdace5afa3949a19         18160  rtp/Audio/SE/Bell1.ogg
+22ce1ea59d8662143ba73837f461569d81495d43          8921  rtp/Audio/SE/Bell2.ogg
+9025b4a3c16ca7c030219c2f86e668ca43b0e0b4          7283  rtp/Audio/SE/Bell3.ogg
+0751321b2fb7101371f0165856e2d32237669b06          8759  rtp/Audio/SE/Bite.ogg
+d6afa017e4c476ebd2852df05719affbafaa4635         10142  rtp/Audio/SE/Blind.ogg
+88aa8023d35422e5eccbc8a3a9549793124465a4          5665  rtp/Audio/SE/Blow1.ogg
+51a304b58a011d3d11c472dfefd7c3c5510241e5          5279  rtp/Audio/SE/Blow2.ogg
+c513f33b6c0a19c2a059910d6c807804d6d71301          5285  rtp/Audio/SE/Blow3.ogg
+c596fc94e6019fb0a574df14530168509fa16c1d          7977  rtp/Audio/SE/Blow4.ogg
+bd5c10dad917453d6596649a0db7fbc80688ec7a          5507  rtp/Audio/SE/Blow5.ogg
+1606f95da0bc1ed118a54c053e4922e5ab223cd3          7452  rtp/Audio/SE/Blow6.ogg
+5883d2649c2095abdfe30700f98c394d46124c79          7657  rtp/Audio/SE/Blow7.ogg
+90c2fd67121d2dc0d5063db91e345aa550fa6cf8          7792  rtp/Audio/SE/Blow8.ogg
+40e02183250f6570411fa6c35c6ba2300ce499a5         10377  rtp/Audio/SE/Book1.ogg
+f9d75eb528df46b71112a20000e541760ce0b23d          9148  rtp/Audio/SE/Book2.ogg
+ae5f2d92a60b415f92d4cb8b25888eaa2f4dfeb0          6445  rtp/Audio/SE/Bow1.ogg
+8f3eba314c04549b28f2a923c61843593f8b1620          7393  rtp/Audio/SE/Bow2.ogg
+661accec22e9f8855a2e15a99f1eb1d60d34298e          9058  rtp/Audio/SE/Bow3.ogg
+9612de88587de044abdda2c5d327e4767b469a1c         16367  rtp/Audio/SE/Bow4.ogg
+f743f16698b0d74d8716a2d4820af37cff7a3ab5         11560  rtp/Audio/SE/Break.ogg
+d5c6fa8b5d41cbf8acf1abcdcf1b1f1107a52739         13756  rtp/Audio/SE/Breath.ogg
+3ceb08006c87eaaec4e5b87a71299b1d54e0b3cc          5522  rtp/Audio/SE/Buzzer1.ogg
+e01520f02afd3a20d6e39710ea73b8c3db31d9bd          6981  rtp/Audio/SE/Buzzer2.ogg
+a6fd4ab2c3fcf4e6baa4fd631e5bb1d409f8e75a          4852  rtp/Audio/SE/Cancel1.ogg
+fcf28710c0edc29a627195ce167aeb10115448c6          8776  rtp/Audio/SE/Cancel2.ogg
+77177230610c7bc57fdc0ba2b0b940ca1e01243b          8163  rtp/Audio/SE/Cat.ogg
+c28dd9006351d93bbd42bc9573f1a15b2ff191f6         15382  rtp/Audio/SE/Chest.ogg
+e76c9cb6c6acdf9681fe4f1d7897fb18bc5a42e3         10621  rtp/Audio/SE/Chicken.ogg
+b24c5e3db2b0382c0b5c49cb9d79323954df3c2c          5448  rtp/Audio/SE/Chime1.ogg
+f2e472507e64ab7557bb324b4f95fa2ddfb9f7b5          8733  rtp/Audio/SE/Chime2.ogg
+0d11ab5c9178c932904225c10c0596c589b2c173          8333  rtp/Audio/SE/Close1.ogg
+72ea6f4953248f16bafb3e63d32d12c46971a6ac          8161  rtp/Audio/SE/Close2.ogg
+006d08f460e750f8bb628becebdacd2317125afa         14041  rtp/Audio/SE/Close3.ogg
+72d99e65ce76663966eb11b894afb2ea71a3d013          5838  rtp/Audio/SE/Coin.ogg
+69c67f773715b5198ec499f40a4a93e5c6eb665e         28175  rtp/Audio/SE/Collapse1.ogg
+86460b059a5a75bfd6a6ff575efd3159742c2682         23427  rtp/Audio/SE/Collapse2.ogg
+92c1adf9b381636e9f2e924395afee9db3300b31         21218  rtp/Audio/SE/Collapse3.ogg
+d91a3c13fc59a1c1f1112a2295fe8978ef94c8d0         35136  rtp/Audio/SE/Collapse4.ogg
+f9981dbc72462512359645bf6f324426f45897cd         14069  rtp/Audio/SE/Confuse.ogg
+4a3816ce74542f2942fb742e0e8af97797a592e2         14400  rtp/Audio/SE/Cow.ogg
+73992dc654064eb40c54d608732a857135236a4d         16283  rtp/Audio/SE/Crash.ogg
+e17e42fc855aeaf8611e7ba3901ca85bfd880bb7          8069  rtp/Audio/SE/Crossbow.ogg
+93118cd5bb0b916d2ca45c73a08da4fc651fff9c         16416  rtp/Audio/SE/Crow.ogg
+6771b418c41598c3eff0a5069515586373c1164f         21984  rtp/Audio/SE/Cry1.ogg
+02851ccc7066441a45c766f9795ac67053a580ce         16660  rtp/Audio/SE/Cry2.ogg
+1a56855cd147449711448228ef5375050e2870ac          3763  rtp/Audio/SE/Cursor1.ogg
+fbb3413290d4cb60e4d5895a17ec1576a92570e8          5583  rtp/Audio/SE/Cursor2.ogg
+fce4e40ec5ef27b05bfdead504cf79256aef509c          6100  rtp/Audio/SE/Damage1.ogg
+424f649ff33dd6926fc173fff718eb5291a6b012          7387  rtp/Audio/SE/Damage2.ogg
+5dde1a3c87814fcfc2a98f9b821b2e0352f62634          6834  rtp/Audio/SE/Damage3.ogg
+e9ce680aae9b072a6f3243ba06d6d47227c9b4a4         12056  rtp/Audio/SE/Damage4.ogg
+ea99be1f2893ae15b2b020e2d0940ad04b258587          9631  rtp/Audio/SE/Damage5.ogg
+203782e86300dc461d7ebcd6f752d5ebdc1cc4e2         14068  rtp/Audio/SE/Darkness1.ogg
+123016d9af4facb18c663bdb7bc6c8dae76c34be         12344  rtp/Audio/SE/Darkness2.ogg
+ffaa9159384f67e38aea1307d75e40efeafa9734         11379  rtp/Audio/SE/Darkness3.ogg
+7a08d37b3e04a6e8da0624a16b01ed9950312288          9631  rtp/Audio/SE/Darkness4.ogg
+992ad5d7b1c5c078e7f961620f24d5447d6609de         15039  rtp/Audio/SE/Darkness5.ogg
+90eb196729fdcee82ae7086a209d76984c974138          6171  rtp/Audio/SE/Darkness6.ogg
+f2b5e9e24b3bad16d2e399ef5d3911a5f9efec43         12627  rtp/Audio/SE/Darkness7.ogg
+efdf9ae93879aba93ef01b0844781cbc59cee3e9         11937  rtp/Audio/SE/Darkness8.ogg
+04e1a0168a25eb705c9b8eebbcec52a634791d68          4714  rtp/Audio/SE/Decision1.ogg
+f5c6948e78727766925dd20147e3376149561069          8797  rtp/Audio/SE/Decision2.ogg
+a9bd005d735f5d24b7450ce0003825c5fea1e396         10182  rtp/Audio/SE/Decision3.ogg
+d415d7d95c22d7408924db4083655ebec95a048e         29141  rtp/Audio/SE/Devil1.ogg
+566d70ae9d14fb4fddfcd0abe81e9f8f3391ac70         30075  rtp/Audio/SE/Devil2.ogg
+86fe977a4065f46cf9acf62f0e790dc322ac7ec6         23085  rtp/Audio/SE/Devil3.ogg
+76b9bfec855fafe8c07c6c22286eb733d2b6d717         17284  rtp/Audio/SE/Disappointment.ogg
+29b747cca7a06c67a9984733a2b2f17bc36fa23a         35581  rtp/Audio/SE/Dive.ogg
+e7dd6e99727317ab0b117663f87e292eb6b279a0          5603  rtp/Audio/SE/Dog.ogg
+19b8166ecfce1d3c7859ed0189d26b758d8b7fe2         13596  rtp/Audio/SE/Down1.ogg
+3c6d1416cc75794da04344bf76b9820e09f4e939         10649  rtp/Audio/SE/Down2.ogg
+956c4d888f7c73a3e4994bdc356d9425a3e7df08         21364  rtp/Audio/SE/Down3.ogg
+a9437acd4a6884979b37c3cf8681ad671d7accea         19536  rtp/Audio/SE/Down4.ogg
+666393d49c8d1feb711eec1524fa0693ac3a63ea          8821  rtp/Audio/SE/Earth1.ogg
+e48cb9fbd820c5d3025bda1b22f67c9b8a74a2b0         10006  rtp/Audio/SE/Earth2.ogg
+050ffa4e99be7318c973fbc8d3126cbc240d76c6          5866  rtp/Audio/SE/Earth3.ogg
+075ea3106f491962e03d4eb688250ed7c6d1c567         11576  rtp/Audio/SE/Earth4.ogg
+965815abb1bd59ead7b59d8deb7d88808da94338          8246  rtp/Audio/SE/Earth5.ogg
+778f93036850660daddb7f5e7086bac4aea6fd31          6122  rtp/Audio/SE/Earth6.ogg
+7059e06bccc8330745d8257cff45c8b39dcb315b          6552  rtp/Audio/SE/Earth7.ogg
+48abd2bbe366b735ed8be1ebf7d51ec92b83dd6e         11998  rtp/Audio/SE/Earth8.ogg
+3e819eb615848ac0fd05e6596bc1eac9cc6053dd         13008  rtp/Audio/SE/Earth9.ogg
+c9a927dbe84509577dc85483f365a4cee75c91e4          9597  rtp/Audio/SE/Equip1.ogg
+0f34315ec2b43be6a87cf7bfdd21291e2e0b423c          8722  rtp/Audio/SE/Equip2.ogg
+70e3b887b4f52ee9e0c327dab884f541a98ba86e          9020  rtp/Audio/SE/Equip3.ogg
+0ce2a068bf21c13ef4ce5e12b94dcef8fceceee1          6034  rtp/Audio/SE/Evasion1.ogg
+c15f760afab612239d0025adb0c5b634c17c081c         11723  rtp/Audio/SE/Evasion2.ogg
+04723894dd6147d10e12dfa2be2dadb55e1d0950         13120  rtp/Audio/SE/Explosion1.ogg
+3ecaf6ae97673c98cd9b153c20940bebd4146d27         14488  rtp/Audio/SE/Explosion2.ogg
+9561d1ba26cd9093925d5c0b3f43ef2199988cbc         16836  rtp/Audio/SE/Explosion3.ogg
+12ad4253161a8d897a1ab8bff7cea1ae2e65b243         12487  rtp/Audio/SE/Explosion4.ogg
+eae685672b5cac0950dc9a32a428b11c8f58d4d9         15113  rtp/Audio/SE/Explosion5.ogg
+089c3cd7bb04d47b21d913a09e047c0c17075424         16868  rtp/Audio/SE/Explosion6.ogg
+0a12f024daee1606d0330e6104294e6e93c0d7d2         16437  rtp/Audio/SE/Explosion7.ogg
+1c71ee12f2af3876c18bac0e608950c46bf1667a         13821  rtp/Audio/SE/Fall.ogg
+9a0dc993bcbdf41cbef01c1c404fe0d6fb802cbe          8908  rtp/Audio/SE/Fire1.ogg
+d416e0dd73a84551b8faa9019fdf7d40277619bf         11332  rtp/Audio/SE/Fire2.ogg
+eb5d776bd2296f21527c3e50b3a7d40f7ba4f017         10338  rtp/Audio/SE/Fire3.ogg
+eaffb68cf24bd4f71bf86d30cc6bc1e851a5a91a         10920  rtp/Audio/SE/Fire4.ogg
+1a91cecd57cd43464f28aa8f3598167deb9c2e86         11834  rtp/Audio/SE/Fire5.ogg
+4cd32482de6fe2baecd72198575eaee1b5c43fa2         12225  rtp/Audio/SE/Fire6.ogg
+2b0996efce7393f342bea57249fdadfba8440bb6         12654  rtp/Audio/SE/Fire7.ogg
+22863986d7a577a9a7979fa6903fdc16af44d9b1         12197  rtp/Audio/SE/Fire8.ogg
+fe029198263688dbcb19c65c640fb29f939a6f0f         20967  rtp/Audio/SE/Fire9.ogg
+cca5d4699565e1279fd050fa325dc1601aa6e9c5          7409  rtp/Audio/SE/Flash1.ogg
+c4c67f8b967b73812ade0b7427cdf11db57b9ff6         12217  rtp/Audio/SE/Flash2.ogg
+78bc5f4e3800ae82810dfe1c942b880dae0bd5fb         20647  rtp/Audio/SE/Flash3.ogg
+4ae458aaa04c8e56054f71982f8146318787a52f          8102  rtp/Audio/SE/Fog1.ogg
+eb5b4cf984e2c38f6dbaaa75d46f26732b799026         10088  rtp/Audio/SE/Fog2.ogg
+76f0cf237a06da06e52cd7dcfbace31bd2ca289d         15569  rtp/Audio/SE/Frog.ogg
+2a700b94978d650743841af47f547dab2351a83b         11966  rtp/Audio/SE/Gun1.ogg
+110a67f7707602680adb2d33811c794855118aea         18911  rtp/Audio/SE/Gun2.ogg
+96395718757d43be30052d7c1f81cdf9be330528          7799  rtp/Audio/SE/Hammer.ogg
+1359a52a40ec408d6738d78ded68fbada2faf7d6          6507  rtp/Audio/SE/Heal1.ogg
+0a0300a907f48518e6ed8f845f05e017ee35e441          8676  rtp/Audio/SE/Heal2.ogg
+db0cefe364e532f0695919add5b80cd4191cfa99          9349  rtp/Audio/SE/Heal3.ogg
+9397e1faeae659ede8ad6fb6295ca3a724bad68f         14235  rtp/Audio/SE/Heal4.ogg
+930800e286a825ba7a4ef190bc92c3116877e248          8177  rtp/Audio/SE/Heal5.ogg
+8c73bc4b6dfc02ab2bfb0e42266be81f8894a4c9          9914  rtp/Audio/SE/Heal6.ogg
+dcbc1635cb055c86119efd664e3d563f6aac8520          8099  rtp/Audio/SE/Heal7.ogg
+6b3fce1c533b23050801bb73df8681c571b285c4         11255  rtp/Audio/SE/Horse.ogg
+9279426e194ccdfc4a43f61fe0220e3c1cf9f19c          5671  rtp/Audio/SE/Ice1.ogg
+db82d5eec50165d8e6eb83dc1f2bbf8c6d3582e1         13405  rtp/Audio/SE/Ice10.ogg
+50b63d3c1858fc802341e6a0da2f77d76e91001b         16546  rtp/Audio/SE/Ice11.ogg
+7236b3bc49a4751d457c21a901933a981efcd909          8658  rtp/Audio/SE/Ice2.ogg
+6f5c10fb000e41576ca34ea0e59078bff1a2c498          7497  rtp/Audio/SE/Ice3.ogg
+06092b476cfbeb4315070ad3807fee19d3bc3877         10175  rtp/Audio/SE/Ice4.ogg
+1228e96c7a7b6923f077364e5ebf0b5d1738d98a          7124  rtp/Audio/SE/Ice5.ogg
+dd4747864f73ddea75f621d7841480740eeb246b          8966  rtp/Audio/SE/Ice6.ogg
+ef80bfb56e7fa604bc5390fc7a1c5ec2fc7b43f4         12470  rtp/Audio/SE/Ice7.ogg
+31872588f05e647ff41adf3aa1968842a9c4ea0f         12352  rtp/Audio/SE/Ice8.ogg
+cdad825de1087cbf787e88f4dd9a7303ea9ed780          6845  rtp/Audio/SE/Ice9.ogg
+f61241bcb942a9d54debeb336544eb63eb97062d          5922  rtp/Audio/SE/Item1.ogg
+7444e3c54d997540c709b08a52bffbf58eec09fb          9293  rtp/Audio/SE/Item2.ogg
+72421462ac8d496e46ce159e68b5d0ddecd48a2b         17222  rtp/Audio/SE/Item3.ogg
+2924886b46beef2cb934a7e03f6782e662d76fba          4852  rtp/Audio/SE/Jump1.ogg
+30b6109212ca97de0452d8f86767d27eebdc8297          5321  rtp/Audio/SE/Jump2.ogg
+fdf164e0f301f559717e6d777da78769dcc67c03          4876  rtp/Audio/SE/Key.ogg
+b6d504c637449f66598287ac3afa4095ce5e9568          4696  rtp/Audio/SE/Knock.ogg
+37d47bf0d1b71ae3e527392007b34a4045b3fb48         17532  rtp/Audio/SE/Laser.ogg
+d3857eb6296ce0dabcad4539fe8b791c59bbf3b1          7179  rtp/Audio/SE/Load.ogg
+77aaec9d3cfc5196eae6310eca87f03aba6126c5         49526  rtp/Audio/SE/Machine.ogg
+d1ef3f7db0bb2f87709715b1f0f24cc4d818adb2         15269  rtp/Audio/SE/Magic1.ogg
+54fec32e79448844c8a3971690185ee52cd87dd4         12553  rtp/Audio/SE/Magic2.ogg
+120ec0342908a40050ccba0b94146bc9c0fd8856         32705  rtp/Audio/SE/Magic3.ogg
+bf2987df1dd2932c325ed88fbc65158d2c146a17         12439  rtp/Audio/SE/Magic4.ogg
+42a35cdcf27b279b365bbb82d56d97aecddae8b5         12634  rtp/Audio/SE/Magic5.ogg
+2e2f9fa4a4b312e93f3daf4e0785b26c64b3c558         11863  rtp/Audio/SE/Magic6.ogg
+aeab0f3763c90f58f2e521b0a9e9aeec8340015d         14511  rtp/Audio/SE/Magic7.ogg
+818dd7f9ffdd66bb36d13a92f6ab25471be367a8          5360  rtp/Audio/SE/Miss.ogg
+ef3b5429036e43ef13bf8bef1a9689b9faa5c90c         10029  rtp/Audio/SE/Monster1.ogg
+ed2062fa69cb02ccca139ce211806358dee68971         12395  rtp/Audio/SE/Monster2.ogg
+0dc62f9f19d04e425f24bb1c70572497822a6e71         21388  rtp/Audio/SE/Monster3.ogg
+72b8d94558b8e053f5321e95bf63d7a9bf552c7d         23649  rtp/Audio/SE/Monster4.ogg
+5c9e648284419ccc67403e2a1a5d522c27095649         20640  rtp/Audio/SE/Monster5.ogg
+87b426e2d101be318941cfd19f51fae99dd85703         10466  rtp/Audio/SE/Monster6.ogg
+8ef98969a45a979ec1f3d70c276e5135a15f5423         16310  rtp/Audio/SE/Monster7.ogg
+cde54eec21006c20986eb01faf7c97a8a0426654          8261  rtp/Audio/SE/Move.ogg
+647f6749fe3165c501fecf378e3afad1b04b06fe         14201  rtp/Audio/SE/Noise.ogg
+cb3078fb37e70436e090d9c3d70e0577f987115b          5939  rtp/Audio/SE/Open1.ogg
+0a9e9f9052bdfb4c689a2d52240aaf454d449e4a          7417  rtp/Audio/SE/Open2.ogg
+ffbdb2c1c4e108a2772b409e9603828865a1b977         13839  rtp/Audio/SE/Open3.ogg
+f3a04de20347223796d7ab409b3331ce7b47dce6          7147  rtp/Audio/SE/Open4.ogg
+1510f78e2d5fa6bcbac47b0aa4c10cb357965332         10448  rtp/Audio/SE/Open5.ogg
+c5f8c2c6b0657e0921868d00eb74f4566fd59d2b          6612  rtp/Audio/SE/Paralyze1.ogg
+698d19d1af12b10eb632b7f23c28929cdfcdeb94          5610  rtp/Audio/SE/Paralyze2.ogg
+6d0fc5dadc8627f18dab11137cda43108293a1d5         10394  rtp/Audio/SE/Paralyze3.ogg
+abe217211762119c17832b9b0d75a99ce5f0471f          7097  rtp/Audio/SE/Parry.ogg
+ce3624db9e7021b44e1708bef8134a5686db0ff3         13860  rtp/Audio/SE/Phone.ogg
+c92b23915056cf0becae0951fb2773e3048e1b43         12386  rtp/Audio/SE/Poison.ogg
+ce82514c1abfe2cd483715adef7db57f2dab064e         15724  rtp/Audio/SE/Pollen.ogg
+65f2a6e1ec0445623c6fac7221a0342a5672aabc         16384  rtp/Audio/SE/Powerup.ogg
+d7881a7b7b76f97e8a5e356a69c117cd72e65f46         14537  rtp/Audio/SE/Push.ogg
+178f1f7657694ed4fba363d37d101125a6257ba0          9449  rtp/Audio/SE/Raise1.ogg
+b4e28242fa6e0138fd2c5a815ae55b687d404565          8413  rtp/Audio/SE/Raise2.ogg
+5e22283905296cb19b59399ef0e072d241d771c8         10060  rtp/Audio/SE/Raise3.ogg
+4e53eee3049a7e583fdbe91f8452398306da1ab8          8556  rtp/Audio/SE/Recovery.ogg
+6788393c6353f53a4e396117e5a93417236d0266         13635  rtp/Audio/SE/Reflection.ogg
+64ffeb825e60a7cdcba5474682f22a516d2bf95e         18236  rtp/Audio/SE/Resonance.ogg
+1de1b9217638297bb397792f4feda9495a7bcf66          6952  rtp/Audio/SE/Run.ogg
+8e5d28a90ff54a91846098c4ac0b1f8d6ed930ad         11950  rtp/Audio/SE/Saint1.ogg
+594e3d87e11f05fbc9188c6a05c5dec37e633a5d         14364  rtp/Audio/SE/Saint2.ogg
+b6304421bb43f4bf0e9d3f5080cf6c73a54e2555          6787  rtp/Audio/SE/Saint3.ogg
+08385e5b21baeaafe826f67a215018b8b16b2c76         14802  rtp/Audio/SE/Saint4.ogg
+25c31473c1762cba8a01663f0e929e30fe5dc7f6          6958  rtp/Audio/SE/Saint5.ogg
+2c965893a00db4a6052850a6ecb5d59193675c8c         13540  rtp/Audio/SE/Saint6.ogg
+448447b58c082dfc6eb72f6d9280202510c2727b         15033  rtp/Audio/SE/Saint7.ogg
+a39f9670a310bf764aff2f0d887751a0dc23abe8         11885  rtp/Audio/SE/Saint8.ogg
+4c18e4425b26bb64c73d37acb34e28f7a570a0c1          7659  rtp/Audio/SE/Saint9.ogg
+928415b88f0f1415f93fcebf4f903ad91df7df14         12134  rtp/Audio/SE/Sand.ogg
+54d6d9afcfe479ecb4fd3d21165c78ce49f07342          8718  rtp/Audio/SE/Save.ogg
+7067db276a9c7c129990580b6c199f14af96746f         22419  rtp/Audio/SE/Scream.ogg
+efba49697bb9a1790e6299dfe64fa11f3e931f7e          9436  rtp/Audio/SE/Sheep.ogg
+c943180e2e71565908ced44511c9efedebd4602f         11126  rtp/Audio/SE/Shop.ogg
+d83549b52db041be62eeb70916526f9441ca8b15          9086  rtp/Audio/SE/Shot1.ogg
+796b82ac00271942f517a01acb7fe5a1a95f5a3e          5820  rtp/Audio/SE/Shot2.ogg
+8d0b8c9d13f0ad1063bdc6b6df0fb2587af512ba          9025  rtp/Audio/SE/Shot3.ogg
+f35dd949e69ed1d327fba41be45182ad868015c1          7073  rtp/Audio/SE/Silence.ogg
+b2a1469ea1a943476a5240bac153c0c71c7e69ea         14679  rtp/Audio/SE/Skill1.ogg
+7fd8b573e2d90e9d59d066897eecf99971c5d68d         16901  rtp/Audio/SE/Skill2.ogg
+4e47e10b88679459d2260e574f6b0b0251a280b4         18384  rtp/Audio/SE/Skill3.ogg
+0417c340ef7a8f813260c1fe1ba802558d15817d          6012  rtp/Audio/SE/Slash1.ogg
+39b3b97c210992e0f44ebce464e0239afd720241          5703  rtp/Audio/SE/Slash10.ogg
+2de54e8997afe88947b2f01bd0574bfa1a8fab99          5806  rtp/Audio/SE/Slash11.ogg
+aedec25f516bb7f9cc26af7e5afd8b0202ccef83          6604  rtp/Audio/SE/Slash12.ogg
+902c13abc87a2ca7f03d7046b63fb486683e8cd6          6418  rtp/Audio/SE/Slash2.ogg
+056b9e3c7229c8598ebc23dfb2eb3e4b03798195          6158  rtp/Audio/SE/Slash3.ogg
+99dd258ff454a99efb1ad15e66ea2a2080173244          5996  rtp/Audio/SE/Slash4.ogg
+05dfc675052ef3e932d1391848c38323b152af24          5977  rtp/Audio/SE/Slash5.ogg
+8f432917d88d57f931e5aa3777a6d69f4b055f7d          5960  rtp/Audio/SE/Slash6.ogg
+5589312197296b44abfe1b042c81d5824edaba06          5698  rtp/Audio/SE/Slash7.ogg
+e4d9e37916105f963bcfd501a13b31616de1e410          5401  rtp/Audio/SE/Slash8.ogg
+9d80aa748320bdd17f0466da7df69b920d6380da          6334  rtp/Audio/SE/Slash9.ogg
+dc00bbaa6fb9c52c39de70dfe969dddb86cd3213          8094  rtp/Audio/SE/Sleep.ogg
+45785919e80bd991bfc2afbf83ebace7714a5612          6860  rtp/Audio/SE/Sound1.ogg
+7f4a9c4f6bcb76920aa6753d18adc689395fbb23          9076  rtp/Audio/SE/Sound2.ogg
+8c23f4fe382d2aa32369a799166a1f58b6610ee2         12655  rtp/Audio/SE/Sound3.ogg
+ef92b1b64c430c25e9dc007d14bbe63f7d11dc03         11018  rtp/Audio/SE/Stare.ogg
+93c1b6b63bcb65c583d5f70e36dca5e5f2523947         18962  rtp/Audio/SE/Starlight.ogg
+f0ab0e7715761ceec92495207279d0406f9823a6          4680  rtp/Audio/SE/Switch1.ogg
+bbfe368b539085db924fc0ef05a34dac2a346548          9356  rtp/Audio/SE/Switch2.ogg
+adfeace03a404065b14bcb17dd3ea97baa7deada          9005  rtp/Audio/SE/Switch3.ogg
+27aaa5588e94e3f3a1607d602d07eb9c0e87464d          6770  rtp/Audio/SE/Sword1.ogg
+0459de59a2e719d4111d82f8950719bcd5918bcc         11702  rtp/Audio/SE/Sword2.ogg
+5b0a272bdee06b7665f07743897f18d89ec5fbc3          8534  rtp/Audio/SE/Sword3.ogg
+0de9a4020de66038601d053e55c2182edb7cb7a8          9495  rtp/Audio/SE/Sword4.ogg
+264f61ed6ddc16c02b1d106991b9b35d4ab4e78e          9595  rtp/Audio/SE/Sword5.ogg
+64d135fc915a8fad0689a80700bce7a2a49617e6         71471  rtp/Audio/SE/Teleport.ogg
+28a7d98b60576b36e1c05f5ac8f846e7128d2679          9896  rtp/Audio/SE/Thunder1.ogg
+ba3247a9d76618cdc01be549d7c91d7fb2244e19          9402  rtp/Audio/SE/Thunder10.ogg
+e065fb09301dd111633f900d1da0b7816faba30d         21256  rtp/Audio/SE/Thunder11.ogg
+08ef779baade58a1bb6bef01ed1e392551b4b303         15511  rtp/Audio/SE/Thunder12.ogg
+30791f02da09daaebabc60d81e4a019f8cb4b715          6194  rtp/Audio/SE/Thunder2.ogg
+f29111e9388be52af210735729dbd9cbe5936b45          7871  rtp/Audio/SE/Thunder3.ogg
+2e3bb230c2f462a2a456300749473be28573b5bd          9572  rtp/Audio/SE/Thunder4.ogg
+f088397bd9500b077e1867f8995617e0c1a6cd13          8144  rtp/Audio/SE/Thunder5.ogg
+87a86fd7c940b3fbc76a4b104d5916c4e25549f2         10767  rtp/Audio/SE/Thunder6.ogg
+a47b8540fe91435bc88b34271fb3a6411a8eaf99         10626  rtp/Audio/SE/Thunder7.ogg
+a5ad9f6b4094c9d8bc5e5116d4823854ee8b9190          8459  rtp/Audio/SE/Thunder8.ogg
+d657ffbd935c16e17e67383f3fe53c5990606070         14702  rtp/Audio/SE/Thunder9.ogg
+48fd61f2215e53fc0cd04dabeae875b0af09b8db          9140  rtp/Audio/SE/Twine.ogg
+4d368384b88137aadfccf29e7b4e22552e48f5ae         10101  rtp/Audio/SE/Up1.ogg
+17e2a6cfb919c79b4a2e7cd527ac7d1b618a05f7         18358  rtp/Audio/SE/Up2.ogg
+322a16e69c7d5c4907d0f95c5cbc348133e3327c         18133  rtp/Audio/SE/Up3.ogg
+93716fbe53df6da2688642289911a7491deaad2d         13179  rtp/Audio/SE/Up4.ogg
+65aa1ed682b2d8e0a5fc575d47b4dcb7400013dd          9900  rtp/Audio/SE/Water1.ogg
+54fe2fec7f7464a201b37033f27aaa733f450c25          9405  rtp/Audio/SE/Water2.ogg
+83647ea4433b654ce1002fae33e08ecb113b298b          9615  rtp/Audio/SE/Water3.ogg
+47865078b439ec4e36069e8c0b42ed857a50c7ad          9083  rtp/Audio/SE/Water4.ogg
+abcc379ecfdb2674545e96112e0cf7f5920e3d60         12971  rtp/Audio/SE/Water5.ogg
+6b69ec21a0e5353edb60c22a6e0bac54742a3e9e         12874  rtp/Audio/SE/Water6.ogg
+4b262a30af3191321453301a77276c0f78c28b85          9209  rtp/Audio/SE/Wind1.ogg
+cc05c1aac068454fe691de752018d26586b79b1a         10776  rtp/Audio/SE/Wind10.ogg
+3218b6b2942ff49a3b77118635056a3b57a6dbf8         20936  rtp/Audio/SE/Wind11.ogg
+16feabf8a165b5928c1ab4a8bf30c051a4bdbc19         12580  rtp/Audio/SE/Wind2.ogg
+a9f3523a1f9ab2dd9145afc86f8ea4f8b50b5b9a          9542  rtp/Audio/SE/Wind3.ogg
+64849edf4ecc5d33d226a9c0809e8408aa7afe59          5096  rtp/Audio/SE/Wind4.ogg
+811443d30553ac193298b17a18d6added5293218         11640  rtp/Audio/SE/Wind5.ogg
+d3c5f219c0106fdec33916ad0cad8268fe8934d0         10562  rtp/Audio/SE/Wind6.ogg
+8088588237e7d813502c0678e014f0bfdd5a532d          4428  rtp/Audio/SE/Wind7.ogg
+7f41f7307bd4ddaab117c122741652ed34641d32         13438  rtp/Audio/SE/Wind8.ogg
+f99d91de8e1517d9d84c2efedefda86280a993ae          8301  rtp/Audio/SE/Wind9.ogg
+e2d4f8a65caa5f4f832e5d1b42900046ed6db241         12634  rtp/Audio/SE/Wolf.ogg
+b8609cc9fe80b2cbcbc3fabdf059be4ca52108ef       3883852  rtp/Fonts/VL-Gothic-Regular.ttf
+e6c107418367911c080b3e81e092dfc89edf2c8f       4013852  rtp/Fonts/VL-PGothic-Regular.ttf
+35e388df677d4948a207f64de154c6d85f110acb         21854  rtp/Fonts/VLGothic/Changelog
+922b8f22b0f128d7bb052e58f5098afe33ef0c45          2886  rtp/Fonts/VLGothic/LICENSE
+a5f7ea4602e90b17f5c9d557ffa9ae413d739f45          2647  rtp/Fonts/VLGothic/LICENSE.en
+4fab4adb4a1e09fda4577670df7fe4f14cb55d18           375  rtp/Fonts/VLGothic/LICENSE_E.mplus
+a01cc8493c04d3ccdefee32c3ac70a1fead18ef9           329  rtp/Fonts/VLGothic/LICENSE_J.mplus
+71d332e4fc3979b3f1c3dabed9e325c6216d72b0          3001  rtp/Fonts/VLGothic/README
+9ee7dd19e60cc705b238d98a48624aec2975be87          7374  rtp/Fonts/VLGothic/README.sazanami
+370c30acfa0fbf65bbca114f378b78b9a5b90471          4112  rtp/Fonts/VLGothic/README_J.mplus
+e0c7b6f8d2b3a6abbac669de07a2f3869eb8f63c         96652  rtp/Graphics/Animations/Attack1.png
+cd1e1d0e6aeef15f3499f232e3eafe39cd3c8aaf        272551  rtp/Graphics/Animations/Attack10.png
+92f376429994d2b75e3e0d2a7c92522fd0af39e0        365328  rtp/Graphics/Animations/Attack11.png
+b0df07841c6b173f5bc3ad2f84c3718ff4e0de3c        241349  rtp/Graphics/Animations/Attack12.png
+55fc51ea66ae1a86c8e8032f9fad6d88bfb9c5e1        232747  rtp/Graphics/Animations/Attack2.png
+488eab0ab11034b793c901cc714d61923c0f223e        231671  rtp/Graphics/Animations/Attack3.png
+2c5fb96d2a61f42bfef2709bd2c4a1167539188c        293574  rtp/Graphics/Animations/Attack4.png
+b4279f7de59f489d66d4c39652950d58fc26afd3        205693  rtp/Graphics/Animations/Attack5.png
+85e118ed33790e10c26cbe36c91515d347dec929        312802  rtp/Graphics/Animations/Attack6.png
+743b6a8fc959059e84c061b60c98000028fc57e8         68556  rtp/Graphics/Animations/Attack7.png
+eae126c3ecded6ea3f8f4683d4e33c2fcb750d6e        362030  rtp/Graphics/Animations/Attack8.png
+7fe74150f2d5ec04e0def80d484e8b38ffa20642        252798  rtp/Graphics/Animations/Attack9.png
+6cf37f50fc24ea4d5607d4c42b92f07501d1be97         59182  rtp/Graphics/Animations/Blow1.png
+024e3ff1c7507a7c3ba2fc76c1811c0a36a56795        280034  rtp/Graphics/Animations/Blow2.png
+2dccbee03aa2470b7890f0f76f9df906e0418311         54037  rtp/Graphics/Animations/Blow3.png
+c5e8c934aa772626b4de22cfa47c0f854d82510d        258584  rtp/Graphics/Animations/Darkness1.png
+f4fdece67768a46e93370a0fd681d8dfc1f59702        471483  rtp/Graphics/Animations/Darkness2.png
+9943e6a638b46fad3296c55f86d622c0216557fb        647051  rtp/Graphics/Animations/Darkness3.png
+e92cc31b7e91ce6e1ce40c1405e4784e8dd8b039        347023  rtp/Graphics/Animations/Death1.png
+29e22f8aadf0173cdca30b9f9e25d3fc4fd7ce6c        270008  rtp/Graphics/Animations/Earth1.png
+f29de644a18966b2fea22c689419ced8821f2e4c        177367  rtp/Graphics/Animations/Earth2.png
+5b572e8729573534e3aeebde2010f240bd832c5e       1424581  rtp/Graphics/Animations/Earth3.png
+5eec3442375a1f9dceea450f1f071aa1589311d4        329996  rtp/Graphics/Animations/Fire1.png
+220bddda9342837662a57c133cd29cb3d99448c2        634494  rtp/Graphics/Animations/Fire2.png
+321780c74b7058d563f2b4e0028860801e76c05f       1501454  rtp/Graphics/Animations/Fire3.png
+774a12bbe962ddfabba8eecec6255f269f222179        832873  rtp/Graphics/Animations/Fire4.png
+eb8eedebf7c5e164a25f1f2e49bd636a25074777        294903  rtp/Graphics/Animations/Gun1.png
+5b820100b85297d2c2c72bdd1310178e1f81f6f6       1121047  rtp/Graphics/Animations/Gun2.png
+246aa85d8ba4aa7e8104f68dae8399fbfc08c35b        674400  rtp/Graphics/Animations/Heal1.png
+75906a21c8b6cbf819733a2fabba0bfc266774ff        388009  rtp/Graphics/Animations/Heal2.png
+f2cfba51eb106d6bee3a5564387c46d8998d6ad9        893585  rtp/Graphics/Animations/Heal3.png
+b3a64a80d7c90175408fef0a8b06aaf0d03b1688       1470752  rtp/Graphics/Animations/Heal4.png
+7b7e184ca56e5e3d7b7115c6f5a5c2959f74574b        544345  rtp/Graphics/Animations/Heal5.png
+689e7bdf80e7b5a5760b1fbfa51bf45ff7eb4f9d        404609  rtp/Graphics/Animations/Heal6.png
+addb0582a8df789eba815b6560c976c6095cf7ae        463969  rtp/Graphics/Animations/Ice1.png
+b6ad60670c04e3291432d48e4d31791461042865        330049  rtp/Graphics/Animations/Ice2.png
+4bf663161644fb961ceee4310f36cd733af045eb         62863  rtp/Graphics/Animations/Ice3.png
+d1ff28d58e09bc44135448a833a36438407c32b5        490596  rtp/Graphics/Animations/Ice4.png
+0c9a0231c6d3fdd7254635d215e3111695370162        847556  rtp/Graphics/Animations/Ice5.png
+59ea5140de009b7e0f381ad5f517114543a2faf2        358868  rtp/Graphics/Animations/Light1.png
+c6abade0cb6338e3dc181dd2ab3006e378e10a6f        317478  rtp/Graphics/Animations/Light2.png
+c4097ffbd078eb6cecb998bb541d74bdf72b14fd       1868849  rtp/Graphics/Animations/Light3.png
+40a679057d47f7480ee5acff458be327f00abcbf        321403  rtp/Graphics/Animations/Light4.png
+4e8a5d6f50b162c756b15198bcdbd7b64a936015        432282  rtp/Graphics/Animations/Light5.png
+1d69860b091a9258a70b863e44a1a34048e20d63        484786  rtp/Graphics/Animations/Light6.png
+cba5a55963617f1117122078a3353dbc07baa91b       1803647  rtp/Graphics/Animations/Light7.png
+1185cb93a7c33793e8fbbc343857a8c64cb7799d        780347  rtp/Graphics/Animations/Meteor.png
+9b6541f8ff928485a731c0c6b7bbfe7e54e845de        142500  rtp/Graphics/Animations/Spear1.png
+03c2b57cd1f3703610a02c2f225e305a33d5e6a4        303950  rtp/Graphics/Animations/Spear2.png
+95510bb97321abde86b2824294148dc7751e7b0b        970011  rtp/Graphics/Animations/Spear3.png
+892e8af5486a55013dee932dc3067d11a185ecc5        620411  rtp/Graphics/Animations/Special1.png
+38c2ab08714c5d3bf97eb731fb62d029dcfd467f        554304  rtp/Graphics/Animations/Special10.png
+f57bf1e7e6af286ca710ddea55df4683d3e3ce86       1658562  rtp/Graphics/Animations/Special11.png
+19a5932165050310c9785520b54e4306494d24ec       1138664  rtp/Graphics/Animations/Special12.png
+e6ca4489bf69b0c692762f881295b2f926008687       1468287  rtp/Graphics/Animations/Special13.png
+2d26bcdf246cc25658bb94a312b9de658856b69d       1023372  rtp/Graphics/Animations/Special14.png
+56f95d7d7f5248c4928efadc5e6c67454088679d        949649  rtp/Graphics/Animations/Special15.png
+ffdc5dbccb8ae651f8a098021a15fbed397cd5db        890622  rtp/Graphics/Animations/Special16.png
+7d2ce6ab6dd2626bab0e8a30dd32fc78b6994adc        954539  rtp/Graphics/Animations/Special17.png
+3e48bf5a9b0a4109f4fdeeee63c5ad406ee492f9        605288  rtp/Graphics/Animations/Special2.png
+4b4d0e2e836a0caccec010cf33498d6353ad9832        579657  rtp/Graphics/Animations/Special3.png
+18b7b6181f2b3c6bbbb1a8dc00cad44a3d12c8ce        103051  rtp/Graphics/Animations/Special4.png
+26bca741ae2aa7f64042dd5e265d6fa8c98b79ae        489266  rtp/Graphics/Animations/Special5.png
+c622eea5ddc5644be10330f26b62af1d2f72d26e        186386  rtp/Graphics/Animations/Special6.png
+b91ba6ca6d1062452fe8450fa56a623a46fae9c8         68134  rtp/Graphics/Animations/Special7.png
+8c2d96785fded30f6a2f89524eff76f28b94fc73        214834  rtp/Graphics/Animations/Special8.png
+cf8f3d4ae7adc7b2471e3823571f32d32b158943        224037  rtp/Graphics/Animations/Special9.png
+ddfa39dc12561e93bb9d5111a7decbf624b7e3bc        186481  rtp/Graphics/Animations/State1.png
+0ba28653ee988e0bde9f9fca1ec32b3a95853989        452531  rtp/Graphics/Animations/State2.png
+730019c027327ebcff40a40ab51b809f49f90e33        167511  rtp/Graphics/Animations/State3.png
+7ed3337c2cf022d57db0900f0bdfda74724e49c4        158839  rtp/Graphics/Animations/State4.png
+f99200ae4784d365217a210345118c6ca358c1ea        231849  rtp/Graphics/Animations/State5.png
+f2cefdf579adaae04e30ece37be2374ed98e9f59        202352  rtp/Graphics/Animations/State6.png
+28795c6c0a027f088cfa7ae2484b20be403c5b6c         44585  rtp/Graphics/Animations/Sword1.png
+d33ec1086c9fe824507314ee873ad41aee5bf43c        461413  rtp/Graphics/Animations/Sword10.png
+29b903bbd4f86d97cf046dc7cce9d0ffcf72d326        186807  rtp/Graphics/Animations/Sword2.png
+f4443f9244149e4378c22c57a2925c4300872293        276093  rtp/Graphics/Animations/Sword3.png
+496a6e912b3c854ecc873a1749423180d6108fee        259555  rtp/Graphics/Animations/Sword4.png
+92fa10fbe3ff49e998ebc8547351e8283ee35f79        409804  rtp/Graphics/Animations/Sword5.png
+cc15f8f4d30cf9899f927decc9fa4a3d6471b9db        126201  rtp/Graphics/Animations/Sword6.png
+d5d234be38df79a336e637e44eaf95ea17961419        717150  rtp/Graphics/Animations/Sword7.png
+cb37817260051649d556af942faef3ce57df2f57        803137  rtp/Graphics/Animations/Sword8.png
+dfd0aa0bf75087259a38d26a8a02a59e8a8b826b        329271  rtp/Graphics/Animations/Sword9.png
+964cea182f348cb0ac8217bf25aad83a62cacac2        338937  rtp/Graphics/Animations/Thunder1.png
+a6fa976e2feb68d3655dffee780dd2950823743a        257204  rtp/Graphics/Animations/Thunder2.png
+92e19d0d19ad53f595f23550dbe32fd358888783        296323  rtp/Graphics/Animations/Thunder3.png
+fe4d6b8be92a345b738aa60b4547e8da26c04348        515850  rtp/Graphics/Animations/Thunder4.png
+3c0b55cb6ae154fcb15d30d2ba3cb03d2869b221        378916  rtp/Graphics/Animations/Water1.png
+95bed0bd6a5e3b5e3d7619585d9a881832d27fb7        211199  rtp/Graphics/Animations/Water2.png
+6977e4b049e5518598be30867cf61e5536600697        623355  rtp/Graphics/Animations/Water3.png
+47aab74edf4c282ecc33587add747114fbcc530c        263357  rtp/Graphics/Animations/Wind1.png
+db69093ae224c1227b95a25cf695782e9079cd2a        373205  rtp/Graphics/Animations/Wind2.png
+d1556e36449272f13d31b3a9de36adff5610af65       1005269  rtp/Graphics/Animations/Wind3.png
+cc3723104bc2c86b01294e0fccb7aa063f05a0c2        354643  rtp/Graphics/Battlebacks1/Castle.png
+ac66d31d68d150f45cb17c4ed8cbeaf20aa3235d        132149  rtp/Graphics/Battlebacks1/Clouds.png
+9aaeb1888c79e5b484f7725e890af25b47159e11        296418  rtp/Graphics/Battlebacks1/Cobblestones1.png
+ca91db38d8593acbb636b927f1611e7ca3698563        295162  rtp/Graphics/Battlebacks1/Cobblestones2.png
+33f476f3a4d921f2d1bd7d7b08f144a5aa7e76f8        302136  rtp/Graphics/Battlebacks1/Cobblestones3.png
+9ac0ef13457c7996fa334741a69427a369477328        323615  rtp/Graphics/Battlebacks1/Cobblestones4.png
+ff3da5837dafe387f701cbfb8b2f9f7ba25f9b13        435787  rtp/Graphics/Battlebacks1/Crystal1.png
+daa3db01452e7d6e29dedd58d8ed411f8b8ea772        412252  rtp/Graphics/Battlebacks1/Crystal2.png
+3514db843eb5f5e040a360b3b9729859c7232fc5        427689  rtp/Graphics/Battlebacks1/DarkSpace.png
+933873d9d028d11a6c231b511277ed3bdb5115df        295155  rtp/Graphics/Battlebacks1/DecorativeTile.png
+3fbf86780cdc0e9b5a304e54df72c3196551b3b5        337873  rtp/Graphics/Battlebacks1/DemonCastle.png
+f2da0856fe2096647a22ded494b6b9b9c68297ac        383990  rtp/Graphics/Battlebacks1/DemonicWorld1.png
+fbe470db7ff73d4e79164ad691f34652fa81a88c        330564  rtp/Graphics/Battlebacks1/DemonicWorld2.png
+98f69eb4acebbf2d11147ca9994bd5ba2d4e6a30        315264  rtp/Graphics/Battlebacks1/Desert.png
+cc73e746ccbf3c65ebd029ae9856585fefb078a7        308331  rtp/Graphics/Battlebacks1/Dirt1.png
+2c90df3e8e8f0780f1363661606ab7165ac9fff1        252404  rtp/Graphics/Battlebacks1/Dirt2.png
+a41fafc41da7de6e52aefb50c1e5fec82c79fbc8        279861  rtp/Graphics/Battlebacks1/DirtCave.png
+b47d71490345249b15dc801a35c0bbff234a8a0f        344886  rtp/Graphics/Battlebacks1/DirtField.png
+fd6cbaafcc1158c20220a3126e1ddc993c1b72ef        288150  rtp/Graphics/Battlebacks1/Factory1.png
+c1f010fe30189d99531ca3368b45907e52ea8b38        280081  rtp/Graphics/Battlebacks1/Factory2.png
+d6143f7cf13b67f2098f60c3394a102e7ca9d2d5        317210  rtp/Graphics/Battlebacks1/Fort.png
+d727e4305143830563eda49fb44f8644b5a852d1        270552  rtp/Graphics/Battlebacks1/GrassMaze.png
+ab1962224664381987a3ba39a55be001f6ac4a94        289741  rtp/Graphics/Battlebacks1/Grassland.png
+980bc37ebc2eb90615d879e0364153bd630fce3e        333657  rtp/Graphics/Battlebacks1/IceCave.png
+7e499c583fb8dd8e597b7fe12de3cc900508cff1        292304  rtp/Graphics/Battlebacks1/IceMaze.png
+c10898abf8e34783792f13e7ad6e3b515b91102b        342187  rtp/Graphics/Battlebacks1/InBody.png
+04988844d52c0ea51c8786d202d35d6a17113c60        408302  rtp/Graphics/Battlebacks1/Lava1.png
+7ad0f04ea7dd3be8f45b07732a898d61ececd2f4        396314  rtp/Graphics/Battlebacks1/Lava2.png
+e6e2e2faf804de3e428108b37daf57a520f6cb75        285739  rtp/Graphics/Battlebacks1/LavaCave.png
+3a1f4cdd76f3eb10bdc7e2722f57d71364b590d0        412924  rtp/Graphics/Battlebacks1/Meadow.png
+ce72c0119912c11867fc0d9ff0b54c134d2c7978        257830  rtp/Graphics/Battlebacks1/Paved.png
+942b961418ca0069a7dbfba1693004d4e5a4ba4e        241014  rtp/Graphics/Battlebacks1/PoisonSwamp.png
+3ebe8c34d8f2e183fb8a372fa10e1931e9c46b2a        276153  rtp/Graphics/Battlebacks1/Road1.png
+aafcdbd9ec1697efd0a48b8206aa4bd3798a4fb2        183743  rtp/Graphics/Battlebacks1/Road2.png
+ba37362196ca579f460be486a70c42c8850a99bb        346674  rtp/Graphics/Battlebacks1/Road3.png
+35c57a8d14553ceac2ae534c71f4d5cd508caa40        327984  rtp/Graphics/Battlebacks1/RockCave1.png
+52129d1a508543dcbc0e901d32a5c79174cd0508        293753  rtp/Graphics/Battlebacks1/RockCave2.png
+906b434fd1d5e1fae9100beb3acbb220bc801b71        403290  rtp/Graphics/Battlebacks1/Ruins1.png
+de132d87cfa32955175b197d96571447e5464782        340951  rtp/Graphics/Battlebacks1/Ruins2.png
+862fdd907305a00819d4bc253480c89a74065b4f        280448  rtp/Graphics/Battlebacks1/Ruins3.png
+999d7e409680f02590352726f5d36eb24e8d418f        296313  rtp/Graphics/Battlebacks1/Sand.png
+470c0bcf2234c4a40faa2c5f7692caa423a1997c        339401  rtp/Graphics/Battlebacks1/Ship.png
+c6b74604e682584233fc84f5f5ea763c49ba31dd        226135  rtp/Graphics/Battlebacks1/Sky.png
+54c1e879c1f8650705161b47c6054848d56d64ec        167145  rtp/Graphics/Battlebacks1/Snow.png
+800d08f23c410545eff42725f8ccca6e183624d3        251222  rtp/Graphics/Battlebacks1/Snowfield.png
+abbfc670a0e59908c2e0bad3d4ec7c8561d2259c        299472  rtp/Graphics/Battlebacks1/Stone1.png
+e62713225265f5e000da4aadf3de728c4115cd6f        248677  rtp/Graphics/Battlebacks1/Stone2.png
+4bc3d7bd55e305e21c6b3d58b97fc1061d1571ac        305744  rtp/Graphics/Battlebacks1/Stone3.png
+ea6590c415590aadd5e906fcb584eb23ed43e484        356798  rtp/Graphics/Battlebacks1/Tent.png
+6ae3608a795b3f2ee05f02edd08be656a73f6643        250830  rtp/Graphics/Battlebacks1/Translucent.png
+bb326c5460b056e199a438276d5a06fc69628990        297859  rtp/Graphics/Battlebacks1/Wasteland.png
+4ca8ae5f2fc3ffe07c08a6705dd9980bc35ebee3        235695  rtp/Graphics/Battlebacks1/WireMesh.png
+91d8eaf8b5811e33ff126040eb35a5532522f0fb        245366  rtp/Graphics/Battlebacks1/Wood1.png
+204f2a687b96fc351c5e8beec5fa362776435a2a        294927  rtp/Graphics/Battlebacks1/Wood2.png
+a791c04778d669a8ef5ffd783fc4e2fe17fbdcee        320200  rtp/Graphics/Battlebacks2/Brick.png
+19d0856e308d583a98b0a978a86f9718736f2816        308462  rtp/Graphics/Battlebacks2/Bridge.png
+d7b2b748a899f0b7432e4dd71649a3cf43ab6309        295252  rtp/Graphics/Battlebacks2/Castle1.png
+4c898914b1964637afc39172683ef2f841964a07        279273  rtp/Graphics/Battlebacks2/Castle2.png
+8002351a94852cd74b47baa733edfa411c12b573        221399  rtp/Graphics/Battlebacks2/Castle3.png
+aab1e260e248542e2e8471dbd571eac186a07036        334089  rtp/Graphics/Battlebacks2/Cliff.png
+039ebe9bd672116714fffa68db15beb027aec6fb        134172  rtp/Graphics/Battlebacks2/Clouds.png
+84efad74d496aa959257e5a6f0a169dfd80b6c28        336578  rtp/Graphics/Battlebacks2/Crystal.png
+2f2f3ef2a0d4e3efe5e4ba0e494345ee71e6944a        264999  rtp/Graphics/Battlebacks2/DarkSpace.png
+cb91429f17dd56e88bf1eba9eb11ea815e102398        302744  rtp/Graphics/Battlebacks2/DemonCastle1.png
+005c38ae16f8392887d61c1c308c70bcd1fc3e5a        266297  rtp/Graphics/Battlebacks2/DemonCastle2.png
+88cf0aa203a5b887ec6547b1e36ac26a15dd9fb5        217310  rtp/Graphics/Battlebacks2/DemonCastle3.png
+d2a82494e5fec9593d9a1dae6f565e88203aa94c        341780  rtp/Graphics/Battlebacks2/DemonicWorld.png
+89279caec0e270eb363249f4ebde7d3a8a515dfa        151208  rtp/Graphics/Battlebacks2/Desert.png
+10ddb3712f968e87d1c9411221339899cc82d5c3        244644  rtp/Graphics/Battlebacks2/DirtCave.png
+2b320382f23c589e1a74714e8d7828411c478aa8        287811  rtp/Graphics/Battlebacks2/Factory.png
+e749508394807b45279187967a36fe98f9f2433b        379430  rtp/Graphics/Battlebacks2/Forest1.png
+2e447fab8d9752ce68e8e2252465f7786716a54b        336413  rtp/Graphics/Battlebacks2/Forest2.png
+671f8258845ac0f79f217875061e5650666a4817        314460  rtp/Graphics/Battlebacks2/Fort1.png
+aba0fecb32dfec345a2801f9854cc819f7cd71f2        313455  rtp/Graphics/Battlebacks2/Fort2.png
+882a8bfee82af6697cfdf2ca31353781df17681b        344805  rtp/Graphics/Battlebacks2/GrassMaze.png
+903436f7d966706bb39423b022f2b019cb2071a9        189344  rtp/Graphics/Battlebacks2/Grassland.png
+f1d68ce27ec845d86b3b7614f58ba24a7c7c08d5        302726  rtp/Graphics/Battlebacks2/IceCave.png
+a718248c799af3fc9f6efe88eafde85ac239f3e0        244530  rtp/Graphics/Battlebacks2/IceMaze.png
+9cf54c550af5835509588c2419b85ce2ce90973e        317515  rtp/Graphics/Battlebacks2/InBody.png
+9cd099bb9227e38427cf681e2e01460748213aa0        256629  rtp/Graphics/Battlebacks2/Lava.png
+4b9a1475bb5e31962d3f0fd5cdfab982dc417dd6        256927  rtp/Graphics/Battlebacks2/LavaCave.png
+e92db79e1943985700275143f7950de0e86fe2e7        253357  rtp/Graphics/Battlebacks2/Mine.png
+191aad91e61b70c845e83343f0b19d8de447b7c4        193658  rtp/Graphics/Battlebacks2/PoisonSwamp.png
+f06b4a36fd5c658f433f61ef8d2b8d010b8a7dbf        216168  rtp/Graphics/Battlebacks2/Port.png
+29e0a091ffccd7d7a8caec834e2a39c67e2ae2c0        285997  rtp/Graphics/Battlebacks2/RockCave.png
+625102f640564e2d5a9c60a17acd4794f8384686        199941  rtp/Graphics/Battlebacks2/Room1.png
+4339f208d1901c890356aed6194c3bca114135d2        212755  rtp/Graphics/Battlebacks2/Room2.png
+a4117ec800ed982ba285fe1269eef5a59b03658b        232149  rtp/Graphics/Battlebacks2/Room3.png
+f7b9286a7be5eab6c5e9a204d145d1c5914fd884        242952  rtp/Graphics/Battlebacks2/Room4.png
+7d869f7860981e7db0b1dd35c2176c0c140be305        310089  rtp/Graphics/Battlebacks2/Ruins.png
+f35cefc611a70ecc4175b931412f41aba68b6521        149041  rtp/Graphics/Battlebacks2/Sea.png
+37cf199d041226e2045be538061cff1160ac811a        188221  rtp/Graphics/Battlebacks2/Ship.png
+aefa2983511f1d328779188dcddc2dd8a7390577        134157  rtp/Graphics/Battlebacks2/Sky.png
+f9b685a49f3c2a99395f6feb4e73e8e05109ede2        240238  rtp/Graphics/Battlebacks2/Snowfield.png
+da2393c4cd54bf2c8f5f9b0cc40caf493a740062        274351  rtp/Graphics/Battlebacks2/Stone1.png
+579f0f5b4ee15e934228d79b210ff12e859e23f6        242381  rtp/Graphics/Battlebacks2/Stone2.png
+508a23aa1c315a9f7f63075ffa71cddde92969c2        267472  rtp/Graphics/Battlebacks2/Stone3.png
+bf56fd4a17ba38765a17f36f02eb2526614fa03d        236363  rtp/Graphics/Battlebacks2/Stone4.png
+65104025e291de6bf26204ff91336cbc77ef9c1e        275051  rtp/Graphics/Battlebacks2/Stone5.png
+95df59d28d81e1d970ff05af07ce7946beeca222        285512  rtp/Graphics/Battlebacks2/Temple.png
+2705ba8d32abf8ba0b3fd9494e8cc09e3a646c09        297629  rtp/Graphics/Battlebacks2/Tent.png
+d162c5f46da81df52adaee76a07b6e0b251d2f6d        250728  rtp/Graphics/Battlebacks2/Tower.png
+3e80aea023cd9de301beac51ed2de674cba7657d        246626  rtp/Graphics/Battlebacks2/Town1.png
+0321ff3e78cdb0f33c0fd5bdfc8827b4794a321d        241424  rtp/Graphics/Battlebacks2/Town2.png
+db7cb543b59b600d28e67434c1aaea4d411b9de0        210515  rtp/Graphics/Battlebacks2/Town3.png
+8516bfdb4179579faa62d2feab0fdd01ff317c5a        238872  rtp/Graphics/Battlebacks2/Town4.png
+3b9089fc5cffceb47a068ee4a3cc6604e6b924cb        256317  rtp/Graphics/Battlebacks2/Town5.png
+51a696295cb7a164953be9f6df0f997d7da6e816        202968  rtp/Graphics/Battlebacks2/Wasteland.png
+13a1f372c23214c65ccc0b80bab17d18cdc66714        101652  rtp/Graphics/Battlers/Angel.png
+b01a509d2e850cb4d14a825000094e883e43e247         39710  rtp/Graphics/Battlers/Assassin.png
+01b7175af69d5ef77afba5f68f61b593ad2e4a57        107508  rtp/Graphics/Battlers/Asura.png
+afb0ea0e5e7ca17a7b119438b1129c144b1b3726         30540  rtp/Graphics/Battlers/Bandit.png
+027408ca50b69a5e08b4173aadd6189cea6518d2         17169  rtp/Graphics/Battlers/Bat.png
+6f91570db179f2ffb62f6ccb7da90263c66d2584        120591  rtp/Graphics/Battlers/Behemoth.png
+b4743daddd07acce61cde04824eef04cdc430637         53957  rtp/Graphics/Battlers/Captain.png
+70cffde531900b68d3737df8d643ce0693a45ca1        118158  rtp/Graphics/Battlers/Chimera.png
+7f3505ddfd01654d53cfd3cff8af27eb64a94367         42014  rtp/Graphics/Battlers/Cleric_f.png
+9ab0944885fb30b0036238b72b9bf1fa0e6f0721         40502  rtp/Graphics/Battlers/Cleric_m.png
+8ce0c601bc19b28baf7f654c39d3203b1a0cb34b         39593  rtp/Graphics/Battlers/Cockatrice.png
+f248f93a543323f97e0499d278ebf7454969d2f2        183197  rtp/Graphics/Battlers/Darklord.png
+4f2be3d5cec25eae391ac4e12c0caec901471b84         86890  rtp/Graphics/Battlers/Death.png
+adb5d4f8ecd9099d7259a4bd7fc760bb07022949         51768  rtp/Graphics/Battlers/Delf_f.png
+596acfb1a8dfb936fe0bf2c58c10bf52a82fcf81         30279  rtp/Graphics/Battlers/Delf_m.png
+c3b6e3724e9db79061f6b3c49ff2f1d06b954c3a        175810  rtp/Graphics/Battlers/Demon.png
+08ef0eb787eb7fddfcc6d16e37c485c473d9d5f7        143081  rtp/Graphics/Battlers/Dragon.png
+870388ce7d960f2f4a242f8900077cb3fc9ce5da        171214  rtp/Graphics/Battlers/Earthspirit.png
+38b0aed230a6dd038ad1b950a4f6bc8f60d48712        189964  rtp/Graphics/Battlers/Evilgod.png
+9ec6b91aafccfff1db48ec4742dcba10695b9dc3        127833  rtp/Graphics/Battlers/Evilking.png
+7e249eb5fc50e93e9d536e5331394fa32b081281         24131  rtp/Graphics/Battlers/Fairy.png
+599b1fcdd849d358dd783df28cc0a8ee6a1beb64         35907  rtp/Graphics/Battlers/Fanatic.png
+39a274fce109ca4afb230b60fab080f7842b393c        136571  rtp/Graphics/Battlers/Firespirit.png
+1a05df0f6bb2917766966ed6b4b59b5f86ef7529         56063  rtp/Graphics/Battlers/Gargoyle.png
+30ed2fd700cf407d83516d42c141957e07237a2f        153598  rtp/Graphics/Battlers/Garuda.png
+c9481e4efada3c142f1456db3a83204209f09f2f         58406  rtp/Graphics/Battlers/Gayzer.png
+38ad86c66cfcdc77aa3bbbabc734af060c679725         65650  rtp/Graphics/Battlers/General.png
+d6c8090932e9d1d585f8e5f65401fff969a0435c         36888  rtp/Graphics/Battlers/Ghost.png
+11ad399c0cb127a3065e3868da239d626f4d6296         43922  rtp/Graphics/Battlers/God.png
+da5f0bdcf80fe1315ed312566b114c6d3a5eac61         97534  rtp/Graphics/Battlers/Goddess.png
+dc79cb6d9f0adfee1324baa56273b891502259f1         29830  rtp/Graphics/Battlers/Grappler_f.png
+f63483ac762275671dfeaccd5dd70e8240b59b40         27950  rtp/Graphics/Battlers/Grappler_m.png
+53d1bd3e5e3b206aadacc429b1ecb71652a5be77         53937  rtp/Graphics/Battlers/Hero_f.png
+da9e6cde0813bafe19ff68645c957aaf0b2d9a9e         52799  rtp/Graphics/Battlers/Hero_m.png
+e81de0876e95eda13028d6b286acba3cb1b7ce97         16366  rtp/Graphics/Battlers/Hornet.png
+2b15756088ade0ceae66ffb51eb79a6540a50c77        124483  rtp/Graphics/Battlers/Icelady.png
+f1e9554a0ad5e485914efcf4ddaccb4734ef362e        152480  rtp/Graphics/Battlers/Ifrit.png
+b690f96bd7a6df412e0911c1dc508b597fb6c3f5         20743  rtp/Graphics/Battlers/Imp.png
+82a224bcdd31cc932b4e1cb68e0525da6da102af         45782  rtp/Graphics/Battlers/Jellyfish.png
+2be7506324a6d5de5a05ad4eb28671d9e68bb167         40693  rtp/Graphics/Battlers/Kerberos.png
+6ea04af2f21b9cb6bb95dcc8bd4debc85e56fd52        103862  rtp/Graphics/Battlers/Lamia.png
+f0f3393bbfa213ba9e20264e297a19df4e6231f2         52823  rtp/Graphics/Battlers/Mage.png
+e221409639d4d03c4b7f924f0efcce1a23ce5563         25109  rtp/Graphics/Battlers/Mimic.png
+60fe1e5e8939ee539f019ccc9b33fa9ade194fbd        123540  rtp/Graphics/Battlers/Minotaur.png
+79702f2d32733c38f4afcf6bf8fa5fa8b27c0546        104741  rtp/Graphics/Battlers/Ogre.png
+69f05637fe840c1d3c4e970d211845183b68f7f2         34556  rtp/Graphics/Battlers/Orc.png
+c40b924d376c0500db56c8ea7b5419a674d4c6d0         56930  rtp/Graphics/Battlers/Paladin_f.png
+9a2c71a6c5f686c91f99d967c2c3bdeb0c06ee5c         45941  rtp/Graphics/Battlers/Paladin_m.png
+5dd215b382d16edda1859efa6011f52566a7b9b9         56683  rtp/Graphics/Battlers/Plant.png
+a201cdc6efbc2a49c5e4a3d8409a52f5d6ea93df         46792  rtp/Graphics/Battlers/Priest.png
+ea66639d8047f18162624276f690d5aa8cd65ea9         21275  rtp/Graphics/Battlers/Puppet.png
+bd926da996a021afe520ba04bc616b7a24739c37         16466  rtp/Graphics/Battlers/Rat.png
+90f2f0e125c7f33baeac6bf228f7d5df49e32dd8         39360  rtp/Graphics/Battlers/Rogue.png
+061a46d146a415d88c75e74ec7ad7b1c23d3869d         47445  rtp/Graphics/Battlers/Sahagin.png
+262099107d75d8124902c509cbf8807f01603b1d         46537  rtp/Graphics/Battlers/Scorpion.png
+c6c5aece732e8c030cd4eefd270877363154ac2b         46222  rtp/Graphics/Battlers/Skeleton.png
+65f73092c9202bdddef577011bc9234e36ca58f2         12333  rtp/Graphics/Battlers/Slime.png
+fee0a2ad0876acb0dfe3044ee80d88f5cd8a0a64         40882  rtp/Graphics/Battlers/Snake.png
+80e1127290188549cf36ce4880dbcc9bda8b8550         31450  rtp/Graphics/Battlers/Soldier.png
+5cecb15bf794f2641080d06d53cce9047e6d7803         49247  rtp/Graphics/Battlers/Spider.png
+f3717bd48f37f421783e162ac3feba5bb3e44c2c         43031  rtp/Graphics/Battlers/Succubus.png
+905a713a7ab6eddd1018157de30fe4058577c9fa         51229  rtp/Graphics/Battlers/Swordman.png
+05264a3f5a6ac6c1ea52643a0657a4f108161054         35405  rtp/Graphics/Battlers/Thief_f.png
+8521d348370d84a2cec5cc8f3f97162b45db01c9         38959  rtp/Graphics/Battlers/Thief_m.png
+fa24650695483164247aa8f3208c9ac209c3e771         66574  rtp/Graphics/Battlers/Vampire.png
+80556e52ca50779573e8d644cfdddb5c6aa52a8a         51341  rtp/Graphics/Battlers/Warrior_f.png
+e8f3dd0f36f8756ea43f32572f6891f9c8f18f35         38319  rtp/Graphics/Battlers/Warrior_m.png
+e00f0a6244f6c8190660ed53545f4a7e155dd43c        104175  rtp/Graphics/Battlers/Waterspirit.png
+4f691c0bc412e1d77ae63d579fc1e29bfd5f290a         51188  rtp/Graphics/Battlers/Werewolf.png
+cc67043423f1666b4ccd2262310647a40b7fb58e         39936  rtp/Graphics/Battlers/Willowisp.png
+cda1457d1e315dbc1b30b5534c93159d03874342        166601  rtp/Graphics/Battlers/Windspirit.png
+60ee7be789e704c587a23f6fb69242964a1acd49         35799  rtp/Graphics/Battlers/Wizard_f.png
+cc58d050df962ec424ecdd974fca26199697233d         64665  rtp/Graphics/Battlers/Wizard_m.png
+25ba20c096341bc9f1db083f6e5a6e452255f3eb         28503  rtp/Graphics/Battlers/Zombie.png
+ce417dbd46d9a6adad52c4b56b8ed3581681421c         25691  rtp/Graphics/Characters/!$Gate1.png
+78322c69e4694db2176917d9d481a814fb26967b         26351  rtp/Graphics/Characters/!$Gate2.png
+345a8430c99efe4cceeb7d9df9583c32ba81134c         61250  rtp/Graphics/Characters/!Chest.png
+acd34cc10bef9dbfe3a573cabfde70c55868e2e1        205598  rtp/Graphics/Characters/!Crystal.png
+ba739a2fa75831b49267ff7735905c7e4e51a286         47691  rtp/Graphics/Characters/!Door1.png
+cce31629d6fae8e4e449410332361795c2d6aaa1        128628  rtp/Graphics/Characters/!Door2.png
+e04fd9205e972a8bd82be7db4e8fb586c2ed94da         83382  rtp/Graphics/Characters/!Door3.png
+67287377e4a53d54c34061bf7a37261c74a3218d         91393  rtp/Graphics/Characters/!Flame.png
+a073e85195565ad8ac7cf45b4d8b7c2a4a4a4563        102415  rtp/Graphics/Characters/!Hexagram.png
+caf4690fe2beaa3af1235474d4e47c62a1f514d2        117943  rtp/Graphics/Characters/!Other1.png
+37acc8134240e48ed0cbc27f8f55945f4921f35a        198241  rtp/Graphics/Characters/!Other2.png
+a4b694b854bf001fa58eb8850b767e092346824a        151503  rtp/Graphics/Characters/!Other3.png
+e99f821124edbb4a85a7f7a59a879a43fd9cb68e         42425  rtp/Graphics/Characters/!Switch1.png
+45c17a4c2e974288316da40020ffbc665465ea9a         32390  rtp/Graphics/Characters/!Switch2.png
+5c6a954f59e85f23d6592033cdccd993720069fc         10643  rtp/Graphics/Characters/$BigMonster1.png
+005563bd4eecb167a661ec4b5113557cb1fc4316         16506  rtp/Graphics/Characters/$BigMonster2.png
+accdb1a6e267a6e5442e2c697bc2061c15b1851b          1915  rtp/Graphics/Characters/$Coffin.png
+738ca6d951ad6a47689ec5bd3efc01a131bcfb48         24043  rtp/Graphics/Characters/Actor1.png
+f5d6efc6a5521d230447a2245e5ecd5ad0652463         23581  rtp/Graphics/Characters/Actor2.png
+45804c3b20a96a93dca778e3d1d62143cb692fb2         22138  rtp/Graphics/Characters/Actor3.png
+15a915051d05cd109a243be334ab3c140d7b8582         26063  rtp/Graphics/Characters/Actor4.png
+7c1e63cde10f67982145f4f5b01b8b846e5db696         24255  rtp/Graphics/Characters/Actor5.png
+5208f6c402d9ef0a5962038eeccb058b869757d2         16021  rtp/Graphics/Characters/Animal.png
+5b47be927b6b5b290465f18d13284c1f89fa5371         42270  rtp/Graphics/Characters/Behavior1.png
+395dd94fa92d4847dffde3f7b435e94f061c65b3         27730  rtp/Graphics/Characters/Behavior2.png
+600d179e49ac59b74a8e39f0480e8e4e81179361         23574  rtp/Graphics/Characters/Behavior3.png
+3c7001cee71de73bf6f60bf78703ee7062c30dd7         23241  rtp/Graphics/Characters/Behavior4.png
+42cb3a5551fab5212ba7c9b2d8e0db1f417fab51         36191  rtp/Graphics/Characters/Damage1.png
+d4dd8e0496b710f65c17b602ac0a13ce515b7dfa         35130  rtp/Graphics/Characters/Damage2.png
+37be79f8ab2331ad8dae992c943b0ceaa11074aa         38560  rtp/Graphics/Characters/Damage3.png
+8d3e8530dfe409acc6d1219ec3ac1289f11342d5         33103  rtp/Graphics/Characters/Damage4.png
+33432090c638086c23fa3578606ec3cbf6313f19         22066  rtp/Graphics/Characters/Evil.png
+c34b2c415258b893da52b8281818cc2945f92c4b         16598  rtp/Graphics/Characters/Insane1.png
+7ea81016fa424e798c9cf504b922e0c26afcdcbe         17604  rtp/Graphics/Characters/Insane2.png
+b07242fb58c33f64b46e703e4eadd5e5e1bfbcb0         24484  rtp/Graphics/Characters/Monster1.png
+2a70c4d03059a45fedd1d2d73d776289cebc0413         23327  rtp/Graphics/Characters/Monster2.png
+c23c1539128eb6ea656fb5b316deb0b03ef75831         22127  rtp/Graphics/Characters/Monster3.png
+840bf36c950464c58a01cfcd821661e3a713f91e         19848  rtp/Graphics/Characters/People1.png
+9962776175c61920179be330cd2b81860c824390         21251  rtp/Graphics/Characters/People2.png
+0803702a93ff01cab6db208a945bf7a7b678947f         22817  rtp/Graphics/Characters/People3.png
+0094c29d37bba4f7e42d78193ab890d52722fe1c         24694  rtp/Graphics/Characters/People4.png
+1208eaff12ab3f91d0aa98c70730407d26de103f         19901  rtp/Graphics/Characters/People5.png
+67e1ea6b2d1e72cab02f61c2469169892e45d936         19594  rtp/Graphics/Characters/People6.png
+45a6571a16265f46cdad2b350c74212219964e79         20799  rtp/Graphics/Characters/People7.png
+365469582a35d33145b75f00eb632fb00a79b9a4         18859  rtp/Graphics/Characters/People8.png
+b8ca66d003afa1877573d9b11dcbcebeb5398d82         30384  rtp/Graphics/Characters/Riding.png
+72b4482be1ec94e38ca64ef86394924ea39c181f         25222  rtp/Graphics/Characters/Spiritual.png
+1f51f5e870749ef7ca509373f53ef4f2b576f08e         12558  rtp/Graphics/Characters/Vehicle.png
+f538d18b42cfbdf040c6b5adb08ab50c22679f0c        167826  rtp/Graphics/Faces/Actor1.png
+9489ae7ae89d71435c130dca69b37eb7ef6127e2        167141  rtp/Graphics/Faces/Actor2.png
+a458852e5eed081ded068a3d9fa6d70162b0c7c3        169158  rtp/Graphics/Faces/Actor3.png
+6b0b4f95ece2c6c173b9892608dba587d37b6572        181433  rtp/Graphics/Faces/Actor4.png
+3c74d6767cc7de00afb0f348fc415cd03c2e59b1        178226  rtp/Graphics/Faces/Actor5.png
+ef8eef4d4ded8f985e849c3c8359d202dc8b286a        154099  rtp/Graphics/Faces/Evil.png
+2fe8b0c7e02ec299b4e5ed99ece0e108aeb5087e        163983  rtp/Graphics/Faces/Monster1.png
+d2e770e5d854fbeeb71074a28cc54ef8db161d46        162913  rtp/Graphics/Faces/People1.png
+7282fca5acf44525553b18522b4c89849c1a0b71        168243  rtp/Graphics/Faces/People2.png
+baac28a715172a5003a2394ae51d63111ccafa3e        171879  rtp/Graphics/Faces/People3.png
+0caaafd3f1c3d415813ac80e6d05ef57dd6f2279        165269  rtp/Graphics/Faces/People4.png
+c40bd76845994cef0593f25118b9cdbeb4fcec67        176309  rtp/Graphics/Faces/Spiritual.png
+96dff753a35cc60ef3c5f16725e4855d1242bc99        300011  rtp/Graphics/Parallaxes/BlueSky.png
+434aba2fe61333f87d5b3e3e2a00d3c052a1386c        133236  rtp/Graphics/Parallaxes/CloudySky1.png
+a836f201bb4663dfe68440cbf10ee2655b9acff7        256505  rtp/Graphics/Parallaxes/CloudySky2.png
+7a1c53d4df7e8aef5e4bdfb3d8ba4454230c01a8        427221  rtp/Graphics/Parallaxes/DarkSpace1.png
+312216e80ce0be8d3cd16faa74488d98502b4b32        408834  rtp/Graphics/Parallaxes/DarkSpace2.png
+d96bda0129c0c75a98d9f857c185f451a45bc0c6        272669  rtp/Graphics/Parallaxes/Mountains1.png
+0a7cd37463115e7a49b6d98aea7e0d14bdc91b72        212813  rtp/Graphics/Parallaxes/Mountains2.png
+54b366e8e451a9a18c074e0744bb0486f3193c18        142924  rtp/Graphics/Parallaxes/Mountains3.png
+80a18551aef306a498c0444066242cccde27cc8a        201524  rtp/Graphics/Parallaxes/Mountains4.png
+f6d9870bb3194b61c2349363a8dad081f83393cd        213274  rtp/Graphics/Parallaxes/Mountains5.png
+3ca2a87dbebd19b092e04413340142f007b8002f        260731  rtp/Graphics/Parallaxes/Ocean1.png
+5fca2b98d53d94e042b1f84760594b50d281c2e4        342504  rtp/Graphics/Parallaxes/Ocean2.png
+3a668909e41afa686d76d7141687eaecb4e08fe1        126983  rtp/Graphics/Parallaxes/SeaofClouds.png
+4af2df755c72459208713ca3e048983a6a784567        183645  rtp/Graphics/Parallaxes/StarlitSky.png
+e1c48721f75781a9594155fe9e1c5fe02fc56b2d        225233  rtp/Graphics/Parallaxes/Sunset.png
+b5f1c517fad54b560a7faf1cde0beae27a96f492         26028  rtp/Graphics/System/Balloon.png
+24097efbedd53e8e2f4549a57c76faad6521f033        118247  rtp/Graphics/System/BattleStart.png
+3bcb6496bd3f4120a7a14fb21d995c13263bb150          9235  rtp/Graphics/System/GameOver.png
+e9e15c0aa2f52508a1aa05d8de213747ac2009b4         88556  rtp/Graphics/System/IconSet.png
+a597d039ef922a2451a10d7985e54da04aa196dd           458  rtp/Graphics/System/Shadow.png
+cc59369bc044d970a3521e44023541c20beef674          2121  rtp/Graphics/System/Window.png
+04db7d9e669dac07d0c2ff91e6c4e12e8111fb9e        353304  rtp/Graphics/Tilesets/Dungeon_A1.png
+a45493c555855ba790c4fa746a2233acc86a44dc          1414  rtp/Graphics/Tilesets/Dungeon_A1.txt
+1594aef804daadf06242e071e7efdeb38a4f1841        337837  rtp/Graphics/Tilesets/Dungeon_A2.png
+502e4763e68694f38d01ac4e44b22b655d3c875d          3189  rtp/Graphics/Tilesets/Dungeon_A2.txt
+9903cdf09b5cf73c6da4fc8a26f1accea1089574        546500  rtp/Graphics/Tilesets/Dungeon_A4.png
+04ac05869eda8a64833ec8fddc152e95e16dbc0d          5525  rtp/Graphics/Tilesets/Dungeon_A4.txt
+e655e08de51ff7e0cef4b8dc69106cab807f7319        250602  rtp/Graphics/Tilesets/Dungeon_A5.png
+d74aae77c9825b8a0702cd0b99a8921dbefbfc21         13642  rtp/Graphics/Tilesets/Dungeon_A5.txt
+a126094e602108c902dfa9d45af4eac861c93ae3        468321  rtp/Graphics/Tilesets/Dungeon_B.png
+5df45617c32d7b86cd9ef42f36a41af2f91a4ed9         20471  rtp/Graphics/Tilesets/Dungeon_B.txt
+9d27c9b91290fd148f10aaa1d37c94f75b748703        435559  rtp/Graphics/Tilesets/Dungeon_C.png
+7f1c76814efd47bc59b532316d9f7db113476e66         19356  rtp/Graphics/Tilesets/Dungeon_C.txt
+09954e34a20cbb7a10d806f39176026337df12de        370929  rtp/Graphics/Tilesets/Inside_A1.png
+99801eb9978eb7680154a7541b466073d7d8890a          1462  rtp/Graphics/Tilesets/Inside_A1.txt
+a61d39dd0ed141670be7d8cf441edafcb6f5de07        351291  rtp/Graphics/Tilesets/Inside_A2.png
+30bbc5d397e47c8398bb4106b53a02df0f1b6229          2000  rtp/Graphics/Tilesets/Inside_A2.txt
+b6a9f02a207b296b0308e34823a4aee33a1ceccc        392374  rtp/Graphics/Tilesets/Inside_A4.png
+d30a3dc9c21841613b8ca479600494f206e4e931          4264  rtp/Graphics/Tilesets/Inside_A4.txt
+138d242264507c7b3e202ad1a49a8e7714c707f7        274287  rtp/Graphics/Tilesets/Inside_A5.png
+07680b4f360d125e4b53d8a5bf494d7ad44eca0b         10636  rtp/Graphics/Tilesets/Inside_A5.txt
+97ac7760376ad00b73e76c8913a0ffa9cee41739        396002  rtp/Graphics/Tilesets/Inside_B.png
+7a0ebf0ed0d3aeeb0905fe5515bef868df837b75         16797  rtp/Graphics/Tilesets/Inside_B.txt
+ee4fde9220b7744247a7a5d0ac89a85a5007cef7        357353  rtp/Graphics/Tilesets/Inside_C.png
+5a19c3cd2b8a63fe085c0e8d9ea2c1589fbee36a         20677  rtp/Graphics/Tilesets/Inside_C.txt
+cc2e5da4ee24179be8870b658ff62d118dd2ef47        353760  rtp/Graphics/Tilesets/Outside_A1.png
+1338027940d7738e6242b4b2a56384f139b02931          1263  rtp/Graphics/Tilesets/Outside_A1.txt
+6eaf9e5392affeea87cd6b2cc80a42840ec94d18        334007  rtp/Graphics/Tilesets/Outside_A2.png
+54a4fc2be21395490edd5f11d12b642f2c69815e          1917  rtp/Graphics/Tilesets/Outside_A2.txt
+c299f106016ab786dd47b58b03846203df1592cb        172932  rtp/Graphics/Tilesets/Outside_A3.png
+b04e91060a2e4b98fab8ba3987ea02b3e1cfbad2          3054  rtp/Graphics/Tilesets/Outside_A3.txt
+c7f64e4be95449f32b202c8bf9eb3fae63fad58a        493070  rtp/Graphics/Tilesets/Outside_A4.png
+9f46b0f394385aa8de7598dab9a993b4d10acfef          4596  rtp/Graphics/Tilesets/Outside_A4.txt
+96bf2c0ac5654ad02c2ea1d295d210da5f0eb719        204848  rtp/Graphics/Tilesets/Outside_A5.png
+0ac0f284ab774e4be8e6fe91779d8fcb637f537d         10246  rtp/Graphics/Tilesets/Outside_A5.txt
+38b0f7cd513f959ddad2dd400b0d6648814f8000        427194  rtp/Graphics/Tilesets/Outside_B.png
+eb78ceb4a2018bd3efce1cf8cd8e303e7a5f56d2         17673  rtp/Graphics/Tilesets/Outside_B.txt
+83e20ad7105d29a05f8c88e5ee647e785cacb670        520746  rtp/Graphics/Tilesets/Outside_C.png
+333b2a4bba002a19b147a40982b5f197578339b9         21772  rtp/Graphics/Tilesets/Outside_C.txt
+3dbc5ddea2780fefac1b9e656046ebff1063ad9f        270933  rtp/Graphics/Tilesets/World_A1.png
+abdbe83a6adcce9451ef4199e4b71f9e71baf73e           869  rtp/Graphics/Tilesets/World_A1.txt
+d59233ecc2674b6712e5f98a67bea0619e741aad        355320  rtp/Graphics/Tilesets/World_A2.png
+a8baa9c10a895a06dfb30c969b6d4f160fc7ee49          2503  rtp/Graphics/Tilesets/World_A2.txt
+5a8a32bb82d15504bbe68078ae7484da3870d229        551482  rtp/Graphics/Tilesets/World_B.png
+4838f120dfe0dfb9a5248942088296ebcc95181b         19153  rtp/Graphics/Tilesets/World_B.txt
+c6585b3c64c943403c03cb5d5b1ae4c2d1429e31        440387  rtp/Graphics/Titles1/Book.png
+555c10438708573e3ca72c5475dc401f5e92b079        348912  rtp/Graphics/Titles1/Castle.png
+e70867f5edad57cfdfd5557609dfc1a167784042        416205  rtp/Graphics/Titles1/CrossedSwords.png
+9a70270ba53c56f8dc8bfb73a0b1e4cb0f4f88a1        329850  rtp/Graphics/Titles1/Crystal.png
+1f1237791404a8d4996338e5a9a31b1c2578f69e        305484  rtp/Graphics/Titles1/DemonCastle.png
+879acc86564ce25ee55d8ef9aef84ccb9ab96e9d        176331  rtp/Graphics/Titles1/Devil.png
+43fa60dd50f0c60588393ffca8d5ce946ba99f2e        410904  rtp/Graphics/Titles1/Dragon.png
+4b3231b5ce20105cf3b39ebfeca063b24bfd01c3        382967  rtp/Graphics/Titles1/Fountain.png
+28523a937413c08f1f55e7b71e7b7264f88b78d7        382611  rtp/Graphics/Titles1/Gates.png
+da4fe19792f1705f072476b63f6a2979679dec75        397378  rtp/Graphics/Titles1/Hexagram.png
+d2e302c0c7c6fe41ea1c066d2f9a10168bcc8984        257150  rtp/Graphics/Titles1/Island.png
+352f78d02f6979428f0487b2d13ee3af6a54cbd5        359821  rtp/Graphics/Titles1/Night.png
+2c70c00ccbcaf6bb5aa8a8ac7302d3150feedb58        370364  rtp/Graphics/Titles1/Plain.png
+6f67ed24780c90c0814860a1a381f4a135cebf6e        340172  rtp/Graphics/Titles1/Sword.png
+00562347b754cc4692b8b2eb3117acc5b7f4877f        288809  rtp/Graphics/Titles1/Tower1.png
+14b5a0c32297b568fd236e777204c67b2dda53ee        375598  rtp/Graphics/Titles1/Tower2.png
+d090d5b3c1b38f18fe9cec36522686babfa25d94        304040  rtp/Graphics/Titles1/Universe.png
+3e2fc20f71f2728accd9890b3c10505168133d10        304070  rtp/Graphics/Titles1/Volcano.png
+db0876db24f8f60a4489cccf80b070f4cfbe6df9        449337  rtp/Graphics/Titles1/World.png
+e35ef9b61681b8a9a18ba8ee0017b1de0bf25c6e        478773  rtp/Graphics/Titles1/WorldMap.png
+a4ff46bcd91ca547a350cd4efc6667899feccf38        256776  rtp/Graphics/Titles2/Dragons.png
+72b215ac33ce36e82dd2d35e4f96f452d51bcf08        134350  rtp/Graphics/Titles2/Fire.png
+d1833f3e8ffcbb799b1e130520810146a5ace932        184636  rtp/Graphics/Titles2/Forest.png
+b87a32f8a042a9288b550538bccea7034c45ffd6        244152  rtp/Graphics/Titles2/Gargoyles.png
+fbb938b21af18c9e7d8a88791cc069d05d2622d4        230568  rtp/Graphics/Titles2/Heroes.png
+621dcf2b5b632879bf19c09cc95a3c679e418795        240532  rtp/Graphics/Titles2/Leaves.png
+41efc7381d1c219b43f25cd43f70b514edcb7830        207367  rtp/Graphics/Titles2/Metal.png
+4adc936677ed24ea7a8cc4298ed555304795fffc        214858  rtp/Graphics/Titles2/Mist.png
+b614ff45934ccae6482763380855c81ccac26e2e        181657  rtp/Graphics/Titles2/Mountains.png
+files 2026  bytes 342722404  distinct sha1 1935  unreadable 0  excluded 0

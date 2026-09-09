@@ -1,0 +1,23 @@
+root      : rpgvxace-steam
+the tree  : 2026 files, 342722404 bytes
+grouped by PATH PREFIX, longest match first
+
+  label        files      counted     declared   residue  paths
+  220701         864     62332617     62332617         0  <everything else>
+  220702         780    202842120    202842120         0  rtp
+  220708           1      2945024      2945024         0  RPGVXAceITA.dll
+  265461          47     57491682     57491682         0  dlc/AdventurersJourney_SND
+  271961         320     15516018     15516018         0  dlc/Tyler Warren RPG Battlers 1st 50
+  291473          12      1386605      1386605         0  dlc/RoyalTileset_GFX
+  OWNER            2       208338       208338         0  Projects/cd32.zip, Projects/cd32.ini
+  SUM           2026    342722404
+
+  every file claimed by exactly one group : True
+  files no group claimed                  : 0
+  the groups cover the tree, residue      : 0
+
+  groups whose counted bytes differ from the declared figure : 0
+
+  Every figure above was produced by WALKING. No group's total is
+  the tree's total minus another group's, and this tool cannot be
+  made to produce one that way.

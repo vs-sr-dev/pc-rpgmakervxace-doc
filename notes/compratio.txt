@@ -1,0 +1,17 @@
+files            : 2026
+bytes on disk    : 342722404
+LZMA, per file   : 324045813
+ratio on disk / packed : 1.0576
+
+the shop declares BytesToDownload : 321169744
+             against BytesToStage : 342722404
+             a declared ratio of  : 1.0671
+
+  per-file LZMA total  : 324045813
+  declared             : 321169744
+  difference           : +2876069 bytes = +0.8955 % of the declared
+
+  (a positive difference means the shop ships the tree in
+   FEWER bytes than compressing each file separately, which
+   is what cross-file matching buys. A negative one means the
+   shop's figure includes something this walk does not see.)

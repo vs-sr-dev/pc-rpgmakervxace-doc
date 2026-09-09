@@ -1,0 +1,31 @@
+RPG::Map documents          : 117
+maps carrying at least one event : 11
+maps carrying none               : 106
+events in total                  : 59
+
+  the maps that carry events:
+    Map006.rvdata2             1
+    Map007.rvdata2             2
+    Map008.rvdata2             5
+    Map012.rvdata2             2
+    Map014.rvdata2             1
+    Map018.rvdata2             7
+    Map020.rvdata2             1
+    Map022.rvdata2             1
+    Map033.rvdata2            14
+    Map038.rvdata2            14
+    Map082.rvdata2            11
+
+  classes reached from the events:
+    RPG::Event                           59
+    RPG::Event::Page                     59
+    RPG::Event::Page::Condition          59
+    RPG::Event::Page::Graphic            59
+    RPG::EventCommand                    59
+    RPG::MoveCommand                     59
+    RPG::MoveRoute                       59
+
+  pages per event : {1: 59}
+
+  event command codes, commonest first:
+    0        x 59

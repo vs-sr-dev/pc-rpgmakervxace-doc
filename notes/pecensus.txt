@@ -1,0 +1,32 @@
+path                                              fmt     kind      bytes     linker COFF (UTC)          mtime (local)       CompanyName / module
+---------------------------------------------- ------ -------- ---------- ---------- ------------------- ------------------- ------------------------------
+Projects/Game.exe                                PE32   native     140800       9.00 2011-10-06 04:40:34 2025-10-16 13:59:15 
+RGSS301.dll                                      PE32   native    1085952       9.00 2012-02-22 00:14:13 2025-10-16 13:59:10 
+RPGVXAce.exe                                     PE32   native    6944256       9.00 2014-03-05 06:17:58 2025-10-16 13:59:11 
+RPGVXAceENU.dll                                  PE32   native    2917888       9.00 2014-03-06 01:34:27 2025-10-16 13:59:10 
+RPGVXAceITA.dll                                  PE32   native    2945024       9.00 2014-03-06 01:32:17 2025-10-16 13:59:11 
+SciLexer.dll                                     PE32   native     545280       9.00 2011-01-03 02:33:26 2025-10-16 13:59:10 Neil Hodgson [e-mail redacted: see
+steam_api.dll                                    PE32   native     106920      10.00 2013-11-21 23:27:55 2025-10-16 13:59:14 Valve Corporation
+steam_api64.dll                                 PE32+   native     121256      10.00 2013-11-21 23:26:50 2025-10-16 13:59:15 Valve Corporation
+
+=== files whose mtime PRECEDES their own COFF link timestamp ===
+(a file cannot be written before it is linked; where this happens
+ the mtime is synthetic, or the two clocks are in different zones)
+
+    none
+
+impossible mtimes : 0 of 8 datable binaries
+
+binaries        : 8
+by format       : PE32 7, PE32+ 1
+COFF range      : 2011-01-03 .. 2014-03-06
+distinct COFF days: 6  2011-01-03, 2011-10-06, 2012-02-22, 2013-11-21, 2014-03-05, 2014-03-06
+
+Authenticode: 2 of 8 PE files carry a certificate table
+    SIGNED  steam_api.dll
+    SIGNED  steam_api64.dll
+
+CompanyName / module name, by count:
+    (none)                                   5
+    Valve Corporation                        2
+    Neil Hodgson [e-mail redacted: see docs  1

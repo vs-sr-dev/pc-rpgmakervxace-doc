@@ -1,0 +1,2035 @@
+=== production waves (gap threshold 3600 s = 1.0 h) ===
+
+wave 1   2025-10-16 13:59:10 .. 2025-10-16 13:59:55  2024 files     342514066 bytes   99.94%
+wave 2   2026-03-20 13:37:42 .. 2026-03-20 13:37:42    2 files        208338 bytes    0.06%
+
+--- wave 1 (2024 files) ---
+    2025-10-16 13:59:10       480056  Projects/game.bmp
+    2025-10-16 13:59:10       480056  Projects/RMworkshop_01.bmp
+    2025-10-16 13:59:10       480056  Projects/RMworkshop_02.bmp
+    2025-10-16 13:59:10       480056  Projects/RMworkshop_03.bmp
+    2025-10-16 13:59:10       480056  Projects/RMworkshop_04.bmp
+    2025-10-16 13:59:10      1085952  RGSS301.dll
+    2025-10-16 13:59:10      2917888  RPGVXAceENU.dll
+    2025-10-16 13:59:10       545280  SciLexer.dll
+    2025-10-16 13:59:10      3883852  VLGothic/VL-Gothic-Regular.ttf
+    2025-10-16 13:59:10      4013852  VLGothic/VL-PGothic-Regular.ttf
+    2025-10-16 13:59:10      1588000  rtp/Audio/BGM/Airship.ogg
+    2025-10-16 13:59:10      1808002  rtp/Audio/BGM/Battle1.ogg
+    2025-10-16 13:59:10      1919529  rtp/Audio/BGM/Battle2.ogg
+    2025-10-16 13:59:10      2057276  rtp/Audio/BGM/Battle3.ogg
+    2025-10-16 13:59:10      2053503  rtp/Audio/BGM/Battle4.ogg
+    2025-10-16 13:59:10      1672113  rtp/Audio/BGM/Battle5.ogg
+    2025-10-16 13:59:10      1721468  rtp/Audio/BGM/Battle6.ogg
+    2025-10-16 13:59:10      1565380  rtp/Audio/BGM/Battle7.ogg
+    2025-10-16 13:59:10      1588304  rtp/Audio/BGM/Battle8.ogg
+    2025-10-16 13:59:10      2052551  rtp/Audio/BGM/Battle9.ogg
+    2025-10-16 13:59:10      1956276  rtp/Audio/BGM/Dungeon1.ogg
+    2025-10-16 13:59:10      2265558  rtp/Audio/BGM/Dungeon2.ogg
+    2025-10-16 13:59:10      2251320  rtp/Audio/BGM/Dungeon3.ogg
+    2025-10-16 13:59:10      1960051  rtp/Audio/BGM/Dungeon4.ogg
+    2025-10-16 13:59:10      1663693  rtp/Audio/BGM/Dungeon5.ogg
+    2025-10-16 13:59:10      1720349  rtp/Audio/BGM/Dungeon6.ogg
+    2025-10-16 13:59:10      1948625  rtp/Audio/BGM/Dungeon7.ogg
+    2025-10-16 13:59:10      1924480  rtp/Audio/BGM/Dungeon8.ogg
+    2025-10-16 13:59:10      2391590  rtp/Audio/BGM/Dungeon9.ogg
+    2025-10-16 13:59:10      2080236  rtp/Audio/BGM/Field1.ogg
+    2025-10-16 13:59:10      2088899  rtp/Audio/BGM/Field2.ogg
+    2025-10-16 13:59:10      1610359  rtp/Audio/BGM/Field3.ogg
+    2025-10-16 13:59:10      1728532  rtp/Audio/BGM/Field4.ogg
+    2025-10-16 13:59:10      1643438  rtp/Audio/BGM/Scene1.ogg
+    2025-10-16 13:59:10      2018926  rtp/Audio/BGM/Scene2.ogg
+    2025-10-16 13:59:10      2055014  rtp/Audio/BGM/Scene3.ogg
+    2025-10-16 13:59:10      1753820  rtp/Audio/BGM/Scene4.ogg
+    2025-10-16 13:59:10      1864926  rtp/Audio/BGM/Scene5.ogg
+    2025-10-16 13:59:10      2694286  rtp/Audio/BGM/Scene6.ogg
+    2025-10-16 13:59:10      1737522  rtp/Audio/BGM/Ship.ogg
+    2025-10-16 13:59:10      2377125  rtp/Audio/BGM/Theme1.ogg
+    2025-10-16 13:59:10      2027130  rtp/Audio/BGM/Theme2.ogg
+    2025-10-16 13:59:10      2211508  rtp/Audio/BGM/Theme3.ogg
+    2025-10-16 13:59:10      2039847  rtp/Audio/BGM/Theme4.ogg
+    2025-10-16 13:59:10      1723627  rtp/Audio/BGM/Theme5.ogg
+    2025-10-16 13:59:10      1722696  rtp/Audio/BGM/Town1.ogg
+    2025-10-16 13:59:10      2145022  rtp/Audio/BGM/Town2.ogg
+    2025-10-16 13:59:10      1810274  rtp/Audio/BGM/Town3.ogg
+    2025-10-16 13:59:10      1854278  rtp/Audio/BGM/Town4.ogg
+    2025-10-16 13:59:10      1935799  rtp/Audio/BGM/Town5.ogg
+    2025-10-16 13:59:10      1680871  rtp/Audio/BGM/Town6.ogg
+    2025-10-16 13:59:10      1746936  rtp/Audio/BGM/Town7.ogg
+    2025-10-16 13:59:10       282185  rtp/Audio/BGS/Drips.ogg
+    2025-10-16 13:59:10       264167  rtp/Audio/BGS/Fire.ogg
+    2025-10-16 13:59:10       288649  rtp/Audio/ME/Gameover2.ogg
+    2025-10-16 13:59:10      3883852  rtp/Fonts/VL-Gothic-Regular.ttf
+    2025-10-16 13:59:10      4013852  rtp/Fonts/VL-PGothic-Regular.ttf
+    2025-10-16 13:59:10       272551  rtp/Graphics/Animations/Attack10.png
+    2025-10-16 13:59:10       365328  rtp/Graphics/Animations/Attack11.png
+    2025-10-16 13:59:10       293574  rtp/Graphics/Animations/Attack4.png
+    2025-10-16 13:59:10       312802  rtp/Graphics/Animations/Attack6.png
+    2025-10-16 13:59:10       362030  rtp/Graphics/Animations/Attack8.png
+    2025-10-16 13:59:10       280034  rtp/Graphics/Animations/Blow2.png
+    2025-10-16 13:59:10       471483  rtp/Graphics/Animations/Darkness2.png
+    2025-10-16 13:59:10       647051  rtp/Graphics/Animations/Darkness3.png
+    2025-10-16 13:59:10       347023  rtp/Graphics/Animations/Death1.png
+    2025-10-16 13:59:10       270008  rtp/Graphics/Animations/Earth1.png
+    2025-10-16 13:59:10      1424581  rtp/Graphics/Animations/Earth3.png
+    2025-10-16 13:59:10       329996  rtp/Graphics/Animations/Fire1.png
+    2025-10-16 13:59:10       634494  rtp/Graphics/Animations/Fire2.png
+    2025-10-16 13:59:10      1501454  rtp/Graphics/Animations/Fire3.png
+    2025-10-16 13:59:10       832873  rtp/Graphics/Animations/Fire4.png
+    2025-10-16 13:59:10       294903  rtp/Graphics/Animations/Gun1.png
+    2025-10-16 13:59:10      1121047  rtp/Graphics/Animations/Gun2.png
+    2025-10-16 13:59:10       674400  rtp/Graphics/Animations/Heal1.png
+    2025-10-16 13:59:10       388009  rtp/Graphics/Animations/Heal2.png
+    2025-10-16 13:59:10       893585  rtp/Graphics/Animations/Heal3.png
+    2025-10-16 13:59:10      1470752  rtp/Graphics/Animations/Heal4.png
+    2025-10-16 13:59:10       544345  rtp/Graphics/Animations/Heal5.png
+    2025-10-16 13:59:10       404609  rtp/Graphics/Animations/Heal6.png
+    2025-10-16 13:59:10       463969  rtp/Graphics/Animations/Ice1.png
+    2025-10-16 13:59:10       330049  rtp/Graphics/Animations/Ice2.png
+    2025-10-16 13:59:10       490596  rtp/Graphics/Animations/Ice4.png
+    2025-10-16 13:59:10       847556  rtp/Graphics/Animations/Ice5.png
+    2025-10-16 13:59:10       358868  rtp/Graphics/Animations/Light1.png
+    2025-10-16 13:59:10       317478  rtp/Graphics/Animations/Light2.png
+    2025-10-16 13:59:10      1868849  rtp/Graphics/Animations/Light3.png
+    2025-10-16 13:59:10       321403  rtp/Graphics/Animations/Light4.png
+    2025-10-16 13:59:10       432282  rtp/Graphics/Animations/Light5.png
+    2025-10-16 13:59:10       484786  rtp/Graphics/Animations/Light6.png
+    2025-10-16 13:59:10      1803647  rtp/Graphics/Animations/Light7.png
+    2025-10-16 13:59:10       780347  rtp/Graphics/Animations/Meteor.png
+    2025-10-16 13:59:10       303950  rtp/Graphics/Animations/Spear2.png
+    2025-10-16 13:59:10       970011  rtp/Graphics/Animations/Spear3.png
+    2025-10-16 13:59:10       620411  rtp/Graphics/Animations/Special1.png
+    2025-10-16 13:59:10       554304  rtp/Graphics/Animations/Special10.png
+    2025-10-16 13:59:10      1658562  rtp/Graphics/Animations/Special11.png
+    2025-10-16 13:59:10      1138664  rtp/Graphics/Animations/Special12.png
+    2025-10-16 13:59:10      1468287  rtp/Graphics/Animations/Special13.png
+    2025-10-16 13:59:10      1023372  rtp/Graphics/Animations/Special14.png
+    2025-10-16 13:59:10       949649  rtp/Graphics/Animations/Special15.png
+    2025-10-16 13:59:10       890622  rtp/Graphics/Animations/Special16.png
+    2025-10-16 13:59:10       954539  rtp/Graphics/Animations/Special17.png
+    2025-10-16 13:59:10       605288  rtp/Graphics/Animations/Special2.png
+    2025-10-16 13:59:10       579657  rtp/Graphics/Animations/Special3.png
+    2025-10-16 13:59:10       489266  rtp/Graphics/Animations/Special5.png
+    2025-10-16 13:59:10       452531  rtp/Graphics/Animations/State2.png
+    2025-10-16 13:59:10       461413  rtp/Graphics/Animations/Sword10.png
+    2025-10-16 13:59:10       276093  rtp/Graphics/Animations/Sword3.png
+    2025-10-16 13:59:10       409804  rtp/Graphics/Animations/Sword5.png
+    2025-10-16 13:59:10       717150  rtp/Graphics/Animations/Sword7.png
+    2025-10-16 13:59:10       803137  rtp/Graphics/Animations/Sword8.png
+    2025-10-16 13:59:10       329271  rtp/Graphics/Animations/Sword9.png
+    2025-10-16 13:59:10       338937  rtp/Graphics/Animations/Thunder1.png
+    2025-10-16 13:59:10       296323  rtp/Graphics/Animations/Thunder3.png
+    2025-10-16 13:59:10       515850  rtp/Graphics/Animations/Thunder4.png
+    2025-10-16 13:59:10       378916  rtp/Graphics/Animations/Water1.png
+    2025-10-16 13:59:10       623355  rtp/Graphics/Animations/Water3.png
+    2025-10-16 13:59:10       263357  rtp/Graphics/Animations/Wind1.png
+    2025-10-16 13:59:10       373205  rtp/Graphics/Animations/Wind2.png
+    2025-10-16 13:59:10      1005269  rtp/Graphics/Animations/Wind3.png
+    2025-10-16 13:59:10       354643  rtp/Graphics/Battlebacks1/Castle.png
+    2025-10-16 13:59:10       296418  rtp/Graphics/Battlebacks1/Cobblestones1.png
+    2025-10-16 13:59:10       295162  rtp/Graphics/Battlebacks1/Cobblestones2.png
+    2025-10-16 13:59:10       302136  rtp/Graphics/Battlebacks1/Cobblestones3.png
+    2025-10-16 13:59:10       323615  rtp/Graphics/Battlebacks1/Cobblestones4.png
+    2025-10-16 13:59:10       435787  rtp/Graphics/Battlebacks1/Crystal1.png
+    2025-10-16 13:59:10       412252  rtp/Graphics/Battlebacks1/Crystal2.png
+    2025-10-16 13:59:10       427689  rtp/Graphics/Battlebacks1/DarkSpace.png
+    2025-10-16 13:59:10       295155  rtp/Graphics/Battlebacks1/DecorativeTile.png
+    2025-10-16 13:59:10       337873  rtp/Graphics/Battlebacks1/DemonCastle.png
+    2025-10-16 13:59:10       383990  rtp/Graphics/Battlebacks1/DemonicWorld1.png
+    2025-10-16 13:59:10       330564  rtp/Graphics/Battlebacks1/DemonicWorld2.png
+    2025-10-16 13:59:10       315264  rtp/Graphics/Battlebacks1/Desert.png
+    2025-10-16 13:59:10       308331  rtp/Graphics/Battlebacks1/Dirt1.png
+    2025-10-16 13:59:10       279861  rtp/Graphics/Battlebacks1/DirtCave.png
+    2025-10-16 13:59:10       344886  rtp/Graphics/Battlebacks1/DirtField.png
+    2025-10-16 13:59:10       288150  rtp/Graphics/Battlebacks1/Factory1.png
+    2025-10-16 13:59:10       280081  rtp/Graphics/Battlebacks1/Factory2.png
+    2025-10-16 13:59:10       317210  rtp/Graphics/Battlebacks1/Fort.png
+    2025-10-16 13:59:10       270552  rtp/Graphics/Battlebacks1/GrassMaze.png
+    2025-10-16 13:59:10       289741  rtp/Graphics/Battlebacks1/Grassland.png
+    2025-10-16 13:59:10       333657  rtp/Graphics/Battlebacks1/IceCave.png
+    2025-10-16 13:59:10       292304  rtp/Graphics/Battlebacks1/IceMaze.png
+    2025-10-16 13:59:10       342187  rtp/Graphics/Battlebacks1/InBody.png
+    2025-10-16 13:59:10       408302  rtp/Graphics/Battlebacks1/Lava1.png
+    2025-10-16 13:59:10       396314  rtp/Graphics/Battlebacks1/Lava2.png
+    2025-10-16 13:59:10       285739  rtp/Graphics/Battlebacks1/LavaCave.png
+    2025-10-16 13:59:10       412924  rtp/Graphics/Battlebacks1/Meadow.png
+    2025-10-16 13:59:10       276153  rtp/Graphics/Battlebacks1/Road1.png
+    2025-10-16 13:59:10       346674  rtp/Graphics/Battlebacks1/Road3.png
+    2025-10-16 13:59:10       327984  rtp/Graphics/Battlebacks1/RockCave1.png
+    2025-10-16 13:59:10       293753  rtp/Graphics/Battlebacks1/RockCave2.png
+    2025-10-16 13:59:10       403290  rtp/Graphics/Battlebacks1/Ruins1.png
+    2025-10-16 13:59:10       340951  rtp/Graphics/Battlebacks1/Ruins2.png
+    2025-10-16 13:59:10       280448  rtp/Graphics/Battlebacks1/Ruins3.png
+    2025-10-16 13:59:10       296313  rtp/Graphics/Battlebacks1/Sand.png
+    2025-10-16 13:59:10       339401  rtp/Graphics/Battlebacks1/Ship.png
+    2025-10-16 13:59:10       299472  rtp/Graphics/Battlebacks1/Stone1.png
+    2025-10-16 13:59:10       305744  rtp/Graphics/Battlebacks1/Stone3.png
+    2025-10-16 13:59:10       356798  rtp/Graphics/Battlebacks1/Tent.png
+    2025-10-16 13:59:10       297859  rtp/Graphics/Battlebacks1/Wasteland.png
+    2025-10-16 13:59:10       294927  rtp/Graphics/Battlebacks1/Wood2.png
+    2025-10-16 13:59:10       320200  rtp/Graphics/Battlebacks2/Brick.png
+    2025-10-16 13:59:10       308462  rtp/Graphics/Battlebacks2/Bridge.png
+    2025-10-16 13:59:10       295252  rtp/Graphics/Battlebacks2/Castle1.png
+    2025-10-16 13:59:10       279273  rtp/Graphics/Battlebacks2/Castle2.png
+    2025-10-16 13:59:10       334089  rtp/Graphics/Battlebacks2/Cliff.png
+    2025-10-16 13:59:10       336578  rtp/Graphics/Battlebacks2/Crystal.png
+    2025-10-16 13:59:10       264999  rtp/Graphics/Battlebacks2/DarkSpace.png
+    2025-10-16 13:59:10       302744  rtp/Graphics/Battlebacks2/DemonCastle1.png
+    2025-10-16 13:59:10       266297  rtp/Graphics/Battlebacks2/DemonCastle2.png
+    2025-10-16 13:59:10       341780  rtp/Graphics/Battlebacks2/DemonicWorld.png
+    2025-10-16 13:59:10       287811  rtp/Graphics/Battlebacks2/Factory.png
+    2025-10-16 13:59:10       379430  rtp/Graphics/Battlebacks2/Forest1.png
+    2025-10-16 13:59:10       336413  rtp/Graphics/Battlebacks2/Forest2.png
+    2025-10-16 13:59:10       314460  rtp/Graphics/Battlebacks2/Fort1.png
+    2025-10-16 13:59:10       313455  rtp/Graphics/Battlebacks2/Fort2.png
+    2025-10-16 13:59:10       344805  rtp/Graphics/Battlebacks2/GrassMaze.png
+    2025-10-16 13:59:10       302726  rtp/Graphics/Battlebacks2/IceCave.png
+    2025-10-16 13:59:10       317515  rtp/Graphics/Battlebacks2/InBody.png
+    2025-10-16 13:59:10       285997  rtp/Graphics/Battlebacks2/RockCave.png
+    2025-10-16 13:59:10       310089  rtp/Graphics/Battlebacks2/Ruins.png
+    2025-10-16 13:59:10       274351  rtp/Graphics/Battlebacks2/Stone1.png
+    2025-10-16 13:59:10       267472  rtp/Graphics/Battlebacks2/Stone3.png
+    2025-10-16 13:59:10       275051  rtp/Graphics/Battlebacks2/Stone5.png
+    2025-10-16 13:59:10       285512  rtp/Graphics/Battlebacks2/Temple.png
+    2025-10-16 13:59:10       297629  rtp/Graphics/Battlebacks2/Tent.png
+    2025-10-16 13:59:11       300011  rtp/Graphics/Parallaxes/BlueSky.png
+    2025-10-16 13:59:11       427221  rtp/Graphics/Parallaxes/DarkSpace1.png
+    2025-10-16 13:59:11       408834  rtp/Graphics/Parallaxes/DarkSpace2.png
+    2025-10-16 13:59:11       272669  rtp/Graphics/Parallaxes/Mountains1.png
+    2025-10-16 13:59:11       342504  rtp/Graphics/Parallaxes/Ocean2.png
+    2025-10-16 13:59:11       353304  rtp/Graphics/Tilesets/Dungeon_A1.png
+    2025-10-16 13:59:11       337837  rtp/Graphics/Tilesets/Dungeon_A2.png
+    2025-10-16 13:59:11       546500  rtp/Graphics/Tilesets/Dungeon_A4.png
+    2025-10-16 13:59:11       468321  rtp/Graphics/Tilesets/Dungeon_B.png
+    2025-10-16 13:59:11       435559  rtp/Graphics/Tilesets/Dungeon_C.png
+    2025-10-16 13:59:11       370929  rtp/Graphics/Tilesets/Inside_A1.png
+    2025-10-16 13:59:11       351291  rtp/Graphics/Tilesets/Inside_A2.png
+    2025-10-16 13:59:11       392374  rtp/Graphics/Tilesets/Inside_A4.png
+    2025-10-16 13:59:11       274287  rtp/Graphics/Tilesets/Inside_A5.png
+    2025-10-16 13:59:11       396002  rtp/Graphics/Tilesets/Inside_B.png
+    2025-10-16 13:59:11       357353  rtp/Graphics/Tilesets/Inside_C.png
+    2025-10-16 13:59:11       353760  rtp/Graphics/Tilesets/Outside_A1.png
+    2025-10-16 13:59:11       334007  rtp/Graphics/Tilesets/Outside_A2.png
+    2025-10-16 13:59:11       493070  rtp/Graphics/Tilesets/Outside_A4.png
+    2025-10-16 13:59:11       427194  rtp/Graphics/Tilesets/Outside_B.png
+    2025-10-16 13:59:11       520746  rtp/Graphics/Tilesets/Outside_C.png
+    2025-10-16 13:59:11       270933  rtp/Graphics/Tilesets/World_A1.png
+    2025-10-16 13:59:11       355320  rtp/Graphics/Tilesets/World_A2.png
+    2025-10-16 13:59:11       551482  rtp/Graphics/Tilesets/World_B.png
+    2025-10-16 13:59:11       440387  rtp/Graphics/Titles1/Book.png
+    2025-10-16 13:59:11       348912  rtp/Graphics/Titles1/Castle.png
+    2025-10-16 13:59:11       416205  rtp/Graphics/Titles1/CrossedSwords.png
+    2025-10-16 13:59:11       329850  rtp/Graphics/Titles1/Crystal.png
+    2025-10-16 13:59:11       305484  rtp/Graphics/Titles1/DemonCastle.png
+    2025-10-16 13:59:11       410904  rtp/Graphics/Titles1/Dragon.png
+    2025-10-16 13:59:11       382967  rtp/Graphics/Titles1/Fountain.png
+    2025-10-16 13:59:11       382611  rtp/Graphics/Titles1/Gates.png
+    2025-10-16 13:59:11       397378  rtp/Graphics/Titles1/Hexagram.png
+    2025-10-16 13:59:11       359821  rtp/Graphics/Titles1/Night.png
+    2025-10-16 13:59:11       370364  rtp/Graphics/Titles1/Plain.png
+    2025-10-16 13:59:11       340172  rtp/Graphics/Titles1/Sword.png
+    2025-10-16 13:59:11       288809  rtp/Graphics/Titles1/Tower1.png
+    2025-10-16 13:59:11       375598  rtp/Graphics/Titles1/Tower2.png
+    2025-10-16 13:59:11       304040  rtp/Graphics/Titles1/Universe.png
+    2025-10-16 13:59:11       304070  rtp/Graphics/Titles1/Volcano.png
+    2025-10-16 13:59:11       449337  rtp/Graphics/Titles1/World.png
+    2025-10-16 13:59:11       478773  rtp/Graphics/Titles1/WorldMap.png
+    2025-10-16 13:59:11      6633819  RPGVXAce.chm
+    2025-10-16 13:59:11      6944256  RPGVXAce.exe
+    2025-10-16 13:59:11      2945024  RPGVXAceITA.dll
+    2025-10-16 13:59:11       615490  dlc/AdventurersJourney_SND/MP3/Angel's Breath.mp3
+    2025-10-16 13:59:11      1057266  dlc/AdventurersJourney_SND/MP3/Broken.mp3
+    2025-10-16 13:59:11      1665407  dlc/AdventurersJourney_SND/MP3/Calming Dungeons.mp3
+    2025-10-16 13:59:11      1281295  dlc/AdventurersJourney_SND/MP3/Chillcave.mp3
+    2025-10-16 13:59:11       999594  dlc/AdventurersJourney_SND/MP3/Crying River.mp3
+    2025-10-16 13:59:11      1537090  dlc/AdventurersJourney_SND/MP3/Darkened Winds.mp3
+    2025-10-16 13:59:11      1345240  dlc/AdventurersJourney_SND/MP3/Forrent.mp3
+    2025-10-16 13:59:11       878800  dlc/AdventurersJourney_SND/MP3/Gearworks.mp3
+    2025-10-16 13:59:11      1110771  dlc/AdventurersJourney_SND/MP3/Giant's Hill.mp3
+    2025-10-16 13:59:11      1498644  dlc/AdventurersJourney_SND/MP3/Grassland Adventure.mp3
+    2025-10-16 13:59:11       769301  dlc/AdventurersJourney_SND/MP3/Grassland Minor.mp3
+    2025-10-16 13:59:11       961146  dlc/AdventurersJourney_SND/MP3/Night on the Sand.mp3
+    2025-10-16 13:59:11       961141  dlc/AdventurersJourney_SND/MP3/Pacing Mind.mp3
+    2025-10-16 13:59:11      1537088  dlc/AdventurersJourney_SND/MP3/River Petals.mp3
+    2025-10-16 13:59:11      1537094  dlc/AdventurersJourney_SND/MP3/Shadows All Around.mp3
+    2025-10-16 13:59:11       659381  dlc/AdventurersJourney_SND/MP3/Shimmerlight Skies.mp3
+    2025-10-16 13:59:11       961143  dlc/AdventurersJourney_SND/MP3/Silver Sunrise.mp3
+    2025-10-16 13:59:11       769301  dlc/AdventurersJourney_SND/MP3/Sleepless Stars.mp3
+    2025-10-16 13:59:11      1816701  dlc/AdventurersJourney_SND/MP3/Sorrowake.mp3
+    2025-10-16 13:59:11       878805  dlc/AdventurersJourney_SND/MP3/Swaysea Coast.mp3
+    2025-10-16 13:59:11       878807  dlc/AdventurersJourney_SND/MP3/Twinklerock Cave.mp3
+    2025-10-16 13:59:11       865431  dlc/AdventurersJourney_SND/MP3/Ursulian March.mp3
+    2025-10-16 13:59:11       769300  dlc/AdventurersJourney_SND/MP3/Warring Swords.mp3
+    2025-10-16 13:59:11       853802  dlc/AdventurersJourney_SND/OGG/Angel's Breath.ogg
+    2025-10-16 13:59:11      1381473  dlc/AdventurersJourney_SND/OGG/Broken.ogg
+    2025-10-16 13:59:11      1978859  dlc/AdventurersJourney_SND/OGG/Calming Dungeons.ogg
+    2025-10-16 13:59:11      1555229  dlc/AdventurersJourney_SND/OGG/Chillcave.ogg
+    2025-10-16 13:59:11      1307861  dlc/AdventurersJourney_SND/OGG/Crying River.ogg
+    2025-10-16 13:59:11      1795705  dlc/AdventurersJourney_SND/OGG/Darkened Winds.ogg
+    2025-10-16 13:59:11      1580961  dlc/AdventurersJourney_SND/OGG/Forrent.ogg
+    2025-10-16 13:59:11      1067628  dlc/AdventurersJourney_SND/OGG/Gearworks.ogg
+    2025-10-16 13:59:11      1387435  dlc/AdventurersJourney_SND/OGG/Giant's Hill.ogg
+    2025-10-16 13:59:11      1818828  dlc/AdventurersJourney_SND/OGG/Grassland Adventure.ogg
+    2025-10-16 13:59:11      1033281  dlc/AdventurersJourney_SND/OGG/Grassland Minor.ogg
+    2025-10-16 13:59:11      1201952  dlc/AdventurersJourney_SND/OGG/Night on the Sand.ogg
+    2025-10-16 13:59:11      1289558  dlc/AdventurersJourney_SND/OGG/Pacing Mind.ogg
+    2025-10-16 13:59:11      2104131  dlc/AdventurersJourney_SND/OGG/River Petals.ogg
+    2025-10-16 13:59:11      1718137  dlc/AdventurersJourney_SND/OGG/Shadows All Around.ogg
+    2025-10-16 13:59:11       992358  dlc/AdventurersJourney_SND/OGG/Shimmerlight Skies.ogg
+    2025-10-16 13:59:11      1304348  dlc/AdventurersJourney_SND/OGG/Silver Sunrise.ogg
+    2025-10-16 13:59:11      1083375  dlc/AdventurersJourney_SND/OGG/Sleepless Stars.ogg
+    2025-10-16 13:59:11      2401985  dlc/AdventurersJourney_SND/OGG/Sorrowake.ogg
+    2025-10-16 13:59:11      1137932  dlc/AdventurersJourney_SND/OGG/Swaysea Coast.ogg
+    2025-10-16 13:59:11      1187090  dlc/AdventurersJourney_SND/OGG/Twinklerock Cave.ogg
+    2025-10-16 13:59:11      1037479  dlc/AdventurersJourney_SND/OGG/Ursulian March.ogg
+    2025-10-16 13:59:11       912967  dlc/AdventurersJourney_SND/OGG/Warring Swords.ogg
+    2025-10-16 13:59:11       328733  dlc/Tyler Warren RPG Battlers 1st 50/Tyler Warren RPG Battlers – 1st 50__はじめにお読みください.pdf
+    2025-10-16 13:59:11       366409  dlc/RoyalTileset_GFX/RoyalTileset-TileB.png
+    2025-10-16 13:59:11        88290  dlc/Bonus/Portraits/Actor1-4.png
+    2025-10-16 13:59:11        99214  dlc/Bonus/Portraits/Actor2-1.png
+    2025-10-16 13:59:11       110367  dlc/Bonus/Portraits/Actor1-1.png
+    2025-10-16 13:59:11       105841  dlc/Bonus/Portraits/Actor1-8.png
+    2025-10-16 13:59:11        89738  dlc/Bonus/Portraits/Actor1-2.png
+    2025-10-16 13:59:11       102487  dlc/Bonus/Portraits/Actor1-3.png
+    2025-10-16 13:59:11        82790  dlc/Bonus/Portraits/Actor2-3.png
+    2025-10-16 13:59:11        71851  dlc/Bonus/Portraits/Actor2-4.png
+    2025-10-16 13:59:11       103857  dlc/Bonus/Portraits/Actor1-5.png
+    2025-10-16 13:59:11        79021  dlc/Bonus/Portraits/Actor1-6.png
+    2025-10-16 13:59:11        84527  dlc/Bonus/Portraits/Actor2-2.png
+    2025-10-16 13:59:11        80460  dlc/Bonus/Portraits/Actor2-6.png
+    2025-10-16 13:59:11        90140  dlc/Bonus/Portraits/Actor2-8.png
+    2025-10-16 13:59:11        72709  dlc/Bonus/Portraits/Actor3-2.png
+    2025-10-16 13:59:11        87924  dlc/Bonus/Portraits/Actor2-7.png
+    2025-10-16 13:59:11        95164  dlc/Bonus/Portraits/Actor1-7.png
+    2025-10-16 13:59:11       110543  dlc/Bonus/Portraits/Actor2-5.png
+    2025-10-16 13:59:11        95939  dlc/Bonus/Portraits/Actor3-8.png
+    2025-10-16 13:59:11        82425  dlc/Bonus/Portraits/Actor3-3.png
+    2025-10-16 13:59:11       104296  dlc/Bonus/Portraits/Actor3-6.png
+    2025-10-16 13:59:11       105565  dlc/Bonus/Portraits/Actor4-1.png
+    2025-10-16 13:59:12        77761  dlc/Bonus/Portraits/Actor3-4.png
+    2025-10-16 13:59:12       107898  dlc/Bonus/Portraits/Actor4-2.png
+    2025-10-16 13:59:12       113113  dlc/Bonus/Portraits/Actor4-4.png
+    2025-10-16 13:59:12       116499  dlc/Bonus/Portraits/Actor4-3.png
+    2025-10-16 13:59:12        85902  dlc/Bonus/Portraits/Actor3-1.png
+    2025-10-16 13:59:12        90934  dlc/Bonus/Portraits/Actor3-5.png
+    2025-10-16 13:59:12        96890  dlc/Bonus/Portraits/Actor5-3.png
+    2025-10-16 13:59:12       108660  dlc/Bonus/Portraits/Actor5-1.png
+    2025-10-16 13:59:12        87380  dlc/Bonus/Portraits/Actor3-7.png
+    2025-10-16 13:59:12       103645  dlc/Bonus/Portraits/Actor4-5.png
+    2025-10-16 13:59:12       106226  dlc/Bonus/Portraits/Actor4-7.png
+    2025-10-16 13:59:12        86374  dlc/Bonus/Portraits/Actor5-2.png
+    2025-10-16 13:59:12        81478  dlc/Bonus/Portraits/Evil-4.png
+    2025-10-16 13:59:12        98556  dlc/Bonus/Portraits/People2-5.png
+    2025-10-16 13:59:12       102394  dlc/Bonus/Portraits/People3-8.png
+    2025-10-16 13:59:12        88403  dlc/Bonus/Portraits/People4-3.png
+    2025-10-16 13:59:12        98485  dlc/Bonus/Portraits/Evil-5.png
+    2025-10-16 13:59:12        81069  dlc/Bonus/Portraits/People1-6.png
+    2025-10-16 13:59:12       112035  dlc/Bonus/Portraits/People3-7.png
+    2025-10-16 13:59:12        86452  dlc/Bonus/Portraits/Evil-2.png
+    2025-10-16 13:59:12         6604  Generator/Face/Eyebrows04s.png
+    2025-10-16 13:59:12         5695  Generator/Face/Eyebrows07s.png
+    2025-10-16 13:59:12       120419  dlc/Bonus/Portraits/Actor5-8.png
+    2025-10-16 13:59:12       121940  dlc/Bonus/Portraits/Monster-2.png
+    2025-10-16 13:59:12       107747  dlc/Bonus/Portraits/Actor5-4.png
+    2025-10-16 13:59:12       101106  dlc/Bonus/Portraits/Actor5-7.png
+    2025-10-16 13:59:12         5169  Generator/Face/Eyebrows09s.png
+    2025-10-16 13:59:12       113964  dlc/Bonus/Portraits/Monster-3.png
+    2025-10-16 13:59:12       103626  dlc/Bonus/Portraits/People4-4.png
+    2025-10-16 13:59:12        89295  dlc/Bonus/Portraits/People4-7.png
+    2025-10-16 13:59:12        12676  Generator/Face/Eyebrows04.png
+    2025-10-16 13:59:12        88359  dlc/Bonus/Portraits/Monster-4.png
+    2025-10-16 13:59:12       127190  dlc/Bonus/Portraits/Monster-8.png
+    2025-10-16 13:59:12       103475  dlc/Bonus/Portraits/Spiritual-5.png
+    2025-10-16 13:59:12        11241  Generator/Face/Eyebrows02.png
+    2025-10-16 13:59:12       101746  dlc/Bonus/Portraits/Monster-5.png
+    2025-10-16 13:59:12        85473  dlc/Bonus/Portraits/People4-6.png
+    2025-10-16 13:59:12       139751  dlc/Bonus/Portraits/Spiritual-6.png
+    2025-10-16 13:59:12         5238  Generator/Face/Eyebrows05s.png
+    2025-10-16 13:59:12        13148  Generator/Face/Acc1_01.png
+    2025-10-16 13:59:12         7284  Generator/Face/Eyebrows03s.png
+    2025-10-16 13:59:12         9216  Generator/Face/Eyebrows08.png
+    2025-10-16 13:59:12         6946  Generator/Face/Female/Eyes05s.png
+    2025-10-16 13:59:12        14270  Generator/Face/Female/Eyes07.png
+    2025-10-16 13:59:12        88205  dlc/Bonus/Portraits/People1-5.png
+    2025-10-16 13:59:12        11459  Generator/Face/Eyebrows03.png
+    2025-10-16 13:59:12         5343  Generator/Face/Female/Eyes09s.png
+    2025-10-16 13:59:12        17123  Generator/Face/Ears02.png
+    2025-10-16 13:59:12         8211  Generator/Face/Eyebrows06.png
+    2025-10-16 13:59:12         7956  Generator/Face/Eyebrows07.png
+    2025-10-16 13:59:12        16173  Generator/Face/Female/Eyes01.png
+    2025-10-16 13:59:12         5300  Generator/Face/Eyebrows06s.png
+    2025-10-16 13:59:12         5899  Generator/Face/Eyebrows08s.png
+    2025-10-16 13:59:12         6946  Generator/Face/Female/Eyes06s.png
+    2025-10-16 13:59:12         8717  Generator/Face/Female/Eyes08.png
+    2025-10-16 13:59:12        14788  Generator/Face/Female/Eyes02.png
+    2025-10-16 13:59:12        10660  Generator/Face/Female/Eyes10.png
+    2025-10-16 13:59:12        12874  Generator/Face/Female/FrontHair07s.png
+    2025-10-16 13:59:12        42733  Generator/Face/Female/Face12.png
+    2025-10-16 13:59:12        42707  Generator/Face/Female/Face06.png
+    2025-10-16 13:59:12        10046  Generator/Face/Female/FrontHair02s.png
+    2025-10-16 13:59:12        15956  Generator/Face/Female/FrontHair03s.png
+    2025-10-16 13:59:12       107791  dlc/Bonus/Portraits/Actor4-6.png
+    2025-10-16 13:59:12        40055  Generator/Face/Female/Face02.png
+    2025-10-16 13:59:12        10694  Generator/Face/Female/FrontHair04s.png
+    2025-10-16 13:59:12        88987  Generator/Face/Female/FrontHair15.png
+    2025-10-16 13:59:12        13596  Generator/Face/Female/FrontHair06s.png
+    2025-10-16 13:59:12        75135  dlc/Bonus/Portraits/People1-8.png
+    2025-10-16 13:59:12         5333  Generator/Face/Female/Eyes09.png
+    2025-10-16 13:59:12        66171  Generator/Face/Female/FrontHair12.png
+    2025-10-16 13:59:12       121048  dlc/Bonus/Portraits/People2-8.png
+    2025-10-16 13:59:12        13101  Generator/Face/Female/Eyes04.png
+    2025-10-16 13:59:12       103753  Generator/Face/Female/FrontHair13.png
+    2025-10-16 13:59:12         6260  Generator/Face/Female/Mouth03.png
+    2025-10-16 13:59:12        36718  Generator/Face/Female/Face01.png
+    2025-10-16 13:59:12        44188  Generator/Face/Female/Face03.png
+    2025-10-16 13:59:12        90924  dlc/Bonus/Portraits/People2-1.png
+    2025-10-16 13:59:12        77201  dlc/Bonus/Portraits/People1-7.png
+    2025-10-16 13:59:12        91846  dlc/Bonus/Portraits/People2-4.png
+    2025-10-16 13:59:12         8314  Generator/Face/Female/Mouth08.png
+    2025-10-16 13:59:12        56549  Generator/Face/Female/Neck03.png
+    2025-10-16 13:59:12        48255  Generator/Face/Female/Neck05.png
+    2025-10-16 13:59:12        98459  dlc/Bonus/Portraits/Actor4-8.png
+    2025-10-16 13:59:12         6832  Generator/Face/Female/Mouth07.png
+    2025-10-16 13:59:12        99724  dlc/Bonus/Portraits/Actor5-6.png
+    2025-10-16 13:59:12        94740  dlc/Bonus/Portraits/Evil-3.png
+    2025-10-16 13:59:12        93467  dlc/Bonus/Portraits/People3-2.png
+    2025-10-16 13:59:12         4422  Generator/Face/Female/Nose05.png
+    2025-10-16 13:59:12         4318  Generator/Face/Female/Nose06.png
+    2025-10-16 13:59:12         5895  Generator/Face/Female/Nose08.png
+    2025-10-16 13:59:12       113091  dlc/Bonus/Portraits/People2-6.png
+    2025-10-16 13:59:12        87044  dlc/Bonus/Portraits/Actor5-5.png
+    2025-10-16 13:59:12       113640  dlc/Bonus/Portraits/People3-1.png
+    2025-10-16 13:59:12       100026  dlc/Bonus/Portraits/People4-1.png
+    2025-10-16 13:59:12        86114  Generator/Face/Female/Neck06.png
+    2025-10-16 13:59:12        81244  Generator/Face/Female/Neck08.png
+    2025-10-16 13:59:12        77115  Generator/Face/Female/Neck08a.png
+    2025-10-16 13:59:13        51030  Generator/Face/Female/RearHair07a.png
+    2025-10-16 13:59:13        49781  Generator/Face/Female/RearHair08a.png
+    2025-10-16 13:59:13        48265  Generator/Face/Female/RearHair01a.png
+    2025-10-16 13:59:13         2498  dlc/Bonus/Readme.txt
+    2025-10-16 13:59:13       102780  dlc/Bonus/Portraits/Evil-1.png
+    2025-10-16 13:59:13        91067  dlc/Bonus/Portraits/People4-2.png
+    2025-10-16 13:59:13         7781  Generator/Face/Eyebrows09.png
+    2025-10-16 13:59:13         5914  Generator/Face/Eyebrows02s.png
+    2025-10-16 13:59:13        52066  Generator/Face/Female/RearHair03a.png
+    2025-10-16 13:59:13        12417  Generator/Face/Acc1_04.png
+    2025-10-16 13:59:13        11249  Generator/Face/Ears01.png
+    2025-10-16 13:59:13       101423  dlc/Bonus/Portraits/Evil-6.png
+    2025-10-16 13:59:13        87624  dlc/Bonus/Portraits/Evil-7.png
+    2025-10-16 13:59:13        18921  Generator/Face/Acc1_03.png
+    2025-10-16 13:59:13        71685  Generator/Face/Acc2_04.png
+    2025-10-16 13:59:13        48638  Generator/Face/Female/RearHair06a.png
+    2025-10-16 13:59:13        71685  Generator/Face/Acc2_05.png
+    2025-10-16 13:59:13        49104  Generator/Face/Female/RearHair09a.png
+    2025-10-16 13:59:13        96444  dlc/Bonus/Portraits/People4-5.png
+    2025-10-16 13:59:13        71685  Generator/Face/Acc2_02.png
+    2025-10-16 13:59:13        71685  Generator/Face/Acc2_03.png
+    2025-10-16 13:59:13        20539  Generator/Face/Ears03.png
+    2025-10-16 13:59:13       107558  Generator/Face/Female/RearHair10.png
+    2025-10-16 13:59:13        97039  dlc/Bonus/Portraits/Evil-8.png
+    2025-10-16 13:59:13       124008  dlc/Bonus/Portraits/Monster-1.png
+    2025-10-16 13:59:13       138778  dlc/Bonus/Portraits/Spiritual-1.png
+    2025-10-16 13:59:13         6934  Generator/Face/Female/Eyes03s.png
+    2025-10-16 13:59:13         7529  Generator/Face/Female/Eyes07s.png
+    2025-10-16 13:59:13        43628  Generator/Face/Female/Face10.png
+    2025-10-16 13:59:13        54686  Generator/Face/Female/RearHair05a.png
+    2025-10-16 13:59:13        44709  Generator/Face/Female/Face05.png
+    2025-10-16 13:59:13       118645  dlc/Bonus/Portraits/Monster-6.png
+    2025-10-16 13:59:13         9166  Generator/Face/Eyebrows05.png
+    2025-10-16 13:59:13       105878  dlc/Bonus/Portraits/Spiritual-4.png
+    2025-10-16 13:59:13        47437  Generator/Face/Female/Face08.png
+    2025-10-16 13:59:13        21277  Generator/Face/Acc1_02.png
+    2025-10-16 13:59:13         5659  Generator/Face/Female/Eyes11s.png
+    2025-10-16 13:59:13        47363  Generator/Face/Female/Face13.png
+    2025-10-16 13:59:13         6823  Generator/Face/Female/Eyes01s.png
+    2025-10-16 13:59:13         8541  Generator/Face/Female/Eyes02s.png
+    2025-10-16 13:59:13        14394  Generator/Face/Female/Eyes03.png
+    2025-10-16 13:59:13         8440  Generator/Face/Female/Eyes11.png
+    2025-10-16 13:59:13        83104  dlc/Bonus/Portraits/People1-3.png
+    2025-10-16 13:59:13        12075  Generator/Face/Female/FrontHair10s.png
+    2025-10-16 13:59:13        91825  dlc/Bonus/Portraits/Monster-7.png
+    2025-10-16 13:59:13        56142  dlc/Bonus/Portraits/People1-1.png
+    2025-10-16 13:59:13        47478  Generator/Face/Female/Face07.png
+    2025-10-16 13:59:13        52651  Generator/Face/Female/FrontHair01.png
+    2025-10-16 13:59:13        10433  Generator/Face/Female/FrontHair01s.png
+    2025-10-16 13:59:13        60740  Generator/Face/Female/FrontHair04.png
+    2025-10-16 13:59:13         6226  Generator/Face/Female/Mouth04.png
+    2025-10-16 13:59:13        82848  dlc/Bonus/Portraits/People1-4.png
+    2025-10-16 13:59:13         6721  Generator/Face/Male/Eyes01s.png
+    2025-10-16 13:59:13         6873  Generator/Face/Male/Eyes03s.png
+    2025-10-16 13:59:13         7858  Generator/Mini/Male/RearHair13.png
+    2025-10-16 13:59:13        15256  Generator/Face/Male/Eyes01.png
+    2025-10-16 13:59:13         7461  Generator/Face/Male/Eyes05s.png
+    2025-10-16 13:59:13         4889  Generator/Face/Male/FrontHair12s.png
+    2025-10-16 13:59:13         6588  Generator/Face/Male/Mouth01.png
+    2025-10-16 13:59:13        69742  dlc/Bonus/Portraits/People1-2.png
+    2025-10-16 13:59:13        86185  dlc/Bonus/Portraits/People2-2.png
+    2025-10-16 13:59:13       112481  dlc/Bonus/Portraits/People2-7.png
+    2025-10-16 13:59:13        80701  Generator/Face/Female/FrontHair05.png
+    2025-10-16 13:59:13        12670  Generator/Face/Female/FrontHair14s.png
+    2025-10-16 13:59:13        16941  Generator/Face/Female/FrontHair13s.png
+    2025-10-16 13:59:13         6506  Generator/Face/Female/Mouth01.png
+    2025-10-16 13:59:13        57165  Generator/Face/Female/Neck01.png
+    2025-10-16 13:59:13        68520  Generator/Face/Female/Neck02a.png
+    2025-10-16 13:59:13        13209  Generator/Face/Female/FrontHair05s.png
+    2025-10-16 13:59:13        12324  Generator/Face/Female/FrontHair12s.png
+    2025-10-16 13:59:13        13826  Generator/Face/Female/FrontHair15s.png
+    2025-10-16 13:59:13        85961  Generator/Face/Female/Neck07.png
+    2025-10-16 13:59:13        60378  Generator/Face/Female/FrontHair08.png
+    2025-10-16 13:59:13       150371  Generator/Face/Female/RearHair13.png
+    2025-10-16 13:59:13        47765  Generator/Face/Female/RearHair14a.png
+    2025-10-16 13:59:13        49236  Generator/Face/Female/RearHair15a.png
+    2025-10-16 13:59:13         4787  Generator/Face/Female/Nose03.png
+    2025-10-16 13:59:13         5335  Generator/Face/Female/Nose09.png
+    2025-10-16 13:59:13        20674  Generator/Face/Glasses01.png
+    2025-10-16 13:59:13        14422  Generator/Face/Male/Beard02.png
+    2025-10-16 13:59:13         2257  Generator/Mini/Tail05.png
+    2025-10-16 13:59:13        94875  dlc/Bonus/Portraits/People3-3.png
+    2025-10-16 13:59:13        90387  Generator/Face/Male/Neck14a.png
+    2025-10-16 13:59:13        57032  Generator/Face/Female/Neck03a.png
+    2025-10-16 13:59:13        43384  Generator/Face/Female/Neck04a.png
+    2025-10-16 13:59:13         5977  Generator/Face/Female/Nose02.png
+    2025-10-16 13:59:13         5635  Generator/Face/Female/Nose11.png
+    2025-10-16 13:59:13        57531  Generator/Face/Female/Neck02.png
+    2025-10-16 13:59:13        52789  Generator/Face/Female/Neck05a.png
+    2025-10-16 13:59:13        90815  Generator/Face/Female/Neck07a.png
+    2025-10-16 13:59:13        49434  Generator/Face/Female/RearHair10a.png
+    2025-10-16 13:59:13        90387  Generator/Face/Female/Neck14a.png
+    2025-10-16 13:59:13       182630  Generator/Face/Female/RearHair15.png
+    2025-10-16 13:59:13         9050  Generator/Face/Male/Eyes08.png
+    2025-10-16 13:59:13        98109  Generator/Face/Female/RearHair02.png
+    2025-10-16 13:59:13        51254  Generator/Face/Female/RearHair11a.png
+    2025-10-16 13:59:13       108413  Generator/Face/Female/RearHair05.png
+    2025-10-16 13:59:13        97186  dlc/Bonus/Portraits/People2-3.png
+    2025-10-16 13:59:13        86788  dlc/Bonus/Portraits/People3-6.png
+    2025-10-16 13:59:13        86772  dlc/Bonus/Portraits/People3-5.png
+    2025-10-16 13:59:13       119252  Generator/Face/Female/RearHair06.png
+    2025-10-16 13:59:13        42892  Generator/Face/Male/FrontHair08.png
+    2025-10-16 13:59:13         6519  Generator/Face/Male/FrontHair13s.png
+    2025-10-16 13:59:13       102592  dlc/Bonus/Portraits/People3-4.png
+    2025-10-16 13:59:13        94123  Generator/Face/Male/FrontHair16.png
+    2025-10-16 13:59:13         5932  Generator/Face/Male/Nose07.png
+    2025-10-16 13:59:13         1907  Generator/Mini/Acc1_01.png
+    2025-10-16 13:59:13         5899  Generator/Mini/Female/FrontHair05.png
+    2025-10-16 13:59:13         5001  Generator/Mini/Female/FrontHair14.png
+    2025-10-16 13:59:13         9379  Generator/Mini/Female/RearHair05.png
+    2025-10-16 13:59:13        86327  dlc/Bonus/Portraits/People4-8.png
+    2025-10-16 13:59:13         6346  Generator/Face/Male/Eyes02s.png
+    2025-10-16 13:59:13         4369  Generator/Face/Male/Nose01.png
+    2025-10-16 13:59:13         2102  Generator/Mini/Acc2_01.png
+    2025-10-16 13:59:13         3210  Generator/Mini/Acc2_06.png
+    2025-10-16 13:59:13         1193  Generator/Mini/Glasses04.png
+    2025-10-16 13:59:13        95371  dlc/Bonus/Portraits/Spiritual-3.png
+    2025-10-16 13:59:13         4833  Generator/Mini/Acc2_04.png
+    2025-10-16 13:59:13         3958  Generator/Mini/Kemono01.png
+    2025-10-16 13:59:13         7134  Generator/Mini/Female/Cloth19.png
+    2025-10-16 13:59:13         4576  Generator/Mini/Female/FrontHair04.png
+    2025-10-16 13:59:13         3811  Generator/Mini/Female/FrontHair02.png
+    2025-10-16 13:59:13         8626  Generator/Mini/Female/RearHair11.png
+    2025-10-16 13:59:13        54522  Generator/Face/Female/RearHair12a.png
+    2025-10-16 13:59:13        75210  Generator/Face/Male/Neck15.png
+    2025-10-16 13:59:13         1294  Generator/Mini/Glasses02.png
+    2025-10-16 13:59:13         8943  Generator/Mini/Female/RearHair03.png
+    2025-10-16 13:59:13         4789  Generator/Mini/Male/FrontHair05.png
+    2025-10-16 13:59:13         5485  Generator/Mini/Male/FrontHair10.png
+    2025-10-16 13:59:13        96828  dlc/Bonus/Portraits/Spiritual-7.png
+    2025-10-16 13:59:13        65381  Generator/Face/Female/Neck09.png
+    2025-10-16 13:59:13         5788  Generator/Mini/Kemono02.png
+    2025-10-16 13:59:13         5994  Generator/Mini/Female/FrontHair13.png
+    2025-10-16 13:59:13         4105  Generator/Mini/Male/FrontHair02.png
+    2025-10-16 13:59:13        26109  Generator/Face/Glasses06.png
+    2025-10-16 13:59:13        75210  Generator/Face/Female/Neck15.png
+    2025-10-16 13:59:13         6524  Generator/Face/Male/Eyes07s.png
+    2025-10-16 13:59:13        10272  Generator/Face/Male/FrontHair02s.png
+    2025-10-16 13:59:13        12692  Generator/Face/Male/FrontHair07s.png
+    2025-10-16 13:59:13        13067  Generator/Face/Male/FrontHair10s.png
+    2025-10-16 13:59:13         7240  Generator/Face/Male/Eyes09s.png
+    2025-10-16 13:59:13        46515  Generator/Face/Male/Face04.png
+    2025-10-16 13:59:13        16330  Generator/Face/Male/FrontHair01s.png
+    2025-10-16 13:59:13         4197  Generator/Mini/Kemono05.png
+    2025-10-16 13:59:13        87154  Generator/Face/Female/RearHair03.png
+    2025-10-16 13:59:13        15197  Generator/Face/Male/Eyes05.png
+    2025-10-16 13:59:13         4151  Generator/Mini/Male/FrontHair14.png
+    2025-10-16 13:59:13         8745  Generator/Mini/Male/RearHair11.png
+    2025-10-16 13:59:13         8814  Generator/Face/Male/FrontHair03s.png
+    2025-10-16 13:59:13        65381  Generator/Face/Male/Neck09.png
+    2025-10-16 13:59:13         9311  Generator/Mini/Male/RearHair03.png
+    2025-10-16 13:59:13         5221  Generator/Mini/Male/FrontHair07.png
+    2025-10-16 13:59:13        15481  SampleMap/Map015.rvdata2
+    2025-10-16 13:59:13         6714  Generator/Face/Acc1_05.png
+    2025-10-16 13:59:13       129657  dlc/Bonus/Portraits/Spiritual-2.png
+    2025-10-16 13:59:13         6080  Generator/Face/Male/Nose09.png
+    2025-10-16 13:59:13         1924  Generator/Mini/Acc1_02.png
+    2025-10-16 13:59:13         6651  Generator/Mini/Female/FrontHair11.png
+    2025-10-16 13:59:13        25927  Generator/Face/Acc2_08.png
+    2025-10-16 13:59:13        25927  Generator/Face/Acc2_10.png
+    2025-10-16 13:59:13         8272  Generator/Face/Eyebrows01.png
+    2025-10-16 13:59:13        44217  Generator/Face/Female/RearHair02a.png
+    2025-10-16 13:59:13        58509  Generator/Face/Female/RearHair16a.png
+    2025-10-16 13:59:13       102648  dlc/Bonus/Portraits/Spiritual-8.png
+    2025-10-16 13:59:13       117219  Generator/Face/Female/RearHair09.png
+    2025-10-16 13:59:13        50533  Generator/Face/Female/RearHair13a.png
+    2025-10-16 13:59:13        11447  Generator/Mini/Wing02.png
+    2025-10-16 13:59:13        25927  Generator/Face/Acc2_09.png
+    2025-10-16 13:59:13         7545  Generator/Face/Male/Eyes06s.png
+    2025-10-16 13:59:13         7315  Generator/Face/Male/Mouth07.png
+    2025-10-16 13:59:13         5775  Generator/Mini/Wing03.png
+    2025-10-16 13:59:13       107436  Generator/Face/Female/RearHair16.png
+    2025-10-16 13:59:13        17127  Generator/Face/Male/Eyes03.png
+    2025-10-16 13:59:13         6153  Generator/Face/Male/Mouth02.png
+    2025-10-16 13:59:13         5946  Generator/Face/Male/Mouth03.png
+    2025-10-16 13:59:13         7381  Generator/Face/Male/Nose08.png
+    2025-10-16 13:59:13         4388  Generator/Mini/Acc2_07.png
+    2025-10-16 13:59:13         1700  Generator/Mini/Ears03.png
+    2025-10-16 13:59:13         9357  Generator/Face/Female/Eyes05.png
+    2025-10-16 13:59:13        21866  Generator/Face/Male/FrontHair13.png
+    2025-10-16 13:59:13         4774  Generator/Mini/Acc2_12.png
+    2025-10-16 13:59:13         3622  Generator/Mini/Head.png
+    2025-10-16 13:59:13        35966  Generator/Face/Male/Beard03.png
+    2025-10-16 13:59:13         1499  Generator/Mini/Acc1_03.png
+    2025-10-16 13:59:13         1382  Generator/Mini/Acc1_04.png
+    2025-10-16 13:59:13         1445  Generator/Mini/Eyes.png
+    2025-10-16 13:59:13         2510  Generator/Mini/Acc2_14.png
+    2025-10-16 13:59:14        19540  Generator/Face/Acc2_01.png
+    2025-10-16 13:59:14        46362  Generator/Face/Female/Face04.png
+    2025-10-16 13:59:14         4095  Generator/Mini/Acc2_09.png
+    2025-10-16 13:59:14         6805  Generator/Mini/Female/FrontHair16.png
+    2025-10-16 13:59:14        12934  Generator/Mini/Male/Cloth01.png
+    2025-10-16 13:59:14         6329  Generator/Face/Eyebrows01s.png
+    2025-10-16 13:59:14        12497  Generator/Face/Male/Eyes07.png
+    2025-10-16 13:59:14         3241  Generator/Mini/Acc2_13.png
+    2025-10-16 13:59:14        11290  Generator/Mini/Cloak03.png
+    2025-10-16 13:59:14        10170  Generator/Mini/Cloak07.png
+    2025-10-16 13:59:14        10037  Generator/Face/Female/Eyes06.png
+    2025-10-16 13:59:14        10480  Generator/Mini/Female/Cloth16.png
+    2025-10-16 13:59:14        48954  SampleMap/Map079.png
+    2025-10-16 13:59:14        15843  Generator/Face/Acc2_07.png
+    2025-10-16 13:59:14        23537  Generator/Face/Glasses02.png
+    2025-10-16 13:59:14         8816  Generator/Mini/Female/Cloth11.png
+    2025-10-16 13:59:14        12825  Generator/Mini/Female/Cloth14.png
+    2025-10-16 13:59:14        53226  Generator/Face/Acc2_06.png
+    2025-10-16 13:59:14         6206  Generator/Face/Female/Eyes10s.png
+    2025-10-16 13:59:14        40504  Generator/Face/Female/Face09.png
+    2025-10-16 13:59:14        72634  Generator/Face/Female/Neck09a.png
+    2025-10-16 13:59:14        13181  Generator/Face/Male/Eyes06.png
+    2025-10-16 13:59:14        65285  Generator/Face/Male/RearHair06a.png
+    2025-10-16 13:59:14        56946  Generator/Face/Female/Neck13.png
+    2025-10-16 13:59:14        12246  Generator/Mini/Female/Cloth07.png
+    2025-10-16 13:59:14        10129  Generator/Mini/Male/Cloth15.png
+    2025-10-16 13:59:14        78925  Generator/Face/Male/Neck08a.png
+    2025-10-16 13:59:14        12802  Generator/Mini/Female/Cloth06.png
+    2025-10-16 13:59:14         5271  Generator/Face/Female/Eyes08s.png
+    2025-10-16 13:59:14        11215  Generator/Face/Male/FrontHair14s.png
+    2025-10-16 13:59:14         8483  Generator/Mini/Female/Cloth09.png
+    2025-10-16 13:59:14        11158  Generator/Mini/Male/Cloth20.png
+    2025-10-16 13:59:14        72878  Generator/Face/Female/Neck11.png
+    2025-10-16 13:59:14        87805  Generator/Face/Male/Neck12a.png
+    2025-10-16 13:59:14        10991  Generator/Mini/Male/Cloth16.png
+    2025-10-16 13:59:14        66595  SampleMap/Map021.png
+    2025-10-16 13:59:14         9034  Generator/Mini/Female/Cloth18.png
+    2025-10-16 13:59:14         5924  Generator/Face/Female/Eyes04s.png
+    2025-10-16 13:59:14        45281  Generator/Face/Male/Face02.png
+    2025-10-16 13:59:14        10035  Generator/Mini/Female/Cloth17.png
+    2025-10-16 13:59:14        12089  Generator/Mini/Male/Cloth13.png
+    2025-10-16 13:59:14        85045  Generator/Face/Female/Neck12.png
+    2025-10-16 13:59:14        46994  Generator/Face/Male/Face01.png
+    2025-10-16 13:59:14        56480  Generator/Face/Male/FrontHair02.png
+    2025-10-16 13:59:14        65253  Generator/Face/Male/FrontHair07.png
+    2025-10-16 13:59:14        61813  Generator/Face/Male/Neck02a.png
+    2025-10-16 13:59:14        87805  Generator/Face/Female/Neck12a.png
+    2025-10-16 13:59:14        21016  Generator/Face/Male/FrontHair09s.png
+    2025-10-16 13:59:14        78201  Generator/Face/Male/FrontHair10.png
+    2025-10-16 13:59:14        72634  Generator/Face/Male/Neck09a.png
+    2025-10-16 13:59:14        78642  Generator/Face/Male/Neck06a.png
+    2025-10-16 13:59:14        71826  Generator/Face/Male/Neck08.png
+    2025-10-16 13:59:14        85045  Generator/Face/Male/Neck12.png
+    2025-10-16 13:59:14        51106  Generator/Face/Male/RearHair02a.png
+    2025-10-16 13:59:14        72878  Generator/Face/Male/Neck11.png
+    2025-10-16 13:59:14        51061  Generator/Face/Male/RearHair12a.png
+    2025-10-16 13:59:14        13482  Generator/Mini/Male/Cloth04.png
+    2025-10-16 13:59:14        56946  Generator/Face/Male/Neck13.png
+    2025-10-16 13:59:14         8928  Generator/Face/Male/Nose10.png
+    2025-10-16 13:59:14        56167  Generator/Face/Male/RearHair01a.png
+    2025-10-16 13:59:14        60229  Generator/Face/Male/RearHair11a.png
+    2025-10-16 13:59:14        11006  Generator/Mini/Cloak02.png
+    2025-10-16 13:59:14        11789  Generator/Mini/Cloak04.png
+    2025-10-16 13:59:14        15818  Generator/Mini/Female/RearHair02.png
+    2025-10-16 13:59:14        11342  Generator/Mini/Male/Cloth18.png
+    2025-10-16 13:59:14         2332  Generator/Mini/Male/FrontHair12.png
+    2025-10-16 13:59:14        38600  Generator/Face/Female/Face11.png
+    2025-10-16 13:59:14        84396  Generator/Face/Female/FrontHair06.png
+    2025-10-16 13:59:14        10316  Generator/Mini/Cloak05.png
+    2025-10-16 13:59:14        12410  Generator/Mini/Female/Cloth03.png
+    2025-10-16 13:59:14        11582  Generator/Mini/Female/Cloth20.png
+    2025-10-16 13:59:14         9764  Generator/Mini/Male/Cloth14.png
+    2025-10-16 13:59:14        19989  Generator/Mini/Male/RearHair15.png
+    2025-10-16 13:59:14         7224  SampleMap/Map037.rvdata2
+    2025-10-16 13:59:14        21843  Generator/Face/Tattoo03.png
+    2025-10-16 13:59:14         2687  Generator/Mini/Tail01.png
+    2025-10-16 13:59:14        10980  Generator/Mini/Female/Cloth02.png
+    2025-10-16 13:59:14        13663  Generator/Mini/Female/Cloth04.png
+    2025-10-16 13:59:14        10441  Generator/Mini/Female/RearHair06.png
+    2025-10-16 13:59:14         8258  Generator/Mini/Female/RearHair10.png
+    2025-10-16 13:59:14       102382  SampleMap/Map018.png
+    2025-10-16 13:59:14        38184  SampleMap/Map022.png
+    2025-10-16 13:59:14        21312  SampleMap/Map081.rvdata2
+    2025-10-16 13:59:14            6  steam_appid.txt
+    2025-10-16 13:59:14        56794  Generator/Face/Female/FrontHair02.png
+    2025-10-16 13:59:14       119589  Generator/Face/Male/FrontHair01.png
+    2025-10-16 13:59:14        62449  Generator/Face/Male/FrontHair06.png
+    2025-10-16 13:59:14       112122  Generator/Face/Male/FrontHair09.png
+    2025-10-16 13:59:14        41703  Generator/Face/Male/Neck04a.png
+    2025-10-16 13:59:14        70141  Generator/Face/Male/Neck07a.png
+    2025-10-16 13:59:14        98585  Generator/Face/Male/RearHair08.png
+    2025-10-16 13:59:14       128189  Generator/Face/Male/RearHair10.png
+    2025-10-16 13:59:14        53673  Generator/Face/Male/RearHair15a.png
+    2025-10-16 13:59:14        50246  Generator/Face/Male/RearHair16a.png
+    2025-10-16 13:59:14        12188  Generator/Mini/Female/Cloth08.png
+    2025-10-16 13:59:14        55407  Generator/Face/Male/RearHair14a.png
+    2025-10-16 13:59:14        11040  Generator/Mini/Female/RearHair01.png
+    2025-10-16 13:59:14         9674  SampleMap/Map025.rvdata2
+    2025-10-16 13:59:14         2886  VLGothic/LICENSE
+    2025-10-16 13:59:14         9673  SampleMap/Map026.rvdata2
+    2025-10-16 13:59:14        24130  SampleMap/Map037.png
+    2025-10-16 13:59:14        96527  SampleMap/Map017.png
+    2025-10-16 13:59:14        14125  SampleMap/Map022.rvdata2
+    2025-10-16 13:59:14        13364  SampleMap/Map023.rvdata2
+    2025-10-16 13:59:14         6498  SampleMap/Map028.rvdata2
+    2025-10-16 13:59:14         7675  SampleMap/Map031.rvdata2
+    2025-10-16 13:59:14         9487  SampleMap/Map067.png
+    2025-10-16 13:59:14        22130  SampleMap/Map084.rvdata2
+    2025-10-16 13:59:14        43550  SampleMap/Map027.png
+    2025-10-16 13:59:14        72618  Generator/Face/Female/FrontHair07.png
+    2025-10-16 13:59:14        20535  SampleMap/Map035.rvdata2
+    2025-10-16 13:59:14         3378  SampleMap/Map039.rvdata2
+    2025-10-16 13:59:14         6083  SampleMap/Map040.png
+    2025-10-16 13:59:14        46770  Generator/Face/Male/Neck05a.png
+    2025-10-16 13:59:14         7374  VLGothic/README.sazanami
+    2025-10-16 13:59:14       106920  steam_api.dll
+    2025-10-16 13:59:14        21310  SampleMap/Map088.rvdata2
+    2025-10-16 13:59:14        41423  SampleMap/Map030.png
+    2025-10-16 13:59:14        11031  SampleMap/Map033.png
+    2025-10-16 13:59:14        22502  SampleMap/Map089.rvdata2
+    2025-10-16 13:59:14        51677  SampleMap/Map085.png
+    2025-10-16 13:59:14        15004  SampleMap/Map087.rvdata2
+    2025-10-16 13:59:14        71433  Generator/Face/Male/Neck03a.png
+    2025-10-16 13:59:14       116140  SampleMap/Map034.png
+    2025-10-16 13:59:14         9953  Generator/Mini/Female/Cloth13.png
+    2025-10-16 13:59:14        43290  Generator/Face/Male/Neck04.png
+    2025-10-16 13:59:14        78430  Generator/Face/Female/FrontHair09.png
+    2025-10-16 13:59:14         3378  SampleMap/Map047.rvdata2
+    2025-10-16 13:59:14       111678  Generator/Face/Female/FrontHair11.png
+    2025-10-16 13:59:14        76609  Generator/Face/Female/Neck11a.png
+    2025-10-16 13:59:14         5898  SampleMap/Map044.rvdata2
+    2025-10-16 13:59:14        19971  SampleMap/Map045.png
+    2025-10-16 13:59:14         3234  SampleMap/Map048.rvdata2
+    2025-10-16 13:59:14         9498  SampleMap/Map051.png
+    2025-10-16 13:59:14        35065  SampleMap/Map091.png
+    2025-10-16 13:59:14        76609  Generator/Face/Male/Neck11a.png
+    2025-10-16 13:59:14         4546  SampleMap/Map041.rvdata2
+    2025-10-16 13:59:14         6643  SampleMap/Map048.png
+    2025-10-16 13:59:14         4363  SampleMap/Map051.rvdata2
+    2025-10-16 13:59:14         3218  SampleMap/Map058.rvdata2
+    2025-10-16 13:59:14        14870  Generator/Mini/Female/Cloth01.png
+    2025-10-16 13:59:14        12813  SampleMap/Map054.png
+    2025-10-16 13:59:14         8474  SampleMap/Map062.png
+    2025-10-16 13:59:14        20439  SampleMap/Map111.rvdata2
+    2025-10-16 13:59:14        13530  Generator/Face/Female/FrontHair09s.png
+    2025-10-16 13:59:14         3859  SampleMap/Map054.rvdata2
+    2025-10-16 13:59:14       110813  SampleMap/Map098.png
+    2025-10-16 13:59:14        51728  SampleMap/Map110.rvdata2
+    2025-10-16 13:59:14        11068  SampleMap/Map052.png
+    2025-10-16 13:59:14        95090  SampleMap/Map096.png
+    2025-10-16 13:59:14        22130  SampleMap/Map108.rvdata2
+    2025-10-16 13:59:14        30498  SampleMap/Map113.png
+    2025-10-16 13:59:14         9541  SampleMap/Map049.png
+    2025-10-16 13:59:14        12548  SampleMap/Map053.png
+    2025-10-16 13:59:14        20900  SampleMap/Map096.rvdata2
+    2025-10-16 13:59:14        22130  SampleMap/Map109.rvdata2
+    2025-10-16 13:59:14         3218  SampleMap/Map059.rvdata2
+    2025-10-16 13:59:14        22981  SampleMap/Map103.rvdata2
+    2025-10-16 13:59:14        20439  SampleMap/Map112.rvdata2
+    2025-10-16 13:59:14        11632  SampleMap/Map114.png
+    2025-10-16 13:59:14        19759  SampleMap/Map046.png
+    2025-10-16 13:59:14         4361  SampleMap/Map052.rvdata2
+    2025-10-16 13:59:14         5250  SampleMap/Map062.rvdata2
+    2025-10-16 13:59:14        38043  SampleMap/Map107.png
+    2025-10-16 13:59:14        59782  Generator/Face/Male/RearHair07a.png
+    2025-10-16 13:59:14        42808  Generator/Face/Male/Neck05.png
+    2025-10-16 13:59:14         5977  Generator/Face/Female/Mouth02.png
+    2025-10-16 13:59:14        13578  SampleMap/Map031.png
+    2025-10-16 13:59:14       109176  Generator/Face/Female/FrontHair16.png
+    2025-10-16 13:59:14        88944  Generator/Face/Male/Neck10a.png
+    2025-10-16 13:59:14         6034  Generator/Face/Male/Nose03.png
+    2025-10-16 13:59:14        83791  Generator/Face/Male/RearHair14.png
+    2025-10-16 13:59:14         6099  SampleMap/Map063.rvdata2
+    2025-10-16 13:59:14        12421  SampleMap/Map064.png
+    2025-10-16 13:59:14        13835  SampleMap/Map065.rvdata2
+    2025-10-16 13:59:14        88944  Generator/Face/Female/Neck10a.png
+    2025-10-16 13:59:14        66489  Generator/Face/Female/FrontHair14.png
+    2025-10-16 13:59:14         6017  Generator/Face/Female/Mouth05.png
+    2025-10-16 13:59:14        20407  Generator/Mini/Female/RearHair13.png
+    2025-10-16 13:59:14        44861  SampleMap/Map072.png
+    2025-10-16 13:59:14        17190  Generator/Face/Female/FrontHair16s.png
+    2025-10-16 13:59:14         8748  Generator/Face/Female/Mouth09.png
+    2025-10-16 13:59:14        42181  Generator/Face/Female/Neck04.png
+    2025-10-16 13:59:14        15286  SampleMap/Map072.rvdata2
+    2025-10-16 13:59:14        67806  Generator/Face/Male/Neck01a.png
+    2025-10-16 13:59:14         7892  Generator/Face/Female/Mouth10.png
+    2025-10-16 13:59:14        36780  SampleMap/Map071.png
+    2025-10-16 13:59:14        29424  SampleMap/Map073.png
+    2025-10-16 13:59:14       148588  Generator/Face/Female/Neck16a.png
+    2025-10-16 13:59:14        54050  Generator/Face/Male/FrontHair03.png
+    2025-10-16 13:59:14       148588  Generator/Face/Male/Neck16a.png
+    2025-10-16 13:59:14         6515  Generator/Face/Male/Nose04.png
+    2025-10-16 13:59:14        44137  Generator/Face/Male/Face08.png
+    2025-10-16 13:59:14        20568  Generator/Mini/Female/RearHair15.png
+    2025-10-16 13:59:14         4386  Generator/Mini/Acc2_02.png
+    2025-10-16 13:59:14        67872  SampleMap/Map078.png
+    2025-10-16 13:59:14        88523  Generator/Face/Female/Neck06a.png
+    2025-10-16 13:59:14         5852  Generator/Face/Female/Nose10.png
+    2025-10-16 13:59:14         5876  Generator/Face/Female/Nose07.png
+    2025-10-16 13:59:14        45807  Generator/Face/Male/Face05.png
+    2025-10-16 13:59:14        21700  SampleMap/Map078.rvdata2
+    2025-10-16 13:59:14        99176  Generator/Face/Male/RearHair07.png
+    2025-10-16 13:59:14       123005  Generator/Face/Female/Neck16.png
+    2025-10-16 13:59:14        60282  Generator/Face/Male/RearHair04a.png
+    2025-10-16 13:59:14         9117  Generator/Mini/Female/RearHair04.png
+    2025-10-16 13:59:14         5524  Generator/Mini/Acc2_05.png
+    2025-10-16 13:59:14       123005  Generator/Face/Male/Neck16.png
+    2025-10-16 13:59:14         9192  Generator/Mini/Cloak01.png
+    2025-10-16 13:59:14         8360  Generator/Mini/Male/RearHair07.png
+    2025-10-16 13:59:15       172740  Generator/Face/Female/RearHair07.png
+    2025-10-16 13:59:15        50416  Generator/Face/Male/RearHair13a.png
+    2025-10-16 13:59:15         5879  Generator/Mini/Female/FrontHair15.png
+    2025-10-16 13:59:15        11963  Generator/Mini/Female/RearHair08.png
+    2025-10-16 13:59:15         4705  Generator/Mini/Male/FrontHair04.png
+    2025-10-16 13:59:15         2554  Generator/Mini/Male/FrontHair13.png
+    2025-10-16 13:59:15       120786  Generator/Face/Male/RearHair04.png
+    2025-10-16 13:59:15         5652  Generator/Mini/Female/FrontHair06.png
+    2025-10-16 13:59:15         5376  Generator/Mini/Female/FrontHair07.png
+    2025-10-16 13:59:15         9606  Generator/Mini/Male/Cloth17.png
+    2025-10-16 13:59:15        80190  Generator/Face/Male/RearHair12.png
+    2025-10-16 13:59:15         9288  Generator/Mini/Female/RearHair09.png
+    2025-10-16 13:59:15         5054  Generator/Mini/Male/FrontHair11.png
+    2025-10-16 13:59:15         7478  Generator/Mini/Male/FrontHair15.png
+    2025-10-16 13:59:15         7376  Generator/Mini/Female/FrontHair10.png
+    2025-10-16 13:59:15        10985  Generator/Mini/Female/Cloth00.png
+    2025-10-16 13:59:15         5479  Generator/Mini/Female/FrontHair09.png
+    2025-10-16 13:59:15         9483  Generator/Mini/Female/RearHair16.png
+    2025-10-16 13:59:15         5632  Generator/Mini/Male/FrontHair06.png
+    2025-10-16 13:59:15         7922  Generator/Face/Tattoo02.png
+    2025-10-16 13:59:15         5481  Generator/Face/Male/Nose02.png
+    2025-10-16 13:59:15         1870  Generator/Mini/Tail02.png
+    2025-10-16 13:59:15         5500  Generator/Mini/Female/FrontHair12.png
+    2025-10-16 13:59:15         3691  SampleMap/Map057.rvdata2
+    2025-10-16 13:59:15         2862  Generator/Mini/Male/Beard01.png
+    2025-10-16 13:59:15        12094  Generator/Face/Tattoo04.png
+    2025-10-16 13:59:15         1864  Generator/Mini/Glasses06.png
+    2025-10-16 13:59:15        12086  Generator/Mini/Female/RearHair12.png
+    2025-10-16 13:59:15         8873  Generator/Face/Male/Nose06.png
+    2025-10-16 13:59:15         5703  Generator/Mini/Male/FrontHair16.png
+    2025-10-16 13:59:15        80491  SampleMap/Map005.rvdata2
+    2025-10-16 13:59:15         5336  Generator/Mini/Acc2_10.png
+    2025-10-16 13:59:15         5549  Generator/Mini/Female/FrontHair01.png
+    2025-10-16 13:59:15         7850  Generator/Face/Male/Nose05.png
+    2025-10-16 13:59:15         9459  SampleMap/Map045.rvdata2
+    2025-10-16 13:59:15         4041  Generator/Mini/Kemono03.png
+    2025-10-16 13:59:15         7776  Generator/Mini/Male/RearHair16.png
+    2025-10-16 13:59:15        25064  SampleMap/Map065.png
+    2025-10-16 13:59:15        45347  Generator/Face/Male/RearHair05.png
+    2025-10-16 13:59:15         2654  Generator/Mini/Glasses01.png
+    2025-10-16 13:59:15         6951  Generator/Mini/Male/FrontHair09.png
+    2025-10-16 13:59:15        53785  Generator/Face/Male/RearHair08a.png
+    2025-10-16 13:59:15       100131  Generator/Face/Male/RearHair16.png
+    2025-10-16 13:59:15         6391  Generator/Mini/Female/FrontHair03.png
+    2025-10-16 13:59:15        22036  SampleMap/Map024.rvdata2
+    2025-10-16 13:59:15        15814  SampleMap/Map043.png
+    2025-10-16 13:59:15        12416  Generator/Mini/Male/Cloth09.png
+    2025-10-16 13:59:15        57540  SampleMap/Map002.png
+    2025-10-16 13:59:15         3836  Generator/Mini/Acc2_11.png
+    2025-10-16 13:59:15        12439  Generator/Mini/Female/Cloth05.png
+    2025-10-16 13:59:15         7633  Generator/Mini/Male/RearHair14.png
+    2025-10-16 13:59:15        45347  Generator/Face/Male/RearHair05a.png
+    2025-10-16 13:59:15         8006  SampleMap/Map050.png
+    2025-10-16 13:59:15       171626  Generator/Face/Male/RearHair15.png
+    2025-10-16 13:59:15         3547  Generator/Mini/Acc2_08.png
+    2025-10-16 13:59:15        12027  Generator/Mini/Female/RearHair14.png
+    2025-10-16 13:59:15         8583  Generator/Mini/Male/RearHair01.png
+    2025-10-16 13:59:15         1394  Generator/Mini/Glasses03.png
+    2025-10-16 13:59:15         8244  Generator/Mini/Male/RearHair12.png
+    2025-10-16 13:59:15        41018  SampleMap/Map015.png
+    2025-10-16 13:59:15       177475  Generator/Face/Male/RearHair06.png
+    2025-10-16 13:59:15        43325  SampleMap/Map013.png
+    2025-10-16 13:59:15        74055  Generator/Face/Male/RearHair13.png
+    2025-10-16 13:59:15         5079  Generator/Mini/Acc2_03.png
+    2025-10-16 13:59:15         6692  Generator/Mini/Acc2_15.png
+    2025-10-16 13:59:15        20370  Generator/Mini/Female/RearHair07.png
+    2025-10-16 13:59:15         4450  SampleMap/Map060.rvdata2
+    2025-10-16 13:59:15         2853  Generator/Mini/Tail03.png
+    2025-10-16 13:59:15        10067  Generator/Mini/Female/Cloth15.png
+    2025-10-16 13:59:15        18338  Generator/Mini/Male/RearHair09.png
+    2025-10-16 13:59:15        10878  Generator/Mini/Cloak06.png
+    2025-10-16 13:59:15        13024  Generator/Mini/Wing01.png
+    2025-10-16 13:59:15        12847  Generator/Mini/Male/RearHair10.png
+    2025-10-16 13:59:15        24677  SampleMap/Map102.rvdata2
+    2025-10-16 13:59:15        11544  Generator/Mini/Cloak08.png
+    2025-10-16 13:59:15       157316  SampleMap/Map001.rvdata2
+    2025-10-16 13:59:15        13775  Generator/Mini/Female/Cloth10.png
+    2025-10-16 13:59:15        13287  Generator/Mini/Male/Cloth08.png
+    2025-10-16 13:59:15        20500  SampleMap/Map036.rvdata2
+    2025-10-16 13:59:15         3987  Generator/Mini/Male/FrontHair03.png
+    2025-10-16 13:59:15         9240  SampleMap/Map027.rvdata2
+    2025-10-16 13:59:15        20109  SampleMap/Map038.rvdata2
+    2025-10-16 13:59:15         3691  SampleMap/Map056.rvdata2
+    2025-10-16 13:59:15        17746  SampleMap/Map011.rvdata2
+    2025-10-16 13:59:15        28769  SampleMap/Map026.png
+    2025-10-16 13:59:15        26022  Generator/Face/Tattoo05.png
+    2025-10-16 13:59:15         2862  Generator/Mini/Male/Beard02.png
+    2025-10-16 13:59:15         4746  Generator/Mini/Female/FrontHair08.png
+    2025-10-16 13:59:15         8479  Generator/Mini/Male/Cloth00.png
+    2025-10-16 13:59:15        10698  Generator/Mini/Male/Cloth10.png
+    2025-10-16 13:59:15        22148  SampleMap/Map069.rvdata2
+    2025-10-16 13:59:15        11125  Generator/Mini/Male/Cloth02.png
+    2025-10-16 13:59:15        10165  Generator/Mini/Male/Cloth06.png
+    2025-10-16 13:59:15        13603  Generator/Mini/Male/Cloth07.png
+    2025-10-16 13:59:15         9203  Generator/Mini/Male/Cloth11.png
+    2025-10-16 13:59:15         7160  Generator/Mini/Male/Cloth19.png
+    2025-10-16 13:59:15        20925  SampleMap/Map012.rvdata2
+    2025-10-16 13:59:15        17779  SampleMap/Map017.rvdata2
+    2025-10-16 13:59:15        29536  SampleMap/Map028.png
+    2025-10-16 13:59:15        15320  SampleMap/Map006.rvdata2
+    2025-10-16 13:59:15        16982  SampleMap/Map007.rvdata2
+    2025-10-16 13:59:15        10040  SampleMap/Map041.png
+    2025-10-16 13:59:15         4362  SampleMap/Map050.rvdata2
+    2025-10-16 13:59:15        68926  SampleMap/Map004.png
+    2025-10-16 13:59:15        20506  SampleMap/Map021.rvdata2
+    2025-10-16 13:59:15         6382  SampleMap/Map061.png
+    2025-10-16 13:59:15        22547  SampleMap/Map068.rvdata2
+    2025-10-16 13:59:15        16698  SampleMap/Map016.rvdata2
+    2025-10-16 13:59:15         7931  SampleMap/Map032.rvdata2
+    2025-10-16 13:59:15        39359  SampleMap/Map036.png
+    2025-10-16 13:59:15         6750  SampleMap/Map047.png
+    2025-10-16 13:59:15        17800  SampleMap/Map010.rvdata2
+    2025-10-16 13:59:15         8900  SampleMap/Map029.rvdata2
+    2025-10-16 13:59:15        50061  SampleMap/Map035.png
+    2025-10-16 13:59:15         7194  SampleMap/Map039.png
+    2025-10-16 13:59:15        11869  SampleMap/Map042.png
+    2025-10-16 13:59:15        41898  Generator/Face/Tattoo01.png
+    2025-10-16 13:59:15         7504  SampleMap/Map059.png
+    2025-10-16 13:59:15        17433  SampleMap/Map076.rvdata2
+    2025-10-16 13:59:15       102709  Generator/Face/Female/RearHair12.png
+    2025-10-16 13:59:15         3082  SampleMap/Map040.rvdata2
+    2025-10-16 13:59:15        22130  SampleMap/Map105.rvdata2
+    2025-10-16 13:59:15        69103  Generator/Face/Male/RearHair03a.png
+    2025-10-16 13:59:15        92716  Generator/Face/Male/RearHair01.png
+    2025-10-16 13:59:15        85484  SampleMap/Map005.png
+    2025-10-16 13:59:15         7308  SampleMap/Map055.png
+    2025-10-16 13:59:15        51902  SampleMap/Map014.png
+    2025-10-16 13:59:15        61414  SampleMap/Map020.png
+    2025-10-16 13:59:15        33194  SampleMap/Map023.png
+    2025-10-16 13:59:15        58511  SampleMap/Map080.png
+    2025-10-16 13:59:15        20901  SampleMap/Map080.rvdata2
+    2025-10-16 13:59:15        98200  SampleMap/Map019.png
+    2025-10-16 13:59:15         4546  SampleMap/Map042.rvdata2
+    2025-10-16 13:59:15         8420  SampleMap/Map070.rvdata2
+    2025-10-16 13:59:15        11449  SampleMap/Map073.rvdata2
+    2025-10-16 13:59:15        19145  SampleMap/Map018.rvdata2
+    2025-10-16 13:59:15        19238  SampleMap/Map066.png
+    2025-10-16 13:59:15        19302  SampleMap/Map090.rvdata2
+    2025-10-16 13:59:15        42898  SampleMap/Map109.png
+    2025-10-16 13:59:15        38623  SampleMap/Map105.png
+    2025-10-16 13:59:15        49113  SampleMap/Map069.png
+    2025-10-16 13:59:15        16970  SampleMap/Map070.png
+    2025-10-16 13:59:15        46489  SampleMap/Map076.png
+    2025-10-16 13:59:15        15650  SampleMap/Map044.png
+    2025-10-16 13:59:15         7698  SampleMap/Map053.rvdata2
+    2025-10-16 13:59:15        74382  SampleMap/Map077.png
+    2025-10-16 13:59:15        26700  SampleMap/Map082.png
+    2025-10-16 13:59:15        73989  Generator/Face/Male/RearHair02.png
+    2025-10-16 13:59:15         9999  Generator/Face/Glasses04.png
+    2025-10-16 13:59:15       160054  Generator/Face/Female/RearHair14.png
+    2025-10-16 13:59:15        16365  Generator/Face/Glasses03.png
+    2025-10-16 13:59:15         9999  Generator/Face/Glasses05.png
+    2025-10-16 13:59:15        11335  SampleMap/Map020.rvdata2
+    2025-10-16 13:59:15         6500  SampleMap/Map030.rvdata2
+    2025-10-16 13:59:15         3688  SampleMap/Map055.rvdata2
+    2025-10-16 13:59:15        60277  SampleMap/Map012.png
+    2025-10-16 13:59:15        77501  SampleMap/Map008.png
+    2025-10-16 13:59:15        73877  SampleMap/Map010.png
+    2025-10-16 13:59:15        15797  SampleMap/Map033.rvdata2
+    2025-10-16 13:59:15        19324  SampleMap/Map019.rvdata2
+    2025-10-16 13:59:15        39704  SampleMap/Map034.rvdata2
+    2025-10-16 13:59:15        39583  SampleMap/Map090.png
+    2025-10-16 13:59:15        23753  SampleMap/Map099.png
+    2025-10-16 13:59:15        19531  SampleMap/Map092.rvdata2
+    2025-10-16 13:59:15        26492  SampleMap/Map093.rvdata2
+    2025-10-16 13:59:15        19708  SampleMap/Map095.rvdata2
+    2025-10-16 13:59:15        44660  SampleMap/Map099.rvdata2
+    2025-10-16 13:59:15        51891  SampleMap/Map084.png
+    2025-10-16 13:59:15         2041  VXAce_install.vdf
+    2025-10-16 13:59:15        61082  Generator/Face/Kemono05.png
+    2025-10-16 13:59:15          375  VLGothic/LICENSE_E.mplus
+    2025-10-16 13:59:15        11436  Generator/Face/Male/Eyes04.png
+    2025-10-16 13:59:15         2664  Generator/Mini/Glasses05.png
+    2025-10-16 13:59:15        18186  SampleMap/Map117.png
+    2025-10-16 13:59:15        61082  Generator/Face/Kemono01.png
+    2025-10-16 13:59:15         6529  Generator/Face/Male/Eyes08s.png
+    2025-10-16 13:59:15        18618  SampleMap/Map032.png
+    2025-10-16 13:59:15        72015  SampleMap/Map104.png
+    2025-10-16 13:59:15        61082  Generator/Face/Kemono02.png
+    2025-10-16 13:59:15         5444  SampleMap/Map058.png
+    2025-10-16 13:59:15         6707  SampleMap/Map117.rvdata2
+    2025-10-16 13:59:15        61082  Generator/Face/Kemono03.png
+    2025-10-16 13:59:15         7627  Generator/Face/Male/Eyes10s.png
+    2025-10-16 13:59:15        56791  SampleMap/Map100.png
+    2025-10-16 13:59:15        61082  Generator/Face/Kemono04.png
+    2025-10-16 13:59:15        42384  Generator/Face/Male/Face03.png
+    2025-10-16 13:59:15       139039  Generator/Face/Male/RearHair03.png
+    2025-10-16 13:59:15       121256  steam_api64.dll
+    2025-10-16 13:59:15         5908  SampleMap/Map064.rvdata2
+    2025-10-16 13:59:15        44329  SampleMap/Map068.png
+    2025-10-16 13:59:15        28036  SampleMap/Map092.png
+    2025-10-16 13:59:15        13587  Generator/Face/Male/Eyes02.png
+    2025-10-16 13:59:15         4362  SampleMap/Map049.rvdata2
+    2025-10-16 13:59:15         8173  SampleMap/Map057.png
+    2025-10-16 13:59:15         7135  SampleMap/Map060.png
+    2025-10-16 13:59:15        97314  SampleMap/Map004.rvdata2
+    2025-10-16 13:59:15         4450  SampleMap/Map061.rvdata2
+    2025-10-16 13:59:15        69562  SampleMap/Map016.png
+    2025-10-16 13:59:15         9459  SampleMap/Map046.rvdata2
+    2025-10-16 13:59:15         5898  SampleMap/Map043.rvdata2
+    2025-10-16 13:59:15         5124  SampleMap/Map067.rvdata2
+    2025-10-16 13:59:15        32489  SampleMap/Map025.png
+    2025-10-16 13:59:15        39488  SampleMap/Map029.png
+    2025-10-16 13:59:15        43553  Generator/Face/Male/Face06.png
+    2025-10-16 13:59:15         3685  Generator/Mini/Kemono04.png
+    2025-10-16 13:59:15        12795  Generator/Mini/Female/Cloth12.png
+    2025-10-16 13:59:15         8492  SampleMap/Map056.png
+    2025-10-16 13:59:15       143412  Generator/Face/Male/RearHair09.png
+    2025-10-16 13:59:15         2913  Generator/Mini/Tail04.png
+    2025-10-16 13:59:15        12795  Generator/Mini/Male/Cloth12.png
+    2025-10-16 13:59:15        12235  SampleMap/Map063.png
+    2025-10-16 13:59:15        43258  Generator/Face/Male/Face07.png
+    2025-10-16 13:59:15         3811  Generator/Mini/Male/Beard04.png
+    2025-10-16 13:59:15         6575  Generator/Mini/Male/FrontHair01.png
+    2025-10-16 13:59:15         8786  SampleMap/Map066.rvdata2
+    2025-10-16 13:59:15        10510  Generator/Mini/Male/Cloth03.png
+    2025-10-16 13:59:15         7406  Generator/Mini/Male/RearHair02.png
+    2025-10-16 13:59:15         8353  Generator/Mini/Male/RearHair08.png
+    2025-10-16 13:59:15        80478  SampleMap/Map002.rvdata2
+    2025-10-16 13:59:15         2676  Generator/Mini/Male/Beard03.png
+    2025-10-16 13:59:15         8811  Generator/Mini/Male/RearHair04.png
+    2025-10-16 13:59:15        18249  Generator/Mini/Male/RearHair06.png
+    2025-10-16 13:59:15        15261  SampleMap/Map071.rvdata2
+    2025-10-16 13:59:15        14113  Generator/Mini/Male/Cloth05.png
+    2025-10-16 13:59:15         7533  Generator/Mini/Male/RearHair05.png
+    2025-10-16 13:59:15        23396  SampleMap/Map077.rvdata2
+    2025-10-16 13:59:15        25124  SampleMap/Map086.rvdata2
+    2025-10-16 13:59:15         3596  Generator/Mini/Male/FrontHair08.png
+    2025-10-16 13:59:15        66017  SampleMap/Map024.png
+    2025-10-16 13:59:15         3353  SampleMap/Map074.rvdata2
+    2025-10-16 13:59:15        73711  SampleMap/Map038.png
+    2025-10-16 13:59:15         9599  SampleMap/Map074.png
+    2025-10-16 13:59:15        18169  SampleMap/Map075.rvdata2
+    2025-10-16 13:59:15        22130  SampleMap/Map083.rvdata2
+    2025-10-16 13:59:15        22130  SampleMap/Map085.rvdata2
+    2025-10-16 13:59:15       111729  SampleMap/Map001.png
+    2025-10-16 13:59:15       115714  SampleMap/Map003.rvdata2
+    2025-10-16 13:59:15        17134  SampleMap/Map082.rvdata2
+    2025-10-16 13:59:15        27827  SampleMap/Map091.rvdata2
+    2025-10-16 13:59:15        18548  SampleMap/Map079.rvdata2
+    2025-10-16 13:59:15        57600  Generator/Face/Male/FrontHair04.png
+    2025-10-16 13:59:15        48534  SampleMap/Map083.png
+    2025-10-16 13:59:15         2647  VLGothic/LICENSE.en
+    2025-10-16 13:59:15        12252  Generator/Face/Female/FrontHair08s.png
+    2025-10-16 13:59:15        79967  Generator/Face/Female/FrontHair10.png
+    2025-10-16 13:59:15        18187  Generator/Face/Female/FrontHair11s.png
+    2025-10-16 13:59:15        25868  SampleMap/Map087.png
+    2025-10-16 13:59:15         6250  Generator/Face/Female/Mouth06.png
+    2025-10-16 13:59:15         4400  Generator/Face/Female/Nose01.png
+    2025-10-16 13:59:15        76844  SampleMap/Map007.png
+    2025-10-16 13:59:15        45200  SampleMap/Map075.png
+    2025-10-16 13:59:15        53347  SampleMap/Map081.png
+    2025-10-16 13:59:15        22972  SampleMap/Map094.rvdata2
+    2025-10-16 13:59:15        22130  SampleMap/Map107.rvdata2
+    2025-10-16 13:59:15         5527  SampleMap/Map114.rvdata2
+    2025-10-16 13:59:15        84089  SampleMap/Map006.png
+    2025-10-16 13:59:15        66847  SampleMap/Map003.png
+    2025-10-16 13:59:15        13111  SampleMap/Map116.png
+    2025-10-16 13:59:15        41786  SampleMap/Map095.png
+    2025-10-16 13:59:15       140800  Projects/Game.exe
+    2025-10-16 13:59:15        22130  SampleMap/Map106.rvdata2
+    2025-10-16 13:59:15         6743  SampleMap/Map115.rvdata2
+    2025-10-16 13:59:15        62839  Generator/Face/Female/Neck01a.png
+    2025-10-16 13:59:15        20900  SampleMap/Map098.rvdata2
+    2025-10-16 13:59:15        30260  SampleMap/Map104.rvdata2
+    2025-10-16 13:59:15         4112  VLGothic/README_J.mplus
+    2025-10-16 13:59:15        31505  SampleMap/Map101.rvdata2
+    2025-10-16 13:59:15        21708  SampleMap/Map008.rvdata2
+    2025-10-16 13:59:15        58183  SampleMap/Map094.png
+    2025-10-16 13:59:15        11842  SampleMap/Map115.png
+    2025-10-16 13:59:15          329  VLGothic/LICENSE_J.mplus
+    2025-10-16 13:59:15        60554  SampleMap/Map009.png
+    2025-10-16 13:59:15        72503  SampleMap/Map011.png
+    2025-10-16 13:59:15        15225  SampleMap/Map014.rvdata2
+    2025-10-16 13:59:15        20900  SampleMap/Map097.rvdata2
+    2025-10-16 13:59:16        31505  SampleMap/Map100.rvdata2
+    2025-10-16 13:59:16        18547  SampleMap/Map013.rvdata2
+    2025-10-16 13:59:16       135540  Generator/Face/Female/RearHair01.png
+    2025-10-16 13:59:16        15357  Generator/Face/Male/Eyes09.png
+    2025-10-16 13:59:16        16347  SampleMap/Map009.rvdata2
+    2025-10-16 13:59:16        47838  SampleMap/Map088.png
+    2025-10-16 13:59:16        47572  Generator/Face/Female/RearHair04a.png
+    2025-10-16 13:59:16        13474  Generator/Face/Male/Eyes10.png
+    2025-10-16 13:59:16        37118  SampleMap/Map103.png
+    2025-10-16 13:59:16        34642  SampleMap/Map111.png
+    2025-10-16 13:59:16        11381  Generator/Face/Male/Beard01.png
+    2025-10-16 13:59:16        88024  Generator/Face/Female/Neck14.png
+    2025-10-16 13:59:16         6768  Generator/Face/Male/Eyes04s.png
+    2025-10-16 13:59:16        11321  Generator/Face/Male/FrontHair04s.png
+    2025-10-16 13:59:16        39108  SampleMap/Map086.png
+    2025-10-16 13:59:16        67818  SampleMap/Map093.png
+    2025-10-16 13:59:16         6388  Generator/Face/Female/Nose04.png
+    2025-10-16 13:59:16       144115  Generator/Face/Female/RearHair04.png
+    2025-10-16 13:59:16        82986  Generator/Face/Female/RearHair08.png
+    2025-10-16 13:59:16       101678  Generator/Face/Female/FrontHair03.png
+    2025-10-16 13:59:16         6700  Generator/Face/Male/Mouth04.png
+    2025-10-16 13:59:16        68781  Generator/Face/Male/Neck06.png
+    2025-10-16 13:59:16        46144  SampleMap/Map102.png
+    2025-10-16 13:59:16        62197  Generator/Face/Male/FrontHair11.png
+    2025-10-16 13:59:16        59459  Generator/Face/Female/Neck13a.png
+    2025-10-16 13:59:16        17726  Generator/Face/Male/FrontHair15s.png
+    2025-10-16 13:59:16         7922  Generator/Face/Male/Mouth08.png
+    2025-10-16 13:59:16       111248  Generator/Face/Female/RearHair11.png
+    2025-10-16 13:59:16         9173  Generator/Face/Male/Mouth06.png
+    2025-10-16 13:59:16        77961  Generator/Face/Male/RearHair09a.png
+    2025-10-16 13:59:16        20439  SampleMap/Map113.rvdata2
+    2025-10-16 13:59:16        83213  Generator/Face/Female/Neck10.png
+    2025-10-16 13:59:16        10707  Generator/Face/Male/FrontHair12.png
+    2025-10-16 13:59:16        79456  Generator/Face/Male/Neck15a.png
+    2025-10-16 13:59:16         9247  SampleMap/Map116.rvdata2
+    2025-10-16 13:59:16        79456  Generator/Face/Female/Neck15a.png
+    2025-10-16 13:59:16        54454  Generator/Face/Male/FrontHair14.png
+    2025-10-16 13:59:16        67091  Generator/Face/Male/Neck01.png
+    2025-10-16 13:59:16        64361  Generator/Face/Male/Neck07.png
+    2025-10-16 13:59:16         7897  Generator/Face/Male/FrontHair05s.png
+    2025-10-16 13:59:16        11143  Generator/Face/Male/FrontHair06s.png
+    2025-10-16 13:59:16        11318  Generator/Face/Male/FrontHair11s.png
+    2025-10-16 13:59:16        10620  Generator/Face/Male/FrontHair16s.png
+    2025-10-16 13:59:16        52342  Generator/Face/Male/RearHair10a.png
+    2025-10-16 13:59:16        52508  Generator/Face/Male/Neck02.png
+    2025-10-16 13:59:16        59459  Generator/Face/Male/Neck13a.png
+    2025-10-16 13:59:16        33402  SampleMap/Map112.png
+    2025-10-16 13:59:16        31580  Generator/Face/Male/FrontHair05.png
+    2025-10-16 13:59:16         7687  Generator/Face/Male/FrontHair08s.png
+    2025-10-16 13:59:16        83213  Generator/Face/Male/Neck10.png
+    2025-10-16 13:59:16        39058  SampleMap/Map106.png
+    2025-10-16 13:59:16        99732  Generator/Face/Male/RearHair11.png
+    2025-10-16 13:59:16        88024  Generator/Face/Male/Neck14.png
+    2025-10-16 13:59:16        59444  SampleMap/Map089.png
+    2025-10-16 13:59:16        21854  VLGothic/Changelog
+    2025-10-16 13:59:16        98094  Generator/Face/Male/FrontHair15.png
+    2025-10-16 13:59:16         7548  Generator/Face/Male/Mouth05.png
+    2025-10-16 13:59:16        64374  Generator/Face/Male/Neck03.png
+    2025-10-16 13:59:16       133525  SampleMap/Map110.png
+    2025-10-16 13:59:16       104006  SampleMap/Map097.png
+    2025-10-16 13:59:16        47820  SampleMap/Map101.png
+    2025-10-16 13:59:16        37875  SampleMap/Map108.png
+    2025-10-16 13:59:16         3001  VLGothic/README
+    2025-10-16 13:59:22        52351  rtp/Audio/BGS/Wind.ogg
+    2025-10-16 13:59:22        19202  rtp/Audio/BGS/Quake.ogg
+    2025-10-16 13:59:22        20912  rtp/Audio/SE/Autodoor.ogg
+    2025-10-16 13:59:22        18160  rtp/Audio/SE/Bell1.ogg
+    2025-10-16 13:59:22       107761  rtp/Audio/ME/Mystery.ogg
+    2025-10-16 13:59:22        11054  rtp/Audio/SE/Attack3.ogg
+    2025-10-16 13:59:22        12368  rtp/Audio/SE/Barrier.ogg
+    2025-10-16 13:59:22         8759  rtp/Audio/SE/Bite.ogg
+    2025-10-16 13:59:22       192488  rtp/Audio/ME/Gameover1.ogg
+    2025-10-16 13:59:22       140676  rtp/Audio/ME/Inn.ogg
+    2025-10-16 13:59:22         5507  rtp/Audio/SE/Blow5.ogg
+    2025-10-16 13:59:22        14041  rtp/Audio/SE/Close3.ogg
+    2025-10-16 13:59:22        16367  rtp/Audio/SE/Bow4.ogg
+    2025-10-16 13:59:22         8333  rtp/Audio/SE/Close1.ogg
+    2025-10-16 13:59:22        21984  rtp/Audio/SE/Cry1.ogg
+    2025-10-16 13:59:22        12344  rtp/Audio/SE/Darkness2.ogg
+    2025-10-16 13:59:22       194444  rtp/Audio/ME/Victory2.ogg
+    2025-10-16 13:59:22        14400  rtp/Audio/SE/Cow.ogg
+    2025-10-16 13:59:22         6834  rtp/Audio/SE/Damage3.ogg
+    2025-10-16 13:59:22        12627  rtp/Audio/SE/Darkness7.ogg
+    2025-10-16 13:59:22        30075  rtp/Audio/SE/Devil2.ogg
+    2025-10-16 13:59:22         8821  rtp/Audio/SE/Earth1.ogg
+    2025-10-16 13:59:22        11576  rtp/Audio/SE/Earth4.ogg
+    2025-10-16 13:59:22        11723  rtp/Audio/SE/Evasion2.ogg
+    2025-10-16 13:59:22         8246  rtp/Audio/SE/Earth5.ogg
+    2025-10-16 13:59:22         9597  rtp/Audio/SE/Equip1.ogg
+    2025-10-16 13:59:22         8722  rtp/Audio/SE/Equip2.ogg
+    2025-10-16 13:59:22         9020  rtp/Audio/SE/Equip3.ogg
+    2025-10-16 13:59:22        13008  rtp/Audio/SE/Earth9.ogg
+    2025-10-16 13:59:22        10338  rtp/Audio/SE/Fire3.ogg
+    2025-10-16 13:59:22         8676  rtp/Audio/SE/Heal2.ogg
+    2025-10-16 13:59:22        14488  rtp/Audio/SE/Explosion2.ogg
+    2025-10-16 13:59:22         8658  rtp/Audio/SE/Ice2.ogg
+    2025-10-16 13:59:22         8966  rtp/Audio/SE/Ice6.ogg
+    2025-10-16 13:59:22        12634  rtp/Audio/SE/Magic5.ogg
+    2025-10-16 13:59:22        13860  rtp/Audio/SE/Phone.ogg
+    2025-10-16 13:59:22         8099  rtp/Audio/SE/Heal7.ogg
+    2025-10-16 13:59:22        32705  rtp/Audio/SE/Magic3.ogg
+    2025-10-16 13:59:22         7097  rtp/Audio/SE/Parry.ogg
+    2025-10-16 13:59:22        11018  rtp/Audio/SE/Stare.ogg
+    2025-10-16 13:59:23         7417  rtp/Audio/SE/Open2.ogg
+    2025-10-16 13:59:23         9076  rtp/Audio/SE/Sound2.ogg
+    2025-10-16 13:59:23         9572  rtp/Audio/SE/Thunder4.ogg
+    2025-10-16 13:59:23         9900  rtp/Audio/SE/Water1.ogg
+    2025-10-16 13:59:23         5939  rtp/Audio/SE/Open1.ogg
+    2025-10-16 13:59:23         5960  rtp/Audio/SE/Slash6.ogg
+    2025-10-16 13:59:23         9083  rtp/Audio/SE/Water4.ogg
+    2025-10-16 13:59:23         8102  rtp/Audio/SE/Fog1.ogg
+    2025-10-16 13:59:23        13821  rtp/Audio/SE/Fall.ogg
+    2025-10-16 13:59:23        20640  rtp/Audio/SE/Monster5.ogg
+    2025-10-16 13:59:23         5610  rtp/Audio/SE/Paralyze2.ogg
+    2025-10-16 13:59:23        13540  rtp/Audio/SE/Saint6.ogg
+    2025-10-16 13:59:23        12439  rtp/Audio/SE/Magic4.ogg
+    2025-10-16 13:59:23        11863  rtp/Audio/SE/Magic6.ogg
+    2025-10-16 13:59:23        10448  rtp/Audio/SE/Open5.ogg
+    2025-10-16 13:59:23        11885  rtp/Audio/SE/Saint8.ogg
+    2025-10-16 13:59:23         7124  rtp/Audio/SE/Ice5.ogg
+    2025-10-16 13:59:23        14537  rtp/Audio/SE/Push.ogg
+    2025-10-16 13:59:23         8556  rtp/Audio/SE/Recovery.ogg
+    2025-10-16 13:59:23        15511  rtp/Audio/SE/Thunder12.ogg
+    2025-10-16 13:59:23        14201  rtp/Audio/SE/Noise.ogg
+    2025-10-16 13:59:23         9542  rtp/Audio/SE/Wind3.ogg
+    2025-10-16 13:59:23        13179  rtp/Audio/SE/Up4.ogg
+    2025-10-16 13:59:23         4428  rtp/Audio/SE/Wind7.ogg
+    2025-10-16 13:59:23         5096  rtp/Audio/SE/Wind4.ogg
+    2025-10-16 13:59:23        22419  rtp/Audio/SE/Scream.ogg
+    2025-10-16 13:59:23         5401  rtp/Audio/SE/Slash8.ogg
+    2025-10-16 13:59:23         9615  rtp/Audio/SE/Water3.ogg
+    2025-10-16 13:59:23        10562  rtp/Audio/SE/Wind6.ogg
+    2025-10-16 13:59:23        96652  rtp/Graphics/Animations/Attack1.png
+    2025-10-16 13:59:23        59182  rtp/Graphics/Animations/Blow1.png
+    2025-10-16 13:59:23        55618  rtp/Audio/ME/Shock.ogg
+    2025-10-16 13:59:23        23085  rtp/Audio/SE/Devil3.ogg
+    2025-10-16 13:59:23        10006  rtp/Audio/SE/Earth2.ogg
+    2025-10-16 13:59:23         6552  rtp/Audio/SE/Earth7.ogg
+    2025-10-16 13:59:23       258584  rtp/Graphics/Animations/Darkness1.png
+    2025-10-16 13:59:23        10084  rtp/Audio/SE/Absorb2.ogg
+    2025-10-16 13:59:23        12197  rtp/Audio/SE/Fire8.ogg
+    2025-10-16 13:59:23        14364  rtp/Audio/SE/Saint2.ogg
+    2025-10-16 13:59:23       241349  rtp/Graphics/Animations/Attack12.png
+    2025-10-16 13:59:23         9631  rtp/Audio/SE/Damage5.ogg
+    2025-10-16 13:59:23         7799  rtp/Audio/SE/Hammer.ogg
+    2025-10-16 13:59:23        17532  rtp/Audio/SE/Laser.ogg
+    2025-10-16 13:59:23         9405  rtp/Audio/SE/Water2.ogg
+    2025-10-16 13:59:23        16546  rtp/Audio/SE/Ice11.ogg
+    2025-10-16 13:59:23        49526  rtp/Audio/SE/Machine.ogg
+    2025-10-16 13:59:23         6958  rtp/Audio/SE/Saint5.ogg
+    2025-10-16 13:59:23        10776  rtp/Audio/SE/Wind10.ogg
+    2025-10-16 13:59:25       149041  rtp/Graphics/Battlebacks2/Sea.png
+    2025-10-16 13:59:25       240238  rtp/Graphics/Battlebacks2/Snowfield.png
+    2025-10-16 13:59:25       134172  rtp/Graphics/Battlebacks2/Clouds.png
+    2025-10-16 13:59:25       189344  rtp/Graphics/Battlebacks2/Grassland.png
+    2025-10-16 13:59:25       256629  rtp/Graphics/Battlebacks2/Lava.png
+    2025-10-16 13:59:25       186386  rtp/Graphics/Animations/Special6.png
+    2025-10-16 13:59:25        68134  rtp/Graphics/Animations/Special7.png
+    2025-10-16 13:59:25       244530  rtp/Graphics/Battlebacks2/IceMaze.png
+    2025-10-16 13:59:26       167511  rtp/Graphics/Animations/State3.png
+    2025-10-16 13:59:26        44585  rtp/Graphics/Animations/Sword1.png
+    2025-10-16 13:59:26       126201  rtp/Graphics/Animations/Sword6.png
+    2025-10-16 13:59:26       216168  rtp/Graphics/Battlebacks2/Port.png
+    2025-10-16 13:59:26       210515  rtp/Graphics/Battlebacks2/Town3.png
+    2025-10-16 13:59:26       250728  rtp/Graphics/Battlebacks2/Tower.png
+    2025-10-16 13:59:27        39710  rtp/Graphics/Battlers/Assassin.png
+    2025-10-16 13:59:27       107508  rtp/Graphics/Battlers/Asura.png
+    2025-10-16 13:59:27        53957  rtp/Graphics/Battlers/Captain.png
+    2025-10-16 13:59:27       118158  rtp/Graphics/Battlers/Chimera.png
+    2025-10-16 13:59:27       101652  rtp/Graphics/Battlers/Angel.png
+    2025-10-16 13:59:27        40502  rtp/Graphics/Battlers/Cleric_m.png
+    2025-10-16 13:59:27        51768  rtp/Graphics/Battlers/Delf_f.png
+    2025-10-16 13:59:27       171214  rtp/Graphics/Battlers/Earthspirit.png
+    2025-10-16 13:59:27        35907  rtp/Graphics/Battlers/Fanatic.png
+    2025-10-16 13:59:27        53937  rtp/Graphics/Battlers/Hero_f.png
+    2025-10-16 13:59:27        45941  rtp/Graphics/Battlers/Paladin_m.png
+    2025-10-16 13:59:27        30279  rtp/Graphics/Battlers/Delf_m.png
+    2025-10-16 13:59:27       143081  rtp/Graphics/Battlers/Dragon.png
+    2025-10-16 13:59:27        29830  rtp/Graphics/Battlers/Grappler_f.png
+    2025-10-16 13:59:27        46222  rtp/Graphics/Battlers/Skeleton.png
+    2025-10-16 13:59:27        40882  rtp/Graphics/Battlers/Snake.png
+    2025-10-16 13:59:27       104175  rtp/Graphics/Battlers/Waterspirit.png
+    2025-10-16 13:59:27        25691  rtp/Graphics/Characters/!$Gate1.png
+    2025-10-16 13:59:27        51188  rtp/Graphics/Battlers/Werewolf.png
+    2025-10-16 13:59:27        35799  rtp/Graphics/Battlers/Wizard_f.png
+    2025-10-16 13:59:27       205598  rtp/Graphics/Characters/!Crystal.png
+    2025-10-16 13:59:27        23574  rtp/Graphics/Characters/Behavior3.png
+    2025-10-16 13:59:27        91393  rtp/Graphics/Characters/!Flame.png
+    2025-10-16 13:59:27        10643  rtp/Graphics/Characters/$BigMonster1.png
+    2025-10-16 13:59:27        23241  rtp/Graphics/Characters/Behavior4.png
+    2025-10-16 13:59:27        24694  rtp/Graphics/Characters/People4.png
+    2025-10-16 13:59:28        28503  rtp/Graphics/Battlers/Zombie.png
+    2025-10-16 13:59:28       151503  rtp/Graphics/Characters/!Other3.png
+    2025-10-16 13:59:28        16901  rtp/Audio/SE/Skill2.ogg
+    2025-10-16 13:59:28        51229  rtp/Graphics/Battlers/Swordman.png
+    2025-10-16 13:59:28        13405  rtp/Audio/SE/Ice10.ogg
+    2025-10-16 13:59:28        12386  rtp/Audio/SE/Poison.ogg
+    2025-10-16 13:59:28         9086  rtp/Audio/SE/Shot1.ogg
+    2025-10-16 13:59:28        12655  rtp/Audio/SE/Sound3.ogg
+    2025-10-16 13:59:28         6012  rtp/Audio/SE/Slash1.ogg
+    2025-10-16 13:59:28         8144  rtp/Audio/SE/Thunder5.ogg
+    2025-10-16 13:59:28        38560  rtp/Graphics/Characters/Damage3.png
+    2025-10-16 13:59:28        19848  rtp/Graphics/Characters/People1.png
+    2025-10-16 13:59:28         8177  rtp/Audio/SE/Heal5.ogg
+    2025-10-16 13:59:28         9449  rtp/Audio/SE/Raise1.ogg
+    2025-10-16 13:59:28        12971  rtp/Audio/SE/Water5.ogg
+    2025-10-16 13:59:28        25222  rtp/Graphics/Characters/Spiritual.png
+    2025-10-16 13:59:28        23649  rtp/Audio/SE/Monster4.ogg
+    2025-10-16 13:59:28       128628  rtp/Graphics/Characters/!Door2.png
+    2025-10-16 13:59:28        71471  rtp/Audio/SE/Teleport.ogg
+    2025-10-16 13:59:28       163983  rtp/Graphics/Faces/Monster1.png
+    2025-10-16 13:59:28        14235  rtp/Audio/SE/Heal4.ogg
+    2025-10-16 13:59:28         6860  rtp/Audio/SE/Sound1.ogg
+    2025-10-16 13:59:28         6770  rtp/Audio/SE/Sword1.ogg
+    2025-10-16 13:59:28         5977  rtp/Audio/SE/Slash5.ogg
+    2025-10-16 13:59:28        16310  rtp/Audio/SE/Monster7.ogg
+    2025-10-16 13:59:28        14802  rtp/Audio/SE/Saint4.ogg
+    2025-10-16 13:59:28         9436  rtp/Audio/SE/Sheep.ogg
+    2025-10-16 13:59:28         5820  rtp/Audio/SE/Shot2.ogg
+    2025-10-16 13:59:28         8094  rtp/Audio/SE/Sleep.ogg
+    2025-10-16 13:59:28       213274  rtp/Graphics/Parallaxes/Mountains5.png
+    2025-10-16 13:59:28        19594  rtp/Graphics/Characters/People6.png
+    2025-10-16 13:59:28        12558  rtp/Graphics/Characters/Vehicle.png
+    2025-10-16 13:59:28       225233  rtp/Graphics/Parallaxes/Sunset.png
+    2025-10-16 13:59:28       118247  rtp/Graphics/System/BattleStart.png
+    2025-10-16 13:59:28        88556  rtp/Graphics/System/IconSet.png
+    2025-10-16 13:59:29         2121  rtp/Graphics/System/Window.png
+    2025-10-16 13:59:29        13642  rtp/Graphics/Tilesets/Dungeon_A5.txt
+    2025-10-16 13:59:29        20471  rtp/Graphics/Tilesets/Dungeon_B.txt
+    2025-10-16 13:59:30       204848  rtp/Graphics/Tilesets/Outside_A5.png
+    2025-10-16 13:59:30         4524  rtp/Audio/BGS/Clock.ogg
+    2025-10-16 13:59:31       187835  rtp/Audio/ME/Fanfare3.ogg
+    2025-10-16 13:59:31        10029  rtp/Audio/SE/Monster1.ogg
+    2025-10-16 13:59:31         3189  rtp/Graphics/Tilesets/Dungeon_A2.txt
+    2025-10-16 13:59:31         1917  rtp/Graphics/Tilesets/Outside_A2.txt
+    2025-10-16 13:59:31       140875  rtp/Audio/ME/Organ.ogg
+    2025-10-16 13:59:31         7794  rtp/Audio/SE/Attack2.ogg
+    2025-10-16 13:59:31         7409  rtp/Audio/SE/Flash1.ogg
+    2025-10-16 13:59:31       172932  rtp/Graphics/Tilesets/Outside_A3.png
+    2025-10-16 13:59:31         5583  rtp/Audio/SE/Cursor2.ogg
+    2025-10-16 13:59:31        12056  rtp/Audio/SE/Damage4.ogg
+    2025-10-16 13:59:31        12225  rtp/Audio/SE/Fire6.ogg
+    2025-10-16 13:59:31         6507  rtp/Audio/SE/Heal1.ogg
+    2025-10-16 13:59:31        66946  rtp/Audio/SE/Applause1.ogg
+    2025-10-16 13:59:31         8797  rtp/Audio/SE/Decision2.ogg
+    2025-10-16 13:59:31         6639  rtp/Audio/SE/Attack1.ogg
+    2025-10-16 13:59:31         7147  rtp/Audio/SE/Open4.ogg
+    2025-10-16 13:59:31        12470  rtp/Audio/SE/Ice7.ogg
+    2025-10-16 13:59:31        18384  rtp/Audio/SE/Skill3.ogg
+    2025-10-16 13:59:31         6158  rtp/Audio/SE/Slash3.ogg
+    2025-10-16 13:59:31         9005  rtp/Audio/SE/Switch3.ogg
+    2025-10-16 13:59:31         6171  rtp/Audio/SE/Darkness6.ogg
+    2025-10-16 13:59:31         5996  rtp/Audio/SE/Slash4.ogg
+    2025-10-16 13:59:31         9495  rtp/Audio/SE/Sword4.ogg
+    2025-10-16 13:59:31         9402  rtp/Audio/SE/Thunder10.ogg
+    2025-10-16 13:59:31        23165  rtp/Audio/SE/Battle3.ogg
+    2025-10-16 13:59:31        15382  rtp/Audio/SE/Chest.ogg
+    2025-10-16 13:59:31        18962  rtp/Audio/SE/Starlight.ogg
+    2025-10-16 13:59:31        10626  rtp/Audio/SE/Thunder7.ogg
+    2025-10-16 13:59:31        23427  rtp/Audio/SE/Collapse2.ogg
+    2025-10-16 13:59:31         6604  rtp/Audio/SE/Slash12.ogg
+    2025-10-16 13:59:31        21218  rtp/Audio/SE/Collapse3.ogg
+    2025-10-16 13:59:31        15269  rtp/Audio/SE/Magic1.ogg
+    2025-10-16 13:59:31        21256  rtp/Audio/SE/Thunder11.ogg
+    2025-10-16 13:59:31        97959  rtp/Audio/ME/Gag.ogg
+    2025-10-16 13:59:31         6334  rtp/Audio/SE/Slash9.ogg
+    2025-10-16 13:59:31        11702  rtp/Audio/SE/Sword2.ogg
+    2025-10-16 13:59:31        19536  rtp/Audio/SE/Down4.ogg
+    2025-10-16 13:59:31        10088  rtp/Audio/SE/Fog2.ogg
+    2025-10-16 13:59:31        12395  rtp/Audio/SE/Monster2.ogg
+    2025-10-16 13:59:31         8261  rtp/Audio/SE/Move.ogg
+    2025-10-16 13:59:31        16283  rtp/Audio/SE/Crash.ogg
+    2025-10-16 13:59:31        14511  rtp/Audio/SE/Magic7.ogg
+    2025-10-16 13:59:31         8459  rtp/Audio/SE/Thunder8.ogg
+    2025-10-16 13:59:31        32230  rtp/Audio/SE/Applause2.ogg
+    2025-10-16 13:59:31        18236  rtp/Audio/SE/Resonance.ogg
+    2025-10-16 13:59:31        10767  rtp/Audio/SE/Thunder6.ogg
+    2025-10-16 13:59:31         9140  rtp/Audio/SE/Twine.ogg
+    2025-10-16 13:59:31        18358  rtp/Audio/SE/Up2.ogg
+    2025-10-16 13:59:31         7871  rtp/Audio/SE/Thunder3.ogg
+    2025-10-16 13:59:31        12874  rtp/Audio/SE/Water6.ogg
+    2025-10-16 13:59:31         7452  rtp/Audio/SE/Blow6.ogg
+    2025-10-16 13:59:32       257150  rtp/Graphics/Titles1/Island.png
+    2025-10-16 13:59:32        13771  rtp/Audio/BGS/Rain.ogg
+    2025-10-16 13:59:32        73180  rtp/Audio/ME/Item.ogg
+    2025-10-16 13:59:32         5665  rtp/Audio/SE/Blow1.ogg
+    2025-10-16 13:59:32         5285  rtp/Audio/SE/Blow3.ogg
+    2025-10-16 13:59:32         7792  rtp/Audio/SE/Blow8.ogg
+    2025-10-16 13:59:32         5522  rtp/Audio/SE/Buzzer1.ogg
+    2025-10-16 13:59:32         7387  rtp/Audio/SE/Damage2.ogg
+    2025-10-16 13:59:32         5603  rtp/Audio/SE/Dog.ogg
+    2025-10-16 13:59:32         7283  rtp/Audio/SE/Bell3.ogg
+    2025-10-16 13:59:32         5866  rtp/Audio/SE/Earth3.ogg
+    2025-10-16 13:59:32         6612  rtp/Audio/SE/Paralyze1.ogg
+    2025-10-16 13:59:32       151347  rtp/Audio/BGS/Darkness.ogg
+    2025-10-16 13:59:32       223944  rtp/Audio/ME/Fanfare2.ogg
+    2025-10-16 13:59:32       103051  rtp/Graphics/Animations/Special4.png
+    2025-10-16 13:59:32        15569  rtp/Audio/SE/Frog.ogg
+    2025-10-16 13:59:33         8163  rtp/Audio/SE/Cat.ogg
+    2025-10-16 13:59:33        10649  rtp/Audio/SE/Down2.ogg
+    2025-10-16 13:59:33         5671  rtp/Audio/SE/Ice1.ogg
+    2025-10-16 13:59:33         4852  rtp/Audio/SE/Cancel1.ogg
+    2025-10-16 13:59:33         8776  rtp/Audio/SE/Cancel2.ogg
+    2025-10-16 13:59:33         5279  rtp/Audio/SE/Blow2.ogg
+    2025-10-16 13:59:33         7657  rtp/Audio/SE/Blow7.ogg
+    2025-10-16 13:59:33         8069  rtp/Audio/SE/Crossbow.ogg
+    2025-10-16 13:59:33         7374  rtp/Fonts/VLGothic/README.sazanami
+    2025-10-16 13:59:33         9148  rtp/Audio/SE/Book2.ogg
+    2025-10-16 13:59:33         5838  rtp/Audio/SE/Coin.ogg
+    2025-10-16 13:59:33         6100  rtp/Audio/SE/Damage1.ogg
+    2025-10-16 13:59:33        12352  rtp/Audio/SE/Ice8.ogg
+    2025-10-16 13:59:33         6034  rtp/Audio/SE/Evasion1.ogg
+    2025-10-16 13:59:33        16437  rtp/Audio/SE/Explosion7.ogg
+    2025-10-16 13:59:33        10175  rtp/Audio/SE/Ice4.ogg
+    2025-10-16 13:59:33         9293  rtp/Audio/SE/Item2.ogg
+    2025-10-16 13:59:33         3763  rtp/Audio/SE/Cursor1.ogg
+    2025-10-16 13:59:33         9631  rtp/Audio/SE/Darkness4.ogg
+    2025-10-16 13:59:33        20967  rtp/Audio/SE/Fire9.ogg
+    2025-10-16 13:59:33         5922  rtp/Audio/SE/Item1.ogg
+    2025-10-16 13:59:33        16416  rtp/Audio/SE/Crow.ogg
+    2025-10-16 13:59:33        15113  rtp/Audio/SE/Explosion5.ogg
+    2025-10-16 13:59:33         7497  rtp/Audio/SE/Ice3.ogg
+    2025-10-16 13:59:33        12134  rtp/Audio/SE/Sand.ogg
+    2025-10-16 13:59:33        21388  rtp/Audio/SE/Monster3.ogg
+    2025-10-16 13:59:33         6787  rtp/Audio/SE/Saint3.ogg
+    2025-10-16 13:59:33        11126  rtp/Audio/SE/Shop.ogg
+    2025-10-16 13:59:33        12580  rtp/Audio/SE/Wind2.ogg
+    2025-10-16 13:59:33         8908  rtp/Audio/SE/Fire1.ogg
+    2025-10-16 13:59:33        10920  rtp/Audio/SE/Fire4.ogg
+    2025-10-16 13:59:33         6845  rtp/Audio/SE/Ice9.ogg
+    2025-10-16 13:59:33         4696  rtp/Audio/SE/Knock.ogg
+    2025-10-16 13:59:33        15382  rtp/Audio/SE/Battle1.ogg
+    2025-10-16 13:59:33        11834  rtp/Audio/SE/Fire5.ogg
+    2025-10-16 13:59:33        11950  rtp/Audio/SE/Saint1.ogg
+    2025-10-16 13:59:33         4852  rtp/Audio/SE/Jump1.ogg
+    2025-10-16 13:59:33         4714  rtp/Audio/SE/Decision1.ogg
+    2025-10-16 13:59:33         9349  rtp/Audio/SE/Heal3.ogg
+    2025-10-16 13:59:33         5703  rtp/Audio/SE/Slash10.ogg
+    2025-10-16 13:59:33         9896  rtp/Audio/SE/Thunder1.ogg
+    2025-10-16 13:59:33         7179  rtp/Audio/SE/Load.ogg
+    2025-10-16 13:59:33         5698  rtp/Audio/SE/Slash7.ogg
+    2025-10-16 13:59:33         4876  rtp/Audio/SE/Key.ogg
+    2025-10-16 13:59:33         6418  rtp/Audio/SE/Slash2.ogg
+    2025-10-16 13:59:33        13438  rtp/Audio/SE/Wind8.ogg
+    2025-10-16 13:59:33       231671  rtp/Graphics/Animations/Attack3.png
+    2025-10-16 13:59:33       167145  rtp/Graphics/Battlebacks1/Snow.png
+    2025-10-16 13:59:33         9595  rtp/Audio/SE/Sword5.ogg
+    2025-10-16 13:59:33         8534  rtp/Audio/SE/Sword3.ogg
+    2025-10-16 13:59:33        10101  rtp/Audio/SE/Up1.ogg
+    2025-10-16 13:59:33         3001  rtp/Fonts/VLGothic/README
+    2025-10-16 13:59:33       250830  rtp/Graphics/Battlebacks1/Translucent.png
+    2025-10-16 13:59:33        21854  rtp/Fonts/VLGothic/Changelog
+    2025-10-16 13:59:33          375  rtp/Fonts/VLGothic/LICENSE_E.mplus
+    2025-10-16 13:59:33       142500  rtp/Graphics/Animations/Spear1.png
+    2025-10-16 13:59:33        54037  rtp/Graphics/Animations/Blow3.png
+    2025-10-16 13:59:33        62863  rtp/Graphics/Animations/Ice3.png
+    2025-10-16 13:59:33       242952  rtp/Graphics/Battlebacks2/Room4.png
+    2025-10-16 13:59:33       246626  rtp/Graphics/Battlebacks2/Town1.png
+    2025-10-16 13:59:33       136571  rtp/Graphics/Battlers/Firespirit.png
+    2025-10-16 13:59:33        65650  rtp/Graphics/Battlers/General.png
+    2025-10-16 13:59:33        97534  rtp/Graphics/Battlers/Goddess.png
+    2025-10-16 13:59:33       124483  rtp/Graphics/Battlers/Icelady.png
+    2025-10-16 13:59:33        20799  rtp/Graphics/Characters/People7.png
+    2025-10-16 13:59:33        22138  rtp/Graphics/Characters/Actor3.png
+    2025-10-16 13:59:33        42270  rtp/Graphics/Characters/Behavior1.png
+    2025-10-16 13:59:33        19901  rtp/Graphics/Characters/People5.png
+    2025-10-16 13:59:33       123540  rtp/Graphics/Battlers/Minotaur.png
+    2025-10-16 13:59:34        38319  rtp/Graphics/Battlers/Warrior_m.png
+    2025-10-16 13:59:34       167826  rtp/Graphics/Faces/Actor1.png
+    2025-10-16 13:59:34       162913  rtp/Graphics/Faces/People1.png
+    2025-10-16 13:59:34        47445  rtp/Graphics/Battlers/Sahagin.png
+    2025-10-16 13:59:34         2000  rtp/Graphics/Tilesets/Inside_A2.txt
+    2025-10-16 13:59:34        19153  rtp/Graphics/Tilesets/World_B.txt
+    2025-10-16 13:59:34       181433  rtp/Graphics/Faces/Actor4.png
+    2025-10-16 13:59:34       212813  rtp/Graphics/Parallaxes/Mountains2.png
+    2025-10-16 13:59:34       214834  rtp/Graphics/Animations/Special8.png
+    2025-10-16 13:59:34       186807  rtp/Graphics/Animations/Sword2.png
+    2025-10-16 13:59:34       244152  rtp/Graphics/Titles2/Gargoyles.png
+    2025-10-16 13:59:34       181657  rtp/Graphics/Titles2/Mountains.png
+    2025-10-16 13:59:34         2503  rtp/Graphics/Tilesets/World_A2.txt
+    2025-10-16 13:59:34       260731  rtp/Graphics/Parallaxes/Ocean1.png
+    2025-10-16 13:59:34         9235  rtp/Graphics/System/GameOver.png
+    2025-10-16 13:59:34         4596  rtp/Graphics/Tilesets/Outside_A4.txt
+    2025-10-16 13:59:34         3054  rtp/Graphics/Tilesets/Outside_A3.txt
+    2025-10-16 13:59:34       177367  rtp/Graphics/Animations/Earth2.png
+    2025-10-16 13:59:35       224037  rtp/Graphics/Animations/Special9.png
+    2025-10-16 13:59:35       245366  rtp/Graphics/Battlebacks1/Wood1.png
+    2025-10-16 13:59:35       241014  rtp/Graphics/Battlebacks1/PoisonSwamp.png
+    2025-10-16 13:59:35        42425  rtp/Graphics/Characters/!Switch1.png
+    2025-10-16 13:59:35        43922  rtp/Graphics/Battlers/God.png
+    2025-10-16 13:59:35       183645  rtp/Graphics/Parallaxes/StarlitSky.png
+    2025-10-16 13:59:35        86890  rtp/Graphics/Battlers/Death.png
+    2025-10-16 13:59:35        43031  rtp/Graphics/Battlers/Succubus.png
+    2025-10-16 13:59:35         1414  rtp/Graphics/Tilesets/Dungeon_A1.txt
+    2025-10-16 13:59:35       207367  rtp/Graphics/Titles2/Metal.png
+    2025-10-16 13:59:35        32634  rtp/Audio/BGS/Sea.ogg
+    2025-10-16 13:59:35       252404  rtp/Graphics/Battlebacks1/Dirt2.png
+    2025-10-16 13:59:35       226135  rtp/Graphics/Battlebacks1/Sky.png
+    2025-10-16 13:59:36        30540  rtp/Graphics/Battlers/Bandit.png
+    2025-10-16 13:59:36       251222  rtp/Graphics/Battlebacks1/Snowfield.png
+    2025-10-16 13:59:36       134157  rtp/Graphics/Battlebacks2/Sky.png
+    2025-10-16 13:59:36         1462  rtp/Graphics/Tilesets/Inside_A1.txt
+    2025-10-16 13:59:36       230568  rtp/Graphics/Titles2/Heroes.png
+    2025-10-16 13:59:36       242381  rtp/Graphics/Battlebacks2/Stone2.png
+    2025-10-16 13:59:36       104741  rtp/Graphics/Battlers/Ogre.png
+    2025-10-16 13:59:36       221399  rtp/Graphics/Battlebacks2/Castle3.png
+    2025-10-16 13:59:36       240532  rtp/Graphics/Titles2/Leaves.png
+    2025-10-16 13:59:36       253357  rtp/Graphics/Battlebacks2/Mine.png
+    2025-10-16 13:59:36       202968  rtp/Graphics/Battlebacks2/Wasteland.png
+    2025-10-16 13:59:36       188221  rtp/Graphics/Battlebacks2/Ship.png
+    2025-10-16 13:59:36        39593  rtp/Graphics/Battlers/Cockatrice.png
+    2025-10-16 13:59:36       199941  rtp/Graphics/Battlebacks2/Room1.png
+    2025-10-16 13:59:36       102415  rtp/Graphics/Characters/!Hexagram.png
+    2025-10-16 13:59:36        23327  rtp/Graphics/Characters/Monster2.png
+    2025-10-16 13:59:36       151208  rtp/Graphics/Battlebacks2/Desert.png
+    2025-10-16 13:59:36        31450  rtp/Graphics/Battlers/Soldier.png
+    2025-10-16 13:59:36        34556  rtp/Graphics/Battlers/Orc.png
+    2025-10-16 13:59:37        68556  rtp/Graphics/Animations/Attack7.png
+    2025-10-16 13:59:37       189964  rtp/Graphics/Battlers/Evilgod.png
+    2025-10-16 13:59:37       103862  rtp/Graphics/Battlers/Lamia.png
+    2025-10-16 13:59:37       127833  rtp/Graphics/Battlers/Evilking.png
+    2025-10-16 13:59:37        61250  rtp/Graphics/Characters/!Chest.png
+    2025-10-16 13:59:37       201524  rtp/Graphics/Parallaxes/Mountains4.png
+    2025-10-16 13:59:37        52799  rtp/Graphics/Battlers/Hero_m.png
+    2025-10-16 13:59:37        20743  rtp/Graphics/Battlers/Imp.png
+    2025-10-16 13:59:37        52823  rtp/Graphics/Battlers/Mage.png
+    2025-10-16 13:59:37        46792  rtp/Graphics/Battlers/Priest.png
+    2025-10-16 13:59:37        23581  rtp/Graphics/Characters/Actor2.png
+    2025-10-16 13:59:37        27950  rtp/Graphics/Battlers/Grappler_m.png
+    2025-10-16 13:59:37        66574  rtp/Graphics/Battlers/Vampire.png
+    2025-10-16 13:59:37        24255  rtp/Graphics/Characters/Actor5.png
+    2025-10-16 13:59:37       117943  rtp/Graphics/Characters/!Other1.png
+    2025-10-16 13:59:37       198241  rtp/Graphics/Characters/!Other2.png
+    2025-10-16 13:59:37        32390  rtp/Graphics/Characters/!Switch2.png
+    2025-10-16 13:59:37        16506  rtp/Graphics/Characters/$BigMonster2.png
+    2025-10-16 13:59:37       244644  rtp/Graphics/Battlebacks2/DirtCave.png
+    2025-10-16 13:59:37       154099  rtp/Graphics/Faces/Evil.png
+    2025-10-16 13:59:37       176309  rtp/Graphics/Faces/Spiritual.png
+    2025-10-16 13:59:37       171879  rtp/Graphics/Faces/People3.png
+    2025-10-16 13:59:37       248677  rtp/Graphics/Battlebacks1/Stone2.png
+    2025-10-16 13:59:37        18859  rtp/Graphics/Characters/People8.png
+    2025-10-16 13:59:37       165269  rtp/Graphics/Faces/People4.png
+    2025-10-16 13:59:37         5525  rtp/Graphics/Tilesets/Dungeon_A4.txt
+    2025-10-16 13:59:37       241424  rtp/Graphics/Battlebacks2/Town2.png
+    2025-10-16 13:59:37       250602  rtp/Graphics/Tilesets/Dungeon_A5.png
+    2025-10-16 13:59:37       166601  rtp/Graphics/Battlers/Windspirit.png
+    2025-10-16 13:59:37        24043  rtp/Graphics/Characters/Actor1.png
+    2025-10-16 13:59:37        26028  rtp/Graphics/System/Balloon.png
+    2025-10-16 13:59:37        19356  rtp/Graphics/Tilesets/Dungeon_C.txt
+    2025-10-16 13:59:37        12333  rtp/Graphics/Battlers/Slime.png
+    2025-10-16 13:59:37        36191  rtp/Graphics/Characters/Damage1.png
+    2025-10-16 13:59:37       120591  rtp/Graphics/Battlers/Behemoth.png
+    2025-10-16 13:59:37        39936  rtp/Graphics/Battlers/Willowisp.png
+    2025-10-16 13:59:37        16021  rtp/Graphics/Characters/Animal.png
+    2025-10-16 13:59:37        33103  rtp/Graphics/Characters/Damage4.png
+    2025-10-16 13:59:37       167141  rtp/Graphics/Faces/Actor2.png
+    2025-10-16 13:59:37       168243  rtp/Graphics/Faces/People2.png
+    2025-10-16 13:59:37       256505  rtp/Graphics/Parallaxes/CloudySky2.png
+    2025-10-16 13:59:37       126983  rtp/Graphics/Parallaxes/SeaofClouds.png
+    2025-10-16 13:59:38       184636  rtp/Graphics/Titles2/Forest.png
+    2025-10-16 13:59:38        20677  rtp/Graphics/Tilesets/Inside_C.txt
+    2025-10-16 13:59:38        17673  rtp/Graphics/Tilesets/Outside_B.txt
+    2025-10-16 13:59:38         1263  rtp/Graphics/Tilesets/Outside_A1.txt
+    2025-10-16 13:59:38        10636  rtp/Graphics/Tilesets/Inside_A5.txt
+    2025-10-16 13:59:38        10246  rtp/Graphics/Tilesets/Outside_A5.txt
+    2025-10-16 13:59:38        21772  rtp/Graphics/Tilesets/Outside_C.txt
+    2025-10-16 13:59:38       256776  rtp/Graphics/Titles2/Dragons.png
+    2025-10-16 13:59:38          869  rtp/Graphics/Tilesets/World_A1.txt
+    2025-10-16 13:59:38       214858  rtp/Graphics/Titles2/Mist.png
+    2025-10-16 13:59:39       186481  rtp/Graphics/Animations/State1.png
+    2025-10-16 13:59:39       202352  rtp/Graphics/Animations/State6.png
+    2025-10-16 13:59:39         8921  rtp/Audio/SE/Bell2.ogg
+    2025-10-16 13:59:39         5321  rtp/Audio/SE/Jump2.ogg
+    2025-10-16 13:59:39         5360  rtp/Audio/SE/Miss.ogg
+    2025-10-16 13:59:39         5806  rtp/Audio/SE/Slash11.ogg
+    2025-10-16 13:59:39        10377  rtp/Audio/SE/Book1.ogg
+    2025-10-16 13:59:39         9058  rtp/Audio/SE/Bow3.ogg
+    2025-10-16 13:59:39         6952  rtp/Audio/SE/Run.ogg
+    2025-10-16 13:59:39         7073  rtp/Audio/SE/Silence.ogg
+    2025-10-16 13:59:39         7659  rtp/Audio/SE/Saint9.ogg
+    2025-10-16 13:59:39         4680  rtp/Audio/SE/Switch1.ogg
+    2025-10-16 13:59:39         8161  rtp/Audio/SE/Close2.ogg
+    2025-10-16 13:59:39        14069  rtp/Audio/SE/Confuse.ogg
+    2025-10-16 13:59:39        11560  rtp/Audio/SE/Break.ogg
+    2025-10-16 13:59:39        11937  rtp/Audio/SE/Darkness8.ogg
+    2025-10-16 13:59:39        12487  rtp/Audio/SE/Explosion4.ogg
+    2025-10-16 13:59:39        11332  rtp/Audio/SE/Fire2.ogg
+    2025-10-16 13:59:39        12654  rtp/Audio/SE/Fire7.ogg
+    2025-10-16 13:59:39         6194  rtp/Audio/SE/Thunder2.ogg
+    2025-10-16 13:59:39       257830  rtp/Graphics/Battlebacks1/Paved.png
+    2025-10-16 13:59:39       235695  rtp/Graphics/Battlebacks1/WireMesh.png
+    2025-10-16 13:59:39        11966  rtp/Audio/SE/Gun1.ogg
+    2025-10-16 13:59:39        12553  rtp/Audio/SE/Magic2.ogg
+    2025-10-16 13:59:39        11998  rtp/Audio/SE/Earth8.ogg
+    2025-10-16 13:59:39        13635  rtp/Audio/SE/Reflection.ogg
+    2025-10-16 13:59:39        10182  rtp/Audio/SE/Decision3.ogg
+    2025-10-16 13:59:39        18911  rtp/Audio/SE/Gun2.ogg
+    2025-10-16 13:59:39         9914  rtp/Audio/SE/Heal6.ogg
+    2025-10-16 13:59:39         8413  rtp/Audio/SE/Raise2.ogg
+    2025-10-16 13:59:39        11255  rtp/Audio/SE/Horse.ogg
+    2025-10-16 13:59:39         9209  rtp/Audio/SE/Wind1.ogg
+    2025-10-16 13:59:39        15033  rtp/Audio/SE/Saint7.ogg
+    2025-10-16 13:59:39         9025  rtp/Audio/SE/Shot3.ogg
+    2025-10-16 13:59:39        35581  rtp/Audio/SE/Dive.ogg
+    2025-10-16 13:59:39        10466  rtp/Audio/SE/Monster6.ogg
+    2025-10-16 13:59:39        14702  rtp/Audio/SE/Thunder9.ogg
+    2025-10-16 13:59:39        15724  rtp/Audio/SE/Pollen.ogg
+    2025-10-16 13:59:39         9356  rtp/Audio/SE/Switch2.ogg
+    2025-10-16 13:59:39        12217  rtp/Audio/SE/Flash2.ogg
+    2025-10-16 13:59:39        10060  rtp/Audio/SE/Raise3.ogg
+    2025-10-16 13:59:39        20936  rtp/Audio/SE/Wind11.ogg
+    2025-10-16 13:59:39        13839  rtp/Audio/SE/Open3.ogg
+    2025-10-16 13:59:39        10394  rtp/Audio/SE/Paralyze3.ogg
+    2025-10-16 13:59:39         8301  rtp/Audio/SE/Wind9.ogg
+    2025-10-16 13:59:39        14679  rtp/Audio/SE/Skill1.ogg
+    2025-10-16 13:59:39        16660  rtp/Audio/SE/Cry2.ogg
+    2025-10-16 13:59:39        29141  rtp/Audio/SE/Devil1.ogg
+    2025-10-16 13:59:39         8718  rtp/Audio/SE/Save.ogg
+    2025-10-16 13:59:39        11640  rtp/Audio/SE/Wind5.ogg
+    2025-10-16 13:59:39       142924  rtp/Graphics/Parallaxes/Mountains3.png
+    2025-10-16 13:59:39        16797  rtp/Graphics/Tilesets/Inside_B.txt
+    2025-10-16 13:59:39        16868  rtp/Audio/SE/Explosion6.ogg
+    2025-10-16 13:59:39        42014  rtp/Graphics/Battlers/Cleric_f.png
+    2025-10-16 13:59:39          458  rtp/Graphics/System/Shadow.png
+    2025-10-16 13:59:39        16836  rtp/Audio/SE/Explosion3.ogg
+    2025-10-16 13:59:39        17222  rtp/Audio/SE/Item3.ogg
+    2025-10-16 13:59:39        36888  rtp/Graphics/Battlers/Ghost.png
+    2025-10-16 13:59:39        16384  rtp/Audio/SE/Powerup.ogg
+    2025-10-16 13:59:39       256927  rtp/Graphics/Battlebacks2/LavaCave.png
+    2025-10-16 13:59:39       231849  rtp/Graphics/Animations/State5.png
+    2025-10-16 13:59:39       126995  rtp/Audio/BGS/River.ogg
+    2025-10-16 13:59:39        18133  rtp/Audio/SE/Up3.ogg
+    2025-10-16 13:59:39       259555  rtp/Graphics/Animations/Sword4.png
+    2025-10-16 13:59:39       176331  rtp/Graphics/Titles1/Devil.png
+    2025-10-16 13:59:40        17604  rtp/Graphics/Characters/Insane2.png
+    2025-10-16 13:59:40        17682  rtp/Audio/BGS/Storm.ogg
+    2025-10-16 13:59:40         4264  rtp/Graphics/Tilesets/Inside_A4.txt
+    2025-10-16 13:59:40       134350  rtp/Graphics/Titles2/Fire.png
+    2025-10-16 13:59:40       104024  rtp/Audio/ME/Victory1.ogg
+    2025-10-16 13:59:40         5448  rtp/Audio/SE/Chime1.ogg
+    2025-10-16 13:59:40        11697  rtp/Audio/SE/Battle2.ogg
+    2025-10-16 13:59:40        10142  rtp/Audio/SE/Blind.ogg
+    2025-10-16 13:59:40         6445  rtp/Audio/SE/Bow1.ogg
+    2025-10-16 13:59:40        13756  rtp/Audio/SE/Breath.ogg
+    2025-10-16 13:59:40         6981  rtp/Audio/SE/Buzzer2.ogg
+    2025-10-16 13:59:40        12238  rtp/Audio/SE/Absorb1.ogg
+    2025-10-16 13:59:40         7977  rtp/Audio/SE/Blow4.ogg
+    2025-10-16 13:59:40         7393  rtp/Audio/SE/Bow2.ogg
+    2025-10-16 13:59:40       144197  rtp/Audio/ME/Fanfare1.ogg
+    2025-10-16 13:59:40        15039  rtp/Audio/SE/Darkness5.ogg
+    2025-10-16 13:59:40        10621  rtp/Audio/SE/Chicken.ogg
+    2025-10-16 13:59:40         8733  rtp/Audio/SE/Chime2.ogg
+    2025-10-16 13:59:40        35136  rtp/Audio/SE/Collapse4.ogg
+    2025-10-16 13:59:40        17284  rtp/Audio/SE/Disappointment.ogg
+    2025-10-16 13:59:40        28175  rtp/Audio/SE/Collapse1.ogg
+    2025-10-16 13:59:40        13596  rtp/Audio/SE/Down1.ogg
+    2025-10-16 13:59:40        13120  rtp/Audio/SE/Explosion1.ogg
+    2025-10-16 13:59:40        20647  rtp/Audio/SE/Flash3.ogg
+    2025-10-16 13:59:40        14068  rtp/Audio/SE/Darkness1.ogg
+    2025-10-16 13:59:40        11379  rtp/Audio/SE/Darkness3.ogg
+    2025-10-16 13:59:40        21364  rtp/Audio/SE/Down3.ogg
+    2025-10-16 13:59:40         6122  rtp/Audio/SE/Earth6.ogg
+    2025-10-16 13:59:40        12634  rtp/Audio/SE/Wolf.ogg
+    2025-10-16 13:59:40         2647  rtp/Fonts/VLGothic/LICENSE.en
+    2025-10-16 13:59:40         4112  rtp/Fonts/VLGothic/README_J.mplus
+    2025-10-16 13:59:40         2886  rtp/Fonts/VLGothic/LICENSE
+    2025-10-16 13:59:40          329  rtp/Fonts/VLGothic/LICENSE_J.mplus
+    2025-10-16 13:59:40        82555  rtp/Game.ico
+    2025-10-16 13:59:40       205693  rtp/Graphics/Animations/Attack5.png
+    2025-10-16 13:59:40       232747  rtp/Graphics/Animations/Attack2.png
+    2025-10-16 13:59:40       252798  rtp/Graphics/Animations/Attack9.png
+    2025-10-16 13:59:41       158839  rtp/Graphics/Animations/State4.png
+    2025-10-16 13:59:41       257204  rtp/Graphics/Animations/Thunder2.png
+    2025-10-16 13:59:41       217310  rtp/Graphics/Battlebacks2/DemonCastle3.png
+    2025-10-16 13:59:41       211199  rtp/Graphics/Animations/Water2.png
+    2025-10-16 13:59:41       193658  rtp/Graphics/Battlebacks2/PoisonSwamp.png
+    2025-10-16 13:59:41       212755  rtp/Graphics/Battlebacks2/Room2.png
+    2025-10-16 13:59:41       232149  rtp/Graphics/Battlebacks2/Room3.png
+    2025-10-16 13:59:41        17169  rtp/Graphics/Battlers/Bat.png
+    2025-10-16 13:59:41       183197  rtp/Graphics/Battlers/Darklord.png
+    2025-10-16 13:59:41       175810  rtp/Graphics/Battlers/Demon.png
+    2025-10-16 13:59:41        45782  rtp/Graphics/Battlers/Jellyfish.png
+    2025-10-16 13:59:41        25109  rtp/Graphics/Battlers/Mimic.png
+    2025-10-16 13:59:41        24131  rtp/Graphics/Battlers/Fairy.png
+    2025-10-16 13:59:41       132149  rtp/Graphics/Battlebacks1/Clouds.png
+    2025-10-16 13:59:41        56930  rtp/Graphics/Battlers/Paladin_f.png
+    2025-10-16 13:59:41        16466  rtp/Graphics/Battlers/Rat.png
+    2025-10-16 13:59:41        47691  rtp/Graphics/Characters/!Door1.png
+    2025-10-16 13:59:41         1915  rtp/Graphics/Characters/$Coffin.png
+    2025-10-16 13:59:41        21275  rtp/Graphics/Battlers/Puppet.png
+    2025-10-16 13:59:41        35405  rtp/Graphics/Battlers/Thief_f.png
+    2025-10-16 13:59:41        38959  rtp/Graphics/Battlers/Thief_m.png
+    2025-10-16 13:59:41        51341  rtp/Graphics/Battlers/Warrior_f.png
+    2025-10-16 13:59:41        26063  rtp/Graphics/Characters/Actor4.png
+    2025-10-16 13:59:41        16598  rtp/Graphics/Characters/Insane1.png
+    2025-10-16 13:59:41        26351  rtp/Graphics/Characters/!$Gate2.png
+    2025-10-16 13:59:41        22127  rtp/Graphics/Characters/Monster3.png
+    2025-10-16 13:59:41        35130  rtp/Graphics/Characters/Damage2.png
+    2025-10-16 13:59:41        22066  rtp/Graphics/Characters/Evil.png
+    2025-10-16 13:59:41        24484  rtp/Graphics/Characters/Monster1.png
+    2025-10-16 13:59:41        30384  rtp/Graphics/Characters/Riding.png
+    2025-10-16 13:59:42       169158  rtp/Graphics/Faces/Actor3.png
+    2025-10-16 13:59:42       133236  rtp/Graphics/Parallaxes/CloudySky1.png
+    2025-10-16 13:59:42       183743  rtp/Graphics/Battlebacks1/Road2.png
+    2025-10-16 13:59:42       238872  rtp/Graphics/Battlebacks2/Town4.png
+    2025-10-16 13:59:42       236363  rtp/Graphics/Battlebacks2/Stone4.png
+    2025-10-16 13:59:42       256317  rtp/Graphics/Battlebacks2/Town5.png
+    2025-10-16 13:59:42       153598  rtp/Graphics/Battlers/Garuda.png
+    2025-10-16 13:59:42        58406  rtp/Graphics/Battlers/Gayzer.png
+    2025-10-16 13:59:42        16366  rtp/Graphics/Battlers/Hornet.png
+    2025-10-16 13:59:42        39360  rtp/Graphics/Battlers/Rogue.png
+    2025-10-16 13:59:42        83382  rtp/Graphics/Characters/!Door3.png
+    2025-10-16 13:59:42        21251  rtp/Graphics/Characters/People2.png
+    2025-10-16 13:59:42        22817  rtp/Graphics/Characters/People3.png
+    2025-10-16 13:59:42       178226  rtp/Graphics/Faces/Actor5.png
+    2025-10-16 13:59:42       152480  rtp/Graphics/Battlers/Ifrit.png
+    2025-10-16 13:59:42        40693  rtp/Graphics/Battlers/Kerberos.png
+    2025-10-16 13:59:42        56683  rtp/Graphics/Battlers/Plant.png
+    2025-10-16 13:59:42        46537  rtp/Graphics/Battlers/Scorpion.png
+    2025-10-16 13:59:42        56063  rtp/Graphics/Battlers/Gargoyle.png
+    2025-10-16 13:59:42        64665  rtp/Graphics/Battlers/Wizard_m.png
+    2025-10-16 13:59:42        49247  rtp/Graphics/Battlers/Spider.png
+    2025-10-16 13:59:42        27730  rtp/Graphics/Characters/Behavior2.png
+    2025-10-16 13:59:46         5072  dlc/AdventurersJourney_SND/readme_TheAdventurer'sJourney.txt
+    2025-10-16 13:59:52         5262  dlc/Tyler Warren RPG Battlers 1st 50/readme.txt
+    2025-10-16 13:59:52        55203  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Boss Snow.png
+    2025-10-16 13:59:52        32264  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Gold Slime.png
+    2025-10-16 13:59:52        18314  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Creeper3.png
+    2025-10-16 13:59:52        24904  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Ghost View1.png
+    2025-10-16 13:59:52        12928  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Doll1.png
+    2025-10-16 13:59:52        18314  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Creeper3.png
+    2025-10-16 13:59:52        12928  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Doll1.png
+    2025-10-16 13:59:52        24904  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Ghost View1.png
+    2025-10-16 13:59:52        30334  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/DragonFighter.png
+    2025-10-16 13:59:52        96551  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Fire Flame.png
+    2025-10-16 13:59:52        53360  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Flame.png
+    2025-10-16 13:59:52        83537  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Horned Dragon.png
+    2025-10-16 13:59:52        10608  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Ghost View2.png
+    2025-10-16 13:59:52        18158  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Jelly2.png
+    2025-10-16 13:59:52        15143  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Chomp Plant.png
+    2025-10-16 13:59:52        13129  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Healer.png
+    2025-10-16 13:59:52        18158  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Jelly2.png
+    2025-10-16 13:59:52        12139  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/JellyPlant2.png
+    2025-10-16 13:59:52        13129  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Healer.png
+    2025-10-16 13:59:52        59164  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Coward.png
+    2025-10-16 13:59:52        11226  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Bite Fish.png
+    2025-10-16 13:59:52        12498  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Chomp Sprout.png
+    2025-10-16 13:59:52        59164  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Coward.png
+    2025-10-16 13:59:52        13784  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Gold Slime.png
+    2025-10-16 13:59:52        12139  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/JellyPlant2.png
+    2025-10-16 13:59:52       116757  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Club Troll.png
+    2025-10-16 13:59:52        14208  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Chomp Sprout 2.png
+    2025-10-16 13:59:52        12498  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Chomp Sprout.png
+    2025-10-16 13:59:52        21206  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Earth King.png
+    2025-10-16 13:59:52        13784  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Gold Slime.png
+    2025-10-16 13:59:52        15553  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/HumpBack.png
+    2025-10-16 13:59:52        14208  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Chomp Sprout 2.png
+    2025-10-16 13:59:52        22092  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Ghost View2.png
+    2025-10-16 13:59:52        22092  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Ghost View2.png
+    2025-10-16 13:59:53        50641  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Bite Fish.png
+    2025-10-16 13:59:53        58392  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Black Candle.png
+    2025-10-16 13:59:53        37600  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Ghost View2.png
+    2025-10-16 13:59:53        11343  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Behemoth.png
+    2025-10-16 13:59:53         7629  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Doll1.png
+    2025-10-16 13:59:53         7657  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Flame.png
+    2025-10-16 13:59:53         7728  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/JellyPlant.png
+    2025-10-16 13:59:53         7237  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/JellyPlant2.png
+    2025-10-16 13:59:53        22512  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Coward.png
+    2025-10-16 13:59:53        37790  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Flaming Snowman.png
+    2025-10-16 13:59:53        11914  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Flippy.png
+    2025-10-16 13:59:53        12092  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Glare view2.png
+    2025-10-16 13:59:53         7720  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Gold Slime.png
+    2025-10-16 13:59:53        23013  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Fire Flame.png
+    2025-10-16 13:59:53        21899  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Furr3.png
+    2025-10-16 13:59:53        23064  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Jelly1.png
+    2025-10-16 13:59:53        23064  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Jelly1.png
+    2025-10-16 13:59:53        11025  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Gold Slime.png
+    2025-10-16 13:59:53        84742  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Big Crab.png
+    2025-10-16 13:59:53        56796  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Glare view2.png
+    2025-10-16 13:59:53         8030  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Chomp Sprout 2.png
+    2025-10-16 13:59:53         9098  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/FallenHero.png
+    2025-10-16 13:59:53        13216  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Cliff.png
+    2025-10-16 13:59:53        14331  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Creeper2.png
+    2025-10-16 13:59:53        11920  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Doll2.png
+    2025-10-16 13:59:53        13216  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Cliff.png
+    2025-10-16 13:59:53        14331  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Creeper2.png
+    2025-10-16 13:59:53        11920  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Doll2.png
+    2025-10-16 13:59:53        14355  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Grass Slime.png
+    2025-10-16 13:59:53        12415  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Fire Flame.png
+    2025-10-16 13:59:53         9064  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Glare view1.png
+    2025-10-16 13:59:53        11640  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Ghost View1.png
+    2025-10-16 13:59:53        14355  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Grass Slime.png
+    2025-10-16 13:59:53        15252  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/King Slime.png
+    2025-10-16 13:59:53        65582  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/King Slime.png
+    2025-10-16 13:59:53        32708  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Glare view1.png
+    2025-10-16 13:59:53        33221  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Grass Slime.png
+    2025-10-16 13:59:53        72960  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Ground.png
+    2025-10-16 13:59:53        70058  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Jelly2.png
+    2025-10-16 13:59:53        47871  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/JellyPlant2.png
+    2025-10-16 13:59:53        64932  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Ghost View2.png
+    2025-10-16 13:59:53        16255  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Club Troll.png
+    2025-10-16 13:59:53        18837  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Horned Dragon.png
+    2025-10-16 13:59:53        32708  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Glare view1.png
+    2025-10-16 13:59:53        25071  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Glare view2.png
+    2025-10-16 13:59:53        90265  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/DragonFighter.png
+    2025-10-16 13:59:53        67009  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/King Slime.png
+    2025-10-16 13:59:53        35948  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/BucketCrab.png
+    2025-10-16 13:59:53        29808  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Creeper.png
+    2025-10-16 13:59:53        30295  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Flame.png
+    2025-10-16 13:59:53        56437  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Flippy.png
+    2025-10-16 13:59:53        83372  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Horned Dragon.png
+    2025-10-16 13:59:53       106231  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Chomp Sprout 2.png
+    2025-10-16 13:59:53       132795  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Ground.png
+    2025-10-16 13:59:53        94117  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/JellyPlant.png
+    2025-10-16 13:59:53        90265  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/DragonFighter.png
+    2025-10-16 13:59:53        83372  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Horned Dragon.png
+    2025-10-16 13:59:53        34720  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/HumpBack.png
+    2025-10-16 13:59:53        40622  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Jelly2.png
+    2025-10-16 13:59:53        26383  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Jelly3.png
+    2025-10-16 13:59:53       115304  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/BucketCrab.png
+    2025-10-16 13:59:53        17095  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Ground.png
+    2025-10-16 13:59:53        56437  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Flippy.png
+    2025-10-16 13:59:53        72960  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Ground.png
+    2025-10-16 13:59:53        95229  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Clay Slime.png
+    2025-10-16 13:59:53        26887  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/JellyPlant2.png
+    2025-10-16 13:59:53       118679  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Flaming Snowman.png
+    2025-10-16 13:59:53        25071  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Glare view2.png
+    2025-10-16 13:59:53       117529  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Club Troll.png
+    2025-10-16 13:59:53        90265  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/DragonFighter.png
+    2025-10-16 13:59:53       111895  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/HumpBack.png
+    2025-10-16 13:59:53       166878  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Jelly1.png
+    2025-10-16 13:59:53       118010  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Jelly2.png
+    2025-10-16 13:59:53       115730  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/FallenHero.png
+    2025-10-16 13:59:53       185301  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Flippy.png
+    2025-10-16 13:59:53        19341  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Brain Slime 2.png
+    2025-10-16 13:59:53        19341  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Brain Slime 2.png
+    2025-10-16 13:59:53       117529  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Club Troll.png
+    2025-10-16 13:59:53       115730  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/FallenHero.png
+    2025-10-16 13:59:53        31669  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Cliff.png
+    2025-10-16 13:59:53        36636  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Club Troll.png
+    2025-10-16 13:59:53        43274  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Creeper3.png
+    2025-10-16 13:59:53        65563  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/FallenHero.png
+    2025-10-16 13:59:53        47023  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Healer2.png
+    2025-10-16 13:59:53        11741  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Goblin.png
+    2025-10-16 13:59:53        36807  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/FallenHero.png
+    2025-10-16 13:59:53        29545  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Healer.png
+    2025-10-16 13:59:53        64332  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/BucketCrab.png
+    2025-10-16 13:59:53        49916  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Earth Hand.png
+    2025-10-16 13:59:53        25985  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Goblin.png
+    2025-10-16 13:59:53        25985  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Goblin.png
+    2025-10-16 13:59:53        35389  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/King Slime.png
+    2025-10-16 13:59:53        96127  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Glare view1.png
+    2025-10-16 13:59:53        12234  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Jelly3.png
+    2025-10-16 13:59:53        33993  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Chomp Plant.png
+    2025-10-16 13:59:53        59368  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Chomp Sprout 2.png
+    2025-10-16 13:59:53       175898  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Fire Flame.png
+    2025-10-16 13:59:53       180215  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Furr3.png
+    2025-10-16 13:59:53         8391  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Black Candle.png
+    2025-10-16 13:59:53        11889  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Boss Snow.png
+    2025-10-16 13:59:53        10162  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Brain Slime 2.png
+    2025-10-16 13:59:53        12234  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Jelly3.png
+    2025-10-16 13:59:53       106281  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Black Candle.png
+    2025-10-16 13:59:53       111580  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Cliff2.png
+    2025-10-16 13:59:53         8820  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Big Crab.png
+    2025-10-16 13:59:53       141533  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Creeper3.png
+    2025-10-16 13:59:53       105975  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Grass Slime.png
+    2025-10-16 13:59:53       150549  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Horned Dragon.png
+    2025-10-16 13:59:53         7224  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Doll2.png
+    2025-10-16 13:59:53        11621  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Furr3.png
+    2025-10-16 13:59:53         6478  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Ghost View2.png
+    2025-10-16 13:59:53         8650  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Chomp Plant.png
+    2025-10-16 13:59:53        29522  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/JellyPlant.png
+    2025-10-16 13:59:53        60990  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Creeper2.png
+    2025-10-16 13:59:53        78673  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Creeper3.png
+    2025-10-16 13:59:53        78204  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Jelly3.png
+    2025-10-16 13:59:53         9384  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Ground.png
+    2025-10-16 13:59:53        21450  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Clay Slime.png
+    2025-10-16 13:59:53        13068  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Earth Hand.png
+    2025-10-16 13:59:53        14734  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Brain Slime.png
+    2025-10-16 13:59:53        14933  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Brain Slime.png
+    2025-10-16 13:59:53        12794  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Creeper.png
+    2025-10-16 13:59:53       170074  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Clay Slime.png
+    2025-10-16 13:59:53         9137  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Flaming Snowman.png
+    2025-10-16 13:59:53         9946  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Horned Dragon.png
+    2025-10-16 13:59:53        16528  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Flaming Snowman.png
+    2025-10-16 13:59:53        23001  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Flippy.png
+    2025-10-16 13:59:53       174140  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Bite Fish.png
+    2025-10-16 13:59:53        11194  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Bite Fish.png
+    2025-10-16 13:59:53         7072  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Glare view2.png
+    2025-10-16 13:59:53        12302  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Jelly1.png
+    2025-10-16 13:59:53        11194  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Bite Fish.png
+    2025-10-16 13:59:53        53254  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Fire Flame.png
+    2025-10-16 13:59:53        52880  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/JellyPlant.png
+    2025-10-16 13:59:53        14734  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Brain Slime.png
+    2025-10-16 13:59:53        51942  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Clay Slime.png
+    2025-10-16 13:59:53        93787  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Bite Fish.png
+    2025-10-16 13:59:53       102536  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Boss Snow.png
+    2025-10-16 13:59:53        60006  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Chomp Plant.png
+    2025-10-16 13:59:53        58207  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Cliff.png
+    2025-10-16 13:59:53         9855  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Creeper3.png
+    2025-10-16 13:59:53         8664  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Furr1.png
+    2025-10-16 13:59:53        60006  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Chomp Plant.png
+    2025-10-16 13:59:53        51942  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Clay Slime.png
+    2025-10-16 13:59:53        60242  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Chomp Plant.png
+    2025-10-16 13:59:53        53869  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Creeper.png
+    2025-10-16 13:59:53        50034  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Doll1.png
+    2025-10-16 13:59:53        28310  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Earth Hand.png
+    2025-10-16 13:59:53        35354  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Furr1.png
+    2025-10-16 13:59:53        61168  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Cliff2.png
+    2025-10-16 13:59:53       103558  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Flippy.png
+    2025-10-16 13:59:53        98451  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Furr3.png
+    2025-10-16 13:59:53        42643  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Ghost View1.png
+    2025-10-16 13:59:53        59445  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Grass Slime.png
+    2025-10-16 13:59:53       208356  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Coward.png
+    2025-10-16 13:59:53        97455  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Creeper.png
+    2025-10-16 13:59:53        16229  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/FallenHero.png
+    2025-10-16 13:59:53        28310  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Earth Hand.png
+    2025-10-16 13:59:53        13624  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Flame.png
+    2025-10-16 13:59:53        35354  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Furr1.png
+    2025-10-16 13:59:53        55999  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Glare view1.png
+    2025-10-16 13:59:53        76403  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/LavaSlime.png
+    2025-10-16 13:59:53       188407  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Boss Snow.png
+    2025-10-16 13:59:53        11700  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Healer2.png
+    2025-10-16 13:59:53       188407  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Boss Snow.png
+    2025-10-16 13:59:53        11700  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Healer2.png
+    2025-10-16 13:59:53        45545  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Goblin.png
+    2025-10-16 13:59:53        59490  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Gold Slime.png
+    2025-10-16 13:59:53       142055  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Behemoth.png
+    2025-10-16 13:59:53       156791  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Brain Slime 2.png
+    2025-10-16 13:59:53       113660  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Furr1.png
+    2025-10-16 13:59:53        11266  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Coward.png
+    2025-10-16 13:59:53         6853  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Ghost View1.png
+    2025-10-16 13:59:53        87896  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Doll1.png
+    2025-10-16 13:59:53         7411  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Cliff.png
+    2025-10-16 13:59:53        17248  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/LavaSlime.png
+    2025-10-16 13:59:53        17248  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/LavaSlime.png
+    2025-10-16 13:59:53        61537  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/HumpBack.png
+    2025-10-16 13:59:53       105328  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Chomp Plant.png
+    2025-10-16 13:59:53        73124  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Ghost View1.png
+    2025-10-16 13:59:53         8121  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Brain Slime.png
+    2025-10-16 13:59:53         8151  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/DragonFighter.png
+    2025-10-16 13:59:53        61537  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/HumpBack.png
+    2025-10-16 13:59:53       106283  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Cliff.png
+    2025-10-16 13:59:53        82262  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Doll2.png
+    2025-10-16 13:59:53         8930  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/BucketCrab.png
+    2025-10-16 13:59:53       112758  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Coward.png
+    2025-10-16 13:59:53        45988  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Doll2.png
+    2025-10-16 13:59:53        32842  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Chomp Sprout 2.png
+    2025-10-16 13:59:53        94513  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Jelly1.png
+    2025-10-16 13:59:53         7694  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Healer.png
+    2025-10-16 13:59:53        23065  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Boss Snow.png
+    2025-10-16 13:59:53        15841  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/BucketCrab.png
+    2025-10-16 13:59:53        51034  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Clay Slime.png
+    2025-10-16 13:59:53        45472  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Horned Dragon.png
+    2025-10-16 13:59:53        62545  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Brain Slime.png
+    2025-10-16 13:59:53        92586  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Healer.png
+    2025-10-16 13:59:53         6859  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Goblin.png
+    2025-10-16 13:59:53        15841  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/BucketCrab.png
+    2025-10-16 13:59:53        41605  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/LavaSlime.png
+    2025-10-16 13:59:53         8182  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Grass Slime.png
+    2025-10-16 13:59:53         7283  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Jelly3.png
+    2025-10-16 13:59:53        21294  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Behemoth.png
+    2025-10-16 13:59:53        21138  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Bite Fish.png
+    2025-10-16 13:59:53        13984  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/DragonFighter.png
+    2025-10-16 13:59:53        15555  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Furr1.png
+    2025-10-16 13:59:54        30638  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Chomp Sprout.png
+    2025-10-16 13:59:54        96760  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Chomp Sprout.png
+    2025-10-16 13:59:54        14663  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Black Candle.png
+    2025-10-16 13:59:54        19547  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Brain Slime 2.png
+    2025-10-16 13:59:54        28262  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Big Crab.png
+    2025-10-16 13:59:54        88609  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Behemoth.png
+    2025-10-16 13:59:54        86676  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Brain Slime 2.png
+    2025-10-16 13:59:54        87467  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Earth Hand.png
+    2025-10-16 13:59:54       176947  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Earth King.png
+    2025-10-16 13:59:54         9376  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/LavaSlime.png
+    2025-10-16 13:59:54        13090  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Creeper.png
+    2025-10-16 13:59:54        53043  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Furr3.png
+    2025-10-16 13:59:54        14005  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Creeper2.png
+    2025-10-16 13:59:54        33367  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Creeper2.png
+    2025-10-16 13:59:54        65760  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Club Troll.png
+    2025-10-16 13:59:54        52387  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/DragonFighter.png
+    2025-10-16 13:59:54        93053  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Flame.png
+    2025-10-16 13:59:54       109257  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Gold Slime.png
+    2025-10-16 13:59:54        14067  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Cliff2.png
+    2025-10-16 13:59:54        13279  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/JellyPlant.png
+    2025-10-16 13:59:54        13090  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Creeper.png
+    2025-10-16 13:59:54        13583  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Flame.png
+    2025-10-16 13:59:54        18009  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Creeper3.png
+    2025-10-16 13:59:54        54332  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Chomp Sprout.png
+    2025-10-16 13:59:54        96807  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Earth King.png
+    2025-10-16 13:59:54        53100  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Healer.png
+    2025-10-16 13:59:54       113806  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Brain Slime.png
+    2025-10-16 13:59:54        83219  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Healer2.png
+    2025-10-16 13:59:54         7646  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Chomp Sprout.png
+    2025-10-16 13:59:54         8016  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Creeper2.png
+    2025-10-16 13:59:54        14663  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Black Candle.png
+    2025-10-16 13:59:54       176947  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Earth King.png
+    2025-10-16 13:59:54        66898  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Flaming Snowman.png
+    2025-10-16 13:59:54        53814  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Fire Flame.png
+    2025-10-16 13:59:54        45502  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Jelly3.png
+    2025-10-16 13:59:54        64039  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/King Slime.png
+    2025-10-16 13:59:54        78996  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Goblin.png
+    2025-10-16 13:59:54         8912  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Club Troll.png
+    2025-10-16 13:59:54         7801  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Earth Hand.png
+    2025-10-16 13:59:54        11734  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Big Crab.png
+    2025-10-16 13:59:54        14067  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Cliff2.png
+    2025-10-16 13:59:54        74040  dlc/Tyler Warren RPG Battlers 1st 50/Tyler Warren RPG Battlers 1st 50__EULA.pdf
+    2025-10-16 13:59:54        11164  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Clay Slime.png
+    2025-10-16 13:59:54        89833  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Behemoth.png
+    2025-10-16 13:59:54        28389  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Doll1.png
+    2025-10-16 13:59:54        26201  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Healer2.png
+    2025-10-16 13:59:54        84428  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/JellyPlant2.png
+    2025-10-16 13:59:54         7587  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Creeper.png
+    2025-10-16 13:59:54        13583  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Flame.png
+    2025-10-16 13:59:54        53814  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Fire Flame.png
+    2025-10-16 13:59:54        13279  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/JellyPlant.png
+    2025-10-16 13:59:54        48981  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Behemoth.png
+    2025-10-16 13:59:54        47346  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Brain Slime 2.png
+    2025-10-16 13:59:54        34064  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Brain Slime.png
+    2025-10-16 13:59:54        33645  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Cliff2.png
+    2025-10-16 13:59:54        52360  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Earth King.png
+    2025-10-16 13:59:54        53043  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Furr3.png
+    2025-10-16 13:59:54        47328  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Big Crab.png
+    2025-10-16 13:59:54        42781  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Glare view2.png
+    2025-10-16 13:59:54       114790  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/King Slime.png
+    2025-10-16 13:59:54         7928  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Cliff2.png
+    2025-10-16 13:59:54        11022  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Earth King.png
+    2025-10-16 13:59:54         6970  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Healer2.png
+    2025-10-16 13:59:54         9885  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/Jelly2.png
+    2025-10-16 13:59:54         8456  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/King Slime.png
+    2025-10-16 13:59:54        15636  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny/Glare view1.png
+    2025-10-16 13:59:54        88609  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Behemoth.png
+    2025-10-16 13:59:54        28262  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Big Crab.png
+    2025-10-16 13:59:54        32770  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Black Candle.png
+    2025-10-16 13:59:54        25985  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Doll2.png
+    2025-10-16 13:59:54        40025  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Ground.png
+    2025-10-16 13:59:54        52462  dlc/Tyler Warren RPG Battlers 1st 50/140 Small/Jelly1.png
+    2025-10-16 13:59:54        66898  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Flaming Snowman.png
+    2025-10-16 13:59:54        63444  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid/Furr1.png
+    2025-10-16 13:59:54       109408  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/Creeper2.png
+    2025-10-16 13:59:54         8796  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini/HumpBack.png
+    2025-10-16 13:59:54        14544  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors/Grass Slime.png
+    2025-10-16 13:59:54       139528  dlc/Tyler Warren RPG Battlers 1st 50/280 Large/LavaSlime.png
+    2025-10-16 13:59:55       214504  dlc/RoyalTileset_GFX/RoyalTileset-TileC.png
+    2025-10-16 13:59:55        12188  dlc/RoyalTileset_GFX/!$RoyalTileset-Door.png
+    2025-10-16 13:59:55        32457  dlc/RoyalTileset_GFX/RoyalTileset-TileA4.png
+    2025-10-16 13:59:55       194665  dlc/RoyalTileset_GFX/RoyalTileset-TileA5.png
+    2025-10-16 13:59:55        81865  dlc/RoyalTileset_GFX/RoyalTileset-OuterTileA5.png
+    2025-10-16 13:59:55        10975  dlc/RoyalTileset_GFX/!$RoyalTileset-Fountain.png
+    2025-10-16 13:59:55        66680  dlc/RoyalTileset_GFX/!$RoyalTileset-Gate.png
+    2025-10-16 13:59:55       110541  dlc/RoyalTileset_GFX/RoyalTileset-TileA1.png
+    2025-10-16 13:59:55       140261  dlc/RoyalTileset_GFX/RoyalTileset-TileA2.png
+    2025-10-16 13:59:55         5232  dlc/RoyalTileset_GFX/readme.txt
+    2025-10-16 13:59:55       150828  dlc/RoyalTileset_GFX/RoyalTileset-TileD.png
+
+--- wave 2 (2 files) ---
+    2026-03-20 13:37:42       208185  Projects/cd32.zip
+    2026-03-20 13:37:42          153  Projects/cd32.ini
+

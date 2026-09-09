@@ -1,0 +1,21 @@
+rows of exactly 5 fields : 2544
+
+  distinct strings in a row   rows
+  2                           8
+  3                           21
+  4                           115
+  5                           2400
+
+  rows where all five fields are byte-identical : 0 of 2544
+
+  column pairs that are byte-identical, commonest first:
+    column 1 == column 3     121 rows
+    column 1 == column 5      28 rows
+    column 1 == column 4      25 rows
+    column 3 == column 4      22 rows
+    column 3 == column 5      20 rows
+    column 4 == column 5      10 rows
+
+  A row whose five fields are identical is a tile whose name was
+  not translated, and counting them is the only thing in this
+  file that tells a translated vocabulary from a copied one.

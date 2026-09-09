@@ -1,0 +1,65 @@
+WHAT jstore.py WILL CLAIM ABOUT THE 117 .rvdata2, WRITTEN BEFORE IT IS RUN
+==========================================================================
+
+Sixth object. `pc-rpgmakerxp-doc/docs/14` made seven predictions of this shape,
+five held and two did not, and the reason the two failed is the whole reason
+this file exists: the tool's false-positive rate does NOT track file length,
+it tracks **the density of the marker byte 0xFF**, because `jstore.py` reads
+`FF` + a count and then sixteen bytes per "GUID", and counts everything it
+does not understand as filler. Filler is counted, so the arithmetic closes by
+construction and the closure means nothing.
+
+That object's numbers: `Animations.rxdata`, 136,243 bytes, 4,508 `0xFF` bytes
+(33.09 per 1,000), claimed **5,518** GUIDs. `Tilesets.rxdata`, 194,262 bytes --
+the LARGEST file in that family -- contained **not one 0xFF byte** and claimed
+**zero**. The reason was signed `int16` cell coordinates: negative numbers begin
+`ff` in little-endian two's complement, animation frames have negative
+coordinates, and tileset passabilities do not.
+
+THE PREDICTIONS, NUMBERED, FOR THIS OBJECT
+------------------------------------------
+
+1. **All 117 close at residue 0.** `5 x lists + 16 x GUIDs + filler == file
+   length` will hold 117 times out of 117. This is worth NOTHING and is stated
+   first so that it cannot later be reported as a result.
+
+2. **The total claimed across all 117 will be SMALL -- fewer than 50 GUIDs.**
+   The reasoning is the previous object's own diagnosis applied forward. Each
+   of these files is one `RPG::Map` whose bulk is a `Table` of `width x height
+   x 4` signed int16 cells holding TILE IDs, and this session has measured
+   those ids: they run **1 .. 8156, and none is negative**. A non-negative
+   int16 below 8,192 has a high byte between 0x00 and 0x1F. **The Table
+   payload, which is most of every file, can therefore contain almost no 0xFF
+   at all.**
+
+3. **At least 100 of the 117 will claim exactly zero**, for the same reason.
+
+4. **Where 0xFF does occur it will be in the Marshal envelope and not in the
+   Table** -- Ruby writes a negative Fixnum in the range -256..-124 as `i`
+   followed by `\xFF` and one byte -- so the claims, if any, will cluster in
+   the files with the most negative small integers among their twenty-four
+   ivars, not in the files with the most cells.
+
+5. **The correlation with file length will be WEAK OR ABSENT**, and this is the
+   prediction most likely to be wrong. Last session length was a red herring
+   and density was the cause; here the density is nearly uniform across 117
+   files of one shape, so length is the only thing left to vary. If the claims
+   DO track length this time, that is not a contradiction of last session's
+   finding -- it is what last session's finding predicts when density is held
+   constant, and it should be reported that way.
+
+6. **Nothing it prints is falsifiable from inside this object.** There is no
+   external index of GUIDs to check against, exactly as before.
+
+7. **The running count of empty closures goes from 26 to 26 + (however many of
+   the 117 claim zero)**, which by prediction 3 is at least 126 and at most
+   143.
+
+8. **And one new one, because this object allows it.** `Map001.rvdata2` is
+   140 x 140 x 4 = 78,400 cells and is the largest map. If prediction 2 is
+   right it will still claim zero or nearly zero, which makes it the direct
+   counterpart of `Tilesets.rxdata`: **the biggest file in the family claiming
+   nothing.** If it claims a lot, prediction 2 is wrong and the reason will be
+   in its ivars and not in its grid.
+
+Scored one at a time in the tools chapter, with the wrong ones left standing.

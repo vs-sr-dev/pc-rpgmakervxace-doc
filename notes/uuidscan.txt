@@ -1,0 +1,17 @@
+version-1 UUIDs : 3 in 2 file(s)
+
+  file                                             at  the clock it carries (UTC)     machine
+  RPGVXAce.chm                                  11809  1997-03-15 12:41:51.615828     Mbbaa
+  RPGVXAce.chm                                  11908  1997-03-15 12:41:51.615828     Mbbaa
+  RPGVXAce.exe                                5554959  1996-07-08 20:31:25.984376     M9cac
+
+  distinct node fields : 2
+  (the node field is the position RFC 4122 fills with the
+   generating machine's MAC address. It is NOT printed. The
+   label M#### above is a hash of it, so that two identifiers
+   from one machine can be seen to be from one machine without
+   the machine being named.)
+
+  carrying a plausible date : 3 of 3
+  earliest : 1996-07-08 20:31:25.984376 UTC
+  latest   : 1997-03-15 12:41:51.615828 UTC

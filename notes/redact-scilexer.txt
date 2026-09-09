@@ -1,0 +1,6 @@
+file      : _work/scilexer-copy.bin
+bytes     : 545280
+addresses : 1 replaced
+  of which the eight-bit pass found : 0
+  of which only a UTF-16 pass finds : 1
+written   : _work/scilexer-copy.bin

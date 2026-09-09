@@ -1,0 +1,65 @@
+directories in the tree            : 46
+directories carrying at least one file : 42
+directories carrying none          : 4
+files                              : 2026
+bytes                              : 342722404
+
+  directory                                             files          bytes       share
+  rtp/Audio/BGM                                            42       80659139    23.5348 %
+  rtp/Graphics/Animations                                  93       47000979    13.7140 %
+  dlc/AdventurersJourney_SND/OGG                           23       32132374     9.3756 %
+  dlc/AdventurersJourney_SND/MP3                           23       25354236     7.3979 %
+  (root)                                                   10       21302442     6.2157 %
+  rtp/Graphics/Battlebacks1                                54       16512764     4.8181 %
+  rtp/Graphics/Battlebacks2                                54       13947384     4.0696 %
+  dlc/Bonus/Portraits                                      96        9354791     2.7296 %
+  rtp/Graphics/Tilesets                                    44        8421130     2.4571 %
+  VLGothic                                                 10        7940282     2.3168 %
+  rtp/Fonts                                                 2        7897704     2.3044 %
+  Generator/Face/Female                                   152        7581938     2.2123 %
+  SampleMap                                               234        7119608     2.0774 %
+  rtp/Graphics/Titles1                                     20        7119163     2.0772 %
+  Generator/Face/Male                                     145        6940752     2.0252 %
+  dlc/Tyler Warren RPG Battlers 1st 50/280 Large           50        5911642     1.7249 %
+  rtp/Graphics/Battlers                                    74        4963082     1.4481 %
+  rtp/Graphics/Parallaxes                                  15        3708107     1.0820 %
+  dlc/Tyler Warren RPG Battlers 1st 50/200 Mid             50        3320283     0.9688 %
+  rtp/Audio/SE                                            275        3303009     0.9638 %
+  Projects                                                  8        2749418     0.8022 %
+  rtp/Graphics/Characters                                  48        2101998     0.6133 %
+  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes     50        2047946     0.5976 %
+  rtp/Graphics/Faces                                       12        2026479     0.5913 %
+  rtp/Audio/ME                                             13        1951650     0.5695 %
+  rtp/Graphics/Titles2                                      9        1894896     0.5529 %
+  dlc/Tyler Warren RPG Battlers 1st 50/140 Small           50        1844189     0.5381 %
+  dlc/RoyalTileset_GFX                                     12        1386605     0.4046 %
+  Generator/Face                                           52        1235800     0.3606 %
+  rtp/Audio/BGS                                            10         964858     0.2815 %
+  dlc/Tyler Warren RPG Battlers 1st 50/80 Tiny             50         797352     0.2327 %
+  dlc/Tyler Warren RPG Battlers 1st 50/Recommended Sizes/Example Alternate Colors     17         741638     0.2164 %
+  Generator/Mini/Female                                    53         526061     0.1535 %
+  Generator/Mini/Male                                      57         493614     0.1440 %
+  dlc/Tyler Warren RPG Battlers 1st 50/50 Mini             50         444933     0.1298 %
+  dlc/Tyler Warren RPG Battlers 1st 50                      3         408035     0.1191 %
+  rtp/Graphics/System                                       6         244645     0.0714 %
+  Generator/Mini                                           49         238775     0.0697 %
+  rtp                                                       1          82555     0.0241 %
+  rtp/Fonts/VLGothic                                        8          42578     0.0124 %
+  dlc/AdventurersJourney_SND                                1           5072     0.0015 %
+  dlc/Bonus                                                 1           2498     0.0007 %
+  SUM                                                    2026      342722404
+
+  rows sum to the file count : True
+  rows sum to the byte count : True
+  RESIDUE                    : 0 files, 0 bytes
+
+  the seven top-level totals:
+    rtp             780      202842120    59.1855 %
+    dlc             476       83751594    24.4372 %
+    Generator       508       17016940     4.9652 %
+    SampleMap       234        7119608     2.0774 %
+    VLGothic         10        7940282     2.3168 %
+    Projects          8        2749418     0.8022 %
+    (root)           10       21302442     6.2157 %
+    SUM            2026      342722404
+    residue against the tree : 0 files, 0 bytes

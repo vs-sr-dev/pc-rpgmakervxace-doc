@@ -1,0 +1,11 @@
+files accepted by at least one multi-byte text codec : 35
+files accepted by MORE THAN ONE                      : 1
+
+  utf-8                      28
+  euc_jp                      6
+  euc_jp+cp932                1
+
+  the codec MAGICS names first wins, and that order is a decision:
+  utf-8, then euc_jp, then cp932. Every file in a row with a '+'
+  in it could have been filed under another name.
+    dlc/Tyler Warren RPG Battlers 1st 50/Tyler Warren RPG Battlers – 1st 50__はじめにお読みください.pdf euc_jp+cp932

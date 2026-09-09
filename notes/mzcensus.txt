@@ -1,0 +1,23 @@
+=== the 2 MZ executables ===
+file                    size  cblp   cp     img  slack  crlc   hdr  cs:ip  ss:sp  int3f
+Projects/Game.exe     140800   144    3    1168 139632     0    64  0000:0000 0000:00b8      0
+RPGVXAce.exe         6944256   144    3    1168 6943088     0    64  0000:0000 0000:00b8     95
+total .EXE bytes: 7085056
+
+=== e_cblp against the file length modulo 512 ===
+If these agree, the third byte of the file is arithmetic,
+not a signature, and there is no MZP marker in this folder.
+  Projects/Game.exe    e_cblp= 144  size mod 512=   0  DIFFER  byte2=0x90 
+  RPGVXAce.exe         e_cblp= 144  size mod 512=   0  DIFFER  byte2=0x90 
+  0 of 2 agree
+
+=== toolchain banners ===
+  Projects/Game.exe    none
+  RPGVXAce.exe         none
+
+=== no Borland overlay (.OVR) in this object ===
+  1000 Miglia had MM.OVR; this one has none, so there is no
+  overlay arithmetic to check.
+
+=== third-party software in this folder ===
+  files containing a third-party packer or library banner: 0

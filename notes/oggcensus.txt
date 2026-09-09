@@ -1,0 +1,28 @@
+root                      : rpgvxace-steam
+files matching .ogg       : 363
+parsed as Ogg             : 363
+refused                   : 0
+bytes in parsed files     : 119011030
+
+-- closure: 27 + segments + sum(segment lengths), page by page ---
+   files closing at residue 0        : 363 of 363
+   pages walked                      : 28585
+   pages whose CRC-32 verifies       : 28585 of 28585
+   files with exactly one stream     : 363 of 363
+   files whose last page flags EOS   : 363 of 363
+
+-- what the identification header declares ----------------------
+   channels        : {2: 79, 1: 284}
+   sample rates    : {44100: 102, 22050: 260, 32000: 1}
+   nominal bitrate : 52 x 192000, 23 x 160000, 3 x 128000, 20 x 110000, 1 x 92001, 25 x 89990, 4 x 86001, 1 x 77334, 1 x 58000, 50 x 45111, 183 x 40222
+
+-- the clock the granule position is ----------------------------
+   total playing time : 5522.628 s (92.04 min)
+   longest            : dlc/AdventurersJourney_SND/OGG/Sorrowake.ogg at 113.458 s
+   shortest           : rtp/Audio/SE/Cursor1.ogg at 0.028 s
+   mean               : 15.214 s
+
+   The granule position of a Vorbis stream's last page is the
+   number of samples; divided by the sample rate it is the
+   playing time. It is declared by the encoder and this tool does
+   not decode a single sample to check it.

@@ -1,0 +1,35 @@
+files                          : 117
+bytes                          : 2248383
+the walk lands on the last byte: 117 of 117
+failures                       : 0
+largest / smallest             : Map001.rvdata2 157316 / Map040.rvdata2 3082
+root objects                   : {'RPG::Map': 117}
+
+TYPE BYTES over every value in every file
+   'i'      2585   fixnum
+   'F'      1323   false
+   '"'       996   string
+   'o'       764   object
+   'T'       729   true
+   'I'       466   ivar-decorated
+   '['       412   array
+   '{'       117   hash
+   'u'       117   user-defined dump
+   ----------------------
+   total values : 7509
+
+CLASS NAMES, counted by walking : 11 distinct
+   RPG::BGM                               117 instances    3 distinct ivars
+   RPG::BGS                               117 instances    3 distinct ivars
+   RPG::Event                              59 instances    5 distinct ivars
+   RPG::Event::Page                        59 instances   13 distinct ivars
+   RPG::Event::Page::Condition             59 instances   13 distinct ivars
+   RPG::Event::Page::Graphic               59 instances    5 distinct ivars
+   RPG::EventCommand                       59 instances    3 distinct ivars
+   RPG::Map                               117 instances   24 distinct ivars
+   RPG::MoveCommand                        59 instances    2 distinct ivars
+   RPG::MoveRoute                          59 instances    4 distinct ivars
+   Table                                  117 instances    0 distinct ivars
+
+distinct instance-variable names over all classes : 68
+class/field slots                                 : 75

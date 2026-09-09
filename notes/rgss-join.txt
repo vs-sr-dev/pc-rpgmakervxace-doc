@@ -1,0 +1,100 @@
+classes instantiated in the sixteen .rxdata : 11
+classes documented by RPGXP.chm             : 82
+in both                                     : 11
+in the data and NOT documented              : 0
+documented and NOT in this database         : 71
+
+  documented and not instantiated here:
+    Array                              sc_array.html
+    Bignum                             sc_bignum.html
+    Bitmap                             gc_bitmap.html
+    Class                              sc_class.html
+    Color                              gc_color.html
+    Exception                          sc_exception.html
+    FalseClass                         sc_falseclass.html
+    Fiber                              sc_fiber.html
+    File                               sc_file.html
+    Fixnum                             sc_fixnum.html
+    Float                              sc_float.html
+    Font                               gc_font.html
+    Hash                               sc_hash.html
+    IO                                 sc_io.html
+    Integer                            sc_integer.html
+    MatchData                          sc_matchdata.html
+    Method                             sc_method.html
+    Module                             sc_module.html
+    NilClass                           sc_nilclass.html
+    Numeric                            sc_numeric.html
+    Plane                              gc_plane.html
+    Proc                               sc_proc.html
+    RGSSError                          gc_rgsserror.html
+    RGSSReset                          gc_rgssreset.html
+    RPG::Actor                         gc_rpg_actor.html
+    RPG::Animation                     gc_rpg_animation.html
+    RPG::Animation::Frame              gc_rpg_animation_frame.html
+    RPG::Animation::Timing             gc_rpg_animation_timing.html
+    RPG::Armor                         gc_rpg_armor.html
+    RPG::AudioFile                     gc_rpg_audiofile.html
+    RPG::BaseItem                      gc_rpg_baseitem.html
+    RPG::BaseItem::Feature             gc_rpg_baseitem_feature.html
+    RPG::Class                         gc_rpg_class.html
+    RPG::Class::Learning               gc_rpg_class_learning.html
+    RPG::CommonEvent                   gc_rpg_commonevent.html
+    RPG::Enemy                         gc_rpg_enemy.html
+    RPG::Enemy::Action                 gc_rpg_enemy_action.html
+    RPG::Enemy::DropItem               gc_rpg_enemy_drop_item.html
+    RPG::EquipItem                     gc_rpg_equipitem.html
+    RPG::Item                          gc_rpg_item.html
+    RPG::ME                            gc_rpg_me.html
+    RPG::Map::Encounter                gc_rpg_map_encounter.html
+    RPG::MapInfo                       gc_rpg_mapinfo.html
+    RPG::SE                            gc_rpg_se.html
+    RPG::Skill                         gc_rpg_skill.html
+    RPG::State                         gc_rpg_state.html
+    RPG::System                        gc_rpg_system.html
+    RPG::System::Terms                 gc_rpg_system_terms.html
+    RPG::System::TestBattler           gc_rpg_system_testbattler.html
+    RPG::System::Vehicle               gc_rpg_system_vehicle.html
+    RPG::Tileset                       gc_rpg_tileset.html
+    RPG::Troop                         gc_rpg_troop.html
+    RPG::Troop::Member                 gc_rpg_troop_member.html
+    RPG::Troop::Page                   gc_rpg_troop_page.html
+    RPG::Troop::Page::Condition        gc_rpg_troop_page_condition.html
+    RPG::UsableItem                    gc_rpg_usableitem.html
+    RPG::UsableItem::Damage            gc_rpg_usableitem_damage.html
+    RPG::UsableItem::Effect            gc_rpg_usableitem_effect.html
+    RPG::Weapon                        gc_rpg_weapon.html
+    Range                              sc_range.html
+    Rect                               gc_rect.html
+    Regexp                             sc_regexp.html
+    Sprite                             gc_sprite.html
+    String                             sc_string.html
+    Symbol                             sc_symbol.html
+    Tilemap                            gc_tilemap.html
+    Time                               sc_time.html
+    Tone                               gc_tone.html
+    TrueClass                          sc_trueclass.html
+    Viewport                           gc_viewport.html
+    Window                             gc_window.html
+
+  class                            data   docs  share  unmat +inherit  unmat
+  RPG::BGM                            3      0      0      3       3      0
+  RPG::BGS                            3      0      0      3       3      0
+  RPG::Event                          5      5      5      0       5      0
+  RPG::Event::Page                   13     13     13      0      13      0
+  RPG::Event::Page::Condition        13     13     13      0      13      0
+  RPG::Event::Page::Graphic           5      5      5      0       5      0
+  RPG::EventCommand                   3      3      3      0       3      0
+  RPG::Map                           24     24     24      0      24      0
+  RPG::MoveCommand                    2      2      2      0       2      0
+  RPG::MoveRoute                      4      4      4      0       4      0
+  Table                               0      0      0      0       0      0
+  TOTAL                              75     69     69      6      75      0
+
+  fields in the bytes the help file names ON THE CLASS'S OWN PAGE : 69 of 75
+  fields in the bytes the help file names ONCE INHERITANCE IS
+  FOLLOWED                                          : 75 of 75
+
+  the superclasses the help file states, for the classes joined:
+    RPG::BGM                       -> RPG::AudioFile
+    RPG::BGS                       -> RPG::AudioFile

@@ -1,0 +1,41 @@
+root            : rpgvxace-steam
+files           : 2026
+directories     : 45
+bytes           : 342722404
+
+year of the directory record:
+  year    files          bytes
+  2025     2024      342514066
+  2026        2         208338
+
+extensions:
+  ext         files          bytes
+  .png         1456      155470460
+  .ogg          363      119011030
+  .rvdata2      117        2248383
+  .txt           27         220549
+  .mp3           23       25354236
+  .dll            6        7722320
+  (none)          6          55482
+  .mplus          6           9632
+  .bmp            5        2400280
+  .ttf            4       15795408
+  .exe            2        7085056
+  .en             2           5294
+  .sazanami       2          14748
+  .pdf            2         402773
+  .ini            1            153
+  .zip            1         208185
+  .chm            1        6633819
+  .vdf            1           2041
+  .ico            1          82555
+
+top-level entries:
+  name            files          bytes     pct
+  rtp               780      202842120  59.19%
+  dlc               476       83751594  24.44%
+  (root)             10       21302442   6.22%
+  Generator         508       17016940   4.97%
+  VLGothic           10        7940282   2.32%
+  SampleMap         234        7119608   2.08%
+  Projects            8        2749418   0.80%

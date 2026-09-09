@@ -1,0 +1,30 @@
+denominator : 2026 files, 342722404 bytes -- every file under rpgvxace-steam, classified BY MAGIC
+
+  bucket      files        bytes      share  format
+  specified    1456    155470460   45.3634 %  PNG (W3C / ISO 15948)
+  specified     363    119011030   34.7252 %  Ogg container (IETF RFC 3533; Vorbis I by Xiph.Org)
+  specified      23     25354236    7.3979 %  MPEG-1/2 Audio (ISO/IEC 11172-3); ID3v2 tag (id3.org)
+  specified       4     15795408    4.6088 %  sfnt / TrueType outline font (Apple; Microsoft OpenType)
+  specified       8     14807376    4.3205 %  PE / MZ executable (Microsoft)
+  specified       5      2400280    0.7004 %  Windows BMP (Microsoft, published)
+  specified     117      2248383    0.6560 %  Ruby Marshal 4.8 object serialisation (Ruby, doc/marshal.rdoc)
+  specified       2       402773    0.1175 %  PDF (ISO 32000; Adobe)
+  specified      28       257961    0.0753 %  plain text, UTF-8 (Unicode; IETF RFC 3629)
+  specified       1       208185    0.0607 %  ZIP archive (PKWARE APPNOTE)
+  specified       1        82555    0.0241 %  Windows icon
+  specified      11        26308    0.0077 %  plain text, ASCII
+  specified       6        23630    0.0069 %  plain text, EUC-JP (JIS X 0208; Unix Japanese encoding)
+  decoded         1      6633819    1.9356 %  Microsoft ITSF -- no vendor specification; chmlib and 7-Zip
+
+  specified  2025 files    336088585 bytes    98.0644 % of 342722404
+  decoded       1 files      6633819 bytes     1.9356 % of 342722404
+  derived       0 files            0 bytes     0.0000 % of 342722404
+  opaque        0 files            0 bytes     0.0000 % of 342722404
+  SUM        2026 files    342722404 bytes   100.0000 %
+  against the denominator 342722404          RESIDUE 0
+
+  The SUM row is an ACCOUNTING figure and not a coverage figure.
+  It answers 'do the bytes add up to the object'. It does not
+  answer 'how much of this can be checked against something outside
+  it', because SPECIFIED and DECODED carry warrants of different
+  strength and DERIVED carries none but this session's.
